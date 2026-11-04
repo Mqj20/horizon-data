@@ -1,152 +1,164 @@
 {
-  "name": "قنوات 4K",
+  "app": {
+    "version": 11,
+    "apkUrl": "https://github.com/Mqj20/HorizonTV-app-download-/raw/main/HorizonTV_v11%2B.apk",
+    "notes": "تحديث قنوات 4K الرياضية والترفيهية"
+  },
+  "codeHashes": [
+    "27"
+  ],
   "channels": [
     {
-      "name": "beIN 4K — 4K SOLO SPORTS",
-      "logo": "",
-      "streams": {
-        "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6FcrfQEZiqxBzGVpDImXqvTZw=="
-      }
-    },
-    {
-      "name": "beIN 4K — 4K أجنبي",
-      "logo": "",
-      "streams": {
-        "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6FcjKZ/AM3ojP1EOl1odJjnZg=="
-      }
-    },
-    {
-      "name": "beIN 4K — 4K TOD SS",
-      "logo": "",
-      "streams": {
-        "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6FcftoScoVH20GhyQcYoLT/Gg=="
-      }
-    },
-    {
-      "name": "beIN 1 — GOGO 4K",
-      "logo": "",
-      "streams": {
-        "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5QVL1NeOJfBbxJ3CgkG1XKtSPlX0F3+0068W/yXgVw1Y="
-      }
-    },
-    {
-      "name": "beIN 1 — CONNECT 4K",
-      "logo": "",
-      "streams": {
-        "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6Fcf9or2MKPsfRXg+Ogph3NeQ=="
-      }
-    },
-    {
-      "name": "beIN 1 — SA 4K",
-      "logo": "",
-      "streams": {
-        "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5aihTObD7QrDKI4mG9Rd578b2ETbnmYBWSNHhmvMPr+Y="
-      }
-    },
-    {
-      "name": "beIN 1 — NM 4K",
-      "logo": "",
-      "streams": {
-        "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5twXUfxwjN08p+aOddEYZooyTBpA0PQQPuu/ogE4BegY="
-      }
-    },
-    {
-      "name": "beIN 2 — GOGO 4K",
-      "logo": "",
-      "streams": {
-        "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5/P42gjyhX+mkqIq+O6yanF80QBkEHRK3z+qjqVzIELk="
-      }
-    },
-    {
-      "name": "beIN 2 — TOD 4K",
-      "logo": "",
-      "streams": {
-        "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6Fcol7umYw2tckklnQUuQj08npvgAwQvhtjTwpoTTIWKAk="
-      }
-    },
-    {
-      "name": "beIN 2 — CONNECT 4K",
-      "logo": "",
-      "streams": {
-        "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6FcOdid+GuzQ6v+58Jk7AUyeA=="
-      }
-    },
-    {
-      "name": "beIN 2 — SA 4K",
-      "logo": "",
-      "streams": {
-        "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5thuci0DxjieZPPiU1qLw4frOCIg/DeeRl/GjJ2Yy1v0="
-      }
-    },
-    {
-      "name": "beIN 2 — NM 4K",
-      "logo": "",
-      "streams": {
-        "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5pAJI/FIo3eU6TqFDjNi1+Vx6IOk1YWQuoZrmja/WGYg="
-      }
-    },
-    {
-      "name": "beIN 3 — GOGO 4K",
-      "logo": "",
-      "streams": {
-        "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth50k/yo7XQIfulUDCiYXd8u38kCA1oa+JAX+UKhI2p+q0="
-      }
-    },
-    {
-      "name": "beIN 3 — CONNECT 4K",
-      "logo": "",
-      "streams": {
-        "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6FcAvfVS0cTxfTSOy727oflcA=="
-      }
-    },
-    {
-      "name": "beIN 3 — SA 4K",
-      "logo": "",
-      "streams": {
-        "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5ywSA49h7rtwk2L0TNIvxwMSrfWl6OgRXHEvCIYK5Mx0="
-      }
-    },
-    {
-      "name": "beIN 3 — NM 4K",
-      "logo": "",
-      "streams": {
-        "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5SzIBN+pAJW0OJJ9ozq+ckuUOyRq/E5hk25TJaaXLT/M="
-      }
-    },
-    {
-      "name": "beIN 4 — GOGO 4K",
-      "logo": "",
-      "streams": {
-        "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5aCOg3FdXHjtfuUTkSFrC0tFezbc0b6Ya7+8alAiu7Uc="
-      }
-    },
-    {
-      "name": "beIN 4 — SA 4K",
-      "logo": "",
-      "streams": {
-        "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5LfF/aizIwgxiqqdN3X24gXM4YGJOZ++1zKObUKTadvU="
-      }
-    },
-    {
-      "name": "beIN 4 — NM 4K",
-      "logo": "",
-      "streams": {
-        "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5EDdOKOrcXfTwLuS6CzubEKJxBunHk8oFe1BQfvWfA6I="
-      }
-    },
-    {
-      "name": "beIN 4 — FAMILY 4K",
-      "logo": "",
-      "streams": {
-        "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5wnCK8ywmL99jE4hRaqaWNipS/TCRLwc52tGmhT98Ufc="
-      }
-    },
-    {
-      "name": "beIN 5 — NM 4K",
-      "logo": "",
-      "streams": {
-        "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5KCFKdt0JkKxlogj5e3vKbSMBcfLoT3wrBFkebSsxXHk="
-      }
+      "name": "قنوات 4K",
+      "channels": [
+        {
+          "name": "beIN 4K — 4K SOLO SPORTS",
+          "logo": "",
+          "streams": {
+            "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6FcrfQEZiqxBzGVpDImXqvTZw=="
+          }
+        },
+        {
+          "name": "beIN 4K — 4K أجنبي",
+          "logo": "",
+          "streams": {
+            "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6FcjKZ/AM3ojP1EOl1odJjnZg=="
+          }
+        },
+        {
+          "name": "beIN 4K — 4K TOD SS",
+          "logo": "",
+          "streams": {
+            "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6FcftoScoVH20GhyQcYoLT/Gg=="
+          }
+        },
+        {
+          "name": "beIN 1 — GOGO 4K",
+          "logo": "",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5QVL1NeOJfBbxJ3CgkG1XKtSPlX0F3+0068W/yXgVw1Y="
+          }
+        },
+        {
+          "name": "beIN 1 — CONNECT 4K",
+          "logo": "",
+          "streams": {
+            "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6Fcf9or2MKPsfRXg+Ogph3NeQ=="
+          }
+        },
+        {
+          "name": "beIN 1 — SA 4K",
+          "logo": "",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5aihTObD7QrDKI4mG9Rd578b2ETbnmYBWSNHhmvMPr+Y="
+          }
+        },
+        {
+          "name": "beIN 1 — NM 4K",
+          "logo": "",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5twXUfxwjN08p+aOddEYZooyTBpA0PQQPuu/ogE4BegY="
+          }
+        },
+        {
+          "name": "beIN 2 — GOGO 4K",
+          "logo": "",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5/P42gjyhX+mkqIq+O6yanF80QBkEHRK3z+qjqVzIELk="
+          }
+        },
+        {
+          "name": "beIN 2 — TOD 4K",
+          "logo": "",
+          "streams": {
+            "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6Fcol7umYw2tckklnQUuQj08npvgAwQvhtjTwpoTTIWKAk="
+          }
+        },
+        {
+          "name": "beIN 2 — CONNECT 4K",
+          "logo": "",
+          "streams": {
+            "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6FcOdid+GuzQ6v+58Jk7AUyeA=="
+          }
+        },
+        {
+          "name": "beIN 2 — SA 4K",
+          "logo": "",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5thuci0DxjieZPPiU1qLw4frOCIg/DeeRl/GjJ2Yy1v0="
+          }
+        },
+        {
+          "name": "beIN 2 — NM 4K",
+          "logo": "",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5pAJI/FIo3eU6TqFDjNi1+Vx6IOk1YWQuoZrmja/WGYg="
+          }
+        },
+        {
+          "name": "beIN 3 — GOGO 4K",
+          "logo": "",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth50k/yo7XQIfulUDCiYXd8u38kCA1oa+JAX+UKhI2p+q0="
+          }
+        },
+        {
+          "name": "beIN 3 — CONNECT 4K",
+          "logo": "",
+          "streams": {
+            "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6FcAvfVS0cTxfTSOy727oflcA=="
+          }
+        },
+        {
+          "name": "beIN 3 — SA 4K",
+          "logo": "",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5ywSA49h7rtwk2L0TNIvxwMSrfWl6OgRXHEvCIYK5Mx0="
+          }
+        },
+        {
+          "name": "beIN 3 — NM 4K",
+          "logo": "",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5SzIBN+pAJW0OJJ9ozq+ckuUOyRq/E5hk25TJaaXLT/M="
+          }
+        },
+        {
+          "name": "beIN 4 — GOGO 4K",
+          "logo": "",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7BridgebDs/41RbyrwF6UKptvSP5bFtoGLth5aCOg3FdXHjtfuUTkSFrC0tFezbc0b6Ya7+8alAiu7Uc="
+          }
+        },
+        {
+          "name": "beIN 4 — SA 4K",
+          "logo": "",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5LfF/aizIwgxiqqdN3X24gXM4YGJOZ++1zKObUKTadvU="
+          }
+        },
+        {
+          "name": "beIN 4 — NM 4K",
+          "logo": "",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5EDdOKOrcXfTwLuS6CzubEKJxBunHk8oFe1BQfvWfA6I="
+          }
+        },
+        {
+          "name": "beIN 4 — FAMILY 4K",
+          "logo": "",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5wnCK8ywmL99jE4hRaqaWNipS/TCRLwc52tGmhT98Ufc="
+          }
+        },
+        {
+          "name": "beIN 5 — NM 4K",
+          "logo": "",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5KCFKdt0JkKxlogj5e3vKbSMBcfLoT3wrBFkebSsxXHk="
+          }
+        }
+      ]
     }
   ]
 }
