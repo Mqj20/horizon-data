@@ -5,7 +5,7 @@
   "app": {
     "version": 2,
     "apkUrl": "",
-    "notes": " | تم عزل قنوات 4K في قسم مستقل."
+    "notes": "| تم عزل قنوات 4K في قسم مستقل. | تمت إضافة قسم الأفلام والمسلسلات بسيرفرين."
   },
   "channels": [
     {
@@ -786,6 +786,21 @@
           "streams": {
             "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxnUyIs5E2neoRbRQgE8B1ycpdd9jqpjKylwv6Yx9+Y94="
           }
+        }
+      ]
+    },
+    {
+      "name": "الأفلام والمسلسلات",
+      "channels": [
+        {
+          "name": "سيرفر 1 — CEE.BUZZ",
+          "type": "external",
+          "url": "https://cee.buzz.iraq.soft31.com/2"
+        },
+        {
+          "name": "سيرفر 2 — Cinemana",
+          "type": "external",
+          "url": "https://cinemana.shabakaty.com/home"
         }
       ]
     }
