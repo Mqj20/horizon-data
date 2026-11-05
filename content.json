@@ -881,10 +881,139 @@
       "name": "Thmanyah",
       "channels": [
         {
+          "name": "STC TV THMANYAH",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/332591.ts"
+          }
+        },
+        {
+          "name": "Starzplay sport 1",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/332592.ts"
+          }
+        },
+        {
+          "name": "Starzplay sport 2",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/332593.ts"
+          }
+        },
+        {
           "name": "Thmanyah 1",
           "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
           "streams": {
-            "HD": ""
+            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/332596.ts",
+            "HD": "http://snap-tr.org/live/00491727832218/as2020as/332598.ts"
+          }
+        },
+        {
+          "name": "Thmanyah 2",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/332597.ts",
+            "HD": "http://snap-tr.org/live/00491727832218/as2020as/332599.ts"
+          }
+        },
+        {
+          "name": "Thmanyah 3",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/332600.ts",
+            "HD": "http://snap-tr.org/live/00491727832218/as2020as/332601.ts"
+          }
+        },
+        {
+          "name": "Thmanyah 4",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/352645.ts"
+          }
+        },
+        {
+          "name": "Thmanyah Minasa 1 Multi audio",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/352646.ts"
+          }
+        },
+        {
+          "name": "Thmanyah Minasa 2 Multi audio",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/352647.ts"
+          }
+        },
+        {
+          "name": "Thmanyah Minasa 3 Multi audio",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/352648.ts"
+          }
+        },
+        {
+          "name": "1001 La liga 1",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336133.ts"
+          }
+        },
+        {
+          "name": "1001 La liga 2",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336134.ts"
+          }
+        },
+        {
+          "name": "Diwan Sport 1(live.Events)",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336135.ts"
+          }
+        },
+        {
+          "name": "Diwan Sport 2(live.Events)",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336136.ts"
+          }
+        },
+        {
+          "name": "Diwan Sport 3(live.Events)",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336137.ts"
+          }
+        },
+        {
+          "name": "Thmanyah Super Cup",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/343744.ts"
+          }
+        },
+        {
+          "name": "Shasha 1(live.Events)",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336138.ts"
+          }
+        },
+        {
+          "name": "Shasha 2(live.Events)",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336139.ts"
+          }
+        },
+        {
+          "name": "Shasha 3(live.Events)",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336140.ts"
           }
         }
       ]
