@@ -1,1 +1,671 @@
-
+{
+  "app_version": 2,
+  "codeHash": "670671cd97404156226e507973f2ab8330d3022ca96e0c93bdbdb320c41adcaf",
+  "categories": [
+    {
+      "name": "MBC",
+      "logo": "",
+      "channels": [
+        {
+          "name": "MBC Action 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4ScUPepBKbBmLpnQUdFNmammigDbX4cIjoepeLNt4hj7A==",
+          "logo": ""
+        },
+        {
+          "name": "MBC Action",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4QypvASdB2thlF1psjqHoBdRxMeF7w4KlQx2cybeGFXgw==",
+          "logo": ""
+        },
+        {
+          "name": "MBC 1 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4QuY9wspmIf3Sd8gUqWkKAjPQJklsu3dCF9SXn0JKIzPw==",
+          "logo": ""
+        },
+        {
+          "name": "MBC 2 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4QyI2wmgOmn9o8SWH/BS7Uia0Fbvqk4DYPI2uIDOyZooA==",
+          "logo": ""
+        },
+        {
+          "name": "MBC 3 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4Rd14rT0RUDSgh2ocmsevxubHkGbKR35OHVbUssKEMrQg==",
+          "logo": ""
+        },
+        {
+          "name": "MBC 4 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4TdGd/TXSR6SiJuAqnJQdG6QB3OjceZoOATsLv7Ckd0bw==",
+          "logo": ""
+        },
+        {
+          "name": "MBC 5 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4T13RACMKHKhdW+ApSZFpM0JGr0VbH9SEQk7wPPv8aaHA==",
+          "logo": ""
+        },
+        {
+          "name": "MBC MASR DRAMA 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4RLKErNMRAMpNvBbVg2vMrnUEP4sKhi6+LDMv4dMjWWqA==",
+          "logo": ""
+        },
+        {
+          "name": "MBC MASR DRAMA HD",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4Q2UAkLFgZboDISI31EN5gh763ydYq4eVyvJ8osCPklpA==",
+          "logo": ""
+        },
+        {
+          "name": "MBC Masr 2 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4TlygDwy0a0MrYNaJeTy+yYLb2YtfxpIyBFlaEJEGkUxw==",
+          "logo": ""
+        },
+        {
+          "name": "Mbc Iraq 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4SpUAQSs2VEocCPIirp73/1zcxcj46Ljo66MrlGT2uVoA==",
+          "logo": ""
+        },
+        {
+          "name": "MBC PLUS DRAMA 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4SXQivrXIWdtrOdKHRZhtFzVDpKkrTm2D4bAdjkNA8KOw==",
+          "logo": ""
+        },
+        {
+          "name": "MBC Variety 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4QjlxShrolhw46DL9t9epOuDWamfd2rFqjlnntPZ1VSSw==",
+          "logo": ""
+        },
+        {
+          "name": "MBC bollywood 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4Rn1vAG9exfIDiFBt+PomdBzQ9Qf2t10DfrvQ3MjrvrrA==",
+          "logo": ""
+        },
+        {
+          "name": "MBC FM 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4RkgGxNlVGR9t6GlC542mKN9PrcSRr3GnwzrtODUHSYIQ==",
+          "logo": ""
+        },
+        {
+          "name": "MBC PANORAMA FM",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4SlER76gWiHUNehP4airSHPMxEMKN7aApgS5wHlHq0NyQ==",
+          "logo": ""
+        },
+        {
+          "name": "MBC 1",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4TzJ8B5y36ThbZaPII5v9CCp6rF/toa/AtQWQlnmojpPA==",
+          "logo": ""
+        },
+        {
+          "name": "MBC 2",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4Q3XCZ4T0M51N1yUyHGeRHcny7+mmQJ0U5HXtbP4t8Hnw==",
+          "logo": ""
+        },
+        {
+          "name": "MBC 3",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4R0bXkYvpGMle/queeqFE0VqRgxzT7mCX3QAL5wclp1Rw==",
+          "logo": ""
+        },
+        {
+          "name": "MBC 4",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4Tirty1r+BN4lBfkf2nrd+FDhVNkN8TZ3VY0CAFAmBnNQ==",
+          "logo": ""
+        },
+        {
+          "name": "MBC 5",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4STjz9n9M3vZHA8CpYTh/DS3QYw3OiDyXjAeWUHk60OUA==",
+          "logo": ""
+        },
+        {
+          "name": "MBC Drama",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4T0nzWbVTdCFTplC9ws4TATY/QlQNg1rMLmIGhus3u1hw==",
+          "logo": ""
+        },
+        {
+          "name": "MBC Iraq",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4TqXk3cCQtGxR+eLom4FdXhzF5AynBdZwj0BA76U/mbCA==",
+          "logo": ""
+        },
+        {
+          "name": "MBC Max",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4RZ/COUr+GcYhsDTQ+DgruVGkr00kHVn47j1dYYqb8fhg==",
+          "logo": ""
+        },
+        {
+          "name": "MBC Zee Aflam",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4T3isqN/CzIEVkriQbRw3Ttt/WKen0bCcRrWaUilR1J9g==",
+          "logo": ""
+        },
+        {
+          "name": "MBC Zee Alwan",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4SsAsgEc7fc1mr+F4vSNm/tDrhne+ogZp5+w4i/wjFMtQ==",
+          "logo": ""
+        },
+        {
+          "name": "MBC Masr 1 HD",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4Tly1iEz18eEh1XVVetwBgAinhMaBmIWDN0+mphnOkNEg==",
+          "logo": ""
+        },
+        {
+          "name": "MBC Masr 2",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4Rqv4YUYr//DKziOF1Xd3/Y3XMJhSuHwcyU9ySyF8pXrQ==",
+          "logo": ""
+        },
+        {
+          "name": "AR: MBC PREMIUM 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4Sih3o1Dxh3P2XueiZeH0Aq+Cn7IJBA4sQzMrZIFcyipw==",
+          "logo": ""
+        },
+        {
+          "name": "AR: MBC PLUS 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4THTJX/8/5Rj8w8qP73F8Y5TgEUxOVBHzncBUy3pH/QWQ==",
+          "logo": ""
+        },
+        {
+          "name": "AR: MBC GEO 1 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4Qb6Zw3R8uR2PdLsV05riEs5gwSDgcv2vbNPSt+IR9hqg==",
+          "logo": ""
+        },
+        {
+          "name": "AR: MBC GEO 2 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4TvuVcA+sUOvpr6cHpiVnhlrbBYLuUkkrserI3HhoMhRw==",
+          "logo": ""
+        },
+        {
+          "name": "AR: MBC TOON",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4TJMB+3/C0HN5ytcF5z2C/0kylAlC565Z0WLns22ShM0A==",
+          "logo": ""
+        },
+        {
+          "name": "AR: MBC FAMILY 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4Q0/pfdhS01ywe8couuf28qQSPHsX/q3Om+zB0cBHQ3qQ==",
+          "logo": ""
+        },
+        {
+          "name": "AR: MBC POWER 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4Q3kkcng2WWx5TeImTbYmZwSiWnW2NujuURc64/ziPi8Q==",
+          "logo": ""
+        },
+        {
+          "name": "AR: MBC 1 USA",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4RGROlvtprRA5H8tRfVReSL99X7wGVxYmgonAZ47PyZ6g==",
+          "logo": ""
+        },
+        {
+          "name": "AR: MBC 2 USA",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4TJ0HKuXCy0Su+1a4Iyzlr488DXC3iAOrLbZPySiykavQ==",
+          "logo": ""
+        },
+        {
+          "name": "AR: MBC 3 USA",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4RDdwi7Twij7P+R7uST/oUxpK0wCGOwryazf9f/SHwbTw==",
+          "logo": ""
+        },
+        {
+          "name": "AR: MBC MASR USA",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4QvjYAPJywXuIOm9yRIcb7iwSPa6ySQbKBndAthfyNMtw==",
+          "logo": ""
+        },
+        {
+          "name": "AR: MBC MASR 2 USA",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4TrsmcVS+1jVVKKx/AuUhUg4rEynAbbbZz4RFm7ZFEVWw==",
+          "logo": ""
+        },
+        {
+          "name": "AR: MBC ELIFE USA",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4SzHxylfst63K+hfeIojrJioLJV9BpPtUBHlBM7MFNkPA==",
+          "logo": ""
+        },
+        {
+          "name": "AR: MBC IRAQ USA",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4TVNFLNqlqkxbvwShZfXN3mzH7MWOkRnyRJp+foQdTeag==",
+          "logo": ""
+        },
+        {
+          "name": "AR: MBC MAX USA",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4TGW1l7EyI0HMukPP+LPXxx6P+yZ/hbathhZ9CRVn7KPw==",
+          "logo": ""
+        },
+        {
+          "name": "AR: MBC DRAMA USA",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4TM52Xgq/WyPem3O7MfZpe9y4TiS8kBPcYwn4o78Z1i0w==",
+          "logo": ""
+        },
+        {
+          "name": "AR: MBC DRAMA PLUS USA",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4SmDddubtKZ3Omm7+Geqrb+CadzLBu1mGkXV1HWMbkRcQ==",
+          "logo": ""
+        },
+        {
+          "name": "AR: MBC VARIETY USA",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4QLtguLuhVyaKBRNtpbqbRfhmIqbdxwkNexAQh3oIhhlA==",
+          "logo": ""
+        },
+        {
+          "name": "AR: MBC BOLLYWOOD USA",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4QOlRpj/PaxReBAdi7xijTmr1esYpxUkRCE4O7I+7OCtw==",
+          "logo": ""
+        }
+      ]
+    },
+    {
+      "name": "ALFAJER",
+      "logo": "",
+      "channels": [
+        {
+          "name": "AR: ALFAJER 1 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4Q/IHCP6ge4na0nRnehbvl6nJAJkSv8RPbptWS3P9inpw==",
+          "logo": ""
+        },
+        {
+          "name": "AR: ALFAJER 1 HD",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4Q7fMJAXvlwpdDxe7McCJhKqPUZdG7s+Zf4uOD4Lf2rmA==",
+          "logo": ""
+        },
+        {
+          "name": "AR: ALFAJER 2 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4RhimDfeYTXYbI+IWKul3OlnHR1h1m+Xelf++qy7UJ+Yg==",
+          "logo": ""
+        },
+        {
+          "name": "AR: ALFAJER 2 HD",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4Rj2tIe93Uh4eM97dr+ElgVH5mac5m7J8O4DK7wxn1iEA==",
+          "logo": ""
+        },
+        {
+          "name": "AR: ALFAJER 3 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4QnCl6oZW3eNG5QIGEYgYHpXyPnABgNmgWjstY5trp9PA==",
+          "logo": ""
+        },
+        {
+          "name": "AR: ALFAJER 3 HD",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4R3N6hQ2qYYByta2x4IrWSq5JU6ih12phL2iG4vkDbtrg==",
+          "logo": ""
+        },
+        {
+          "name": "AR: ALFAJER 4 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4QFgKZF3/9TEkjrN8SZQuW0SKyyXYDzaszMN4cxUV28bQ==",
+          "logo": ""
+        },
+        {
+          "name": "AR: ALFAJER 4 HD",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4T1ZeMNnAfZ2ZcwiKOsrNuiQLfhFbK7WU8YHkTT70y1ug==",
+          "logo": ""
+        },
+        {
+          "name": "AR: ALFAJER 5 4K",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4R/3g48b9cSWkElKQFFh4IuFSZ/oNgj4zb4SUSyUck6xQ==",
+          "logo": ""
+        },
+        {
+          "name": "AR: ALFAJER 5 HD",
+          "url": "s0LDaXvQFwbEQoUf7zDXwKU+lCyXtDWs1XFrTO1Oy4Q9ML/Q6r4jQCdN4RQt5IdbrjPkR794qVSl8Yz5CAn1KQ==",
+          "logo": ""
+        }
+      ]
+    },
+    {
+      "name": "Kurd Sport",
+      "logo": "https://i.ibb.co/7XkQZ1c/kurd.png",
+      "channels": [
+        {
+          "name": "Duhok Sports HD",
+          "url": "fdjewkpsmnMivaZjd6n8Vhyx3ATL9HmLGAkRzUJGfvvXVDpceYkXlF63i/1HouF4d8MVwBn5hs2wH+6azTWsLw==",
+          "logo": ""
+        },
+        {
+          "name": "Astera Sport HD",
+          "url": "fdjewkpsmnMivaZjd6n8Vhyx3ATL9HmLGAkRzUJGfvvXVDpceYkXlF63i/1HouF4Gt8MX+4waSIk4RrGzz1E6A==",
+          "logo": ""
+        },
+        {
+          "name": "ZAXO Sport TV HD",
+          "url": "fdjewkpsmnMivaZjd6n8Vhyx3ATL9HmLGAkRzUJGfvvXVDpceYkXlF63i/1HouF4rTkaNSaAqY3rn+Sjf1qgPQ==",
+          "logo": ""
+        },
+        {
+          "name": "Nubar Sport TV HD",
+          "url": "fdjewkpsmnMivaZjd6n8Vhyx3ATL9HmLGAkRzUJGfvvXVDpceYkXlF63i/1HouF4wvFLQaRjXnDLusAisb8bWQ==",
+          "logo": ""
+        },
+        {
+          "name": "Kurdistan Sport HD",
+          "url": "fdjewkpsmnMivaZjd6n8Vhyx3ATL9HmLGAkRzUJGfvvXVDpceYkXlF63i/1HouF4dc43A1vNnqyR4LB8K5yM+w==",
+          "logo": ""
+        },
+        {
+          "name": "Newline Sport HD",
+          "url": "fdjewkpsmnMivaZjd6n8Vhyx3ATL9HmLGAkRzUJGfvvXVDpceYkXlF63i/1HouF41XUuNX5tnvtrlRyMvG3SCw==",
+          "logo": ""
+        },
+        {
+          "name": "4sport HD",
+          "url": "fdjewkpsmnMivaZjd6n8Vhyx3ATL9HmLGAkRzUJGfvvXVDpceYkXlF63i/1HouF4L4/whc+wZ+en0lJiw9FEnQ==",
+          "logo": ""
+        },
+        {
+          "name": "ARO Sport HD",
+          "url": "fdjewkpsmnMivaZjd6n8Vhyx3ATL9HmLGAkRzUJGfvvXVDpceYkXlF63i/1HouF4zxTsxEOrqPY7ACxfxv4e0w==",
+          "logo": ""
+        },
+        {
+          "name": "LD Sport Check HD",
+          "url": "fdjewkpsmnMivaZjd6n8Vhyx3ATL9HmLGAkRzUJGfvvXVDpceYkXlF63i/1HouF49fDVzi0emm3GGkeWfAmqhg==",
+          "logo": ""
+        },
+        {
+          "name": "Ku: Astera Sport HD",
+          "url": "fdjewkpsmnMivaZjd6n8Vhyx3ATL9HmLGAkRzUJGfvvXVDpceYkXlF63i/1HouF4AxFhg9MXGA0vScGjcQ1sZg==",
+          "logo": ""
+        },
+        {
+          "name": "Ku: Dasinya Sport 1 HD",
+          "url": "fdjewkpsmnMivaZjd6n8Vhyx3ATL9HmLGAkRzUJGfvvXVDpceYkXlF63i/1HouF44Jltkps6fuPqakZ4uQQQtQ==",
+          "logo": ""
+        }
+      ]
+    },
+    {
+      "name": "Real 4K",
+      "logo": "https://i.ibb.co/3cYmJYz/4k.png",
+      "channels": [
+        {
+          "name": "BEIN 4k UHD [3840×2160p]",
+          "url": "fdjewkpsmnMivaZjd6n8Vhyx3ATL9HmLGAkRzUJGfvvXVDpceYkXlF63i/1HouF4gnc030C8c6URTZdpCPBxdg==",
+          "logo": ""
+        },
+        {
+          "name": "BEIN 4K 1080p",
+          "url": "fdjewkpsmnMivaZjd6n8Vhyx3ATL9HmLGAkRzUJGfvvXVDpceYkXlF63i/1HouF4GUNM8DUfaIrwd9v2DNKEhA==",
+          "logo": ""
+        },
+        {
+          "name": "BeinN | BOX OFFICE 1 UHD 4K",
+          "url": "fdjewkpsmnMivaZjd6n8Vhyx3ATL9HmLGAkRzUJGfvvXVDpceYkXlF63i/1HouF4yBUuUSv1jJUes2KKJQyddQ==",
+          "logo": ""
+        },
+        {
+          "name": "BeinN | BOX OFFICE 2 UHD 4K",
+          "url": "fdjewkpsmnMivaZjd6n8Vhyx3ATL9HmLGAkRzUJGfvvXVDpceYkXlF63i/1HouF4Rq5SVkmzyfV+7yoa4+YIjw==",
+          "logo": ""
+        },
+        {
+          "name": "IR | IRIB 4K UHD",
+          "url": "fdjewkpsmnMivaZjd6n8Vhyx3ATL9HmLGAkRzUJGfvvXVDpceYkXlF63i/1HouF4PwI0N9nfjiOa7GrbJ6SLmg==",
+          "logo": ""
+        },
+        {
+          "name": "TR | TRT 4K UHD",
+          "url": "fdjewkpsmnMivaZjd6n8Vhyx3ATL9HmLGAkRzUJGfvvXVDpceYkXlF63i/1HouF4hWhjX0XOgdCKJnTWO7kvVA==",
+          "logo": ""
+        },
+        {
+          "name": "AR: NM: Bein 4K 3840P (ONLY EVENT)",
+          "url": "XgUrRjTgF5ye0QSyuJtwg9zAeUYPjcKasfrw9uF826xVF/nQ+MxNzZNaE+Uvvp0tMZsLoZxccqkU1lqG3LLusQ==",
+          "logo": ""
+        }
+      ]
+    },
+    {
+      "name": "Alwan",
+      "logo": "https://i.ibb.co/F8S0qY2/alwan.png",
+      "channels": [
+        {
+          "name": "ARI ALWAN SPORTS",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNYX8bMUQAoHF9pPwLbtBwgA==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN F1 HEVC",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNviAul8vq2Qm3di/tDDNCJQ==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN F1 FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNO4KGyObApzoe02Z2cjkg2w==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN UFC FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNa8XYekrXvN6d/DMDGRNOQA==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN WWE FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNnmcHz5DzuEIYvpQJJrHkbA==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 1 HEVC",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNRwWhvgakXrmnQMWsLfgoNQ==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 1 FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNUtEJu0HdZY3xdNu0VzSIiQ==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 2 FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNcYssGsK5W4bixJcOxEJi2A==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 3 FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNlPCt2zxV/f5IPUf+MEtIgg==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 4 FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uN4on7caxuFWhBXfUq7ZkbyQ==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 5 FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNXYxGRZH2HcpJCMcw7qM3LA==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 6 FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNvDfWhJBtV3canZ3y6WuPIQ==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 7 FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNkv7Hd1s0QRvv5JZy8pmjwA==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 8 FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNbgxMEWVl0tqvr0IHxSE8Kw==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 9 FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNe+4tgMqWa6m2JPUV20BZuA==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 10 FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNZfntif74jFA20/HfHwyKig==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 1 HD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNq4S7YujJlWwB6gFmhodpAg==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 2 HD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNMGDfknlA174nVJq6dHZ70Q==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 3 HD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNt2aUE7t85yP7/1rCYj9YNA==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 4 HD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uN4UMrkgQEkAbzuYVJM1Cg4Q==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 5 HD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNiwQxyErheycjk3kkxWcosQ==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 6 HD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNzNdTgsN5kEwK7FsVadclqg==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 1 SD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uN9Tqnce60YLbhGt+7laZRFA==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 2 SD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uN1aVovIJg1v/CywfNTSsmjw==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 3 SD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNfibDL15kNB+hCNaqvbq7MA==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 4 SD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNHTDUJ/qeGwdVFpKuX+gwsA==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 5 SD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNu6Ao5hR37LczT55nZK+bCw==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN SPORT 6 SD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNVHrUcv8Ni999HbtR0QVXyg==",
+          "logo": ""
+        },
+        {
+          "name": "ALWAN VIP",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNwIOuwgpbJhJTru8V92Wv1Q==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN QURAN FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uN9MghWBZdtlbf6ItrMtPU3w==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN AFLAM 1 FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNP/CAzl8f4eYO5ARCgghgYw==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN AFLAM 2 FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNRwv4PigO7K2zQOvQP4EMkA==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN AFLAM 3 FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNNTV2yv+Yangai+LGqJnMow==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN AFLAM 4 FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNBZVmH0Vy56mVcy+BFOeAEg==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN KOREA FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uN8S9ZCq6hcAp3LsU68u2DcA==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN BOLLYWOOD FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNyOFFQbKjEZpKAkvj4xGs/g==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN MOSALSALAT FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNoDtA/qaXwkfYnqAcPQv7Zg==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN MOSALSALAT+ FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNJI9FRCT7Bc2voWJ8QFoDrQ==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN TURKEY FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNzGPq0VEfEqM6bDtBC5YNMw==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN ANIME FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNfQP6h5PfT16qQEy0Q+tmYw==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN ATFAL FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uN2wU/ADUJPwRG6KXZo8PjeA==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN ALWATHAEQYE FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNsywTd+DlUtSU6ZSUmR80sA==",
+          "logo": ""
+        },
+        {
+          "name": "ARI ALWAN AGHANI FHD",
+          "url": "uYjtU86K0kVtvq8TWYf2TiucVXjqfAx7kL/pggqL/MlrNn3/jsabZi1ih/Sq45uNm5wRiZXheciolw2pr/MjTA==",
+          "logo": ""
+        }
+      ]
+    },
+    {
+      "name": "beIN SPORTS",
+      "logo": "https://i.ibb.co/L5kZ8yG/bein.png",
+      "channels": [
+        {
+          "name": "BEIN SPORT 4 K",
+          "url": "0qHSQF/Cg8urEsmpsCiK3xAtmQBXXzgASfNS0CrgLUovc92m0Fyv2/UbfXzjS4+YNj17IW1A+WU5OBUKnloXGQ==",
+          "logo": ""
+        },
+        {
+          "name": "BEIN SPORTS 1 4k+",
+          "url": "0qHSQF/Cg8urEsmpsCiK3xAtmQBXXzgASfNS0CrgLUovc92m0Fyv2/UbfXzjS4+YnhnMLlYyRcisHVdobfKkYw==",
+          "logo": ""
+        },
+        {
+          "name": "BEIN SPORTS 2 4k+",
+          "url": "0qHSQF/Cg8urEsmpsCiK3xAtmQBXXzgASfNS0CrgLUovc92m0Fyv2/UbfXzjS4+Y7qK/PoV4S0MxXWoUYhxPxA==",
+          "logo": ""
+        },
+        {
+          "name": "BEIN SPORTS 3 4k+",
+          "url": "0qHSQF/Cg8urEsmpsCiK3xAtmQBXXzgASfNS0CrgLUovc92m0Fyv2/UbfXzjS4+YxfbGdfEZrvg4iH6xkmnhGQ==",
+          "logo": ""
+        },
+        {
+          "name": "BEIN SPORTS 4 4k+",
+          "url": "0qHSQF/Cg8urEsmpsCiK3xAtmQBXXzgASfNS0CrgLUovc92m0Fyv2/UbfXzjS4+YhfjwgmSY4lFlp5XMqx9Mwg==",
+          "logo": ""
+        },
+        {
+          "name": "BEIN SPORTS 5 4k+",
+          "url": "0qHSQF/Cg8urEsmpsCiK3xAtmQBXXzgASfNS0CrgLUovc92m0Fyv2/UbfXzjS4+YTSoNENlIMPUkWEXd6LXAGg==",
+          "logo": ""
+        },
+        {
+          "name": "BEIN SPORTS 6 4k+",
+          "url": "0qHSQF/Cg8urEsmpsCiK3xAtmQBXXzgASfNS0CrgLUovc92m0Fyv2/UbfXzjS4+YWT6LyG5VZi4dSJwV9DGxZQ==",
+          "logo": ""
+        },
+        {
+          "name": "BEIN SPORTS 7 4k+",
+          "url": "0qHSQF/Cg8urEsmpsCiK3xAtmQBXXzgASfNS0CrgLUovc92m0Fyv2/UbfXzjS4+YKXo0hKiN13TysfR8cTkh2A==",
+          "logo": ""
+        }
+      ]
+    }
+  ] 
