@@ -164,34 +164,6 @@
           "streams": {
             "4K": "KokdRoE9IHbvGt+CpuDZNGNNxsJ9S9Tnvf2kTidR5NNFNetIio8gZmCAAcMVqozQYhTS0bhUW1pDwULhOm3Xps94BwtwKqx1Ck1+u0WXHEzLkpblmkRVyHs38rA9KmIPQspTyeDCTHCP6hvlrS+rLgUEDQqzvLpAb+ayIaZxH7FGqxuxRgqXtbHn8sV/pewybg4/RPhOOgrLwblJn0+iiu53rkS6EEc9lDSEo6sRm+1NFDtzBWNwUyhfw9uO0lddykoDNBN0OJHDzzdbjha19ZoFVIRMXWGGwoFAZho4WAHAnUTdlVzlsZXDwQQpJti0IX63PV+b7MAiGISaxQwTMeY/Kjpkx6aHhczBqQQBKsVCJ+zLybZFXpjeFHRR21x3RE8GkRC+lj27nFYpD6cpPoHu5p8cH220RY9aiP/MG/MQjtTXQcCkwkXrpzWR9uPnKcpXU8QLB/mOd27NKsE4mX+N15dyKTf72xPgVWrToPc83eoJsNpORPjcq8Ov4BOQHXjou4c4AB3Xy7c51TGcRJQaszEDGopaW7UYTpxArps2G9w/bdl6SSVYJ6y9FOdR/4vhuQL502oJBvJLVo1F6hwA9Bq4Tb9SSFN9x01kWisKi7MpZR1Pw/sWBS10aL5bT6dFS41g09UMWmzlGkwev8zcF53LY1anG22WERVKJq7KQBT02Bxeys1D8QmBlGfPlgOHlWN80gZxfygZvNykVD1MMx10b0Pj/0GH30SYrasseTYZ9KZzTcpsIYMMpc3yzWuPQ8FZkBTzilQgbntHHrNDPdjlRafX6StH/g/t+/vHTBUZhEKXjPiZ458vL94CZOMvVNcCMaI5+K8Iy+XLaBezD7OHVdMfOw6iJND63/T8yE82JGOYDuXzaKUTDOaz5WjX9qRcrGl2pWtPJeZhoKTKUJgmBZGrU9W40Pe9IKbO8zHj6655LFdLTA7kitWPzcUIxTn7zzklluWMI3kbajrkKlR62q5zhxWorwd0QVM7bpF5TBPZbM1YRQ1tiB/aJq+donlsO8Z3GXWSr4NpMQ=="
           }
-        },
-        {
-          "name": "ألوان 3 — 4K",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "1bz8VBW2AzSxZ1H9+PtSmcceUDxJenhPGqe0eA80TjnfqR5WZSmgQKDwEAa+uthvB6RhDsGYG9iJphQiF53bUQ=="
-          }
-        },
-        {
-          "name": "ألوان 4 — 4K",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "1bz8VBW2AzSxZ1H9+PtSmcceUDxJenhPGqe0eA80TjnfqR5WZSmgQKDwEAa+uthvWqSRpFXqJwG/JbcKTZcpJA=="
-          }
-        },
-        {
-          "name": "ألوان 5 — 4K",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "1bz8VBW2AzSxZ1H9+PtSmcceUDxJenhPGqe0eA80TjnfqR5WZSmgQKDwEAa+uthvX/xKQ5kqU/lNOgfG9+KVNg=="
-          }
-        },
-        {
-          "name": "ألوان 6 — 4K",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "1bz8VBW2AzSxZ1H9+PtSmcceUDxJenhPGqe0eA80TjnfqR5WZSmgQKDwEAa+uthvDVdu7D0A9QsfjN/FC91Fow=="
-          }
         }
       ]
     },
@@ -621,222 +593,6 @@
       ]
     },
     {
-      "name": "Alwan",
-      "channels": [
-        {
-          "name": "ARI ALWAN SPORTS",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1277209.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN SPORT 1",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "HEVC": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276554.ts",
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276553.ts",
-            "HD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276543.ts",
-            "SD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276537.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN SPORT 2",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276552.ts",
-            "HD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276542.ts",
-            "SD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276536.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN SPORT 3",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276551.ts",
-            "HD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276541.ts",
-            "SD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276535.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN SPORT 4",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276550.ts",
-            "HD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276540.ts",
-            "SD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276534.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN SPORT 5",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276549.ts",
-            "HD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276539.ts",
-            "SD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276533.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN SPORT 6",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276548.ts",
-            "HD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276538.ts",
-            "SD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276532.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN SPORT 7",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276547.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN SPORT 8",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276546.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN SPORT 9",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276545.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN SPORT 10",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276544.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN F1",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "HEVC": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1236889.ts",
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276555.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN UFC",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276571.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN WWE",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276570.ts"
-          }
-        },
-        {
-          "name": "ALWAN VIP",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "VIP": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1277208.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN QURAN",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276567.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN AFLAM 1",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276560.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN AFLAM 2",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276559.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN AFLAM 3",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276558.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN AFLAM 4",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276557.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN KOREA",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276565.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN BOLLYWOOD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276564.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN MOSALSALAT",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276563.ts",
-            "FHD+": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276562.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN TURKEY",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276561.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN ANIME",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276569.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN ATFAL",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276568.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN ALWATHAEQYE",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276566.ts"
-          }
-        },
-        {
-          "name": "ARI ALWAN AGHANI",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://bepkxmqd.pardns.com/live/9C1C9578/4N5SUNFQ/1276556.ts"
-          }
-        }
-      ]
-    },
-    {
       "name": "ALFAJER",
       "channels": [
         {
@@ -904,6 +660,345 @@
           "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
           "streams": {
             "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxnUyIs5E2neoRbRQgE8B1ycpdd9jqpjKylwv6Yx9+Y94="
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alwan",
+      "channels": [
+        {
+          "name": "Alwan Sport 1 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358144.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 2 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358145.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 3 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358146.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 4 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358147.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 5 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358148.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 6 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358164.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 7 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358147.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 8 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358148.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 9 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358149.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 10 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358150.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 1 FHD",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/358151.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 2 FHD",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/358152.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 3 FHD",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/358153.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 4 FHD",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/358154.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 5 FHD",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/358155.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 6 FHD",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/358165.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 1 HD",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "HD": "http://snap-tr.org/live/00491727832218/as2020as/358156.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 2 HD",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "HD": "http://snap-tr.org/live/00491727832218/as2020as/358157.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 3 HD",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "HD": "http://snap-tr.org/live/00491727832218/as2020as/358158.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 4 HD",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "HD": "http://snap-tr.org/live/00491727832218/as2020as/358159.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 5 HD",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "HD": "http://snap-tr.org/live/00491727832218/as2020as/358160.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 6 HD",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "HD": "http://snap-tr.org/live/00491727832218/as2020as/358161.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 1 SD",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "SD": "http://snap-tr.org/live/00491727832218/as2020as/358147.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 2 SD",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "SD": "http://snap-tr.org/live/00491727832218/as2020as/358148.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 3 SD",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "SD": "http://snap-tr.org/live/00491727832218/as2020as/358149.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 4 SD",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "SD": "http://snap-tr.org/live/00491727832218/as2020as/358150.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 5 SD",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "SD": "http://snap-tr.org/live/00491727832218/as2020as/358151.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 6 SD",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "SD": "http://snap-tr.org/live/00491727832218/as2020as/358165.ts"
+          }
+        },
+        {
+          "name": "Alwan Sport 7 SD",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "SD": "http://snap-tr.org/live/00491727832218/as2020as/358169.ts"
+          }
+        },
+        {
+          "name": "Alwan F1 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358176.ts"
+          }
+        },
+        {
+          "name": "Alwan UFC 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358177.ts"
+          }
+        },
+        {
+          "name": "Alwan WWE 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358178.ts"
+          }
+        },
+        {
+          "name": "Alwan Aflam 1 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358675.ts"
+          }
+        },
+        {
+          "name": "Alwan Aflam 2 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358676.ts"
+          }
+        },
+        {
+          "name": "Alwan Aflam 3 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358677.ts"
+          }
+        },
+        {
+          "name": "Alwan Aflam 4 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358678.ts"
+          }
+        },
+        {
+          "name": "Alwan Aghani 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358679.ts"
+          }
+        },
+        {
+          "name": "Alwan Alwathaoeqye 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358680.ts"
+          }
+        },
+        {
+          "name": "Alwan Anime 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358681.ts"
+          }
+        },
+        {
+          "name": "Alwan Atfal 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358682.ts"
+          }
+        },
+        {
+          "name": "Alwan Bollywood 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358683.ts"
+          }
+        },
+        {
+          "name": "Alwan Korea 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358684.ts"
+          }
+        },
+        {
+          "name": "Alwan Mosalsalat 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358685.ts"
+          }
+        },
+        {
+          "name": "Alwan Mosalsalat+ 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358686.ts"
+          }
+        },
+        {
+          "name": "Alwan Quran 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358687.ts"
+          }
+        },
+        {
+          "name": "Alwan Turkey 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358688.ts"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thmanyah",
+      "channels": [
+        {
+          "name": "Thmanyah 1",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "HD": ""
           }
         }
       ]
