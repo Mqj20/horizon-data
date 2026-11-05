@@ -654,20 +654,15 @@
           "name": "MBC Action",
           "logo": "https://www.apnahdtv.com/images/mbc-action.png",
           "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w=",
             "SD": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
-          }
-        },
-        {
-          "name": "MBC MASR DRAMA HD",
-          "logo": "https://www.apnahdtv.com/images/mbc-masr-drama.png",
-          "streams": {
-            "HD": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
           }
         },
         {
           "name": "MBC 1",
           "logo": "https://www.apnahdtv.com/images/mbc1.png",
           "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w=",
             "SD": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
           }
         },
@@ -675,6 +670,7 @@
           "name": "MBC 2",
           "logo": "https://www.apnahdtv.com/images/mbc2.png",
           "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w=",
             "SD": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
           }
         },
@@ -682,6 +678,7 @@
           "name": "MBC 3",
           "logo": "https://www.apnahdtv.com/images/mbc3.png",
           "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w=",
             "SD": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
           }
         },
@@ -689,6 +686,7 @@
           "name": "MBC 4",
           "logo": "https://www.apnahdtv.com/images/mbc4.png",
           "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w=",
             "SD": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
           }
         },
@@ -696,19 +694,72 @@
           "name": "MBC 5",
           "logo": "https://www.apnahdtv.com/images/mbc5.png",
           "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w=",
             "SD": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
           }
         },
         {
-          "name": "MBC Drama",
-          "logo": "https://www.apnahdtv.com/images/mbc-drama.png",
+          "name": "MBC MASR DRAMA",
+          "logo": "https://www.apnahdtv.com/images/mbc-masr-drama.png",
           "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w=",
+            "HD": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "MBC Masr 2",
+          "logo": "https://www.apnahdtv.com/images/mbc-masr2.png",
+          "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w=",
             "SD": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
           }
         },
         {
           "name": "MBC Iraq",
           "logo": "https://www.apnahdtv.com/images/mbc-iraq.png",
+          "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w=",
+            "SD": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "MBC PLUS DRAMA",
+          "logo": "https://www.apnahdtv.com/images/mbc-plus-drama.png",
+          "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "MBC Variety",
+          "logo": "https://www.apnahdtv.com/images/mbc-variety.png",
+          "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "MBC Bollywood",
+          "logo": "https://www.apnahdtv.com/images/mbc-bollywood.png",
+          "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "MBC FM",
+          "logo": "https://www.apnahdtv.com/images/mbc-fm.png",
+          "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "MBC PANORAMA FM",
+          "logo": "https://www.apnahdtv.com/images/mbc-panorama-fm.png",
+          "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "MBC Drama",
+          "logo": "https://www.apnahdtv.com/images/mbc-drama.png",
           "streams": {
             "SD": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
           }
@@ -735,17 +786,129 @@
           }
         },
         {
-          "name": "MBC Masr 1 HD",
+          "name": "MBC Masr 1",
           "logo": "https://www.apnahdtv.com/images/mbc-masr.png",
           "streams": {
             "HD": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
           }
         },
         {
-          "name": "MBC Masr 2",
-          "logo": "https://www.apnahdtv.com/images/mbc-masr2.png",
+          "name": "AR: MBC PREMIUM",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
           "streams": {
-            "SD": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "AR: MBC GEO",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "AR: MBC TOON",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "AR: MBC FAMILY",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "AR: MBC POWER",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "AR: MBC 1",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "US": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "AR: MBC 2",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "US": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "AR: MBC 3",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "US": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "AR: MBC MASR",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "US": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "AR: MBC MASR 2",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "US": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "AR: MBC ELIFE",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "US": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "AR: MBC IRAQ",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "US": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "AR: MBC MAX",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "US": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "AR: MBC DRAMA",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "US": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "AR: MBC DRAMA PLUS",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "US": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "AR: MBC VARIETY",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "US": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
+          }
+        },
+        {
+          "name": "AR: MBC BOLLYWOOD",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "US": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
           }
         }
       ]
@@ -946,72 +1109,42 @@
       "name": "ALFAJER",
       "channels": [
         {
-          "name": "AR: ALFAJER 1 4K",
+          "name": "AR: ALFAJER 1",
           "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
           "streams": {
-            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
-          }
-        },
-        {
-          "name": "AR: ALFAJER 1 HD",
-          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
-          "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w=",
             "HD": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
           }
         },
         {
-          "name": "AR: ALFAJER 2 4K",
+          "name": "AR: ALFAJER 2",
           "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
           "streams": {
-            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
-          }
-        },
-        {
-          "name": "AR: ALFAJER 2 HD",
-          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
-          "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w=",
             "HD": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
           }
         },
         {
-          "name": "AR: ALFAJER 3 4K",
+          "name": "AR: ALFAJER 3",
           "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
           "streams": {
-            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
-          }
-        },
-        {
-          "name": "AR: ALFAJER 3 HD",
-          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
-          "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w=",
             "HD": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
           }
         },
         {
-          "name": "AR: ALFAJER 4 4K",
+          "name": "AR: ALFAJER 4",
           "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
           "streams": {
-            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
-          }
-        },
-        {
-          "name": "AR: ALFAJER 4 HD",
-          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
-          "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w=",
             "HD": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
           }
         },
         {
-          "name": "AR: ALFAJER 5 4K",
+          "name": "AR: ALFAJER 5",
           "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
           "streams": {
-            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
-          }
-        },
-        {
-          "name": "AR: ALFAJER 5 HD",
-          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
-          "streams": {
+            "4K": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w=",
             "HD": "g359kO40cM2gV374t/97vF5H8L3Uq5y6+6f9v957Z9w="
           }
         }
@@ -1028,105 +1161,105 @@
           }
         },
         {
-          "name": "ARI ALWAN F1 HEVC",
+          "name": "ARI ALWAN F1",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "HEVC": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
+            "HEVC": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y=",
+            "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
           }
         },
         {
-          "name": "ARI ALWAN F1 FHD",
+          "name": "ARI ALWAN UFC",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
           }
         },
         {
-          "name": "ARI ALWAN UFC FHD",
+          "name": "ARI ALWAN WWE",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
           }
         },
         {
-          "name": "ARI ALWAN WWE FHD",
+          "name": "ARI ALWAN SPORT 1",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "HEVC": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y=",
+            "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y=",
+            "HD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y=",
+            "SD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
+          }
+        },
+        {
+          "name": "ARI ALWAN SPORT 2",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y=",
+            "HD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y=",
+            "SD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
+          }
+        },
+        {
+          "name": "ARI ALWAN SPORT 3",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y=",
+            "HD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y=",
+            "SD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
+          }
+        },
+        {
+          "name": "ARI ALWAN SPORT 4",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y=",
+            "HD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y=",
+            "SD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
+          }
+        },
+        {
+          "name": "ARI ALWAN SPORT 5",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y=",
+            "HD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y=",
+            "SD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
+          }
+        },
+        {
+          "name": "ARI ALWAN SPORT 6",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y=",
+            "HD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y=",
+            "SD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
+          }
+        },
+        {
+          "name": "ARI ALWAN SPORT 7",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
           }
         },
         {
-          "name": "ARI ALWAN SPORT 1 HEVC",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "HEVC": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
-          }
-        },
-        {
-          "name": "ARI ALWAN SPORT 1 FHD",
+          "name": "ARI ALWAN SPORT 8",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
           }
         },
         {
-          "name": "ARI ALWAN SPORT 2 FHD",
+          "name": "ARI ALWAN SPORT 9",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
           }
         },
         {
-          "name": "ARI ALWAN SPORT 3 FHD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
-          }
-        },
-        {
-          "name": "ARI ALWAN SPORT 4 FHD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
-          }
-        },
-        {
-          "name": "ARI ALWAN SPORT 5 FHD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
-          }
-        },
-        {
-          "name": "ARI ALWAN SPORT 6 FHD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
-          }
-        },
-        {
-          "name": "ARI ALWAN SPORT 7 FHD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
-          }
-        },
-        {
-          "name": "ARI ALWAN SPORT 8 FHD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
-          }
-        },
-        {
-          "name": "ARI ALWAN SPORT 9 FHD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
-          }
-        },
-        {
-          "name": "ARI ALWAN SPORT 10 FHD",
+          "name": "ARI ALWAN SPORT 10",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
@@ -1140,98 +1273,98 @@
           }
         },
         {
-          "name": "ARI ALWAN QURAN FHD",
+          "name": "ARI ALWAN QURAN",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
           }
         },
         {
-          "name": "ARI ALWAN AFLAM 1 FHD",
+          "name": "ARI ALWAN AFLAM 1",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
           }
         },
         {
-          "name": "ARI ALWAN AFLAM 2 FHD",
+          "name": "ARI ALWAN AFLAM 2",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
           }
         },
         {
-          "name": "ARI ALWAN AFLAM 3 FHD",
+          "name": "ARI ALWAN AFLAM 3",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
           }
         },
         {
-          "name": "ARI ALWAN AFLAM 4 FHD",
+          "name": "ARI ALWAN AFLAM 4",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
           }
         },
         {
-          "name": "ARI ALWAN KOREA FHD",
+          "name": "ARI ALWAN KOREA",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
           }
         },
         {
-          "name": "ARI ALWAN BOLLYWOOD FHD",
+          "name": "ARI ALWAN BOLLYWOOD",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
           }
         },
         {
-          "name": "ARI ALWAN MOSALSALAT FHD",
+          "name": "ARI ALWAN MOSALSALAT",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
           }
         },
         {
-          "name": "ARI ALWAN MOSALSALAT+ FHD",
+          "name": "ARI ALWAN MOSALSALAT+",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
           }
         },
         {
-          "name": "ARI ALWAN TURKEY FHD",
+          "name": "ARI ALWAN TURKEY",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
           }
         },
         {
-          "name": "ARI ALWAN ANIME FHD",
+          "name": "ARI ALWAN ANIME",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
           }
         },
         {
-          "name": "ARI ALWAN ATFAL FHD",
+          "name": "ARI ALWAN ATFAL",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
           }
         },
         {
-          "name": "ARI ALWAN ALWATHAEQYE FHD",
+          "name": "ARI ALWAN ALWATHAEQYE",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
           }
         },
         {
-          "name": "ARI ALWAN AGHANI FHD",
+          "name": "ARI ALWAN AGHANI",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "FHD": "p9W2x8C5V4b3N2m1L0k9J8h7G6f5D4s3A2p1O0i9U8y="
