@@ -668,52 +668,71 @@
       "name": "Alwan",
       "channels": [
         {
-          "name": "Alwan Sport 1 4K",
+          "name": "Alwan Sport 1",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358144.ts"
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358144.ts",
+            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/358151.ts",
+            "HD": "http://snap-tr.org/live/00491727832218/as2020as/358156.ts",
+            "SD": "http://snap-tr.org/live/00491727832218/as2020as/358147.ts"
           }
         },
         {
-          "name": "Alwan Sport 2 4K",
+          "name": "Alwan Sport 2",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358145.ts"
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358145.ts",
+            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/358152.ts",
+            "HD": "http://snap-tr.org/live/00491727832218/as2020as/358157.ts",
+            "SD": "http://snap-tr.org/live/00491727832218/as2020as/358148.ts"
           }
         },
         {
-          "name": "Alwan Sport 3 4K",
+          "name": "Alwan Sport 3",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358146.ts"
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358146.ts",
+            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/358153.ts",
+            "HD": "http://snap-tr.org/live/00491727832218/as2020as/358158.ts",
+            "SD": "http://snap-tr.org/live/00491727832218/as2020as/358149.ts"
           }
         },
         {
-          "name": "Alwan Sport 4 4K",
+          "name": "Alwan Sport 4",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358147.ts"
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358147.ts",
+            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/358154.ts",
+            "HD": "http://snap-tr.org/live/00491727832218/as2020as/358159.ts",
+            "SD": "http://snap-tr.org/live/00491727832218/as2020as/358150.ts"
           }
         },
         {
-          "name": "Alwan Sport 5 4K",
+          "name": "Alwan Sport 5",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358148.ts"
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358148.ts",
+            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/358155.ts",
+            "HD": "http://snap-tr.org/live/00491727832218/as2020as/358160.ts",
+            "SD": "http://snap-tr.org/live/00491727832218/as2020as/358151.ts"
           }
         },
         {
-          "name": "Alwan Sport 6 4K",
+          "name": "Alwan Sport 6",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358164.ts"
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358164.ts",
+            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/358165.ts",
+            "HD": "http://snap-tr.org/live/00491727832218/as2020as/358161.ts",
+            "SD": "http://snap-tr.org/live/00491727832218/as2020as/358165.ts"
           }
         },
         {
-          "name": "Alwan Sport 7 4K",
+          "name": "Alwan Sport 7",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358147.ts"
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358147.ts",
+            "SD": "http://snap-tr.org/live/00491727832218/as2020as/358169.ts"
           }
         },
         {
@@ -735,139 +754,6 @@
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "4K": "http://snap-tr.org/live/00491727832218/as2020as/358150.ts"
-          }
-        },
-        {
-          "name": "Alwan Sport 1 FHD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/358151.ts"
-          }
-        },
-        {
-          "name": "Alwan Sport 2 FHD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/358152.ts"
-          }
-        },
-        {
-          "name": "Alwan Sport 3 FHD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/358153.ts"
-          }
-        },
-        {
-          "name": "Alwan Sport 4 FHD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/358154.ts"
-          }
-        },
-        {
-          "name": "Alwan Sport 5 FHD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/358155.ts"
-          }
-        },
-        {
-          "name": "Alwan Sport 6 FHD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "FHD": "http://snap-tr.org/live/00491727832218/as2020as/358165.ts"
-          }
-        },
-        {
-          "name": "Alwan Sport 1 HD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "HD": "http://snap-tr.org/live/00491727832218/as2020as/358156.ts"
-          }
-        },
-        {
-          "name": "Alwan Sport 2 HD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "HD": "http://snap-tr.org/live/00491727832218/as2020as/358157.ts"
-          }
-        },
-        {
-          "name": "Alwan Sport 3 HD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "HD": "http://snap-tr.org/live/00491727832218/as2020as/358158.ts"
-          }
-        },
-        {
-          "name": "Alwan Sport 4 HD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "HD": "http://snap-tr.org/live/00491727832218/as2020as/358159.ts"
-          }
-        },
-        {
-          "name": "Alwan Sport 5 HD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "HD": "http://snap-tr.org/live/00491727832218/as2020as/358160.ts"
-          }
-        },
-        {
-          "name": "Alwan Sport 6 HD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "HD": "http://snap-tr.org/live/00491727832218/as2020as/358161.ts"
-          }
-        },
-        {
-          "name": "Alwan Sport 1 SD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "SD": "http://snap-tr.org/live/00491727832218/as2020as/358147.ts"
-          }
-        },
-        {
-          "name": "Alwan Sport 2 SD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "SD": "http://snap-tr.org/live/00491727832218/as2020as/358148.ts"
-          }
-        },
-        {
-          "name": "Alwan Sport 3 SD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "SD": "http://snap-tr.org/live/00491727832218/as2020as/358149.ts"
-          }
-        },
-        {
-          "name": "Alwan Sport 4 SD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "SD": "http://snap-tr.org/live/00491727832218/as2020as/358150.ts"
-          }
-        },
-        {
-          "name": "Alwan Sport 5 SD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "SD": "http://snap-tr.org/live/00491727832218/as2020as/358151.ts"
-          }
-        },
-        {
-          "name": "Alwan Sport 6 SD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "SD": "http://snap-tr.org/live/00491727832218/as2020as/358165.ts"
-          }
-        },
-        {
-          "name": "Alwan Sport 7 SD",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "SD": "http://snap-tr.org/live/00491727832218/as2020as/358169.ts"
           }
         },
         {
@@ -1152,7 +1038,7 @@
           }
         },
         {
-          "name": "MBC Zee Alwan",
+          "name": "MBCZee Alwan",
           "logo": "https://www.apnahdtv.com/images/mbc-zee-alwan.png",
           "streams": {
             "SD": "http://n7s.top:80/live/khalil6g/365324g/34203.ts"
