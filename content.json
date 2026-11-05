@@ -621,216 +621,6 @@
       ]
     },
     {
-      "name": "MBC",
-      "channels": [
-        {
-          "name": "MBC Action",
-          "logo": "https://www.apnahdtv.com/images/mbc-action.png",
-          "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/34211.ts",
-            "SD": "http://n7s.top:80/live/khalil6g/365324g/34241.ts"
-          }
-        },
-        {
-          "name": "MBC 1",
-          "logo": "https://www.apnahdtv.com/images/mbc1.png",
-          "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/34220.ts",
-            "SD": "http://n7s.top:80/live/khalil6g/365324g/34246.ts"
-          }
-        },
-        {
-          "name": "MBC 2",
-          "logo": "https://www.apnahdtv.com/images/mbc2.png",
-          "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/34219.ts",
-            "SD": "http://n7s.top:80/live/khalil6g/365324g/34245.ts"
-          }
-        },
-        {
-          "name": "MBC 3",
-          "logo": "https://www.apnahdtv.com/images/mbc3.png",
-          "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/34218.ts",
-            "SD": "http://n7s.top:80/live/khalil6g/365324g/34244.ts"
-          }
-        },
-        {
-          "name": "MBC 4",
-          "logo": "https://www.apnahdtv.com/images/mbc4.png",
-          "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/34217.ts",
-            "SD": "http://n7s.top:80/live/khalil6g/365324g/34243.ts"
-          }
-        },
-        {
-          "name": "MBC 5",
-          "logo": "https://www.apnahdtv.com/images/mbc5.png",
-          "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/34216.ts",
-            "SD": "http://n7s.top:80/live/khalil6g/365324g/34242.ts"
-          }
-        },
-        {
-          "name": "MBC MASR DRAMA",
-          "logo": "https://www.apnahdtv.com/images/mbc-masr-drama.png",
-          "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/539520.ts",
-            "HD": "http://n7s.top:80/live/khalil6g/365324g/539521.ts"
-          }
-        },
-        {
-          "name": "MBC Masr 1 HD",
-          "logo": "https://www.apnahdtv.com/images/mbc-masr2.png",
-          "streams": {
-            "HD": "http://n7s.top:80/live/khalil6g/365324g/34237.ts"
-          }
-        },
-        {
-          "name": "MBC Masr 2",
-          "logo": "https://www.apnahdtv.com/images/mbc-masr2.png",
-          "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/34207.ts",
-            "SD": "http://n7s.top:80/live/khalil6g/365324g/34236.ts"
-          }
-        },
-        {
-          "name": "MBC Iraq",
-          "logo": "https://www.apnahdtv.com/images/mbc-iraq.png",
-          "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/34214.ts",
-            "SD": "http://n7s.top:80/live/khalil6g/365324g/34238.ts"
-          }
-        },
-        {
-          "name": "MBC Drama",
-          "logo": "https://www.apnahdtv.com/images/mbc-drama.png",
-          "streams": {
-            "4K_PLUS": "http://n7s.top:80/live/khalil6g/365324g/34212.ts",
-            "SD": "http://n7s.top:80/live/khalil6g/365324g/34239.ts"
-          }
-        },
-        {
-          "name": "MBC Variety",
-          "logo": "https://www.apnahdtv.com/images/mbc4.png",
-          "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/34210.ts",
-            "USA": "http://n7s.top:80/live/khalil6g/365324g/413328.ts"
-          }
-        },
-        {
-          "name": "MBC Bollywood",
-          "logo": "https://www.apnahdtv.com/images/mbc-bollywood.png",
-          "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/34206.ts",
-            "USA": "http://n7s.top:80/live/khalil6g/365324g/413327.ts"
-          }
-        },
-        {
-          "name": "MBC FM",
-          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
-          "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/34202.ts",
-            "PANORAMA": "http://n7s.top:80/live/khalil6g/365324g/387770.ts"
-          }
-        },
-        {
-          "name": "MBC Max",
-          "logo": "https://www.apnahdtv.com/images/mbc-max.png",
-          "streams": {
-            "SD": "http://n7s.top:80/live/khalil6g/365324g/34235.ts",
-            "USA": "http://n7s.top:80/live/khalil6g/365324g/413332.ts"
-          }
-        },
-        {
-          "name": "MBC Zee Aflam",
-          "logo": "https://www.apnahdtv.com/images/mbc-zee-aflam.png",
-          "streams": {
-            "SD": "http://n7s.top:80/live/khalil6g/365324g/34204.ts"
-          }
-        },
-        {
-          "name": "MBC Zee Alwan",
-          "logo": "https://www.apnahdtv.com/images/mbc-zee-alwan.png",
-          "streams": {
-            "SD": "http://n7s.top:80/live/khalil6g/365324g/34203.ts"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Bien Entertainment",
-      "channels": [
-        {
-          "name": "BEIN MOVIES 1 PREMIERE",
-          "logo": "https://www.apnahdtv.com/images/bein-movies-1-premiere-mea.png",
-          "streams": {
-            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxMMEBBCZmeTAceY0GLDxG+mqRR5dd5lktFYzWbisHAv0=",
-            "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxi10xxsBEUrSmj9rJT3AvFfyJfjs4SGt5hAJw0QaleBo="
-          }
-        },
-        {
-          "name": "BEIN MOVIES 2 ACTION",
-          "logo": "https://www.apnahdtv.com/images/bein-movies-action-2-hd-tr.png",
-          "streams": {
-            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxhCkmKV/gZeLWH9AYtoyzn96Dup59LyCxTMiOoxFt4mQ="
-          }
-        },
-        {
-          "name": "BEIN NATIONAL GEO",
-          "logo": "https://www.apnahdtv.com/images/national-geographic-int.png",
-          "streams": {
-            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqx0Mo3iUumOeEW++C3m22JD7YONeLgV/ftRHJTrCFN/iY="
-          }
-        }
-      ]
-    },
-    {
-      "name": "ALFAJER",
-      "channels": [
-        {
-          "name": "AR: ALFAJER 1",
-          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
-          "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/336106.ts",
-            "HD": "http://n7s.top:80/live/khalil6g/365324g/336105.ts"
-          }
-        },
-        {
-          "name": "AR: ALFAJER 2",
-          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
-          "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/336104.ts",
-            "HD": "http://n7s.top:80/live/khalil6g/365324g/336103.ts"
-          }
-        },
-        {
-          "name": "AR: ALFAJER 3",
-          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
-          "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/336102.ts",
-            "HD": "http://n7s.top:80/live/khalil6g/336101.ts"
-          }
-        },
-        {
-          "name": "AR: ALFAJER 4",
-          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
-          "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/336100.ts",
-            "HD": "http://n7s.top:80/live/khalil6g/365324g/336099.ts"
-          }
-        },
-        {
-          "name": "AR: ALFAJER 5",
-          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
-          "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/336098.ts",
-            "HD": "http://n7s.top:80/live/khalil6g/365324g/336097.ts"
-          }
-        }
-      ]
-    },
-    {
       "name": "Alwan",
       "channels": [
         {
@@ -1047,6 +837,51 @@
       ]
     },
     {
+      "name": "ALFAJER",
+      "channels": [
+        {
+          "name": "AR: ALFAJER 1",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/336106.ts",
+            "HD": "http://n7s.top:80/live/khalil6g/365324g/336105.ts"
+          }
+        },
+        {
+          "name": "AR: ALFAJER 2",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/336104.ts",
+            "HD": "http://n7s.top:80/live/khalil6g/365324g/336103.ts"
+          }
+        },
+        {
+          "name": "AR: ALFAJER 3",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/336102.ts",
+            "HD": "http://n7s.top:80/live/khalil6g/365324g/336101.ts"
+          }
+        },
+        {
+          "name": "AR: ALFAJER 4",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/336100.ts",
+            "HD": "http://n7s.top:80/live/khalil6g/365324g/336099.ts"
+          }
+        },
+        {
+          "name": "AR: ALFAJER 5",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/336098.ts",
+            "HD": "http://n7s.top:80/live/khalil6g/365324g/336097.ts"
+          }
+        }
+      ]
+    },
+    {
       "name": "STARZPLAY",
       "channels": [
         {
@@ -1088,6 +923,336 @@
           "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
           "streams": {
             "4K+": "http://falcontv.online/live/Sa46760987435/YoS87435/163571.ts"
+          }
+        }
+      ]
+    },
+    {
+      "name": "MBC",
+      "channels": [
+        {
+          "name": "MBC Action",
+          "logo": "https://www.apnahdtv.com/images/mbc-action.png",
+          "streams": {
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/34211.ts",
+            "SD": "http://n7s.top:80/live/khalil6g/365324g/34241.ts"
+          }
+        },
+        {
+          "name": "MBC 1",
+          "logo": "https://www.apnahdtv.com/images/mbc1.png",
+          "streams": {
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/34220.ts",
+            "SD": "http://n7s.top:80/live/khalil6g/365324g/34246.ts"
+          }
+        },
+        {
+          "name": "MBC 2",
+          "logo": "https://www.apnahdtv.com/images/mbc2.png",
+          "streams": {
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/34219.ts",
+            "SD": "http://n7s.top:80/live/khalil6g/365324g/34245.ts"
+          }
+        },
+        {
+          "name": "MBC 3",
+          "logo": "https://www.apnahdtv.com/images/mbc3.png",
+          "streams": {
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/34218.ts",
+            "SD": "http://n7s.top:80/live/khalil6g/365324g/34244.ts"
+          }
+        },
+        {
+          "name": "MBC 4",
+          "logo": "https://www.apnahdtv.com/images/mbc4.png",
+          "streams": {
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/34217.ts",
+            "SD": "http://n7s.top:80/live/khalil6g/365324g/34243.ts"
+          }
+        },
+        {
+          "name": "MBC 5",
+          "logo": "https://www.apnahdtv.com/images/mbc5.png",
+          "streams": {
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/34216.ts",
+            "SD": "http://n7s.top:80/live/khalil6g/365324g/34242.ts"
+          }
+        },
+        {
+          "name": "MBC MASR DRAMA",
+          "logo": "https://www.apnahdtv.com/images/mbc-masr-drama.png",
+          "streams": {
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/539520.ts",
+            "HD": "http://n7s.top:80/live/khalil6g/365324g/539521.ts"
+          }
+        },
+        {
+          "name": "MBC Masr 1 HD",
+          "logo": "https://www.apnahdtv.com/images/mbc-masr2.png",
+          "streams": {
+            "HD": "http://n7s.top:80/live/khalil6g/365324g/34237.ts"
+          }
+        },
+        {
+          "name": "MBC Masr 2",
+          "logo": "https://www.apnahdtv.com/images/mbc-masr2.png",
+          "streams": {
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/34207.ts",
+            "SD": "http://n7s.top:80/live/khalil6g/365324g/34236.ts"
+          }
+        },
+        {
+          "name": "MBC Iraq",
+          "logo": "https://www.apnahdtv.com/images/mbc-iraq.png",
+          "streams": {
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/34214.ts",
+            "SD": "http://n7s.top:80/live/khalil6g/365324g/34238.ts"
+          }
+        },
+        {
+          "name": "MBC Drama",
+          "logo": "https://www.apnahdtv.com/images/mbc-drama.png",
+          "streams": {
+            "4K_PLUS": "http://n7s.top:80/live/khalil6g/365324g/34212.ts",
+            "SD": "http://n7s.top:80/live/khalil6g/365324g/34239.ts"
+          }
+        },
+        {
+          "name": "MBC Variety",
+          "logo": "https://www.apnahdtv.com/images/mbc4.png",
+          "streams": {
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/34210.ts",
+            "USA": "http://n7s.top:80/live/khalil6g/365324g/413328.ts"
+          }
+        },
+        {
+          "name": "MBC Bollywood",
+          "logo": "https://www.apnahdtv.com/images/mbc-bollywood.png",
+          "streams": {
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/34206.ts",
+            "USA": "http://n7s.top:80/live/khalil6g/365324g/413327.ts"
+          }
+        },
+        {
+          "name": "MBC FM",
+          "logo": "https://i.ibb.co/3k6HqK1/sports-icon.png",
+          "streams": {
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/34202.ts",
+            "PANORAMA": "http://n7s.top:80/live/khalil6g/365324g/387770.ts"
+          }
+        },
+        {
+          "name": "MBC Max",
+          "logo": "https://www.apnahdtv.com/images/mbc-max.png",
+          "streams": {
+            "SD": "http://n7s.top:80/live/khalil6g/365324g/34235.ts",
+            "USA": "http://n7s.top:80/live/khalil6g/365324g/413332.ts"
+          }
+        },
+        {
+          "name": "MBC Zee Aflam",
+          "logo": "https://www.apnahdtv.com/images/mbc-zee-aflam.png",
+          "streams": {
+            "SD": "http://n7s.top:80/live/khalil6g/365324g/34204.ts"
+          }
+        },
+        {
+          "name": "MBC Zee Alwan",
+          "logo": "https://www.apnahdtv.com/images/mbc-zee-alwan.png",
+          "streams": {
+            "SD": "http://n7s.top:80/live/khalil6g/365324g/34203.ts"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bien Entertainment",
+      "channels": [
+        {
+          "name": "BEIN MOVIES 1 PREMIERE",
+          "logo": "https://www.apnahdtv.com/images/bein-movies-1-premiere-mea.png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxMMEBBCZmeTAceY0GLDxG+mqRR5dd5lktFYzWbisHAv0=",
+            "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxi10xxsBEUrSmj9rJT3AvFfyJfjs4SGt5hAJw0QaleBo="
+          }
+        },
+        {
+          "name": "BEIN MOVIES 2 ACTION",
+          "logo": "https://www.apnahdtv.com/images/bein-movies-action-2-hd-tr.png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxhCkmKV/gZeLWH9AYtoyzn96Dup59LyCxTMiOoxFt4mQ="
+          }
+        },
+        {
+          "name": "BEIN MOVIES 3 DRAMA",
+          "logo": "https://www.apnahdtv.com/images/bein-movies-3-drama-mea.png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxuddYPtV3jyExsTmtPvVXixdf8Js3FSMU/TwIeY5sWUA=",
+            "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxYVf2rqUSpqoO+qNvLWXLKsVyc8QRw4CbnmLjh8jVyKs="
+          }
+        },
+        {
+          "name": "BEIN MOVIES 4 FAMILY",
+          "logo": "https://www.apnahdtv.com/images/bein-movies-4-family-mea.png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxHqS7SeGlmPYT4OJVWq/PCwcakf1Zfnx4kO3Aesmjq1s=",
+            "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxKR+bPQMgF7HmAP4BOR9xYApSYruTpTgYKlcZss870P4="
+          }
+        },
+        {
+          "name": "BEIN SERIES 2",
+          "logo": "https://www.apnahdtv.com/images/bein-series-2-mea.png",
+          "streams": {
+            "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxHrF+OaDpVNwmIzNpcKl86GD1r3psoqUv6MfrwXeXGhk="
+          }
+        },
+        {
+          "name": "BEIN DRAMA",
+          "logo": "https://www.apnahdtv.com/images/bein-drama-1-mea.png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxGXe+CBYeZ66+HXaodphqVIdqZZzm6+Hjz3E624JpKCs="
+          }
+        },
+        {
+          "name": "BEIN ANIMAL PLANET",
+          "logo": "https://www.apnahdtv.com/images/animal-planet-int.png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxoEerbAnxBCvLQ8NW3uTFBUjcJqmc6+QypsM7Co7DkbA="
+          }
+        },
+        {
+          "name": "BEIN NATIONAL GEO",
+          "logo": "https://www.apnahdtv.com/images/national-geographic-int.png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqx0Mo3iUumOeEW++C3m22JD7YONeLgV/ftRHJTrCFN/iY="
+          }
+        },
+        {
+          "name": "BARAEM",
+          "logo": "https://www.apnahdtv.com/images/baraem-mea.png",
+          "streams": {
+            "SD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxMcWl8BbSrmrikOCLV8n065D48LqerWufiNQtFUP1Ly0=",
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxnUZvHcGTJihKAA4TjssLNn6HuX+7Hydw8NI0Zq5yYoU="
+          }
+        },
+        {
+          "name": "FATAFEAT",
+          "logo": "https://www.apnahdtv.com/images/fatafeat.png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxc3k2wdoW7nO4GcqZoafGj1EZZFuJWPCcDFuq5OuwzXE=",
+            "HEVC": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxkWmxN0be394U6DI9TEYVs9X0xcz8hfRZP8VNil1ZHZc="
+          }
+        },
+        {
+          "name": "BEIN GOURMET",
+          "logo": "https://www.apnahdtv.com/images/bein-gourmet-mea.png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxnjFyLSUj5hNuCnpIXp4i6ZqW/4yWntfBvTwIykSEn3s="
+          }
+        },
+        {
+          "name": "BEIN HGTV",
+          "logo": "https://www.apnahdtv.com/images/bein-h-and-e-hd-tr.png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqx9MDYjDPh6wDFrOZu5TV4JByAAspmzrKzLWMBuozgKRE="
+          }
+        },
+        {
+          "name": "BEIN JEEM",
+          "logo": "https://www.apnahdtv.com/images/jeem-mea.png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxErcBzt8qwSXWadkVEqvce0ljXIgkDoVIiiuQg6VJLoc="
+          }
+        },
+        {
+          "name": "BEIN AMC",
+          "logo": "https://www.apnahdtv.com/images/amc-mea.png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxw456tJWDh77eOGjLzKNtr9QzQ96mflTghJlP3Psi+dE="
+          }
+        },
+        {
+          "name": "BEIN BOOMERANG",
+          "logo": "https://www.apnahdtv.com/images/boomerang-mea.png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxTwdC7QKTLk1AVUTZxdv//OcVJY/8LzievXHrPvHCNoQ="
+          }
+        },
+        {
+          "name": "BEIN CARTOON NETWORK",
+          "logo": "https://www.apnahdtv.com/images/cartoon-network-int.png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxEG6QCLFo0/9TJNc56vF1LDC84Gc4nyyOUOvuIFVGbJQ="
+          }
+        },
+        {
+          "name": "BEIN JUNIOR",
+          "logo": "https://www.apnahdtv.com/images/be-junior-mea.png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxiWzCiLPQQKdr6hn6MG2Bkjdk/j9ONE5ewY97R2ahTlA="
+          }
+        },
+        {
+          "name": "BEIN DISCOVERY FAMILY",
+          "logo": "https://www.apnahdtv.com/images/discovery-family-int.png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqx9H0WSjF69H05fvCBpGHUo+YkgLTHH/CQQFqdfAoRKLw="
+          }
+        },
+        {
+          "name": "FOOD NETWORK",
+          "logo": "https://www.apnahdtv.com/images/food-network-int.png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxrtyVAP+uTothHrxzqacQ7bGKReTysfEUx+Jh6ZJx84M="
+          }
+        },
+        {
+          "name": "BEIN OUTDOOR",
+          "logo": "https://www.apnahdtv.com/images/bein-outdoor-mea.png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxanQerOAneAT4cINP46KxUeQVVglCPFcUd/QvbxNQ87c="
+          }
+        },
+        {
+          "name": "BEIN STAR ACTION",
+          "logo": "https://www.apnahdtv.com/images/bein-star-action-hd-tr.png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxQk+hjG4l0MZbUHk3bYSlQq5Jo1p5yn3oaW8tu/OmLf0="
+          }
+        },
+        {
+          "name": "NICKELODEON",
+          "logo": "https://www.apnahdtv.com/images/nickelodeon-int.png",
+          "streams": {
+            "SD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxiVSqmiS45yajaAnsLNUVZTKiA5B2B50nMojAIqzOBnM="
+          }
+        },
+        {
+          "name": "DOCUMENTARY BIL ARABIE",
+          "logo": "https://www.apnahdtv.com/images/bein-documentary-mea.png",
+          "streams": {
+            "SD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxDgt1/bG4mKmviRsCILmcKJBNyiJPcOH7UO4ez/eoygE="
+          }
+        },
+        {
+          "name": "ALFA FAN",
+          "logo": "https://www.apnahdtv.com/images/alfa-fan-mea.png",
+          "streams": {
+            "SD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqx1Rk0uVILl9m9bx21QiVT/5c1CGR3IguOoRS7wUD5tCc="
+          }
+        },
+        {
+          "name": "ALFA SAFWAH",
+          "logo": "https://www.apnahdtv.com/images/alfa-safwah-mea.png",
+          "streams": {
+            "SD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqx+cBURy4BZ5aUGZM9wM/8IT7w/bgTioSzYEGjBXGrr/M="
+          }
+        },
+        {
+          "name": "ALFA CINEMA 1",
+          "logo": "https://www.apnahdtv.com/images/alfa-cinema-1-mea.png",
+          "streams": {
+            "SD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxNpJNw0p3c0LoV2sSG62FIN0r5/RJTBLqxRVqcEYSmHQ="
           }
         }
       ]
