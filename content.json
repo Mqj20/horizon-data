@@ -12,161 +12,12 @@
       "name": "Bein-VIP",
       "channels": [
         {
-          "name": "beIN 4K — 4K SOLO SPORTS",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
-          "streams": {
-            "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6FcrfQEZiqxBzGVpDImXqvTZw=="
-          }
-        },
-        {
-          "name": "beIN 4K — 4K أجنبي",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
-          "streams": {
-            "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6FcjKZ/AM3ojP1EOl1odJjnZg=="
-          }
-        },
-        {
-          "name": "beIN 4K — 4K TOD SS",
-          "logo": "https://i.ibb.co/30Zp99W/tod-tv.png",
-          "streams": {
-            "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6FcftoScoVH20GhyQcYoLT/Gg=="
-          }
-        },
-        {
-          "name": "beIN 1 — GOGO 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
-          "streams": {
-            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5QVL1NeOJfBbxJ3CgkG1XKtSPlX0F3+0068W/yXgVw1Y="
-          }
-        },
-        {
-          "name": "beIN 1 — CONNECT 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
-          "streams": {
-            "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6Fcf9or2MKPsfRXg+Ogph3NeQ=="
-          }
-        },
-        {
-          "name": "beIN 1 — SA 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
-          "streams": {
-            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5aihTObD7QrDKI4mG9Rd578b2ETbnmYBWSNHhmvMPr+Y="
-          }
-        },
-        {
-          "name": "beIN 1 — NM 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
-          "streams": {
-            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5twXUfxwjN08p+aOddEYZooyTBpA0PQQPuu/ogE4BegY="
-          }
-        },
-        {
-          "name": "beIN 2 — GOGO 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
-          "streams": {
-            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5/P42gjyhX+mkqIq+O6yanF80QBkEHRK3z+qjqVzIELk="
-          }
-        },
-        {
-          "name": "beIN 2 — TOD 4K",
-          "logo": "https://i.ibb.co/30Zp99W/tod-tv.png",
-          "streams": {
-            "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6Fcol7umYw2tckklnQUuQj08npvgAwQvhtjTwpoTTIWKAk="
-          }
-        },
-        {
-          "name": "beIN 2 — CONNECT 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
-          "streams": {
-            "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6FcOdid+GuzQ6v+58Jk7AUyeA=="
-          }
-        },
-        {
-          "name": "beIN 2 — SA 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
-          "streams": {
-            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5thuci0DxjieZPPiU1qLw4frOCIg/DeeRl/GjJ2Yy1v0="
-          }
-        },
-        {
-          "name": "beIN 2 — NM 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
-          "streams": {
-            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5pAJI/FIo3eU6TqFDjNi1+Vx6IOk1YWQuoZrmja/WGYg="
-          }
-        },
-        {
-          "name": "beIN 3 — GOGO 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
-          "streams": {
-            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth50k/yo7XQIfulUDCiYXd8u38kCA1oa+JAX+UKhI2p+q0="
-          }
-        },
-        {
-          "name": "beIN 3 — CONNECT 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
-          "streams": {
-            "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6FcAvfVS0cTxfTSOy727oflcA=="
-          }
-        },
-        {
-          "name": "beIN 3 — SA 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
-          "streams": {
-            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5ywSA49h7rtwk2L0TNIvxwMSrfWl6OgRXHEvCIYK5Mx0="
-          }
-        },
-        {
-          "name": "beIN 3 — NM 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
-          "streams": {
-            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5SzIBN+pAJW0OJJ9ozq+ckuUOyRq/E5hk25TJaaXLT/M="
-          }
-        },
-        {
-          "name": "beIN 4 — GOGO 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
-          "streams": {
-            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5aCOg3FdXHjtfuUTkSFrC0tFezbc0b6Ya7+8alAiu7Uc="
-          }
-        },
-        {
-          "name": "beIN 4 — SA 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
-          "streams": {
-            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5LfF/aizIwgxiqqdN3X24gXM4YGJOZ++1zKObUKTadvU="
-          }
-        },
-        {
-          "name": "beIN 4 — NM 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
-          "streams": {
-            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5EDdOKOrcXfTwLuS6CzubEKJxBunHk8oFe1BQfvWfA6I="
-          }
-        },
-        {
-          "name": "beIN 4 — FAMILY 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
-          "streams": {
-            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5wnCK8ywmL99jE4hRaqaWNipS/TCRLwc52tGmhT98Ufc="
-          }
-        },
-        {
-          "name": "beIN 5 — NM 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
-          "streams": {
-            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5KCFKdt0JkKxlogj5e3vKbSMBcfLoT3wrBFkebSsxXHk="
-          }
-        },
-        {
           "name": "BEIN SPORTS 1",
           "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
           "streams": {
             "SD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbpHyMDONyu4xYuRafJzMWk4kxVuvAu9rlFsTITkEoTPU",
             "HD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbs+Wg+Lq6RjknxJKhXrCKlUdwkdpX3tAzUV1OB17Cxya",
-            "FHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbouR8eNGYs09r0abAcdAolOsCr1/yosWIScIwok/tnQK",
-            "4K": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbo5r6YvrGKD5HSxQZ35eWo7B+QK0TkQQMvj9OAQO8Haj",
-            "UHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbls6C0IrnLFdN1hZ8EXb0I7lSZ1G2koPeYRZD6mE+YcX"
+            "FHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbouR8eNGYs09r0abAcdAolOsCr1/yosWIScIwok/tnQK"
           }
         },
         {
@@ -175,9 +26,7 @@
           "streams": {
             "SD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbll+/dKjbQgn3+oX1Cn/inB1dtGV1RvkH8hKt46lDGP6",
             "HD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbgDIr2+3y/RcQgqcxuV3rTfTfSmlxNq4UDGlDI2iZKTM",
-            "FHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbsVty7nRYgWRls4CHuaj1HYkgV4+30wSvOxGFuzz4Uby",
-            "4K": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbhKMwpuc3KzsHfd/OvkbcsPBWlZBc5UeehMSCj/gO0tZ",
-            "UHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhblcKuauDrKquXa7vbj4l+MNQLQIRC+KeVPrf6X+q5K+q"
+            "FHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbsVty7nRYgWRls4CHuaj1HYkgV4+30wSvOxGFuzz4Uby"
           }
         },
         {
@@ -186,9 +35,7 @@
           "streams": {
             "SD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbhWFviFtqnSBqpbA8OFlkSu3cuZ5tF7tCeONBDdK2km8",
             "HD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbs0zYykamSr6tCLTonazMoSAyCq/CMrmHgVZy5/JGgrF",
-            "FHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbrkxnp7yNEezhIIAz9HxSdbg2i0hyNukXE7qyj968+WN",
-            "4K": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbqVcnGLYawl1mr6mL2e99BwOifbjAJ6ee2XDk9ZNq/O3",
-            "UHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbnN693z9YcrR0eVQ0WpDC6q2VGi3IzsBy5QlH/wpnqrF"
+            "FHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbrkxnp7yNEezhIIAz9HxSdbg2i0hyNukXE7qyj968+WN"
           }
         },
         {
@@ -197,9 +44,7 @@
           "streams": {
             "SD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbvoSHEsmXQYzMPZigaw1GLPkUFp2d3uIKx+UK2BrCy3p",
             "HD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbloW89HKRdEXRqz6ZurpdhXFedzLTZJV5CODNA6b1T4N",
-            "FHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbmf6TnW2VjqGZqcmBi7ZQ71Bc0Yss8+8ZPeDIXrTc3Mr",
-            "4K": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbmVeF69CTYgd94pStDXjYJiBZH8G3g/j4YzxMiSermEY",
-            "UHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbupFQTVQP0ENzMd9Joc4zAUjm0Y1b6deKc3BpkkRVjB8"
+            "FHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbmf6TnW2VjqGZqcmBi7ZQ71Bc0Yss8+8ZPeDIXrTc3Mr"
           }
         },
         {
@@ -208,9 +53,7 @@
           "streams": {
             "SD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbj/jPlD7ENFpSbTHcqmDtVpv1847Z9VKzuDYkWIepyi9",
             "HD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbmL8Hf3DedkkgbZ+wZjXk6ZjgY/qcEsMfq7JRhDbZ24X",
-            "FHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbjPUks1pMEObqWGu7CLbocrNFXYOFtL3em/QVzg6SD9g",
-            "4K": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbiQNUMPl1tznaNMN7ZqDz7a8AvnrU8Wiu3NFTBJXT9tl",
-            "UHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbg2JRBRdMKYQ2BnC0j4rnUmswNekmwpzDTmgsKcaNKcV"
+            "FHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbjPUks1pMEObqWGu7CLbocrNFXYOFtL3em/QVzg6SD9g"
           }
         },
         {
@@ -219,23 +62,7 @@
           "streams": {
             "SD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbhuM0VqbHAcb2U7LbSIOhcss99Wc3EmrV8LcHCXYzhBU",
             "HD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbmZhLvZnVH/HXGp53wIo5MnsnQaJs4HyAKwbosdO0R1O",
-            "FHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbvDFKqMtxm82qsxXkLsLI0Efm7K3RFqWM+NWvmrzQHp/",
-            "4K": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhblv9e1744clNsJFo9ot3yK4Om9vxqbJqqKQNGWePngbA",
-            "UHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbg+RUNXwsovOcEjOHZyciBEz2QH4za3nOoIKghGrKntw"
-          }
-        },
-        {
-          "name": "BEIN SPORT 4K (Backup)",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
-          "streams": {
-            "4K": "0qHSQF/Cg8urEsmpsCiK3xAtmQBXXzgASfNS0CrgLUovc92m0Fyv2/UbfXzjS4+YNj17IW1A+WU5OBUKnloXGQ=="
-          }
-        },
-        {
-          "name": "BEIN SPORTS 1 4k+ (Backup)",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
-          "streams": {
-            "4K+": "0qHSQF/Cg8urEsmpsCiK3xAtmQBXXzgASfNS0CrgLUovc92m0Fyv2/UbfXzjS4+YnhnMLlYyRcisHVdobfKkYw=="
+            "FHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbvDFKqMtxm82qsxXkLsLI0Efm7K3RFqWM+NWvmrzQHp/"
           }
         }
       ]
@@ -379,8 +206,7 @@
           "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
           "streams": {
             "SD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxs/OFtCNssDJ7ESlXBV3lwVg==",
-            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxsr81YyxGfLROTsnEeLCo9bw==",
-            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxse9NjQnDwesaT57MEQzvPbQ=="
+            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxsr81YyxGfLROTsnEeLCo9bw=="
           }
         },
         {
@@ -388,8 +214,7 @@
           "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
           "streams": {
             "SD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxscdnOH29Y2ClX7OsI8alPCw==",
-            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxstAywWJNbqzRXNBBPPK+RJQ==",
-            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxsGZAAI6BkcAgXMcef9KBtaw=="
+            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxstAywWJNbqzRXNBBPPK+RJQ=="
           }
         },
         {
@@ -397,8 +222,7 @@
           "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
           "streams": {
             "SD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxsAqaxsoFSroauLWypVcWKEA==",
-            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxsHPTxEI7t+LpdFpycXhcrZQ==",
-            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxs9z7i/AXZRg3NCX3qpYIKUQ=="
+            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxsHPTxEI7t+LpdFpycXhcrZQ=="
           }
         },
         {
@@ -406,8 +230,7 @@
           "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
           "streams": {
             "SD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxshx7ryUEmHKl39WjWp/w3lQ==",
-            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxsszyc4Wvg/LK9itklm88FTw==",
-            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxsK9DOr9c1F09vPNk5iPIu6A=="
+            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxsszyc4Wvg/LK9itklm88FTw=="
           }
         },
         {
@@ -415,8 +238,7 @@
           "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
           "streams": {
             "SD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxsddtH/ul04+fnb8l6+Gb6eQ==",
-            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxsFC/vIMvdMe287lvY83ur6g==",
-            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxsL0b0rw5ecA8yi3ZzGyQjdA=="
+            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxsFC/vIMvdMe287lvY83ur6g=="
           }
         },
         {
@@ -424,29 +246,7 @@
           "logo": "https://apnahdtv.com/images/bein-sports-hd6-hz-int.png",
           "streams": {
             "SD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxsSBWWDccjxXHahqkYKCWsWw==",
-            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxsGvgNtnyBcgxiaLVHevArUg==",
-            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxsu6FD42qu9HuipbH+AAOrEQ=="
-          }
-        },
-        {
-          "name": "beiN SPORTS 7 (G) - 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
-          "streams": {
-            "4K": "mbnBwpY7o+/L1L9F4xJtxMPY8qYii38B7AV7juSG1zDgDdlmlFrXludBNcASuXVwuMyRWN5l2za5t2nwQSm9j4CwSW/ambp3gWuXDfnBUZw="
-          }
-        },
-        {
-          "name": "beiN SPORTS 8 (G) - 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
-          "streams": {
-            "4K": "mbnBwpY7o+/L1L9F4xJtxMPY8qYii38B7AV7juSG1zDgDdlmlFrXludBNcASuXVwuMyRWN5l2za5t2nwQSm9j8HuMbH1N+uiSLRqHzXvK4I="
-          }
-        },
-        {
-          "name": "beiN SPORTS 9 (G) - 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd6-hz-int.png",
-          "streams": {
-            "4K": "mbnBwpY7o+/L1L9F4xJtxMPY8qYii38B7AV7juSG1zDgDdlmlFrXludBNcASuXVwuMyRWN5l2za5t2nwQSm9j4sOhbqiXLJ/cK/b90qCEIE="
+            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxsGvgNtnyBcgxiaLVHevArUg=="
           }
         }
       ]
@@ -460,8 +260,7 @@
           "streams": {
             "LOW": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrSzh6bBf81+tifwUnRA+nfg==",
             "SD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrJ/81UDaLcTrsNpsLKwI0CA==",
-            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xr/t+TkuQ2FN7dkMh99BZceA==",
-            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrepKyeMScdDSS6AqJtTjMDg=="
+            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xr/t+TkuQ2FN7dkMh99BZceA=="
           }
         },
         {
@@ -470,8 +269,7 @@
           "streams": {
             "LOW": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrrna02nDU+AUUkoxpT3tm4w==",
             "SD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrespd64Fl8BY3gimxiS0UEw==",
-            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrA4mUFmWZj2ps4P3zfF0KEA==",
-            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrBqkizuwmhrYeNwuslC3P/g=="
+            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrA4mUFmWZj2ps4P3zfF0KEA=="
           }
         },
         {
@@ -480,8 +278,7 @@
           "streams": {
             "LOW": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrOq9HMfvi3l6n0dv+JtJSnQ==",
             "SD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrqNHJS4CcVu01bh8k2nL2eQ==",
-            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xracWoIBdIOph23zKuJeyQ1g==",
-            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrhm5WgMh6+T50Q7ARxkPzWA=="
+            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xracWoIBdIOph23zKuJeyQ1g=="
           }
         },
         {
@@ -490,8 +287,7 @@
           "streams": {
             "LOW": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xroZMFO5teoqSNz9qUG7P6eA==",
             "SD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrh2J3XYxUYFABDoX0/L73Lw==",
-            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrfNGhaAQcdn+exELf8Wc9uw==",
-            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrOqC0e/cx9Kk+WF6yIoXs8g=="
+            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrfNGhaAQcdn+exELf8Wc9uw=="
           }
         },
         {
@@ -500,8 +296,7 @@
           "streams": {
             "LOW": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrDbk17mcWCkF9pzsnLZ7rCg==",
             "SD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrTHGQ2HgaVSp6dwzlULm7Rw==",
-            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrPfOC3tobivaJj8Zq2d+X4w==",
-            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrubXD4tCH/5U9vmMK+2iPyA=="
+            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrPfOC3tobivaJj8Zq2d+X4w=="
           }
         },
         {
@@ -510,8 +305,7 @@
           "streams": {
             "LOW": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xr/jnDe274gfWuppY7OMGt/Q==",
             "SD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrcLTXZidjFKRtxLs3KNkb3Q==",
-            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xr6tc+P1pelwIk0/iveuTUNA==",
-            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xry+VC/yXHinyuXVh95mHUfw=="
+            "HD": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xr6tc+P1pelwIk0/iveuTUNA=="
           }
         }
       ]
@@ -873,269 +667,197 @@
       "name": "Alwan S2",
       "channels": [
         {
-          "name": "Alwan Sport 1 4K+s2",
+          "name": "Alwan Sport 1",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluvSuJvHp8z7nDZoQ9VZ7VJA=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluvSuJvHp8z7nDZoQ9VZ7VJLvbb73p53UFwKRq98xKGpE=",
+            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluUPYpfs4M1PtF4aMZ55QRXFLB78FIppOp+QgFZp5qYvw=",
+            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BsslusQEGZ0nyxGo91TxUBzNRE3xja8ni2mHwpXoAMNBxb7w="
           }
         },
         {
-          "name": "Alwan Sport 2 4K+s2",
+          "name": "Alwan Sport 2",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluvfuZ+qjgYnRqzTvWMuzB0w=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluvfuZ+qjgYnRqzTvWMuzB0y9/cyHrZGtjH/Qoxp0JM5w=",
+            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BsslufBM73EFky7zJHpwWmMQ3Cw7AZ4FEXUOxHC7dRNGlkZM=",
+            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluNwwBwS9yMPnAHQb+sVyBVrGgvqJJTns8iv4Y6q4S0NU="
           }
         },
         {
-          "name": "Alwan Sport 3 4K+s2",
+          "name": "Alwan Sport 3",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluaEQKmaHv19NzJHMdxd2zbw=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluaEQKmaHv19NzJHMdxd2zb3JGLKeYuJFrq+yKJGSeiFE=",
+            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BsslupOrBYoST47nhmikb2jN9HyQE9OdDk4AXJq+BTY5XRR0=",
+            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslu6uuPQaZ1p3xSu7G80Ub4JFEvBmIBwk2d8CBBcTDYYkY="
           }
         },
         {
-          "name": "Alwan Sport 4 4K+s2",
+          "name": "Alwan Sport 4",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluQWkAxkeOvY2/f1tckrRGJQ=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluQWkAxkeOvY2/f1tckrRGJd3gWl9IPZSESADHQWOiFdQ=",
+            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluVHzj9zJ0Uw6oMRXOUJBNMXRWxJ0+4eMJAtB9okZAzU0=",
+            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssludvnuuvOmyrJQNhdhi9nhcUOxERCIfaAmxwJRXJNMfSM="
           }
         },
         {
-          "name": "Alwan Sport 5 4K+s2",
+          "name": "Alwan Sport 5",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluK6tv7ZY9/nUKaln1TjDQXQ=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluK6tv7ZY9/nUKaln1TjDQXcwGs6UoDQ7l7rOdcHjcJik=",
+            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluEfCCwexvdS3yOkNtGGEeH68AUik8Sl6mBO+42cLAy0Y=",
+            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluaiFNU7Bx1NYh9b2cj/xV8+Pe7wlcWe5DV+Wnkg0YScs="
           }
         },
         {
-          "name": "Alwan Sport 6 4K+s2",
+          "name": "Alwan Sport 6",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslu1s73pOuYVL0rhy3bEgkogw=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslu1s73pOuYVL0rhy3bEgkog63J1VrPSg0JIakN24tZx4E=",
+            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluVmri+MhgPX9JvWyMgucy4T/ziB6lYBFS1G9T5XyoAQs=",
+            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BsslumeyhXbOAmOsJ4lSwUZImPvxrWAUduD9Xvfvammt6Dh0="
           }
         },
         {
-          "name": "Alwan Sport 7 4K+s2",
+          "name": "Alwan Sport 7",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslua1Z/iVveR08F97IVJqqT2g=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslua1Z/iVveR08F97IVJqqT2jng9qCeq8OWrwLbKdXgCkA="
           }
         },
         {
-          "name": "Alwan Sport 8 4K+s2",
+          "name": "Alwan Sport 8",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslu6Oty8wgn4HoTEhfesboReA=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslu6Oty8wgn4HoTEhfesboReKoYNBF3YaV8tLCqW02NzOg="
           }
         },
         {
-          "name": "Alwan Sport 9 4K+s2",
+          "name": "Alwan Sport 9",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluL10uMjvYHNcNeVvALbfkDg=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluL10uMjvYHNcNeVvALbfkDhabPBCEN2543Y08gHPd0EU="
           }
         },
         {
-          "name": "Alwan Sport 10 4K+s2",
+          "name": "Alwan Sport 10",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluiFLpGkYWrJcUZ07R0iTzvQ=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluiFLpGkYWrJcUZ07R0iTzvf2euPRyogvsIQpf8RkXHwA="
           }
         },
         {
-          "name": "Alwan UFC 4K+s2",
+          "name": "Alwan UFC",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluMwNbTpCtNGAnc6atb3Nfpw=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluMwNbTpCtNGAnc6atb3NfpwTM2UWYhShdBEXMDjX8X6o="
           }
         },
         {
-          "name": "Alwan F1 4K+s2",
+          "name": "Alwan F1",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslusac+R1JzVZ5FgIwSEVYQ/g=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslusac+R1JzVZ5FgIwSEVYQ/j1AH2qhbkwEpnxdjQwcsck="
           }
         },
         {
-          "name": "Alwan WWE 4K+s2",
+          "name": "Alwan WWE",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslu3Ld1cEvng+0lruo8SM7Raw=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslu3Ld1cEvng+0lruo8SM7Ra7fTML4taZKqB+ZHqA/ivTw="
           }
         },
         {
-          "name": "Alwan Sport 1 HD+s2",
+          "name": "Alwan Aflam 1",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluUPYpfs4M1PtF4aMZ55QRXA=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslu0bU/2ohZDsuGhHOE7Fhmwxn5smp9joTC8GzmTpax6cE="
           }
         },
         {
-          "name": "Alwan Sport 2 HD+s2",
+          "name": "Alwan Aflam 2",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BsslufBM73EFky7zJHpwWmMQ3Cw=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluvfKIwvVAFSTubQw/AmRw4B4BsZmG2fgFOh06a2rnOJE="
           }
         },
         {
-          "name": "Alwan Sport 3 HD+s2",
+          "name": "Alwan Aflam 3",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BsslupOrBYoST47nhmikb2jN9Hw=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluBo0rQPInVPcfisThf5Dicbl1mZeb4ANOYWuDVWNvEnM="
           }
         },
         {
-          "name": "Alwan Sport 4 HD+s2",
+          "name": "Alwan Aflam 4",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluVHzj9zJ0Uw6oMRXOUJBNMQ=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluCBXqJg2eXdcXBQvHsH2en/qMGMqIXcrb25psNmhKVbs="
           }
         },
         {
-          "name": "Alwan Sport 5 HD+s2",
+          "name": "Alwan Turkey",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluEfCCwexvdS3yOkNtGGEeHw=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslu19yZvEtwwrSUF7jav7BOED4uglffvcUajNxvFjAVb2I="
           }
         },
         {
-          "name": "Alwan Sport 6 HD+s2",
+          "name": "Alwan Alwathaeqye",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluVmri+MhgPX9JvWyMgucy4Q=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluozqsJSDNnsar+QT6eU6FnZxDW3NP+hR8r2T2q2l9D0o="
           }
         },
         {
-          "name": "Alwan Sport 1 SD+s2",
+          "name": "Alwan Atfal",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BsslusQEGZ0nyxGo91TxUBzNREw=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslu9fBXDrDiCkuuLtq+ki9CH3sQgNh8pczL1G4T0B0oJPY="
           }
         },
         {
-          "name": "Alwan Sport 2 SD+s2",
+          "name": "Alwan Mosalsalat",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluNwwBwS9yMPnAHQb+sVyBVg=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluyDYgi4fdzCZzLY9NSz8kw8+FOJzFw74ShGwoBMofyiQ="
           }
         },
         {
-          "name": "Alwan Sport 3 SD+s2",
+          "name": "Alwan Aghani",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslu6uuPQaZ1p3xSu7G80Ub4JA=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BsslubeRALUJcD1kTXhl/tUb4idcAhARWWz2TW795IqiJWpk="
           }
         },
         {
-          "name": "Alwan Sport 4 SD+s2",
+          "name": "Alwan Bollywood",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssludvnuuvOmyrJQNhdhi9nhcQ=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslub3yfO/XNcDtTwrx2GzTFhE0pZ9YN58X879rHCKNgVGg="
           }
         },
         {
-          "name": "Alwan Sport 5 SD+s2",
+          "name": "Alwan Korea",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluaiFNU7Bx1NYh9b2cj/xV8w=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BsslujKApiIAk3mrzFIURCXArsZunYWrGxWOACdO4s2R5cdk="
           }
         },
         {
-          "name": "Alwan Sport 6 SD+s2",
+          "name": "Alwan Mosalsalat+",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BsslumeyhXbOAmOsJ4lSwUZImPg=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bssluqs9IPruI8gJ1/Jz9Gl70SZoi6rjNvoRUDBPGvmhW1Vc="
           }
         },
         {
-          "name": "Alwan Aflam 1 4K+s2",
+          "name": "Alwan Anime",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslu0bU/2ohZDsuGhHOE7Fhmww=="
-          }
-        },
-        {
-          "name": "Alwan Aflam 2 4K+s2",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluvfKIwvVAFSTubQw/AmRw4A=="
-          }
-        },
-        {
-          "name": "Alwan Aflam 3 4K+s2",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluBo0rQPInVPcfisThf5DicQ=="
-          }
-        },
-        {
-          "name": "Alwan Aflam 4 4K+s2",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluCBXqJg2eXdcXBQvHsH2enw=="
-          }
-        },
-        {
-          "name": "Alwan Turkey 4K+s2",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslu19yZvEtwwrSUF7jav7BOEA=="
-          }
-        },
-        {
-          "name": "Alwan Alwathaeqye 4K+s2",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluozqsJSDNnsar+QT6eU6FnQ=="
-          }
-        },
-        {
-          "name": "Alwan Atfal 4K+s2",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslu9fBXDrDiCkuuLtq+ki9CHw=="
-          }
-        },
-        {
-          "name": "Alwan Mosalsalat 4K+s2",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BssluyDYgi4fdzCZzLY9NSz8kww=="
-          }
-        },
-        {
-          "name": "Alwan Aghani 4K+s2",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BsslubeRALUJcD1kTXhl/tUb4iQ=="
-          }
-        },
-        {
-          "name": "Alwan Bollywood 4K+s2",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslub3yfO/XNcDtTwrx2GzTFhA=="
-          }
-        },
-        {
-          "name": "Alwan Korea 4K+s2",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6BsslujKApiIAk3mrzFIURCXArsQ=="
-          }
-        },
-        {
-          "name": "Alwan Mosalsalat+ 4K+s2",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bssluqs9IPruI8gJ1/Jz9Gl70SQ=="
-          }
-        },
-        {
-          "name": "Alwan Anime 4K+s2",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslu1XMdSEKudLZJYervKaiPyQ=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7SYEpmPx3mTw2YCSr6Bsslu1XMdSEKudLZJYervKaiPyV4q7/51L6YJ98AiOppkBJU="
           }
         }
       ]
@@ -1147,343 +869,199 @@
           "name": "SOLO HDR (HLG)",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfnBFmXNswsWPRs1BOyDHh+w=="
+            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfnBFmXNswsWPRs1BOyDHh+77hb4hbA8Ke9VKR73Nh8Ak="
           }
         },
         {
-          "name": "SOLO 1 SD",
+          "name": "SOLO 1",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfER6ZUVNsPUWhEt27zVVkbQ=="
+            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfER6ZUVNsPUWhEt27zVVkbalzhfp0jfq4wucr2bkUSXs=",
+            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfvBECtAuo9oE1t+FpgEqHC1/3yGnd1Uy3if0R49Li2DA=",
+            "FHD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfnSwjQ3VnsmE1YIlmXvQf8pWMDc7APEC8kJiN39APVqc=",
+            "HEVC": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfCuHJ+x9ty7scZ3V2VyvW55jFygT4l+q3DRU00bv6K1k="
           }
         },
         {
-          "name": "SOLO 2 SD",
+          "name": "SOLO 2",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfQn2/AJ8mpMpnEOt/mYA5fQ=="
+            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfQn2/AJ8mpMpnEOt/mYA5ffzyfERzpJYFvH0R/9s9WjM=",
+            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfIvp2i4xzYzB3ZmUaT+hMuzNU5yS0+CYOpEEZU0C3blQ=",
+            "FHD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfe9diJtjK5bYW/9CIfa2OMrU1cIhtjaN383SRVXJ5TLo=",
+            "HEVC": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfbuaSRsOmPdF6pgC/q6aecB0kuIkRxmidWPeFZ0EAaJI="
           }
         },
         {
-          "name": "SOLO 3 SD",
+          "name": "SOLO 3",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfemM3+3h8HNVyW8ZWxwcT5w=="
+            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfemM3+3h8HNVyW8ZWxwcT5+DwMoOe9QoUcefpu4LVb1E=",
+            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfBx92anhateBiIoAuJnPvqU8WoyBvtde6qfSvdMmoSNU=",
+            "FHD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfc5WNUvruXvXxwBLpQgXUngnYMhQ/xQG0ulPztRMzIaE=",
+            "HEVC": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfM6Vh0oMX5vWtKgRlNTfgvSCKYdXjghyAlGFXnji8b8g="
           }
         },
         {
-          "name": "SOLO 4 SD",
+          "name": "SOLO 4",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfn46hjshccVwem+p8EGC6fQ=="
+            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfn46hjshccVwem+p8EGC6fdh4tAoPnOUfyHvJV0mL2Vo=",
+            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfcMZ+UQ7wV91kKiRC+4XqEuQZ/he/roJ9RWXDsYqSCH8=",
+            "FHD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfWZWUz96VR1eCJ3QmZChnBv34eL2fM8MLbKl7kTdp6Nw=",
+            "HEVC": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfm7OurZb1L7CFttFYAS69UdIPD5dkmwOxfojgimRh2xU="
           }
         },
         {
-          "name": "SOLO 5 SD",
+          "name": "SOLO 5",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfpCCU9/O3f5aPkNus+RtMJQ=="
+            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfpCCU9/O3f5aPkNus+RtMJYDUaFP3uAtsIwjhUkIfRyo=",
+            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfjmKDTlfTNfD+xSkPDlw2rvUgARDoAnk3Ao2lUdGQh80=",
+            "FHD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikf7R77D2/KUKBcQuAy+3f+GfjKkHo3h9ZfbqAqOF7kVCA=",
+            "HEVC": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfJBuIv6PSseCf0GH/UPTDnyh8mgmmeZVQQpaVFqYEEsg="
           }
         },
         {
-          "name": "SOLO F1 SD",
+          "name": "SOLO F1",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfp7gn5xv/jhrhbbWg4XoaXQ=="
+            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfp7gn5xv/jhrhbbWg4XoaXU5vU/xn5ei4dG4GN/DizMo=",
+            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfw8JNg9ix/VuN/QjC1tVQCDSH6EzbW1LGuZjOs786/Zo=",
+            "FHD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfVn22T8kP2K51tkSiBs963qprcHfP9jwNt0OdqfQ5DJk=",
+            "HEVC": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfalhzVwWLqc5Mp1kKgMks9TVAj2vZGrFxEd/cI/KNGos="
           }
         },
         {
-          "name": "SOLO UFC SD",
+          "name": "SOLO UFC",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikf6iEYkRb7sWA3xEvmEceIzA=="
+            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikf6iEYkRb7sWA3xEvmEceIzELymdgMgbHbXzvWcrxc1bU=",
+            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfqKgvHe+kyAujK76pJ7CogHrYr12ZGUxveO4fSzjd0UI=",
+            "FHD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfMeLA38ZpHfjoJdsPbm/C0bYuAnTju3/dmGcpqRMEBuA=",
+            "HEVC": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikf4UutCqKFjT5EzzLNkOjConel/y/xrwqDgRJZx+6B7+w="
           }
         },
         {
-          "name": "SOLO WWE SD",
+          "name": "SOLO WWE",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfvhdm/Cb5yyrayEI6rB3JZg=="
-          }
-        },
-        {
-          "name": "SOLO 1 HD",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfvBECtAuo9oE1t+FpgEqHCw=="
-          }
-        },
-        {
-          "name": "SOLO 2 HD",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfIvp2i4xzYzB3ZmUaT+hMuw=="
-          }
-        },
-        {
-          "name": "SOLO 3 HD",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfBx92anhateBiIoAuJnPvqQ=="
-          }
-        },
-        {
-          "name": "SOLO 4 HD",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfcMZ+UQ7wV91kKiRC+4XqEg=="
-          }
-        },
-        {
-          "name": "SOLO 5 HD",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfjmKDTlfTNfD+xSkPDlw2rg=="
-          }
-        },
-        {
-          "name": "SOLO F1 HD",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfw8JNg9ix/VuN/QjC1tVQCA=="
-          }
-        },
-        {
-          "name": "SOLO UFC HD",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfqKgvHe+kyAujK76pJ7CogA=="
-          }
-        },
-        {
-          "name": "SOLO WWE HD",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfnlFVo7CEZ/KxVKNf17g/dA=="
-          }
-        },
-        {
-          "name": "SOLO 1 FHD",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "FHD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfnSwjQ3VnsmE1YIlmXvQf8g=="
-          }
-        },
-        {
-          "name": "SOLO 2 FHD",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "FHD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfe9diJtjK5bYW/9CIfa2OMg=="
-          }
-        },
-        {
-          "name": "SOLO 3 FHD",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "FHD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfc5WNUvruXvXxwBLpQgXUng=="
-          }
-        },
-        {
-          "name": "SOLO 4 FHD",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "FHD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfWZWUz96VR1eCJ3QmZChnBg=="
-          }
-        },
-        {
-          "name": "SOLO 5 FHD",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "FHD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikf7R77D2/KUKBcQuAy+3f+GQ=="
-          }
-        },
-        {
-          "name": "SOLO F1 FHD",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "FHD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfVn22T8kP2K51tkSiBs963g=="
-          }
-        },
-        {
-          "name": "SOLO UFC FHD",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "FHD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfMeLA38ZpHfjoJdsPbm/C0Q=="
-          }
-        },
-        {
-          "name": "SOLO WWE FHD",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "FHD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfdXoGhrM+qWaKxbMmL6OhCw=="
-          }
-        },
-        {
-          "name": "SOLO 1 HEVC",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfCuHJ+x9ty7scZ3V2VyvW5w=="
-          }
-        },
-        {
-          "name": "SOLO 2 HEVC",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfbuaSRsOmPdF6pgC/q6aecA=="
-          }
-        },
-        {
-          "name": "SOLO 3 HEVC",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfM6Vh0oMX5vWtKgRlNTfgvQ=="
-          }
-        },
-        {
-          "name": "SOLO 4 HEVC",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfm7OurZb1L7CFttFYAS69UQ=="
-          }
-        },
-        {
-          "name": "SOLO 5 HEVC",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfJBuIv6PSseCf0GH/UPTDnw=="
-          }
-        },
-        {
-          "name": "SOLO F1 HEVC",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfalhzVwWLqc5Mp1kKgMks9Q=="
-          }
-        },
-        {
-          "name": "SOLO UFC HEVC",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikf4UutCqKFjT5EzzLNkOjCog=="
-          }
-        },
-        {
-          "name": "SOLO WWE HEVC",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikf2zyHD+33+rFJTct5oIy44w=="
+            "SD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfvhdm/Cb5yyrayEI6rB3JZoApMEi/BV2u09ybUFupcHg=",
+            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfnlFVo7CEZ/KxVKNf17g/dC7GlUpHnmAr/48SSWUiM4g=",
+            "FHD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfdXoGhrM+qWaKxbMmL6OhC6ZOsXuLvLh8KLyYCJm3iRA=",
+            "HEVC": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikf2zyHD+33+rFJTct5oIy444CbXoM/xTuR+Aq6pOj1bJo="
           }
         },
         {
           "name": "SOLO DRAMA",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfsv7EWd8QBKx4RfLIm3hItQ=="
+            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfsv7EWd8QBKx4RfLIm3hItaavW1sqN3qyapIds6FtNlQ="
           }
         },
         {
           "name": "SOLO KIDS",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfoOB9dacIPzWXoR/3ZgsFQQ=="
+            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfoOB9dacIPzWXoR/3ZgsFQRn8xovx2pBaeQdnr6OYz1Y="
           }
         },
         {
           "name": "SOLO MOVIES",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfRxwB/QwuLQI7S4Iv79p1HA=="
+            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfRxwB/QwuLQI7S4Iv79p1HK9QbrHjSr46P7kdNx1K5RU="
           }
         },
         {
           "name": "SOLO TURKEY",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfdxeSPXVxsLbQJa0/XBPPiw=="
+            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfdxeSPXVxsLbQJa0/XBPPi7AlPgw2K/3CdmYOenQOLAk="
           }
         },
         {
           "name": "SOLO Documentary",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikf4uhdo9lcEwsh01vD1AcydQ=="
+            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikf4uhdo9lcEwsh01vD1AcydY9fNbf2uX0s2wI4sUmuARQ="
           }
         },
         {
           "name": "SOLO ACTION",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikf7TBzesagZ1QVESYwXCSdEg=="
+            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikf7TBzesagZ1QVESYwXCSdEpnot18DoJ8hDqC4iGUJSOE="
           }
         },
         {
           "name": "SOLO COMDEY",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfg/eVaRiq3xX4521KPv2Bsw=="
+            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfg/eVaRiq3xX4521KPv2Bs8cBL2DgO5cA9p1GhNRtWVg="
           }
         },
         {
           "name": "Solo Horror",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfACfJqfqEioZt8y1uc2BwHw=="
+            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfACfJqfqEioZt8y1uc2BwH/9HtGpJ91PGCNvYqlXlRkY="
           }
         },
         {
           "name": "SOLO TMNT",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfoBN3xkaQIQ5U+mjug1yOfg=="
+            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfoBN3xkaQIQ5U+mjug1yOfjIeiuHGKPKJyh9i4uXBKnI="
           }
         },
         {
           "name": "SOLO NEW",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfVd29758tCoxHw6wY2YxwGg=="
+            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfVd29758tCoxHw6wY2YxwGs88VgvMMakOmgRmwckogIE="
           }
         },
         {
           "name": "SOLO باب الحارة",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfyfme/rC40TWasAPUt8JiZA=="
+            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfyfme/rC40TWasAPUt8JiZNZbdr0Kk7slbnRhsWVbnVU="
           }
         },
         {
           "name": "SOLO مسلسلات سورية",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfn7peeW2xTT1zi+hVduix4g=="
+            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfn7peeW2xTT1zi+hVduix4iGwEAf2dIQ/lHvFCC6hl6s="
           }
         },
         {
           "name": "SOLO DISNEY",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfK85D7t3h3cfzY3ndIDUa/w=="
+            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfK85D7t3h3cfzY3ndIDUa/2I5gAqsipHWIgvIMogS+KE="
           }
         },
         {
           "name": "SOLO وادي الذئاب",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfJe0liIkeslV5qGAdQ+axxg=="
+            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfJe0liIkeslV5qGAdQ+axxh9/Eu65hOTeYOJ+qA+Qd50="
           }
         },
         {
           "name": "Solo Pop Up",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfjHf2+HM2YHwCuImJcgSl1g=="
+            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7TAJB2E48TSaxqnGXIMpikfjHf2+HM2YHwCuImJcgSl1o11kKKGVsf0fxcYXuXUysM="
           }
         },
         {
           "name": "IT: Sportitalia SoloCalcio",
           "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7Q8QrbW1RPJN25R5hKE7KxIfo7TGKXHtd0V2c99rOZzTw=="
+            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7Q8QrbW1RPJN25R5hKE7KxIfo7TGKXHtd0V2c99rOZzTyPrUxNgDVKr15U+1oyb+F8="
           }
         }
       ]
@@ -1492,73 +1070,43 @@
       "name": "Alfajer S2",
       "channels": [
         {
-          "name": "AR: ALFAJER 1 4K+s2",
+          "name": "AR: ALFAJER 1",
           "logo": "https://ui-avatars.com/api/?name=AR%3A+ALFAJER&size=256&background=d29c65&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7QwV/o5rNxD+kUAXDWiIVYnrqMUhynnflSDANJ+yetuCw=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7QwV/o5rNxD+kUAXDWiIVYnrqMUhynnflSDANJ+yetuC47mWSPvhLYHwBdOTNx0iZA=",
+            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7QwV/o5rNxD+kUAXDWiIVYnmpWJRNnI8i4lVoY5o6nPf7usAUOc8LBNeJGPBvQB7AE="
           }
         },
         {
-          "name": "AR: ALFAJER 1HD+s2",
+          "name": "AR: ALFAJER 2",
           "logo": "https://ui-avatars.com/api/?name=AR%3A+ALFAJER&size=256&background=d29c65&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7QwV/o5rNxD+kUAXDWiIVYnmpWJRNnI8i4lVoY5o6nPfw=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7QwV/o5rNxD+kUAXDWiIVYn/Tsv1wCCx3jF24qnawOYvFyNAdfbSbijMJNFhdRWpa4=",
+            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7QwV/o5rNxD+kUAXDWiIVYnPJ1Q1SUgV/q+RxcGQ74Y22OcePgZXQiyg9EUmZgiP2A="
           }
         },
         {
-          "name": "AR: ALFAJER 2 4K+s2",
+          "name": "AR: ALFAJER 3",
           "logo": "https://ui-avatars.com/api/?name=AR%3A+ALFAJER&size=256&background=d29c65&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7QwV/o5rNxD+kUAXDWiIVYn/Tsv1wCCx3jF24qnawOYvA=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7QwV/o5rNxD+kUAXDWiIVYnWsoyLD08EUzFN8CTEfdAnZBaHHncdRP44w36ZXP9YnY=",
+            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7QwV/o5rNxD+kUAXDWiIVYn4xkztCiRosCidFXFWfZApfvbLi9fXvs6trYqz+WtFSM="
           }
         },
         {
-          "name": "AR: ALFAJER 2HD+s2",
+          "name": "AR: ALFAJER 4",
           "logo": "https://ui-avatars.com/api/?name=AR%3A+ALFAJER&size=256&background=d29c65&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7QwV/o5rNxD+kUAXDWiIVYnPJ1Q1SUgV/q+RxcGQ74Y2w=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7QwV/o5rNxD+kUAXDWiIVYnfA8ow97s3VeUUbSgb0mgEXo4r4o+GDSsN0fGaG8uZBk=",
+            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7QwV/o5rNxD+kUAXDWiIVYne17PEq+75eeUdyBxO8qDHX4EYNrPuxdpKu5/VhPUPgk="
           }
         },
         {
-          "name": "AR: ALFAJER 3 4K+s2",
+          "name": "AR: ALFAJER 5",
           "logo": "https://ui-avatars.com/api/?name=AR%3A+ALFAJER&size=256&background=d29c65&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7QwV/o5rNxD+kUAXDWiIVYnWsoyLD08EUzFN8CTEfdAnQ=="
-          }
-        },
-        {
-          "name": "AR: ALFAJER 3HD+s2",
-          "logo": "https://ui-avatars.com/api/?name=AR%3A+ALFAJER&size=256&background=d29c65&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7QwV/o5rNxD+kUAXDWiIVYn4xkztCiRosCidFXFWfZApQ=="
-          }
-        },
-        {
-          "name": "AR: ALFAJER 4 4K+s2",
-          "logo": "https://ui-avatars.com/api/?name=AR%3A+ALFAJER&size=256&background=d29c65&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7QwV/o5rNxD+kUAXDWiIVYnfA8ow97s3VeUUbSgb0mgEQ=="
-          }
-        },
-        {
-          "name": "AR: ALFAJER 4HD+s2",
-          "logo": "https://ui-avatars.com/api/?name=AR%3A+ALFAJER&size=256&background=d29c65&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7QwV/o5rNxD+kUAXDWiIVYne17PEq+75eeUdyBxO8qDHQ=="
-          }
-        },
-        {
-          "name": "AR: ALFAJER 5 4K+s2",
-          "logo": "https://ui-avatars.com/api/?name=AR%3A+ALFAJER&size=256&background=d29c65&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7QwV/o5rNxD+kUAXDWiIVYnIg2JaJ2ufx7frO1elIy7fw=="
-          }
-        },
-        {
-          "name": "AR: ALFAJER 5HD+s2",
-          "logo": "https://ui-avatars.com/api/?name=AR%3A+ALFAJER&size=256&background=d29c65&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7QwV/o5rNxD+kUAXDWiIVYnJAth7SnUY697zECkN2RvlQ=="
+            "4K": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7QwV/o5rNxD+kUAXDWiIVYnIg2JaJ2ufx7frO1elIy7fyoiEPo1Kn6kviPWZqNlpN8=",
+            "HD": "fdjewkpsmnMivaZjd6n8VoZD/4RV1oNpBtK0DFHZj7QwV/o5rNxD+kUAXDWiIVYnJAth7SnUY697zECkN2RvlTTkwxYv7F6kqYdoDqC7nTo="
           }
         }
       ]
@@ -1861,8 +1409,7 @@
           "name": "BEIN MOVIES 1 PREMIERE",
           "logo": "https://www.apnahdtv.com/images/bein-movies-1-premiere-mea.png",
           "streams": {
-            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxMMEBBCZmeTAceY0GLDxG+mqRR5dd5lktFYzWbisHAv0=",
-            "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxi10xxsBEUrSmj9rJT3AvFfyJfjs4SGt5hAJw0QaleBo="
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxMMEBBCZmeTAceY0GLDxG+mqRR5dd5lktFYzWbisHAv0="
           }
         },
         {
@@ -1876,23 +1423,14 @@
           "name": "BEIN MOVIES 3 DRAMA",
           "logo": "https://www.apnahdtv.com/images/bein-movies-3-drama-mea.png",
           "streams": {
-            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxuddYPtV3jyExsTmtPvVXixdf8Js3FSMU/TwIeY5sWUA=",
-            "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxYVf2rqUSpqoO+qNvLWXLKsVyc8QRw4CbnmLjh8jVyKs="
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxuddYPtV3jyExsTmtPvVXixdf8Js3FSMU/TwIeY5sWUA="
           }
         },
         {
           "name": "BEIN MOVIES 4 FAMILY",
           "logo": "https://www.apnahdtv.com/images/bein-movies-4-family-mea.png",
           "streams": {
-            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxHqS7SeGlmPYT4OJVWq/PCwcakf1Zfnx4kO3Aesmjq1s=",
-            "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxKR+bPQMgF7HmAP4BOR9xYApSYruTpTgYKlcZss870P4="
-          }
-        },
-        {
-          "name": "BEIN SERIES 2",
-          "logo": "https://www.apnahdtv.com/images/bein-series-2-mea.png",
-          "streams": {
-            "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxHrF+OaDpVNwmIzNpcKl86GD1r3psoqUv6MfrwXeXGhk="
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxHqS7SeGlmPYT4OJVWq/PCwcakf1Zfnx4kO3Aesmjq1s="
           }
         },
         {
@@ -2042,6 +1580,353 @@
           "logo": "https://www.apnahdtv.com/images/alfa-cinema-1-mea.png",
           "streams": {
             "SD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxNpJNw0p3c0LoV2sSG62FIN0r5/RJTBLqxRVqcEYSmHQ="
+          }
+        }
+      ]
+    },
+    {
+      "name": "قنوات 4K",
+      "channels": [
+        {
+          "name": "beIN 4K — 4K SOLO SPORTS",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
+          "streams": {
+            "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6FcrfQEZiqxBzGVpDImXqvTZw=="
+          }
+        },
+        {
+          "name": "beIN 4K — 4K أجنبي",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
+          "streams": {
+            "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6FcjKZ/AM3ojP1EOl1odJjnZg=="
+          }
+        },
+        {
+          "name": "beIN 4K — 4K TOD SS",
+          "logo": "https://i.ibb.co/30Zp99W/tod-tv.png",
+          "streams": {
+            "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6FcftoScoVH20GhyQcYoLT/Gg=="
+          }
+        },
+        {
+          "name": "beIN 1 — GOGO 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5QVL1NeOJfBbxJ3CgkG1XKtSPlX0F3+0068W/yXgVw1Y="
+          }
+        },
+        {
+          "name": "beIN 1 — CONNECT 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
+          "streams": {
+            "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6Fcf9or2MKPsfRXg+Ogph3NeQ=="
+          }
+        },
+        {
+          "name": "beIN 1 — SA 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5aihTObD7QrDKI4mG9Rd578b2ETbnmYBWSNHhmvMPr+Y="
+          }
+        },
+        {
+          "name": "beIN 1 — NM 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5twXUfxwjN08p+aOddEYZooyTBpA0PQQPuu/ogE4BegY="
+          }
+        },
+        {
+          "name": "beIN 2 — GOGO 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5/P42gjyhX+mkqIq+O6yanF80QBkEHRK3z+qjqVzIELk="
+          }
+        },
+        {
+          "name": "beIN 2 — TOD 4K",
+          "logo": "https://i.ibb.co/30Zp99W/tod-tv.png",
+          "streams": {
+            "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6Fcol7umYw2tckklnQUuQj08npvgAwQvhtjTwpoTTIWKAk="
+          }
+        },
+        {
+          "name": "beIN 2 — CONNECT 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
+          "streams": {
+            "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6FcOdid+GuzQ6v+58Jk7AUyeA=="
+          }
+        },
+        {
+          "name": "beIN 2 — SA 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5thuci0DxjieZPPiU1qLw4frOCIg/DeeRl/GjJ2Yy1v0="
+          }
+        },
+        {
+          "name": "beIN 2 — NM 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5pAJI/FIo3eU6TqFDjNi1+Vx6IOk1YWQuoZrmja/WGYg="
+          }
+        },
+        {
+          "name": "beIN 3 — GOGO 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth50k/yo7XQIfulUDCiYXd8u38kCA1oa+JAX+UKhI2p+q0="
+          }
+        },
+        {
+          "name": "beIN 3 — CONNECT 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
+          "streams": {
+            "4K": "oc1G6HgX88BLN16zXlSBVQ96ULhpVeBerqxrs2MUwxSHnVGRr8zPILxBgUaqF6FcAvfVS0cTxfTSOy727oflcA=="
+          }
+        },
+        {
+          "name": "beIN 3 — SA 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5ywSA49h7rtwk2L0TNIvxwMSrfWl6OgRXHEvCIYK5Mx0="
+          }
+        },
+        {
+          "name": "beIN 3 — NM 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5SzIBN+pAJW0OJJ9ozq+ckuUOyRq/E5hk25TJaaXLT/M="
+          }
+        },
+        {
+          "name": "beIN 4 — GOGO 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5aCOg3FdXHjtfuUTkSFrC0tFezbc0b6Ya7+8alAiu7Uc="
+          }
+        },
+        {
+          "name": "beIN 4 — SA 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5LfF/aizIwgxiqqdN3X24gXM4YGJOZ++1zKObUKTadvU="
+          }
+        },
+        {
+          "name": "beIN 4 — NM 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5EDdOKOrcXfTwLuS6CzubEKJxBunHk8oFe1BQfvWfA6I="
+          }
+        },
+        {
+          "name": "beIN 4 — FAMILY 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5wnCK8ywmL99jE4hRaqaWNipS/TCRLwc52tGmhT98Ufc="
+          }
+        },
+        {
+          "name": "beIN 5 — NM 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
+          "streams": {
+            "4K": "DBgGnmCRc0y68g1mBklFiIB7QVqQfu7Bd6bDs/41RbyrwF6UKptvSP5bFtoGLth5KCFKdt0JkKxlogj5e3vKbSMBcfLoT3wrBFkebSsxXHk="
+          }
+        },
+        {
+          "name": "BEIN SPORTS 1 — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
+          "streams": {
+            "4K": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbo5r6YvrGKD5HSxQZ35eWo7B+QK0TkQQMvj9OAQO8Haj",
+            "UHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbls6C0IrnLFdN1hZ8EXb0I7lSZ1G2koPeYRZD6mE+YcX"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 2 — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
+          "streams": {
+            "4K": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbhKMwpuc3KzsHfd/OvkbcsPBWlZBc5UeehMSCj/gO0tZ",
+            "UHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhblcKuauDrKquXa7vbj4l+MNQLQIRC+KeVPrf6X+q5K+q"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 3 — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
+          "streams": {
+            "4K": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbqVcnGLYawl1mr6mL2e99BwOifbjAJ6ee2XDk9ZNq/O3",
+            "UHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbnN693z9YcrR0eVQ0WpDC6q2VGi3IzsBy5QlH/wpnqrF"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 4 — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
+          "streams": {
+            "4K": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbmVeF69CTYgd94pStDXjYJiBZH8G3g/j4YzxMiSermEY",
+            "UHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbupFQTVQP0ENzMd9Joc4zAUjm0Y1b6deKc3BpkkRVjB8"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 5 — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
+          "streams": {
+            "4K": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbiQNUMPl1tznaNMN7ZqDz7a8AvnrU8Wiu3NFTBJXT9tl",
+            "UHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbg2JRBRdMKYQ2BnC0j4rnUmswNekmwpzDTmgsKcaNKcV"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 6 — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd6-hz-int.png",
+          "streams": {
+            "4K": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhblv9e1744clNsJFo9ot3yK4Om9vxqbJqqKQNGWePngbA",
+            "UHD": "hqbBwGZxb/CYxL57U7y8X12jGhAaEgGq7Y6tG4HI5VSrXTtJbcJKa4oV0d3eRld/tY7zzAmgzA9h7SmohvZhbg+RUNXwsovOcEjOHZyciBEz2QH4za3nOoIKghGrKntw"
+          }
+        },
+        {
+          "name": "BEIN SPORT 4K (Backup)",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
+          "streams": {
+            "4K": "0qHSQF/Cg8urEsmpsCiK3xAtmQBXXzgASfNS0CrgLUovc92m0Fyv2/UbfXzjS4+YNj17IW1A+WU5OBUKnloXGQ=="
+          }
+        },
+        {
+          "name": "BEIN SPORTS 1 4k+ (Backup)",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
+          "streams": {
+            "4K+": "0qHSQF/Cg8urEsmpsCiK3xAtmQBXXzgASfNS0CrgLUovc92m0Fyv2/UbfXzjS4+YnhnMLlYyRcisHVdobfKkYw=="
+          }
+        },
+        {
+          "name": "BEIN SPORTS 1 (G) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
+          "streams": {
+            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxse9NjQnDwesaT57MEQzvPbQ=="
+          }
+        },
+        {
+          "name": "BEIN SPORTS 2 (G) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
+          "streams": {
+            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxsGZAAI6BkcAgXMcef9KBtaw=="
+          }
+        },
+        {
+          "name": "BEIN SPORTS 3 (G) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
+          "streams": {
+            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxs9z7i/AXZRg3NCX3qpYIKUQ=="
+          }
+        },
+        {
+          "name": "BEIN SPORTS 4 (G) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
+          "streams": {
+            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxsK9DOr9c1F09vPNk5iPIu6A=="
+          }
+        },
+        {
+          "name": "BEIN SPORTS 5 (G) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
+          "streams": {
+            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxsL0b0rw5ecA8yi3ZzGyQjdA=="
+          }
+        },
+        {
+          "name": "BEIN SPORTS 6 (G) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd6-hz-int.png",
+          "streams": {
+            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPeggBru38J5rM3gT+vvmxsu6FD42qu9HuipbH+AAOrEQ=="
+          }
+        },
+        {
+          "name": "beiN SPORTS 7 (G) - 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
+          "streams": {
+            "4K": "mbnBwpY7o+/L1L9F4xJtxMPY8qYii38B7AV7juSG1zDgDdlmlFrXludBNcASuXVwuMyRWN5l2za5t2nwQSm9j4CwSW/ambp3gWuXDfnBUZw="
+          }
+        },
+        {
+          "name": "beiN SPORTS 8 (G) - 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
+          "streams": {
+            "4K": "mbnBwpY7o+/L1L9F4xJtxMPY8qYii38B7AV7juSG1zDgDdlmlFrXludBNcASuXVwuMyRWN5l2za5t2nwQSm9j8HuMbH1N+uiSLRqHzXvK4I="
+          }
+        },
+        {
+          "name": "beiN SPORTS 9 (G) - 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd6-hz-int.png",
+          "streams": {
+            "4K": "mbnBwpY7o+/L1L9F4xJtxMPY8qYii38B7AV7juSG1zDgDdlmlFrXludBNcASuXVwuMyRWN5l2za5t2nwQSm9j4sOhbqiXLJ/cK/b90qCEIE="
+          }
+        },
+        {
+          "name": "BEIN SPORTS 1 (NM) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
+          "streams": {
+            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrepKyeMScdDSS6AqJtTjMDg=="
+          }
+        },
+        {
+          "name": "BEIN SPORTS 2 (NM) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
+          "streams": {
+            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrBqkizuwmhrYeNwuslC3P/g=="
+          }
+        },
+        {
+          "name": "BEIN SPORTS 3 (NM) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
+          "streams": {
+            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrhm5WgMh6+T50Q7ARxkPzWA=="
+          }
+        },
+        {
+          "name": "BEIN SPORTS 4 (NM) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
+          "streams": {
+            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrOqC0e/cx9Kk+WF6yIoXs8g=="
+          }
+        },
+        {
+          "name": "BEIN SPORTS 5 (NM) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
+          "streams": {
+            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xrubXD4tCH/5U9vmMK+2iPyA=="
+          }
+        },
+        {
+          "name": "BEIN SPORTS 6 (NM) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd6-hz-int.png",
+          "streams": {
+            "4K": "a2V2FhLuFhqah1Ukv7imRVXA9BziXgYxNtibkniJDUPVyvX7H7rkN/kcexHAm5xry+VC/yXHinyuXVh95mHUfw=="
+          }
+        },
+        {
+          "name": "BEIN MOVIES 1 PREMIERE — 4K",
+          "logo": "https://www.apnahdtv.com/images/bein-movies-1-premiere-mea.png",
+          "streams": {
+            "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxi10xxsBEUrSmj9rJT3AvFfyJfjs4SGt5hAJw0QaleBo="
+          }
+        },
+        {
+          "name": "BEIN MOVIES 3 DRAMA — 4K",
+          "logo": "https://www.apnahdtv.com/images/bein-movies-3-drama-mea.png",
+          "streams": {
+            "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxYVf2rqUSpqoO+qNvLWXLKsVyc8QRw4CbnmLjh8jVyKs="
+          }
+        },
+        {
+          "name": "BEIN MOVIES 4 FAMILY — 4K",
+          "logo": "https://www.apnahdtv.com/images/bein-movies-4-family-mea.png",
+          "streams": {
+            "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxKR+bPQMgF7HmAP4BOR9xYApSYruTpTgYKlcZss870P4="
+          }
+        },
+        {
+          "name": "BEIN SERIES 2",
+          "logo": "https://www.apnahdtv.com/images/bein-series-2-mea.png",
+          "streams": {
+            "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxHrF+OaDpVNwmIzNpcKl86GD1r3psoqUv6MfrwXeXGhk="
           }
         }
       ]
