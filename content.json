@@ -2066,6 +2066,34 @@
           "streams": {
             "HD": "http://dana8kone.com:8080/live/dilarsx1/cd679c264/482700.ts"
           }
+        },
+        {
+          "name": "ريال مدريد",
+          "type": "Business",
+          "streams": {
+            "HD": "ضع رابط القناة هنا"
+          }
+        },
+        {
+          "name": "ريال مدريد",
+          "type": "Business",
+          "streams": {
+            "HD": "ضع رابط القناة هنا"
+          }
+        },
+        {
+          "name": "ريال مدريد",
+          "type": "Business",
+          "streams": {
+            "HD": "ضع رابط القناة هنا"
+          }
+        },
+        {
+          "name": "ريال مدريد",
+          "type": "Business",
+          "streams": {
+            "HD": "ضع رابط القناة هنا"
+          }
         }
       ]
     }
@@ -2103,8 +2131,8 @@
   "matches": [],
   "xtream": {
     "enabled": true,
-    "url": "8k.lol:80",
+    "url": "8k.lol:80"
     "username": "19765982173986",
     "password": "15908418752697"
   }
-}
+     }
