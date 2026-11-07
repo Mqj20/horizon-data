@@ -2051,6 +2051,23 @@
           }
         }
       ]
+    },
+    {
+      "name": "TOD",
+      "channels": [
+        {
+          "name": "Arsenal",
+          "streams": {
+            "HD": "PZoveRuJ3OXfaT87/uSs4vL/ZXemeHDhSSTdnR4pca3SPNPQaOE9IW5KT3jZ3TKSTmqnYJYYAQ1YO6REGso8hQ=="
+          }
+        },
+        {
+          "name": "Espanyol",
+          "streams": {
+            "HD": "PZoveRuJ3OXfaT87/uSs4vL/ZXemeHDhSSTdnR4pca3SPNPQaOE9IW5KT3jZ3TKSWHzt+qtgoJ5E2XYQ3B9ujA=="
+          }
+        }
+      ]
     }
   ],
   "movies": [],
