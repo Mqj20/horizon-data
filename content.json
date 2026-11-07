@@ -2077,18 +2077,23 @@
       "items": [
         {
           "name": "الموسم الثاني",
-          "episodes": [
+          "seasons": [
             {
-              "name": "الحلقة الأولى - الموسم الثاني",
-              "url": "http://130.193.165.22/Flussonic248/ArabicTVSeries2/LaylAlbanafsaj-S02E01.mp4"
-            },
-            {
-              "name": "الحلقة الثانية - الموسم الثاني",
-              "url": "http://130.193.165.22/Flussonic248/ArabicTVSeries2/LaylAlbanafsaj-S02E02.mp4"
-            },
-            {
-              "name": "الحلقة الثالثة - الموسم الثاني (مشفرة)",
-              "url": "cEtivPqiDC3CqmS8jNYLiYJ/BUVb3H9JsQCQCo6RD0v2qAO7JRBodLWgXmxZ8OD2EM7vxAE9weuJ6c/knHvLnjQEmHJY2bPzQkJBHC60qLs="
+              "name": "الموسم الثاني",
+              "episodes": [
+                {
+                  "name": "الحلقة الأولى - الموسم الثاني",
+                  "url": "http://130.193.165.22/Flussonic248/ArabicTVSeries2/LaylAlbanafsaj-S02E01.mp4"
+                },
+                {
+                  "name": "الحلقة الثانية - الموسم الثاني",
+                  "url": "http://130.193.165.22/Flussonic248/ArabicTVSeries2/LaylAlbanafsaj-S02E02.mp4"
+                },
+                {
+                  "name": "الحلقة الثالثة - الموسم الثاني",
+                  "url": "cEtivPqiDC3CqmS8jNYLiYJ/BUVb3H9JsQCQCo6RD0v2qAO7JRBodLWgXmxZ8OD2EM7vxAE9weuJ6c/knHvLnjQEmHJY2bPzQkJBHC60qLs="
+                }
+              ]
             }
           ]
         }
