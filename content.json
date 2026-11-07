@@ -428,7 +428,7 @@
       "channels": [
         {
           "name": "STARZPLAY SPORTS 1",
-          "logo": "https://ui-avatars.com/api/?name=STARZPLAY+SPORTS&size=256&background=3959a8&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
           "streams": {
             "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxJA22/GHiubeG1icHklzurBfKtG2YF6M8rMtKtquTyFs=",
             "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqx6vlFqNT+DrIvDKocAw5e9srbVM+fwD7xBwpnotrvT0Q="
@@ -436,14 +436,14 @@
         },
         {
           "name": "STARZPLAY SPORTS 2",
-          "logo": "https://ui-avatars.com/api/?name=STARZPLAY+SPORTS&size=256&background=92e177&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
           "streams": {
             "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxukG8XJEji8s3Dl51vIQ3UIk9zyI14oEOvWu835PTXG8="
           }
         },
         {
           "name": "STARZPLAY GOLFLIFE",
-          "logo": "https://ui-avatars.com/api/?name=STARZPLAY+GOLFLIFE&size=256&background=ce0e93&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
           "streams": {
             "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxnUyIs5E2neoRbRQgE8B1ycpdd9jqpjKylwv6Yx9+Y94="
           }
@@ -1123,21 +1123,21 @@
         },
         {
           "name": "Starzplay sport 1",
-          "logo": "https://ui-avatars.com/api/?name=Starzplay+sport&size=256&background=094f51&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
           "streams": {
             "Auto": "wa25hEZ1kLgzx56bCEJm0RwidFJoQIxwlgGh+lVj3avVJkQ3mnfqFgbVflTTsWlxO+ZCIvfIHSS+d0cbTF9YUQ=="
           }
         },
         {
           "name": "Starzplay sport 2",
-          "logo": "https://ui-avatars.com/api/?name=Starzplay+sport&size=256&background=c08e06&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
           "streams": {
             "Auto": "wa25hEZ1kLgzx56bCEJm0RwidFJoQIxwlgGh+lVj3avVJkQ3mnfqFgbVflTTsWlxP9QFVptvC5ZeFfYykV2JNA=="
           }
         },
         {
           "name": "Thmanyah 1",
-          "logo": "https://ui-avatars.com/api/?name=Thmanyah+1&size=256&background=84dba8&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://company.thmanyah.com/wp-content/uploads/2024/01/black_transparent_2x.webp",
           "streams": {
             "FHD": "wa25hEZ1kLgzx56bCEJm0RwidFJoQIxwlgGh+lVj3avVJkQ3mnfqFgbVflTTsWlxFx5MjN6RHO3LJv8XD9FTvw==",
             "HD": "wa25hEZ1kLgzx56bCEJm0RwidFJoQIxwlgGh+lVj3avVJkQ3mnfqFgbVflTTsWlxOFxTCxkeqCmEaWGFtaCqJQ=="
@@ -1145,7 +1145,7 @@
         },
         {
           "name": "Thmanyah 2",
-          "logo": "https://ui-avatars.com/api/?name=Thmanyah+2&size=256&background=ce3b45&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://company.thmanyah.com/wp-content/uploads/2024/01/black_transparent_2x.webp",
           "streams": {
             "FHD": "wa25hEZ1kLgzx56bCEJm0RwidFJoQIxwlgGh+lVj3avVJkQ3mnfqFgbVflTTsWlxWwEPUI1NU7+Xdtm0DlqGLQ==",
             "HD": "wa25hEZ1kLgzx56bCEJm0RwidFJoQIxwlgGh+lVj3avVJkQ3mnfqFgbVflTTsWlxsFrd/IuKH6LATqCGt9Jz4Q=="
@@ -1153,7 +1153,7 @@
         },
         {
           "name": "Thmanyah 3",
-          "logo": "https://ui-avatars.com/api/?name=Thmanyah+3&size=256&background=68c6fd&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://company.thmanyah.com/wp-content/uploads/2024/01/black_transparent_2x.webp",
           "streams": {
             "FHD": "wa25hEZ1kLgzx56bCEJm0RwidFJoQIxwlgGh+lVj3avVJkQ3mnfqFgbVflTTsWlxxPa4Y8MHq5No6CNcRIAgUA==",
             "HD": "wa25hEZ1kLgzx56bCEJm0RwidFJoQIxwlgGh+lVj3avVJkQ3mnfqFgbVflTTsWlx/H1QGMykIUgXNeqC8+qkxA=="
@@ -1161,28 +1161,28 @@
         },
         {
           "name": "Thmanyah 4",
-          "logo": "https://ui-avatars.com/api/?name=Thmanyah+4&size=256&background=fdc76e&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://company.thmanyah.com/wp-content/uploads/2024/01/black_transparent_2x.webp",
           "streams": {
             "FHD": "wa25hEZ1kLgzx56bCEJm0RwidFJoQIxwlgGh+lVj3avVJkQ3mnfqFgbVflTTsWlxA3PSGtHpQKBZvf7AChr2/w=="
           }
         },
         {
           "name": "Thmanyah Minasa 1 Multi audio",
-          "logo": "https://ui-avatars.com/api/?name=Thmanyah+Minasa&size=256&background=b3ff9f&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://company.thmanyah.com/wp-content/uploads/2024/01/black_transparent_2x.webp",
           "streams": {
             "Auto": "wa25hEZ1kLgzx56bCEJm0RwidFJoQIxwlgGh+lVj3avVJkQ3mnfqFgbVflTTsWlx1omwoET+LzriO7KXcsnKKQ=="
           }
         },
         {
           "name": "Thmanyah Minasa 2 Multi audio",
-          "logo": "https://ui-avatars.com/api/?name=Thmanyah+Minasa&size=256&background=275125&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://company.thmanyah.com/wp-content/uploads/2024/01/black_transparent_2x.webp",
           "streams": {
             "Auto": "wa25hEZ1kLgzx56bCEJm0RwidFJoQIxwlgGh+lVj3avVJkQ3mnfqFgbVflTTsWlx4+Z/IHTecsnu1LUx65LR+g=="
           }
         },
         {
           "name": "Thmanyah Minasa 3 Multi audio",
-          "logo": "https://ui-avatars.com/api/?name=Thmanyah+Minasa&size=256&background=a2f266&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://company.thmanyah.com/wp-content/uploads/2024/01/black_transparent_2x.webp",
           "streams": {
             "Auto": "wa25hEZ1kLgzx56bCEJm0RwidFJoQIxwlgGh+lVj3avVJkQ3mnfqFgbVflTTsWlxKxaHBBQRByM3bYFF8Ohejg=="
           }
@@ -1224,7 +1224,7 @@
         },
         {
           "name": "Thmanyah Super Cup",
-          "logo": "https://ui-avatars.com/api/?name=Thmanyah+Super&size=256&background=9187dd&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://company.thmanyah.com/wp-content/uploads/2024/01/black_transparent_2x.webp",
           "streams": {
             "Auto": "wa25hEZ1kLgzx56bCEJm0RwidFJoQIxwlgGh+lVj3avVJkQ3mnfqFgbVflTTsWlx68Lb2D+XT8rH6uL0VvtQyg=="
           }
@@ -1257,7 +1257,7 @@
       "channels": [
         {
           "name": "ثمانية 1 — 4K HDR",
-          "logo": "https://ui-avatars.com/api/?name=%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9+1&size=256&background=6eb199&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://company.thmanyah.com/wp-content/uploads/2024/01/black_transparent_2x.webp",
           "streams": {
             "4K": "KokdRoE9IHbvGt+CpuDZNGNNxsJ9S9Tnvf2kTidR5NNFNetIio8gZmCAAcMVqozQYhTS0bhUW1pDwULhOm3Xps94BwtwKqx1Ck1+u0WXHEzLkpblmkRVyHs38rA9KmIPQspTyeDCTHCP6hvlrS+rLgUEDQqzvLpAb+ayIaZxH7FGqxuxRgqXtbHn8sV/pewybg4/RPhOOgrLwblJn0+iiu53rkS6EEc9lDSEo6sRm+1NFDtzBWNwUyhfw9uO0lddykoDNBN0OJHDzzdbjha19ZoFVIRMXWGGwoFAZho4WAHAnUTdlVzlsZXDwQQpJti0IX63PV+b7MAiGISaxQwTMeY/Kjpkx6aHhczBqQQBKsVCJ+zLybZFXpjeFHRR21x3RE8GkRC+lj27nFYpD6cpPoHu5p8cH220RY9aiP/MG/MQjtTXQcCkwkXrpzWR9uPnKcpXU8QLB/mOd27NKsE4mX+N15dyKTf72xPgVWrToPc83eoJsNpORPjcq8Ov4BOQHXjou4c4AB3Xy7c51TGcRJQaszEDGopaW7UYTpxArps2G9w/bdl6SSVYJ6y9FOdR/4vhuQL502oJBvJLVo1F6hwA9Bq4Tb9SSFN9x01kWisKi7MpZR1Pw/sWBS10aL5bT6dFS41g09UMWmzlGkwev8zcF53LY1anG22WERVKJq7KQBT02Bxeys1D8QmBlGfPlgOHlWN80gZxfygZvNykVD1MMx10b0Pj/0GH30SYrasseTYZ9KZzTcpsIYMMpc3yzWuPQ8FZkBTzilQgbntHHrNDPdjlRafX6StH/g/t+/vHTBUZhEKXjPiZ458vL94CZOMvVNcCMaI5+K8Iy+XLaBezD7OHVdMfOw6iJND63/T8yE82JGOYDuXzaKUTDOaz5WjX9qRcrGl2pWtPJeZhoKTKUJgmBZGrU9W40Pe9IKbO8zHj6655LFdLTA7kitWPzcUIxTn7zzklluWMI3kbajrkKlR62q5zhxWorwd0QVM7bpF5TBPZbM1YRQ1tiB/aJq+donlsO8Z3GXWSr4NpMQ=="
           }
@@ -1946,10 +1946,6 @@
                 {
                   "name": "الحلقة الأولى - الموسم الثاني",
                   "url": "http://130.193.165.22/Flussonic248/ArabicTVSeries2/LaylAlbanafsaj-S02E01.mp4"
-                },
-                {
-                  "name": "الحلقة الثانية - الموسم الثاني",
-                  "url": "http://130.193.165.22/Flussonic248/ArabicTVSeries2/LaylAlbanafsaj-S02E02.mp4"
                 }
               ]
             }
