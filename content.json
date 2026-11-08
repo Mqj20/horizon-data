@@ -1209,74 +1209,76 @@
       "name": "الدوري الإيطالي",
       "channels": [
         {
-          "name": "STARZPLAY GOLFLIFE",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
+          "name": "ABU DHABI ASIA 1 HD",
+          "logo": "https://ui-avatars.com/api/?name=Abu+Dhabi+Sports&size=256&background=142f55&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxnUyIs5E2neoRbRQgE8B1ycpdd9jqpjKylwv6Yx9+Y94="
+            "HD": "SZR6QtZW5iipI/gILYJH+m6eEj03zq8NXhUySJP4YnA6QI3RNWkKxVLwVXBZjqyOl+lGSgq056tOSF7uvWbCHnCojqdwGaFEOQWEb5bXizU="
+          }
+        },
+        {
+          "name": "ABU DHABI ASIA 1 HD (2)",
+          "logo": "https://ui-avatars.com/api/?name=Abu+Dhabi+Sports&size=256&background=142f55&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "HD": "SZR6QtZW5iipI/gILYJH+m6eEj03zq8NXhUySJP4YnA6QI3RNWkKxVLwVXBZjqyOq8tq3RsLMOFiJBT4EGknhFp9Hv3Jjn6sCj6CydkWEpQ="
+          }
+        },
+        {
+          "name": "ABU DHABI ASIA 2 HD",
+          "logo": "https://ui-avatars.com/api/?name=Abu+Dhabi+Sports&size=256&background=142f55&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "HD": "SZR6QtZW5iipI/gILYJH+m6eEj03zq8NXhUySJP4YnA6QI3RNWkKxVLwVXBZjqyO0nhO30yK+HZ3DnktfjtsW4AKFRTnyDr0BQkc5G9OGfs="
           }
         },
         {
           "name": "STARZPLAY SPORTS 1",
           "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
           "streams": {
-            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxJA22/GHiubeG1icHklzurBfKtG2YF6M8rMtKtquTyFs=",
-            "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqx6vlFqNT+DrIvDKocAw5e9srbVM+fwD7xBwpnotrvT0Q="
+            "HD": "SZR6QtZW5iipI/gILYJH+m6eEj03zq8NXhUySJP4YnA6QI3RNWkKxVLwVXBZjqyOn3Z/Ay8eKDhF8jxrirjes+nzN8i1xQKeMfCCOsOwX3k=",
+            "FHD": "SZR6QtZW5iipI/gILYJH+m6eEj03zq8NXhUySJP4YnA6QI3RNWkKxVLwVXBZjqyOylOlmmc8dbVm5U6FUrEXc7KiCI//2A9DvBJ1Zl9Yrqw="
           }
         },
         {
           "name": "STARZPLAY SPORTS 2",
           "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
           "streams": {
-            "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxukG8XJEji8s3Dl51vIQ3UIk9zyI14oEOvWu835PTXG8="
+            "HD": "SZR6QtZW5iipI/gILYJH+m6eEj03zq8NXhUySJP4YnA6QI3RNWkKxVLwVXBZjqyOgdHuKjXTOIOeB2iU3hvgfRtmx3OWFTCpQqIiQU/vSQ0=",
+            "FHD": "SZR6QtZW5iipI/gILYJH+m6eEj03zq8NXhUySJP4YnA6QI3RNWkKxVLwVXBZjqyOQmUkp7EGznuyXfzzmp36gK2gqM88D55XbHB5Be2r3rs="
           }
         },
         {
-          "name": "ABU DHABI SPORT PR 1 FHD",
-          "logo": "https://ui-avatars.com/api/?name=Abu+Dhabi+Sports&size=256&background=142f55&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "FHD": "x9x70KG4fUU73/fLz2dHtHyHF6oIMM8z86M32bgF/Us06z5UQ25YwKio9TF5/U8EwAYK3Zpw3+c4jmhZinRv+9P6s+Sc04bkJtt7X9i/6HM="
-          }
-        },
-        {
-          "name": "ABU DHABI SPORT PR 1 HD",
-          "logo": "https://ui-avatars.com/api/?name=Abu+Dhabi+Sports&size=256&background=142f55&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "HD": "x9x70KG4fUU73/fLz2dHtHyHF6oIMM8z86M32bgF/Us06z5UQ25YwKio9TF5/U8EBb14S6P/hoosOhuU+n5iDn2uzUIMWvZg57l8haFXux0="
-          }
-        },
-        {
-          "name": "ABU DHABI SPORT PR 2 FHD",
-          "logo": "https://ui-avatars.com/api/?name=Abu+Dhabi+Sports&size=256&background=142f55&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "FHD": "x9x70KG4fUU73/fLz2dHtHyHF6oIMM8z86M32bgF/Us06z5UQ25YwKio9TF5/U8EDwrqhtoxDxcr8JZgHYfDrnuOqLM6cLR+5kE5TrYAC/s="
-          }
-        },
-        {
-          "name": "ABU DHABI SPORT PR 2 HD",
-          "logo": "https://ui-avatars.com/api/?name=Abu+Dhabi+Sports&size=256&background=142f55&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "HD": "x9x70KG4fUU73/fLz2dHtHyHF6oIMM8z86M32bgF/Us06z5UQ25YwKio9TF5/U8EWlw1hnO2RSHzAnDwLWIWlIzm+iEV+r5WWX8U27rfdi8="
-          }
-        },
-        {
-          "name": "STARZPLAY SPORTS FHD",
+          "name": "STARZPLAY CRICLIFE 1",
           "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
           "streams": {
-            "FHD": "x9x70KG4fUU73/fLz2dHtHyHF6oIMM8z86M32bgF/Us06z5UQ25YwKio9TF5/U8EQy9LqWGpLU9jkMPh0PlcEDikcRodgg0J6Lx9Fphm84Y="
+            "HD": "SZR6QtZW5iipI/gILYJH+m6eEj03zq8NXhUySJP4YnA6QI3RNWkKxVLwVXBZjqyOODxiJF5SS6Nno7s+9Nl8Jx1tqjUupOLV6s0pa+tU6kU="
           }
         },
         {
-          "name": "STARZPLAY SPORTS HD",
+          "name": "STARZPLAY SPORTS",
           "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
           "streams": {
-            "HD": "x9x70KG4fUU73/fLz2dHtHyHF6oIMM8z86M32bgF/Us06z5UQ25YwKio9TF5/U8EoGDQGNKCW7yKOeiSBjz/xup7axv5CRNdOCuOSa6N4jQ="
+            "HD": "SZR6QtZW5iipI/gILYJH+m6eEj03zq8NXhUySJP4YnA6QI3RNWkKxVLwVXBZjqyOuYw6zcwbRvnncCXH+niqw9UzGS0LQkxT+6uNzyF2Cus=",
+            "FHD": "SZR6QtZW5iipI/gILYJH+m6eEj03zq8NXhUySJP4YnA6QI3RNWkKxVLwVXBZjqyO87etKb3abmOFlidEfvitnx4WTyMzOWl0KLiuxIfWdn8="
           }
         },
         {
-          "name": "FIGHT SPORTS EVENTS",
-          "logo": "https://ui-avatars.com/api/?name=Fight+Sports&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "name": "STARZPLAY GOLF",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
           "streams": {
-            "SD": "x9x70KG4fUU73/fLz2dHtHyHF6oIMM8z86M32bgF/Us06z5UQ25YwKio9TF5/U8EucHpvxMBBbaiIb509Vcd99lgOIea4MOUMQzdZetk37Y="
+            "HD": "SZR6QtZW5iipI/gILYJH+m6eEj03zq8NXhUySJP4YnA6QI3RNWkKxVLwVXBZjqyOmHwBh6e20Lrt6475xdHbGfNraPyXSGPSTqtEY1TJNOk="
+          }
+        },
+        {
+          "name": "AD SPORTS 1 HD",
+          "logo": "https://ui-avatars.com/api/?name=Abu+Dhabi+Sports&size=256&background=142f55&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "HD": "SZR6QtZW5iipI/gILYJH+m6eEj03zq8NXhUySJP4YnA6QI3RNWkKxVLwVXBZjqyOqc8YdEJ0URNMcCXOhnRyGw=="
+          }
+        },
+        {
+          "name": "AD SPORTS 2 HD",
+          "logo": "https://ui-avatars.com/api/?name=Abu+Dhabi+Sports&size=256&background=142f55&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "HD": "SZR6QtZW5iipI/gILYJH+m6eEj03zq8NXhUySJP4YnA6QI3RNWkKxVLwVXBZjqyOoIfBXyBxQj14aWnej0a8fA=="
           }
         }
       ]
