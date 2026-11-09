@@ -10,9 +10,9 @@
   "channels": [
     {
       "name": "HorizonTV Sport",
-      "logo": "https://raw.githubusercontent.com/Mqj20/horizon-data/main/logos/hs_logo_{n}.png",
+      "logo": "asset:hs_logo_{n}.png",
       "overlay": {
-        "url": "https://raw.githubusercontent.com/Mqj20/horizon-data/main/logos/hs_{n}.png",
+        "url": "asset:hs_{n}.png",
         "pos": "tr",
         "width": 22,
         "mx": 12,
@@ -20,66 +20,202 @@
       },
       "channels": [
         {
-          "name": "BEIN SPORTS 1",
-          "logo": "https://www6.0zz0.com/2021/07/08/08/752923487.png",
+          "name": "Horizon Sport 1",
+          "logo": "asset:hs_logo_1.png",
           "streams": {
             "HD": "HZ2:sZMzFLCNnwst5MEX8ARC50lLw/J6mmi22w+VGTlhJINznywATIqJtoRgiF8CiUmF0j3NCVrTTOdoMJ5EqtppK2apZWDwPndAe8UKdJZZsHbJn1e5FSufWxrxqnmJ"
+          },
+          "overlay": {
+            "url": "asset:hs_1.png",
+            "pos": "tr",
+            "width": 22,
+            "mx": 12,
+            "my": 10
           }
         },
         {
-          "name": "BEIN SPORTS 2",
-          "logo": "https://www6.0zz0.com/2021/07/08/08/886438986.png",
+          "name": "Horizon Sport 2",
+          "logo": "asset:hs_logo_2.png",
           "streams": {
             "HD": "HZ2:3pPT0XSAmufeYABbO1aTHirZajImD6HxSr3ewNmC8iz+QcXb8G2DhlqK2qsHemqVbmiRtLBgTno6r4D/ykf/jX09HFAOqCeH2l0022zIgXfCjCg6ApKKm/KX2+1k"
+          },
+          "overlay": {
+            "url": "asset:hs_2.png",
+            "pos": "tr",
+            "width": 22,
+            "mx": 12,
+            "my": 10
           }
         },
         {
-          "name": "BEIN SPORTS 3",
-          "logo": "https://www6.0zz0.com/2021/07/08/08/927254160.png",
+          "name": "Horizon Sport 3",
+          "logo": "asset:hs_logo_3.png",
           "streams": {
             "HD": "HZ2:7twMJFm6S2x42f7hj0HeIiDTnMpGwMFJjCv3LDuYh4aY2erA6efGdB67RhRbLF/OISsjBlGoUun+0OvFPbrc2N0M9caobFaHbvLhD3EuqmN5YjX2lVK9keViCKGz"
+          },
+          "overlay": {
+            "url": "asset:hs_3.png",
+            "pos": "tr",
+            "width": 22,
+            "mx": 12,
+            "my": 10
           }
         },
         {
-          "name": "BEIN SPORTS 4",
-          "logo": "https://www4.0zz0.com/2021/07/08/08/309828085.png",
+          "name": "Horizon Sport 4",
+          "logo": "asset:hs_logo_4.png",
           "streams": {
             "HD": "HZ2:9vRrySGrEVaH31yc8jFQJgVQ76od2xV8+4CSiTMkH8Tkw6cGfd3CZoBwsDbU4sE9m4NJ3M0o18OKp/VblRo9Q/zOY7yOvG3kQvpXVoTGWVRSMX2kmyVhvCL+kean"
+          },
+          "overlay": {
+            "url": "asset:hs_4.png",
+            "pos": "tr",
+            "width": 22,
+            "mx": 12,
+            "my": 10
           }
         },
         {
-          "name": "BEIN SPORTS 5",
-          "logo": "https://www4.0zz0.com/2021/07/08/08/633113235.png",
+          "name": "Horizon Sport 5",
+          "logo": "asset:hs_logo_5.png",
           "streams": {
             "HD": "HZ2:fQxlp8gpHJXVVLfjYLJ2BhuN/Gpj7YzCxr1EJgBhjdVkUcvyBWQShJdtUOW7f7bETSrrq0nzZyZTJYl7epGIB4gdQ56dHuF0bML1SsFnqbHt9WFmn+p8wDRSXGE2"
+          },
+          "overlay": {
+            "url": "asset:hs_5.png",
+            "pos": "tr",
+            "width": 22,
+            "mx": 12,
+            "my": 10
           }
         },
         {
-          "name": "BEIN SPORTS 6",
-          "logo": "https://www4.0zz0.com/2021/07/08/08/781939349.png",
+          "name": "Horizon Sport 6",
+          "logo": "asset:hs_logo_6.png",
           "streams": {
             "HD": "HZ2:xPdpcS4Hh5nC11zHOpkFg6fmXauWbirCY+1DZWrWihcSgGZcxDBlbKPre/zoBA86aq1afA+pya76NZ/5sbAp0tOApn1kAncItIarMt1ubc6J6c6flagmXWUDBe+u"
+          },
+          "overlay": {
+            "url": "asset:hs_6.png",
+            "pos": "tr",
+            "width": 22,
+            "mx": 12,
+            "my": 10
           }
         },
         {
-          "name": "BEIN SPORTS 7",
-          "logo": "https://www4.0zz0.com/2021/07/08/08/882342264.png",
+          "name": "Horizon Sport 7",
+          "logo": "asset:hs_logo_7.png",
           "streams": {
             "HD": "HZ2:Xl4NiOqt/POEVeaR6ojSGl348kyljmWWLZxlI6yz9ddla8R+VkuxJfk+AWq7ehkFAlH6hZ8O0lP3dpkmmOTWmXMiL/tSTzIKhm6vsQWr5f4innL3fi6HKwibX3xW"
+          },
+          "overlay": {
+            "url": "asset:hs_7.png",
+            "pos": "tr",
+            "width": 22,
+            "mx": 12,
+            "my": 10
           }
         },
         {
-          "name": "BEIN SPORTS 8+",
-          "logo": "",
+          "name": "Horizon Sport 8",
+          "logo": "asset:hs_logo_8.png",
           "streams": {
             "HD": "HZ2:JMpvZthUROyWjvbnnM2CxdmN88Wo3dlFNlbXK6zlTpobvtIKFyZ5yy5x3P5T8lgUOWZahoO37LuU8v8WIhP27B2PyKnjzRz3Q7EqDnPpx9YSABJPPxuhnGl0XJTj"
+          },
+          "overlay": {
+            "url": "asset:hs_8.png",
+            "pos": "tr",
+            "width": 22,
+            "mx": 12,
+            "my": 10
           }
         },
         {
-          "name": "BEIN SPORTS 9+",
-          "logo": "",
+          "name": "Horizon Sport 9",
+          "logo": "asset:hs_logo_9.png",
           "streams": {
             "HD": "HZ2:wUUg/foy3wfWbsF/HuwIowkdYslOUCVWH2SOvit/BwDOttDaWbMA9E2udsC6375FXZ6vmNL+Wxv5NYelpFKxAydsUldr/fJjtYC1lHOA8k7B3ur3Of2Mqno9EJcX"
+          },
+          "overlay": {
+            "url": "asset:hs_9.png",
+            "pos": "tr",
+            "width": 22,
+            "mx": 12,
+            "my": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "Entertainment from HorizonTV",
+      "logo": "asset:he_logo_{n}.png",
+      "overlay": {
+        "url": "asset:he_{n}.png",
+        "pos": "tr",
+        "width": 22,
+        "mx": 12,
+        "my": 10
+      },
+      "channels": [
+        {
+          "name": "Horizon Entertainment 1",
+          "streams": {
+            "HD": "https://example.com/REPLACE-horizon-entertainment-1.m3u8"
+          }
+        },
+        {
+          "name": "Horizon Entertainment 2",
+          "streams": {
+            "HD": "https://example.com/REPLACE-horizon-entertainment-2.m3u8"
+          }
+        },
+        {
+          "name": "Horizon Entertainment 3",
+          "streams": {
+            "HD": "https://example.com/REPLACE-horizon-entertainment-3.m3u8"
+          }
+        },
+        {
+          "name": "Horizon Entertainment 4",
+          "streams": {
+            "HD": "https://example.com/REPLACE-horizon-entertainment-4.m3u8"
+          }
+        },
+        {
+          "name": "Horizon Entertainment 5",
+          "streams": {
+            "HD": "https://example.com/REPLACE-horizon-entertainment-5.m3u8"
+          }
+        },
+        {
+          "name": "Horizon Entertainment 6",
+          "streams": {
+            "HD": "https://example.com/REPLACE-horizon-entertainment-6.m3u8"
+          }
+        },
+        {
+          "name": "Horizon Entertainment 7",
+          "streams": {
+            "HD": "https://example.com/REPLACE-horizon-entertainment-7.m3u8"
+          }
+        },
+        {
+          "name": "Horizon Entertainment 8",
+          "streams": {
+            "HD": "https://example.com/REPLACE-horizon-entertainment-8.m3u8"
+          }
+        },
+        {
+          "name": "Horizon Entertainment 9",
+          "streams": {
+            "HD": "https://example.com/REPLACE-horizon-entertainment-9.m3u8"
+          }
+        },
+        {
+          "name": "Horizon Entertainment 10",
+          "streams": {
+            "HD": "https://example.com/REPLACE-horizon-entertainment-10.m3u8"
           }
         }
       ]
@@ -182,4 +318,4 @@
     "username": "110366811170D",
     "password": "162411098190gH"
   }
-}
+        }
