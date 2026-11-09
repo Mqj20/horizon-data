@@ -14,9 +14,9 @@
       "overlay": {
         "url": "asset:hs_{n}.png",
         "pos": "tr",
-        "width": 15,
-        "mx": 2,
-        "my": 2
+        "width": 16.5,
+        "mx": 3,
+        "my": 12
       },
       "channels": [
         {
@@ -28,9 +28,9 @@
           "overlay": {
             "url": "asset:hs_1.png",
             "pos": "tr",
-            "width": 15,
-            "mx": 5,
-            "my": 6
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
           }
         },
         {
@@ -42,9 +42,9 @@
           "overlay": {
             "url": "asset:hs_2.png",
             "pos": "tr",
-            "width": 15,
-            "mx": 2,
-            "my": 2
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
           }
         },
         {
@@ -56,9 +56,9 @@
           "overlay": {
             "url": "asset:hs_3.png",
             "pos": "tr",
-            "width": 15,
-            "mx": 2,
-            "my": 2
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
           }
         },
         {
@@ -70,9 +70,9 @@
           "overlay": {
             "url": "asset:hs_4.png",
             "pos": "tr",
-            "width": 15,
-            "mx": 2,
-            "my": 2
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
           }
         },
         {
@@ -84,9 +84,9 @@
           "overlay": {
             "url": "asset:hs_5.png",
             "pos": "tr",
-            "width": 15,
-            "mx": 2,
-            "my": 2
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
           }
         },
         {
@@ -98,9 +98,9 @@
           "overlay": {
             "url": "asset:hs_6.png",
             "pos": "tr",
-            "width": 15,
-            "mx": 2,
-            "my": 2
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
           }
         },
         {
@@ -112,9 +112,9 @@
           "overlay": {
             "url": "asset:hs_7.png",
             "pos": "tr",
-            "width": 15,
-            "mx": 2,
-            "my": 2
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
           }
         },
         {
@@ -126,9 +126,9 @@
           "overlay": {
             "url": "asset:hs_8.png",
             "pos": "tr",
-            "width": 15,
-            "mx": 2,
-            "my": 2
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
           }
         },
         {
@@ -140,9 +140,9 @@
           "overlay": {
             "url": "asset:hs_9.png",
             "pos": "tr",
-            "width": 15,
-            "mx": 2,
-            "my": 2
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
           }
         }
       ]
@@ -155,7 +155,7 @@
         "pos": "tr",
         "width": 16.5,
         "mx": 3,
-        "my": 4
+        "my": 12
       },
       "channels": [
         {
@@ -287,6 +287,308 @@
           }
         }
       ]
+    },
+    {
+      "name": "MBC",
+      "channels": [
+        {
+          "name": "B4U Aflam",
+          "logo": "http://go4.pw/MBCGROUP/B4UAFLAM.png",
+          "streams": {
+            "HD": [
+              "HZ2:dB3X44sbx3xLL3st9htHW03j3VG6yo+K4KjrWvQd4muiwwJBqnU67FeSrC4TSlqqRCTPFv/TSGjHTauGGYduTZxIXAGHgMwqT8YpgnKKuSoONZw4h65fBg==",
+              "HZ2:lDyfenc2RLkQjH8JZO7aoKYdVyMORaxAuHiKNYMGZSHSdSBRrfjnObMy3M2+hc2CwhennqTHaeozEcqygV6fR43tDoh7BvFx6i0CKzL6GvY1DWikhOt9SA=="
+            ]
+          }
+        },
+        {
+          "name": "B4U Plus",
+          "logo": "http://go4.pw/ARABE/B4UPLUS.png",
+          "streams": {
+            "HD": [
+              "HZ2:Iff1SoCIaj05xo/htF60evq6PC2iGPpKztt9bTHhrnIxqf2KpmIrB/FDju7eVwV1Zy1ehCGRx0798mwaknhMrNGmVw19o1rWBFrqqTUCfU2u8kpquvubYw==",
+              "HZ2:GhSbGhkl784ofedoGUQ9ERtOzCrc8ASL4GB8WNeacJ1Aa7CMpN7bJhN6FCvlKSI8myl8I4pEc3i2rDhx9NIrNbGUiFBy3E+c+VU0tOWhA6val3ZvIZWbOw=="
+            ]
+          }
+        },
+        {
+          "name": "MBC 1",
+          "logo": "http://go4.pw/MBCGROUP/MBC1-1.png",
+          "streams": {
+            "4K": [
+              "HZ2:o4I74XDOAdYtJ7DuPFBjraUQ40w12/6HLqGkE4jJpjhKrE9xGNoE2HlMtbVEiEfr+Yht6qdVI1N1SxGKxmHiIjS4D9qGeyAeko2caSP8AXGsxdk2dw==",
+              "HZ2:YE0Vp69XlU+j9kNaEzV8bDSX3x4YidtxENaVLH7O+Co7Rp+ionY3tIR3sVQ+tdzmHMvnggl7+4vJV91pw6FchUTE2KhsjmQDoDMYDSkeJzRQiKRuwok3",
+              "HZ2:pmJgSyjCuwcRaJ+8Lk0u3TwSByU2fIezVOCmKW7f1H4+xvSh67SrONokm2r9Db0aC0IaUMWyGdMHV3AOaDxrNVTUJtv2RN8NFjUowyFt1FvrUnWb/cQvLA=="
+            ],
+            "HD": "HZ2:gfLMDLnQELZCxhlok34t7jv3QGaIhQ0UbBPwA8djt2G+Bs8idE/LmrMmnx+lo+EvEipHTZ7zEvecC+nJR8j9EydJElAhGomuGqCYcNuykH47cYRxGcm1"
+          }
+        },
+        {
+          "name": "MBC 2",
+          "logo": "http://go4.pw/MBCGROUP/MBC2-1.png",
+          "streams": {
+            "4K": [
+              "HZ2:iBFX+INnne0oqBvHloWCU66396meQOKkd1OSIrdpFGjAoVmkqwTZZXEigMUP4tO+NtSkJWfFKeM/uoFCyT0KriwXwfN0FHYlZaBvkP6/zecdnl5u2Q==",
+              "HZ2:dmOCsYI90XBsfWEpihFquQHlxJMitHstL7a6d2KmsZLvkG77f0nJgsOQiAifJUNrKrGnnTCPbUri3thYN3tAqd1rqAcDLVA9103jD+EkPEDI6Qe8sPQ="
+            ],
+            "HD": [
+              "HZ2:uVbjnoEP3mI6th9wBexAOwMHbgFT8qUZSAHQ8gkMDY47PZ6WOgFY1WmaQuN25AaLX2u+azGYWcB6yJ8lU5nLUhfTdlj08jQQab79p61lWVQvi87ldPM=",
+              "HZ2:75ElH0ab4MkNwdHIgbbpEeGwLPsNUoqdW7ZcfMRe/wBYqYkuZEuZkxy6Om3qSn9EkzY4LP4KTC+Nf1Dkv8cNxYCLx7X3zc+HXA3VaZmxikLNvgEUWcU="
+            ]
+          }
+        },
+        {
+          "name": "MBC 3",
+          "logo": "http://go4.pw/MBCGROUP/MBC3-1.png",
+          "streams": {
+            "4K": [
+              "HZ2:zXphGH4EQhiJ2VzruwHa7i3gs4XzUoacJu4tpq/GLWFVNXvPNXGFfd3fnXg3idzxoNow0oaCzPSVecl2OO3QWW4HBZ8/auvyCf7Miss/dA2k929v",
+              "HZ2:/5i4bLPB+pjMmd79MX4XVo3BBJb+1aKHn6wvMACCkNMX14q761Uijb1iazVVbE5CmpoW8Fz0xOXISKxX530jryAaI99yEtYzcnjsf3XGeORSNLo/5Ux1"
+            ],
+            "HD": [
+              "HZ2:S6tzY7ay1nRpj2O2sYDPdcl/KZJtrmRLNlG1vM9PcuJHLB5FofE0mh+6JKDQL5QhRqxOYyA81U2e90pfg5jRbozOWMvrcUtD6nK6er0hDOwhu3EbKXo=",
+              "HZ2:PUxdWShDgPLz1gekj+oDZb+QeDeSk+DTtpRM7grQwzJt3k/lDQ3khn3KNfi855TaXCMIZFzMNy5kr4fk+DM6gRBxj628r2/Wi4Q6L9rUX4piSMlgeQQ="
+            ]
+          }
+        },
+        {
+          "name": "MBC 4",
+          "logo": "http://go4.pw/MBCGROUP/MBC4-1.png",
+          "streams": {
+            "4K": [
+              "HZ2:eDOrfthTo21elXopXTZpyUu1F65U1Mie7jICq78WeULczCyw+pJvP8VThtsTtb179K+aF348+v7EJK/ZC0ngAl7yIHr6ccUDL77zaw7aDVZSrxlw3EW+",
+              "HZ2:geJygDi+Sw/VMIxZpIK/mXCWnpEyYoJOPtqBWj830UegUq0C1hMnK/Twn5ImJeK+I1sBCS4F8mvbw1D3qpnzKShqceyLRrwIJcgQEMFe840ziNRv9AmG"
+            ],
+            "HD": [
+              "HZ2:EUxuhXSZlEtYk9S4puOS8fWChORkerD71Q3eDLPF7z/wMf2Xmmuj+FW/x2L3J36VNbIP7hKz3NtHgDSztk0nnJEAFzW3OVUXkhKIGKwU7xCURJx7+tM=",
+              "HZ2:Qb843/NDQF4gYuNliUlPZbq17GhOLf9XhuNNAufbfjxQ8yGr42hW9s+54GPSpeGZ75HdbMaXh5VZXuTS8t6p5riIwKM/7BacAXMCigxxZNBthxNIFz8="
+            ]
+          }
+        },
+        {
+          "name": "MBC 5",
+          "logo": "http://go4.pw/MBCGROUP/MBC5-1.png",
+          "streams": {
+            "4K": [
+              "HZ2:fhzt2iGZPqljgR5/U9vD5kO5sK3EeM88ME0kufDLhQyBhSly/w8fPRyr2BW5dSPy2d/TN83dv3Oy9mbhCJNekFxj7mjIdLPN43dISKAwJ7+f+aj2C3JP",
+              "HZ2:ZJHQzxsf9rev3kQkJibWXZgLgsbEyZZgpIO/+ubHo4KD38CX8JGSyaGtTUPrLkS2f7yD4prP6aR+NGP/A8S/eB9/rN94yNp25U19wA6apP7Kt+E5Z+bq"
+            ],
+            "HD": [
+              "HZ2:k6HwM466VoYxWWdEW8BwmCsmGQ5x7dXDFnHln28B6p7n8HjvAXLZgU8a+M9eCKMad5GGyRc9b0MnEqRU9nA893tG5y4GI38gpKQUVec89oIKbvh9q+0=",
+              "HZ2:MPqgT2lUy3XIviRjSW7dFpJP+8SFSaE3j14x4CMJ1S+nArZvfG26uvwB7n6JWgbdu7hVYBrjzo5+strk5mOjIbxYEtT+dg6RT8XV4o6YLTQ8Hz83w0rh"
+            ]
+          }
+        },
+        {
+          "name": "MBC Action",
+          "logo": "http://go4.pw/MBCGROUP/MBCACTION-1.png",
+          "streams": {
+            "4K": [
+              "HZ2:7YFM4gkZi7vKvjWbbwuzbQ25m3SeJTux8aiostw/R/0KX76dJxq/f83BnFIxvRrBJL5FCGTC99S5KqsE39iuhjv0jn4Ky6Dlvo0AeweJ5ftnDiZ+7g==",
+              "HZ2:FxMTvagZDpb33JTrkEH49ksTpvZoVEuzkU3WxQqKJZ9U2f1xgu63lBTAnI6uBXpOWPuvxlTO5oTpMtsWZTQ/XxEKXFS1PMiYW/j0AMKOjmYZIvievbc="
+            ],
+            "HD": [
+              "HZ2:C/o9PXG1zUzX61CC3l8vfXEdJsSMBw8StYOTIfVKQtu2GuK0H93btmh7S8agzMiNERqr29HUvp6qQ3oh9cQqidwBmC5I/9b29ccRYom/E1M066MN1CKR",
+              "HZ2:FzTKJy+zZS/C+W4B3T1k1y86vAat5AZ7U5+SLOU8RX73szJwd13Hq40dUFOUcxAVfbQl9QJy7E9ZHRX8gaAhd4EUIKGcEtOk7qdJ90uce1jjXTRl/ZI="
+            ]
+          }
+        },
+        {
+          "name": "MBC Al Thaqafeya",
+          "logo": "",
+          "streams": {
+            "HD": "HZ2:4Hb2woQy5Yy9DGBFCaFBoTq0QNTlMbuq8ykPBmU5fry3ZLN4kudqTXRTv8lXfAYD7KFvHsdkFK1AkByTYit3+jtTyjb02NZEOn/HWTqUAcFiIKLGhp8rjA=="
+          }
+        },
+        {
+          "name": "MBC Bollywood",
+          "logo": "http://go4.pw/MBCGROUP/MBCBOLLYWOOD-1.png",
+          "streams": {
+            "4K": [
+              "HZ2:PGC1CtI8Psxd1tpAkOi1zgWF9kRw0Mowaz2j2FsvGfobojwCijEndua9yOszP39JqinT4S87aiwNYoOZC3wBhVRwULPbB96EGb2uahIgFUccj0kqwdVv",
+              "HZ2:3cYlEXd6VNTELvgRwknuE/QT6J0+Uo5sNedd/PuSaP3lt7yEbGDVVj6zCKOB6hOBTx18Ix91ja5iynOHxTXRQ/IctulCoxKhpkvSLWW4x6T7ttUkdA=="
+            ],
+            "HD": [
+              "HZ2:r75dcxzKxQVMsYUbiYZanM2IwnFS10v3DQcHNae6/oWGsnmarZZwjWiJPuuuwfdkap1jVNynDKhzsa6TXFiecEzTZg9zHXpQaGss/RB9qYhws+oHIik=",
+              "HZ2:+EdbwFfBwVU/VtOK5roT+9oCXbYTj5cvoEWPa364R+wJF7N7P2BorEU1JvFykKTTnDqdezx6oMtoFdpTrO2nxnbgQ5Ya/1vlXg874xbYO+f3bgvml8E="
+            ]
+          }
+        },
+        {
+          "name": "MBC Drama",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e9/MBC_Drama_Logo.svg",
+          "streams": {
+            "4K": "HZ2:kDnBoEmKEgftkrV4RlLxid29uI24IODUCXuFledJWXxvozUEqHyDHufyc2V6GIeJqyORV5tHqehIyGsbiXl07+DWVnU2rVBthVgjszEnLgXb/N5cJIi/rg==",
+            "HD": [
+              "HZ2:WVNUwHXsumRkFn4UCLyBdE0YEKmAWFnAQ++izLCrqTqKmfh01OSQtxfXcIlmkQ2eauf9IzctIIcLhfFeCbXY7DzjB6WYU5l4SMF/PWvMlSs8Mijeh4fo1Q==",
+              "HZ2:PHlBPNt6BJZip9iBk/n8wSHdlpuGZOHep4O8uRDkWXjcCwqETK8/6qo8pH9ksDFjuF/CX2+mMTfbGVhhVZJYNo1DtfkYBmMABhq0Z0rP46p5wdVcNg==",
+              "HZ2:ZJYsM3IN1zzyZKdvmqH0VQhTW0zKk5dpMGrS85/4iH+2M419v6Y8xNo9ggS/qpa6MXtXl4erRUkibVM0fuGyblkSLJdqQ8dfc1b2KPigOjdx0kFxIlBw"
+            ]
+          }
+        },
+        {
+          "name": "MBC Drama+",
+          "logo": "http://go4.pw/MBCGROUP/MBCDRAMAPLUSHD-1.png",
+          "streams": {
+            "4K": [
+              "HZ2:XENFxyeraFWiD+IszPCI+3rIzx9NbCqxpU1C8m41WupNIoNR7rcwMCOtH8E9e9kXTcePteD07YHUPoo8KLuLxVKWEtcKNsddA9I8CNuSRiztsBPXBUfL",
+              "HZ2:X0wpwaG/Mxyi62ZDUrAH45+yw1MixWYmRgkxrO2tLWcdnQbGPqNhjepELLrGd4U/8MZK+bKtpzH2zDJGn43ix6Nmrp1ebgc0PmLtaVd1xq1wG96tFwA="
+            ],
+            "HD": [
+              "HZ2:CVywikFO8UXN8WX4HajvQZGyJBW4MXaOu1mXV5q2YLeIjcNxdwPylgu8/u6b6cQu7WaupA+ePOa4m7b4UZe9jdVNkzIG0MRNXBzqT4lmAi4Xjq+tIA==",
+              "HZ2:1MbLrvYFBfrBikg9+cd+iCWRhgr0gdVdTjmRRzVijDTl8Knc5f0HqHrQ0ODlyor5QKBzF/LwINaiCr09YdecvItV8Pfqf3wRXggN9uR+QGAEjFNA/Ovn"
+            ]
+          }
+        },
+        {
+          "name": "MBC eLife",
+          "logo": "http://go4.pw/MBCGROUP/MBCELIFE.png",
+          "streams": {
+            "HD": [
+              "HZ2:K1HT500Q7Y6znaXQIFVQ2lmDU73yvg8ERFpV1ZPRD+pLoyxoTuCR156wc8qWZjcnKUtwkIAyAASf+huTgajVAXmm526gEUSV3IaY5dSR5NVTLRiqiC5Tcg==",
+              "HZ2:AFimXKXTN/OyfHZ6VZCCZ3cRSRvh8/OyW184RL3kid2jqri8TaFVIOfYAtkCHJO+WG5UEqxREcIYG2Jg1rOQm7hyBEhRSQlaTMcfdjQ/8sGiC31bIgLnBQ=="
+            ]
+          }
+        },
+        {
+          "name": "MBC FM",
+          "logo": "http://go4.pw/EGYPT/mix-bel-araby.png",
+          "streams": {
+            "HD": "HZ2:794PDGIzvRP6lNMJ2D2cT7tpWZCYB1GQ6zYQS4aMsXMAqRNx2krgJVRfbDciPsc3AG76bnyowtKF8ooHfHrRbHjfJURQJ0cdrp0GA5uSHBKRTI4cAhYd"
+          }
+        },
+        {
+          "name": "MBC Iraq",
+          "logo": "http://go4.pw/MBCGROUP/MBCIRAQ-1.png",
+          "streams": {
+            "4K": [
+              "HZ2:3LshAHTANJbDrMJBcnvYhf92+ygjp3wKJOQuuCdAHCaJyZ1fNPDNEoEzeIjPU7J0VyU+5VqVKq44uYdP4LAIUOOEfSv/2aT0GYc+N48q4DHjseTir/A0",
+              "HZ2:ByII/as3vR4qwjxvx3vIzuVZq1uoJIHy8+K8FtKnFJTLTyo4KkoL8WaIouhuvUSUl7HleVvDyKWN4EcCFIvuiUUbSnjiyZtQcxVnd5NdPDEXT6/y4O9y"
+            ],
+            "HD": [
+              "HZ2:XgNRo/EpkSsfR3ABZX42vjKICJD3+oWLilIl1PGssrpjXm39sQvvAZKdoQPvVp8tIVpEKQwH8ZMHTMhi/PrVGd3Oqc+8XFpORlxBAJEieqGzBpynFgE=",
+              "HZ2:CijztxUuUx8q9+qfmVnBddTiwYub09GP+t2ZEh3I+iddPMpAM9H+winSrycL5KsATKMBV26mGFC+1uEVy1+oRkH7TGCjErTQxmArAB4sJ3h5bnkQUfuk"
+            ]
+          }
+        },
+        {
+          "name": "MBC Masr 1",
+          "logo": "http://go4.pw/MBCGROUP/MBCMASR-1.png",
+          "streams": {
+            "4K": [
+              "HZ2:4pzfi6eWPVvkkGlGZVSE56RYEGlV6uMQTN3C/Ua+UKFKZ+0vzinECj8LAQwnNOLWGy9SwQqDWStttAJtWYeAbinWPKQHAMugQZJhPVvoe5iTT9BLDhM/",
+              "HZ2:lHJWgQPd7RwSH8fmkRHUt8+vchlwakdMLx9pCMqZBJ+cqZZPGnFxhI4kPjzlVX9r0yGQX/grLBqwJVuL8yj/lue9XyTARFQvAoHaChmmpRllDNrBf7Yp"
+            ],
+            "HD": [
+              "HZ2:bDVB8HCuxIxB5EM6E1GG4i9KiGYtDXZXQn2HrCxoLhJZQRSR5t3YY99bQAWrjeh5n0ir6189lZsyD8YRF2XxvgYXwhVCOv71QfMiesrp5jf4I1/2r5Z3",
+              "HZ2:wMsRGK0j1Jw0UH8BciZOHB3kT0RPJS+O0AqTj6rgLIzHt8xzflmPBmiZgmxBSCeF27of04bf8hlBd3wF/E8aEQmTDWWcxWMz2q2EAy3AVY1bQyM32A=="
+            ]
+          }
+        },
+        {
+          "name": "MBC Masr 2",
+          "logo": "http://go4.pw/MBC_Masr.png",
+          "streams": {
+            "4K": [
+              "HZ2:EZKceZ+WHuYO2rFiRdP+VPoRHEIA4ANRqy1ir5HrXiFQWpG5Dq62pgnI7uO6d2IF3uQILHsHUcBpeL2Y67cRdtQNESfkCwbKZbxBx8L2HhtGPHAcKQ==",
+              "HZ2:+NEeegyNQdUtCsKdjEgJEQ4747+btC0vGOiKWNQ638CVWg7+/JcmefGnVJjYrCASQYjQQg2D7p5v/QnK0vjk4hAKfv1ZJadDNc6ybEIRxa+7k5cdEM0H"
+            ],
+            "HD": [
+              "HZ2:X5cue49FL7m4YaengnKnOJ9mFIJZSpmH9ds8dOS1q/oDahEfZLCuO8HnLc+kuMsk6zFu7rRUvNJ0eA3WgpVqICEg/eR1eAItTjrwHkjkZWTXDSMvtFHG",
+              "HZ2:rt1Y6fV+r6zCA2b+MFLjZXhpL+q3wGcbhlxN2slZ6pJCdYQF1OzpWejkEb9of5ujg7GNLJwfRfcUm8ZKMtBPgE1Pd+W1pow2Lzw7+P7I3M/qBfqa9Lsb"
+            ]
+          }
+        },
+        {
+          "name": "MBC Masr Drama",
+          "logo": "http://go4.pw/MBCGROUP/MBCDRAMA-1.png",
+          "streams": {
+            "4K": [
+              "HZ2:+oFoWZB8gSX0msKFTiS6EtgemAsZoOj+erbPp/TwNwSYZX2nInbtaCy5HylBAIbqWpTjKyW/r06Zf/QbuANyfkfyQ/lCHbAQomfGIXvkT5h3xC2/f7U=",
+              "HZ2:xmoAopHwaDpe2WNRKfZsaZ3VyX1Opnyn6oyINQcExK5pl07Go+UNtXHIWAt+DnuJC4m9EUMpVxGRLlEngV4VKVa4znoWg09kOQ1wWOISaTgjP4THy5ml"
+            ],
+            "HD": "HZ2:jM16yRF3ZYFNpKSYo3kSuq5pNOomDednZjSOwu4PLou7xMNDSFjL3N1TOz6WXiosO4pgoh0jUIjqGIL1SlZ/snbqZLrnJkSrTJ7ppS7WdvNZ1VAr2pNnwQ=="
+          }
+        },
+        {
+          "name": "MBC Max",
+          "logo": "http://go4.pw/MBCGROUP/MBCMAX-.png",
+          "streams": {
+            "4K": [
+              "HZ2:cvvLX5xRhQSLyoII7ksuZ/syfmUDbyGXTWTIh/fCP8Zk+rjObI21mgaJlealBg+s1UAb5IxLFiQifNxRZAB7ciOE/2XiZsPgx1McJcSa9NFMv5YKcx8=",
+              "HZ2:fEoTHTAhXnSEf3HlRk1nCkx8ljousm9/X5OPK8gYB+GcFlFM4jj33la/ds7Dou863ixOfGy239085fpiySDQJ/qKXC9fdshJZUJ/zFbbw6DX49rzsmTn"
+            ],
+            "HD": [
+              "HZ2:hNmOdwlfaq5yP4uxn8GqHzBfI2IiH6V0BM8WpWycufJB4uF27OydsMn0K8ytKJJ9t2QtWBGvjmKGr2ixlGFiVY0EiENZ5kGun20G8ZRQyk0rDW8jiA==",
+              "HZ2:8RbDdo4DsYuiY0ClMHzWwOKrxESubexhYqbBjF+WDpfSUVyzxEeqTuMGkweQSTy9Gd5Jfi959QwLv7vlds8ElQNoci2zK3KbMCOmTvt0GNgTix8zwd8q"
+            ]
+          }
+        },
+        {
+          "name": "MBC Mix Hollywood",
+          "logo": "http://go4.pw/MBCGROUP/MBCBOLLYWOOD-1.png",
+          "streams": {
+            "HD": "HZ2:vQCfD1CUXRJyRF+c4+x9cpQwcflPvRjpWZ+l4t79CQmd8K0yK5MD1UskMPgx41/TUBaGw4hjaPFjplgkol5yBgl5VKBn9aO3rdD4Tg6+FpkqhDvWG+AW"
+          }
+        },
+        {
+          "name": "MBC Mood",
+          "logo": "",
+          "streams": {
+            "4K": "HZ2:xeQ1yvBc4v2IyTbfVEnYRU2fH0fnYJosB/cL8GSSruHBCJlwIT+zHu8qzotBuUkBXsaDJ8dvytQBmrZol+FNJRHuksGVL5uqTJGxuT1A+U2DoBqFTLyfyQ=="
+          }
+        },
+        {
+          "name": "MBC Shahid",
+          "logo": "https://d.top4top.io/p_1477bk0fq1.png",
+          "streams": {
+            "4K": "HZ2:aicuD7QAWR1eXKsPNwdqTs1hKV4BU7jtlpG7aXzQSIDUsk6XcDgHki1Z32U3DazD0ilNIaoV8J1T9zwV5mcBjFlTOB3NlM8SFjg0Z4inlUAnELvOkK8g5g=="
+          }
+        },
+        {
+          "name": "MBC Variety",
+          "logo": "http://go4.pw/MBCGROUP/MBC-Variety-HD.png",
+          "streams": {
+            "4K": [
+              "HZ2:7/IqR4G7yohv0ZbVog2mXqpOYoHv2VIk07q9JhUMJflOs5uAW/GrvDUMXhpbNlQO+UK4Ql+CRIanDqGGbLG1aWR4sCGt0lzrZexkPryJPcpLwLOuf8PY",
+              "HZ2:scPZxMAJmUerlH/4bz5AjnECHRYj4COTuXDzRrpGO+xBJlj+Q/mISoXzVbPTjhtqsY3kWPcETHIVUHTdK2iwGf10SBoa6KSu/rFariJYpnyCiFkOhpzw"
+            ],
+            "HD": [
+              "HZ2:TdM9tUaRvhjetqe/j4KmPM+g3BPAmF56w4eslLZTFCDZm3wHZFYETx8cDDBtrLchmH4rhx6ficTJv/J43q4aiOa4JxrnSctSgM1fU/TiB+1s/IinN+8d",
+              "HZ2:OKlhFvU3ZCky+qhV1XyHzjRggDgxDGOdDfW+EmsbOMMlToRsJRWA7k18kCmNk+3EulRKJ0AOWwiGmo5MVr5yHb41ldEyi9ehxvTmbkuJL8JSaPdOux4="
+            ]
+          }
+        },
+        {
+          "name": "Zee Aflam",
+          "logo": "http://go4.pw/ARABE/ZEEAFLAM.png",
+          "streams": {
+            "4K": "HZ2:SraaahXrfViaQ3q7xtFzYleiD5zyZ1Z/hALt6t5Ww0XeQW/3I6hUaGdshfWvIxLtEIhu+zOA4xLMDNaPYz7aK/p2c4d4/xn+ODHjHowMdhQ7LRsmkflK",
+            "HD": [
+              "HZ2:Lt0diCnu7lAhB+19GOEuz2QTdINbBYOTyoI+uSfYLq/3Bd76oHRplSvHFXL/1hLphlSpW2tyuMlhUwL1TRcLYMXdLfcKgTZQXWSoAHLXuaCUxjGhG1GdKw==",
+              "HZ2:ZlVWyywj+zxpDEwfJWcYlOTkcSH4qbyUJGbEcr4LU6RmyQR9EQSYrGRigQCMbOgvQgjluj27z0wyodlsuLeb8VLLEPZ8vbefPhEKr9IbaobgudeeHPeIUw=="
+            ]
+          }
+        },
+        {
+          "name": "Zee Alwan",
+          "logo": "http://go4.pw/ARABE/ZEEAFLAM.png",
+          "streams": {
+            "4K": "HZ2:aHwCWyBNB03hlp9fEAzLkeJyj0qL4knqdBqxqhytrYmUMMtSSdi386XxHefN5FJoozt6oKmRcE1brIOrwcBtTfc5pZN8gxUPh0/qfK+01MYWA0nTUtqn",
+            "HD": [
+              "HZ2:d/M7YRo+CBqJE9hjiih9Jwzkih3kXYiYlnUOUGSkQwzNJg2hHyB/lfUpM7VVb2Scpoqb48Fsn7I7oKPC70puPO9mvTGj0RU/oz3SbR0F2OG5CwIr/hSuBA==",
+              "HZ2:UHWZolTn68JSquzH4BZPGuzgD26qZYIS6xgQyGN0nb4T/ej+vSTR2P0E9m2va5kxvH7UL9Np4lHug8hqNKRMaO4W1smRN7J6037ylIDlB/1xSvS75wg+Cw=="
+            ]
+          }
+        },
+        {
+          "name": "Zee Zaman",
+          "logo": "https://d.top4top.io/p_1477bk0fq1.png",
+          "streams": {
+            "HD": "HZ2:y7SnuIx06dDmyss81LTtwdFfJVoAEGZHUzR2mwz7h6DWd74ggl3rwXy0yDmkR/Cn7e7wwtnb4xiqPvGz96l59uko3Swplr+Hd4fun/hGZcI1tg+ZWD5tHQ=="
+          }
+        }
+      ]
     }
   ],
   "movies": [],
@@ -318,4 +620,4 @@
     "username": "110366811170D",
     "password": "162411098190gH"
   }
-}
+        }
