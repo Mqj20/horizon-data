@@ -1,0 +1,199 @@
+{
+  "codeHashes": [
+    "670671cd97404156226e507973f2ab8330d3022ca96e0c93bdbdb320c41adcaf"
+  ],
+  "app": {
+    "version": 2,
+    "apkUrl": "",
+    "notes": ""
+  },
+  "channels": [
+    {
+      "name": "شبكة قنوات SOLO",
+      "items": [
+        {
+          "name": "SOLO ACTION",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240682.ts",
+          "logo": "https://img.icons8.com/color/512/action.png"
+        },
+        {
+          "name": "SOLO COMEDY",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240683.ts",
+          "logo": "https://img.icons8.com/color/512/comedy.png"
+        },
+        {
+          "name": "SOLO Documentary",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240681.ts",
+          "logo": "https://img.icons8.com/color/512/documentary.png"
+        },
+        {
+          "name": "SOLO DRAMA",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240677.ts",
+          "logo": "https://img.icons8.com/color/512/theater-masks.png"
+        },
+        {
+          "name": "SOLO Horror",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240684.ts",
+          "logo": "https://img.icons8.com/color/512/horror.png"
+        },
+        {
+          "name": "SOLO KIDS",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240678.ts",
+          "logo": "https://img.icons8.com/color/512/children-teeth.png"
+        },
+        {
+          "name": "SOLO MOVIES",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240679.ts",
+          "logo": "https://img.icons8.com/color/512/clapperboard.png"
+        },
+        {
+          "name": "SOLO NEW",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240701.ts",
+          "logo": "https://img.icons8.com/color/512/new.png"
+        },
+        {
+          "name": "SOLO SPORT 1 HD",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240660.ts",
+          "logo": "https://img.icons8.com/color/512/sports.png"
+        },
+        {
+          "name": "SOLO SPORT 1 SD",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240661.ts",
+          "logo": "https://img.icons8.com/color/512/sports.png"
+        },
+        {
+          "name": "SOLO SPORT 2 HD",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240662.ts",
+          "logo": "https://img.icons8.com/color/512/sports.png"
+        },
+        {
+          "name": "SOLO SPORT 2 SD",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240662.ts",
+          "logo": "https://img.icons8.com/color/512/sports.png"
+        },
+        {
+          "name": "SOLO SPORT 3 HD",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240663.ts",
+          "logo": "https://img.icons8.com/color/512/sports.png"
+        },
+        {
+          "name": "SOLO SPORT 3 SD",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240664.ts",
+          "logo": "https://img.icons8.com/color/512/sports.png"
+        },
+        {
+          "name": "SOLO SPORT 4 SD",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240668.ts",
+          "logo": "https://img.icons8.com/color/512/sports.png"
+        },
+        {
+          "name": "SOLO SPORT 5 SD",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240670.ts",
+          "logo": "https://img.icons8.com/color/512/sports.png"
+        },
+        {
+          "name": "SOLO SPORT F1 HD",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240671.ts",
+          "logo": "https://img.icons8.com/color/512/formula-1.png"
+        },
+        {
+          "name": "SOLO SPORT F1 SD",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240672.ts",
+          "logo": "https://img.icons8.com/color/512/formula-1.png"
+        },
+        {
+          "name": "SOLO SPORT UFC HD",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240673.ts",
+          "logo": "https://img.icons8.com/color/512/boxing-glove.png"
+        },
+        {
+          "name": "SOLO SPORT UFC SD",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240674.ts",
+          "logo": "https://img.icons8.com/color/512/boxing-glove.png"
+        },
+        {
+          "name": "SOLO SPORT WWE HD",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240675.ts",
+          "logo": "https://img.icons8.com/color/512/wrestling.png"
+        },
+        {
+          "name": "SOLO SPORT WWE SD",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240676.ts",
+          "logo": "https://img.icons8.com/color/512/wrestling.png"
+        },
+        {
+          "name": "SOLO TMNT",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240700.ts",
+          "logo": "https://img.icons8.com/color/512/ninja-turtle.png"
+        },
+        {
+          "name": "SOLO TURKEY",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240680.ts",
+          "logo": "https://img.icons8.com/color/512/turkey-flag.png"
+        },
+        {
+          "name": "المؤسس عثمان SOLO",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240706.ts",
+          "logo": "https://img.icons8.com/color/512/sword.png"
+        },
+        {
+          "name": "الحفرة SOLO",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240704.ts",
+          "logo": "https://img.icons8.com/color/512/shield.png"
+        },
+        {
+          "name": "باب الحارة SOLO",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240702.ts",
+          "logo": "https://img.icons8.com/color/512/gate.png"
+        },
+        {
+          "name": "حريم السلطان SOLO",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240705.ts",
+          "logo": "https://img.icons8.com/color/512/crown.png"
+        },
+        {
+          "name": "مسلسلات سورية",
+          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240703.ts",
+          "logo": "https://img.icons8.com/color/512/syria-flag.png"
+        }
+      ]
+    }
+  ],
+  "movies": [],
+  "series": [
+    {
+      "name": "ليل البنفسج",
+      "items": [
+        {
+          "name": "ليل البنفسج",
+          "seasons": [
+            {
+              "name": "الموسم الثاني",
+              "episodes": [
+                {
+                  "name": "الحلقة الأولى - الموسم الثاني",
+                  "url": "http://130.193.165.22/Flussonic248/ArabicTVSeries2/LaylAlbanafsaj-S02E01.mp4"
+                },
+                {
+                  "name": "الحلقة الثانية - الموسم الثاني",
+                  "url": "http://130.193.165.22/Flussonic248/ArabicTVSeries2/LaylAlbanafsaj-S02E02.mp4"
+                },
+                {
+                  "name": "الحلقة الثالثة - الموسم الثاني",
+                  "url": "http://130.193.165.22/Flussonic248/ArabicTVSeries2/LaylAlbanafsaj-S02E03.mp4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "matches": [],
+  "xtream": {
+    "enabled": true,
+    "url": "8k.lol:80",
+    "username": "19765982173986",
+    "password": "15908418752697"
+  }
+}
