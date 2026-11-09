@@ -29,7 +29,7 @@
             "url": "asset:hs_1.png",
             "pos": "tr",
             "width": 15,
-            "mx": 3,
+            "mx": -1,
             "my": 6
           }
         },
