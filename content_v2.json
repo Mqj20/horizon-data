@@ -373,6 +373,162 @@
           "category": "ALWAN SPORT"
         }
       ]
+    },
+    {
+      "name": "Bein-vip",
+      "channels": [
+        {
+          "name": "BEIN SPORTS",
+          "logo": "https://www.freelogovectors.net/wp-content/uploads/2023/05/bein_sports_logo-freelogovectors.net_.png",
+          "streams": {
+            "HD": "HZ2:B+M86YDt4jMNhuvV8IsIidTBW5NzlTW6xMGi15KuvI2mO2UbuLQpwT/UBKSCzFRRUXWHjwmbkPBgrFQ2+7Vh5gFLF4GYiUuBpT5tBfshYq+GfQWrzelTqwmJ"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "BEIN SPORTS News",
+          "logo": "https://www.freelogovectors.net/wp-content/uploads/2023/05/bein_sports_logo-freelogovectors.net_.png",
+          "streams": {
+            "HD": "HZ2:/dPjBd/TZqJ6RZV2ADWnTdRaJjtYNKju3ckpvNqB+Na7sRnYJznMzIJEd2hnejF4cIN88xlMddtUCEKDhUGht3RjKlVJttdywKSY3L8f0+yR67RopwWhgoSA"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "Bein sport 1",
+          "logo": "https://lo1.in/fr/bns1.png",
+          "streams": {
+            "4K": "HZ2:rTWFp6qnGbvOAtVDaMmn6KbJScSl/m6k6kA6wNOYALmfk8zqDGKY2xJg1x3GO2+ewerPqkrbbhEiu4kn+BF+zdYkIbkg3PmQSItmQa5qMNai7QqtFrJpGmoA",
+            "HD": "HZ2:TWfBzbJ/ibWp4dOdJr3s+uy8FyLBzcUADS6vOW9lMMRSEBnNpnUoABFL4Pw4xZLFoZIse6CU/4kujEYlF85bfzQ0L53nfCoxrn37hDXXb/u/CuVlEBb67Hhf"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "Bein sport 2",
+          "logo": "https://lo1.in/fr/bns2.png",
+          "streams": {
+            "4K": "HZ2:S9MTuuULeDtx3+EZ2VltYxWnWiGTxKC+DskfwThwFThz/aX9ALGh34+M6VtFAYk5fxOCfbZ+K0dDve8gbBQLFEpAQhB7KA6N5l4E8eHY92OCy9/XfGvAWCR2",
+            "HD": "HZ2:VQhVAGaiku7bXXGxvQgMvCFQlctBYQ54S5KaY2NYd+UX13GrJRp42el4JbGWUi3Qf34HdXkzmUhSxUfcUcjNsw5n/L+WlKeexKl/t8Fwy/lLnoabO7EIgOeP"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "Bein sport 3",
+          "logo": "https://lo1.in/fr/bns3.png",
+          "streams": {
+            "4K": "HZ2:qwreHFKbEWDjA0rLYfekcndTeYHVLTTWHPCK/a0wBycymmXiVk3us8RSQX/AOKP5by6wtlHHCoi/fj2vLs5ky9HxBgne0ozdz8W7D+oPGayTb5JQx34Ei6ta",
+            "HD": "HZ2:5HeF2PMqibtTNo1FvwCdgluv9voYWzm2jUVAdKs246cjUChhhYu6b++ZPnfyyky//ULTelGOrPzjrUlPoZ6lQPF8o9EpupmzG3kZQjyGvSlmJv2CbvfVoU++"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "Bein sport 4",
+          "logo": "https://lo1.in/fr/bnsm4.png",
+          "streams": {
+            "4K": "HZ2:JskLyh9X4BkTJuWl1pSL4AncOp9nxonBknjOTCJi132SbjaTiPl5lY4dyjRDdvIZ2XBGTOClYrJLw2h6n33JVnIZfcJj3c2Qgl+Q8rR4dbz9koKXNg1SEp/l",
+            "HD": "HZ2:VZd185p+oEWeCHbbX+PgcAHv6hkzOqT7bM5+o9l0M7Vud3Zdh66GehYagVXe3aVWbdm+9cWFMW2uoq0QKs76chUTOaeRphxoHlzw0YbEEuLMYEXFncSpps+f"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "Bein sport 5",
+          "logo": "https://lo1.in/fr/bnsm5.png",
+          "streams": {
+            "4K": "HZ2:eVaDM6cX+YGD8MJ+9HNAuKiV8RX82EyemT6qgfhB18i7A2wyfwurfT8907xzqFDTRM2z/F/2bfCl9pEDtDYL7ddF46e3eh3/4Dg1qQyEsELWmW69tiwOOjC4",
+            "HD": "HZ2:scDmH54BQ59+oqo5q6Cm9cjE5wmjphQtMWQ43X8mErQIhqKnP2AhnJRdYEBAgyYj7zTcyPiZ7/3Xx2xU3KcckXOonNIxAUtnN+QcVp4u4Kal6YdQHqM4a4GI"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "Bein sport 6",
+          "logo": "https://lo1.in/fr/bnsm6.png",
+          "streams": {
+            "4K": "HZ2:43yfeibDiipv8MR7RziFikaDbLBtbprwCx38Q6XFDuMDup101s8skfKXrkZMk+fWrFZgvZr5Tvx25y1xHsL6jO69ySx9DBAV6nWy9ooCUmOHM/F8AXeB/tGv",
+            "HD": "HZ2:gXNz/ZCEFplr8l7Ge9LVjEF1vupaGaaSI7QVfgNOGBZVT1ojgg90bxFET39i2qyWWei1QWsHa5Chqj4tV6vfhAYTnTNLUpS/Um2RLIjfIdI9u/liBqIbx65+"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "Bein sport 7",
+          "logo": "https://lo1.in/fr/bnsm7.png",
+          "streams": {
+            "4K": "HZ2:c+S/M6fIkBfAYQYaVoYT8ltnWsF0m0hAushuxDfVsBP+lsDPB/eyoJDW9+3GYlnfi91KLUFbxIG9EKNAq+pganWzgtEXARPGsA3ARMft7FBWjDz4GBkwZAya",
+            "HD": "HZ2:dpwqbWI39DXpKfvfVWgyblGA5O+bX102bBTN7hwSrmqFQsjQiz4Obb0TLLNkBkvnttX3PmeHJIHqUUP0cnSqiDDYfXH+NIGiNX3BMSxLMdBVWRyjM7j8UGIa"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "Bein sport 8",
+          "logo": "https://lo1.in/fr/bnsm8.png",
+          "streams": {
+            "HD": "HZ2:rppWLiT31nnhidI0jXoFcOyZsce/YPnojDgW+X90krM+dWD1ss3CpOuaF73kQcfYDAXn5gELm5y7xY6n2y2n0AbAU2e2YJMisNKAmTIx+1JyPHh6/1K9v6oJ"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "Bein sport 9",
+          "logo": "https://lo1.in/fr/bnsm9.png",
+          "streams": {
+            "HD": "HZ2:OFqCkIzH11tS9o3uT7nqcYuhIZJB3GiU+y7BDSPgZrwg7GQrV18Ae7IkCugkRSZFAvZmMVBLGloYJbNh/YckcijygKhFO6Mmqo00l+lhREBGnWa1u+4tTzem"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "Bein sport 1-540",
+          "logo": "https://lo1.in/fr/bns1.png",
+          "streams": {
+            "HD": "HZ2:kxyjWoiscSEwdJmLn7Ydl4jR6Tw779YIh4m++7oGwHPjImArcb6t4cHjHxcHFTF2e61AZUebscDKdaLs2Jm/MW5dbBfMWQh9egHu/uikd7+OP7oVPk7XMtd1"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "Bein sport 2-540",
+          "logo": "https://lo1.in/fr/bns2.png",
+          "streams": {
+            "HD": "HZ2:WveHdc3gVvzNLjsvmX+RmIid157xQD9n+CdGbh9JDa2wh1K8kZjZ6ZcCd7waRUkwWSbJIASh/KbKL5yOZw6i7W/KeFZyAdZqrx1sjEJmujwpJYPR8l2IU/n2"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "Bein sport 3-540",
+          "logo": "https://lo1.in/fr/bns3.png",
+          "streams": {
+            "HD": "HZ2:6jG+U3i5NHvmKnJliNr8YtICWYO5jOmAkkYCXlxVFtF08Pln6tU6yssxsW2IMdDsJlwC5Itgoz2tO0JF8bUha10yxeW8w9xvg/wuxzXw+2p4neVAfeCTQYPZ"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "Bein sport 4-540",
+          "logo": "https://lo1.in/fr/bnsm4.png",
+          "streams": {
+            "HD": "HZ2:70kw6QQWSLHeOprKxiN3GctYed+2px9BQ4YlqleMpizT67ON7J+/Qk4yB4/RVyc5C5i/5EJKnvJZzBU6TJUmSbUsdfp3gQ8+ZyIGkAMAu+URrUOnyHPZvIsP"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "Bein sport 5-540",
+          "logo": "https://lo1.in/fr/bnsm5.png",
+          "streams": {
+            "HD": "HZ2:SljtqhjPtM1Lvl/DPCHQlTZ2s0MSyRPKVRjYxTtszdydZj4jUG5lnBbGMAFSlUrwqnhNBRz9PHvfdEEMjRX6WVHU3pKuoEnUCxKJ3tcpHcv/RJA+G0jMWQ3a"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "Bein sport 6-540",
+          "logo": "https://lo1.in/fr/bnsm6.png",
+          "streams": {
+            "HD": "HZ2:GiOL77lURYWnBamYbZu+8C99ByC8O7sC0Bebh3DptH53I5+6gSC3YwnTxEE1oV9+Q02ofzO2BiXvMZmB8pS2MNVeJ0kw0kVZsonN5JwnRjpAVSwR+Rxjq5Gk"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "Bein sport 7-540",
+          "logo": "https://lo1.in/fr/bnsm7.png",
+          "streams": {
+            "HD": "HZ2:LchoAy+EQSKoS+1mjckZgULXX0UGK8IOp/UvtAiGxNb9ZPjTJHHXwopb9VDxhN61hZguBaMycyTVsAabDa92goP39hTDEm3UjEKNJEgBptOntJoH2KRiVMZj"
+          },
+          "category": "BEIN"
+        }
+      ]
     }
   ],
   "movies": [],
