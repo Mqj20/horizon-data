@@ -1,88 +1,108 @@
-   {
-    "name": "BEIN SPORTS NEWS",
-    "logo": "https://www6.0zz0.com/2021/07/08/08/511936894.png",
-    "streams": {
-      "HD": "HZ2:NJeipeHcmFQ1z3l42chGCS1zkccMk7Ju5sludvL9Ltc4tnBFwl/N5arTRXCVbMkG/+kVH/1GdfYRAp+9+zE3C4J2iZkIfiapivgH6ssXWhlytSq9R/zs2gyqyErp"
-    },
-    "category": "BEIN"
+{
+  "codeHashes": [
+    "670671cd97404156226e507973f2ab8330d3022ca96e0c93bdbdb320c41adcaf"
+  ],
+  "app": {
+    "version": 2,
+    "apkUrl": "",
+    "notes": ""
   },
-  {
-    "name": "Bein Sport Mena",
-    "logo": "http://up.jsd9.site/up/HsGysb1Uco.png",
-    "streams": {
-      "HD": "HZ2:p7euXW7mRsKN0URRmA0qb6u7qqCMFaMcEXomA7fYGRVI2zRwYgtar4AFfPDg7iF05u+IDB9FLcu3JHSvgh6B/cwmqQ1m1KeGXLLB5nBdQ+ihVUnId9zXy1jCHzkc"
-    },
-    "category": "BEIN"
-  },
-  {
-    "name": "BEIN SPORTS 1",
-    "logo": "https://www6.0zz0.com/2021/07/08/08/752923487.png",
-    "streams": {
-      "HD": "HZ2:sZMzFLCNnwst5MEX8ARC50lLw/J6mmi22w+VGTlhJINznywATIqJtoRgiF8CiUmF0j3NCVrTTOdoMJ5EqtppK2apZWDwPndAe8UKdJZZsHbJn1e5FSufWxrxqnmJ"
-    },
-    "category": "BEIN"
-  },
-  {
-    "name": "BEIN SPORTS 2",
-    "logo": "https://www6.0zz0.com/2021/07/08/08/886438986.png",
-    "streams": {
-      "HD": "HZ2:3pPT0XSAmufeYABbO1aTHirZajImD6HxSr3ewNmC8iz+QcXb8G2DhlqK2qsHemqVbmiRtLBgTno6r4D/ykf/jX09HFAOqCeH2l0022zIgXfCjCg6ApKKm/KX2+1k"
-    },
-    "category": "BEIN"
-  },
-  {
-    "name": "BEIN SPORTS 3",
-    "logo": "https://www6.0zz0.com/2021/07/08/08/927254160.png",
-    "streams": {
-      "HD": "HZ2:7twMJFm6S2x42f7hj0HeIiDTnMpGwMFJjCv3LDuYh4aY2erA6efGdB67RhRbLF/OISsjBlGoUun+0OvFPbrc2N0M9caobFaHbvLhD3EuqmN5YjX2lVK9keViCKGz"
-    },
-    "category": "BEIN"
-  },
-  {
-    "name": "BEIN SPORTS 4",
-    "logo": "https://www4.0zz0.com/2021/07/08/08/309828085.png",
-    "streams": {
-      "HD": "HZ2:9vRrySGrEVaH31yc8jFQJgVQ76od2xV8+4CSiTMkH8Tkw6cGfd3CZoBwsDbU4sE9m4NJ3M0o18OKp/VblRo9Q/zOY7yOvG3kQvpXVoTGWVRSMX2kmyVhvCL+kean"
-    },
-    "category": "BEIN"
-  },
-  {
-    "name": "BEIN SPORTS 5",
-    "logo": "https://www4.0zz0.com/2021/07/08/08/633113235.png",
-    "streams": {
-      "HD": "HZ2:fQxlp8gpHJXVVLfjYLJ2BhuN/Gpj7YzCxr1EJgBhjdVkUcvyBWQShJdtUOW7f7bETSrrq0nzZyZTJYl7epGIB4gdQ56dHuF0bML1SsFnqbHt9WFmn+p8wDRSXGE2"
-    },
-    "category": "BEIN"
-  },
-  {
-    "name": "BEIN SPORTS 6",
-    "logo": "https://www4.0zz0.com/2021/07/08/08/781939349.png",
-    "streams": {
-      "HD": "HZ2:xPdpcS4Hh5nC11zHOpkFg6fmXauWbirCY+1DZWrWihcSgGZcxDBlbKPre/zoBA86aq1afA+pya76NZ/5sbAp0tOApn1kAncItIarMt1ubc6J6c6flagmXWUDBe+u"
-    },
-    "category": "BEIN"
-  },
-  {
-    "name": "BEIN SPORTS 7",
-    "logo": "https://www4.0zz0.com/2021/07/08/08/882342264.png",
-    "streams": {
-      "HD": "HZ2:Xl4NiOqt/POEVeaR6ojSGl348kyljmWWLZxlI6yz9ddla8R+VkuxJfk+AWq7ehkFAlH6hZ8O0lP3dpkmmOTWmXMiL/tSTzIKhm6vsQWr5f4innL3fi6HKwibX3xW"
-    },
-    "category": "BEIN"
-  },
-  {
-    "name": "BEIN SPORTS 8+",
-    "logo": "",
-    "streams": {
-      "HD": "HZ2:JMpvZthUROyWjvbnnM2CxdmN88Wo3dlFNlbXK6zlTpobvtIKFyZ5yy5x3P5T8lgUOWZahoO37LuU8v8WIhP27B2PyKnjzRz3Q7EqDnPpx9YSABJPPxuhnGl0XJTj"
-    },
-    "category": "BEIN"
-  },
-  {
-    "name": "BEIN SPORTS 9+",
-    "logo": "",
-    "streams": {
-      "HD": "HZ2:wUUg/foy3wfWbsF/HuwIowkdYslOUCVWH2SOvit/BwDOttDaWbMA9E2udsC6375FXZ6vmNL+Wxv5NYelpFKxAydsUldr/fJjtYC1lHOA8k7B3ur3Of2Mqno9EJcX"
-    },
-    "category": "BEIN"
-  }
+  "channels": [
+    {
+      "name": "G",
+      "channels": [
+        {
+          "name": "BEIN SPORTS NEWS",
+          "logo": "https://www6.0zz0.com/2021/07/08/08/511936894.png",
+          "streams": {
+            "HD": "HZ2:NJeipeHcmFQ1z3l42chGCS1zkccMk7Ju5sludvL9Ltc4tnBFwl/N5arTRXCVbMkG/+kVH/1GdfYRAp+9+zE3C4J2iZkIfiapivgH6ssXWhlytSq9R/zs2gyqyErp"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "Bein Sport Mena",
+          "logo": "http://up.jsd9.site/up/HsGysb1Uco.png",
+          "streams": {
+            "HD": "HZ2:p7euXW7mRsKN0URRmA0qb6u7qqCMFaMcEXomA7fYGRVI2zRwYgtar4AFfPDg7iF05u+IDB9FLcu3JHSvgh6B/cwmqQ1m1KeGXLLB5nBdQ+ihVUnId9zXy1jCHzkc"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "BEIN SPORTS 1",
+          "logo": "https://www6.0zz0.com/2021/07/08/08/752923487.png",
+          "streams": {
+            "HD": "HZ2:sZMzFLCNnwst5MEX8ARC50lLw/J6mmi22w+VGTlhJINznywATIqJtoRgiF8CiUmF0j3NCVrTTOdoMJ5EqtppK2apZWDwPndAe8UKdJZZsHbJn1e5FSufWxrxqnmJ"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "BEIN SPORTS 2",
+          "logo": "https://www6.0zz0.com/2021/07/08/08/886438986.png",
+          "streams": {
+            "HD": "HZ2:3pPT0XSAmufeYABbO1aTHirZajImD6HxSr3ewNmC8iz+QcXb8G2DhlqK2qsHemqVbmiRtLBgTno6r4D/ykf/jX09HFAOqCeH2l0022zIgXfCjCg6ApKKm/KX2+1k"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "BEIN SPORTS 3",
+          "logo": "https://www6.0zz0.com/2021/07/08/08/927254160.png",
+          "streams": {
+            "HD": "HZ2:7twMJFm6S2x42f7hj0HeIiDTnMpGwMFJjCv3LDuYh4aY2erA6efGdB67RhRbLF/OISsjBlGoUun+0OvFPbrc2N0M9caobFaHbvLhD3EuqmN5YjX2lVK9keViCKGz"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "BEIN SPORTS 4",
+          "logo": "https://www4.0zz0.com/2021/07/08/08/309828085.png",
+          "streams": {
+            "HD": "HZ2:9vRrySGrEVaH31yc8jFQJgVQ76od2xV8+4CSiTMkH8Tkw6cGfd3CZoBwsDbU4sE9m4NJ3M0o18OKp/VblRo9Q/zOY7yOvG3kQvpXVoTGWVRSMX2kmyVhvCL+kean"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "BEIN SPORTS 5",
+          "logo": "https://www4.0zz0.com/2021/07/08/08/633113235.png",
+          "streams": {
+            "HD": "HZ2:fQxlp8gpHJXVVLfjYLJ2BhuN/Gpj7YzCxr1EJgBhjdVkUcvyBWQShJdtUOW7f7bETSrrq0nzZyZTJYl7epGIB4gdQ56dHuF0bML1SsFnqbHt9WFmn+p8wDRSXGE2"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "BEIN SPORTS 6",
+          "logo": "https://www4.0zz0.com/2021/07/08/08/781939349.png",
+          "streams": {
+            "HD": "HZ2:xPdpcS4Hh5nC11zHOpkFg6fmXauWbirCY+1DZWrWihcSgGZcxDBlbKPre/zoBA86aq1afA+pya76NZ/5sbAp0tOApn1kAncItIarMt1ubc6J6c6flagmXWUDBe+u"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "BEIN SPORTS 7",
+          "logo": "https://www4.0zz0.com/2021/07/08/08/882342264.png",
+          "streams": {
+            "HD": "HZ2:Xl4NiOqt/POEVeaR6ojSGl348kyljmWWLZxlI6yz9ddla8R+VkuxJfk+AWq7ehkFAlH6hZ8O0lP3dpkmmOTWmXMiL/tSTzIKhm6vsQWr5f4innL3fi6HKwibX3xW"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "BEIN SPORTS 8+",
+          "logo": "",
+          "streams": {
+            "HD": "HZ2:JMpvZthUROyWjvbnnM2CxdmN88Wo3dlFNlbXK6zlTpobvtIKFyZ5yy5x3P5T8lgUOWZahoO37LuU8v8WIhP27B2PyKnjzRz3Q7EqDnPpx9YSABJPPxuhnGl0XJTj"
+          },
+          "category": "BEIN"
+        },
+        {
+          "name": "BEIN SPORTS 9+",
+          "logo": "",
+          "streams": {
+            "HD": "HZ2:wUUg/foy3wfWbsF/HuwIowkdYslOUCVWH2SOvit/BwDOttDaWbMA9E2udsC6375FXZ6vmNL+Wxv5NYelpFKxAydsUldr/fJjtYC1lHOA8k7B3ur3Of2Mqno9EJcX"
+          },
+          "category": "BEIN"
+        }
+      ]
+    }
+  ],
+  "movies": [],
+  "series": [],
+  "matches": []
+}
