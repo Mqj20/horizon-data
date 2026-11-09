@@ -9,480 +9,177 @@
   },
   "channels": [
     {
-      "name": "G",
+      "name": "HorizonTV Sport",
+      "logo": "https://raw.githubusercontent.com/Mqj20/horizon-data/main/logos/hs_logo_{n}.png",
+      "overlay": {
+        "url": "https://raw.githubusercontent.com/Mqj20/horizon-data/main/logos/hs_{n}.png",
+        "pos": "tr",
+        "width": 22,
+        "mx": 12,
+        "my": 10
+      },
       "channels": [
-        {
-          "name": "BEIN SPORTS NEWS",
-          "logo": "https://www6.0zz0.com/2021/07/08/08/511936894.png",
-          "streams": {
-            "HD": "HZ2:NJeipeHcmFQ1z3l42chGCS1zkccMk7Ju5sludvL9Ltc4tnBFwl/N5arTRXCVbMkG/+kVH/1GdfYRAp+9+zE3C4J2iZkIfiapivgH6ssXWhlytSq9R/zs2gyqyErp"
-          },
-          "category": "BEIN"
-        },
-        {
-          "name": "Bein Sport Mena",
-          "logo": "http://up.jsd9.site/up/HsGysb1Uco.png",
-          "streams": {
-            "HD": "HZ2:p7euXW7mRsKN0URRmA0qb6u7qqCMFaMcEXomA7fYGRVI2zRwYgtar4AFfPDg7iF05u+IDB9FLcu3JHSvgh6B/cwmqQ1m1KeGXLLB5nBdQ+ihVUnId9zXy1jCHzkc"
-          },
-          "category": "BEIN"
-        },
         {
           "name": "BEIN SPORTS 1",
           "logo": "https://www6.0zz0.com/2021/07/08/08/752923487.png",
           "streams": {
             "HD": "HZ2:sZMzFLCNnwst5MEX8ARC50lLw/J6mmi22w+VGTlhJINznywATIqJtoRgiF8CiUmF0j3NCVrTTOdoMJ5EqtppK2apZWDwPndAe8UKdJZZsHbJn1e5FSufWxrxqnmJ"
-          },
-          "category": "BEIN"
+          }
         },
         {
           "name": "BEIN SPORTS 2",
           "logo": "https://www6.0zz0.com/2021/07/08/08/886438986.png",
           "streams": {
             "HD": "HZ2:3pPT0XSAmufeYABbO1aTHirZajImD6HxSr3ewNmC8iz+QcXb8G2DhlqK2qsHemqVbmiRtLBgTno6r4D/ykf/jX09HFAOqCeH2l0022zIgXfCjCg6ApKKm/KX2+1k"
-          },
-          "category": "BEIN"
+          }
         },
         {
           "name": "BEIN SPORTS 3",
           "logo": "https://www6.0zz0.com/2021/07/08/08/927254160.png",
           "streams": {
             "HD": "HZ2:7twMJFm6S2x42f7hj0HeIiDTnMpGwMFJjCv3LDuYh4aY2erA6efGdB67RhRbLF/OISsjBlGoUun+0OvFPbrc2N0M9caobFaHbvLhD3EuqmN5YjX2lVK9keViCKGz"
-          },
-          "category": "BEIN"
+          }
         },
         {
           "name": "BEIN SPORTS 4",
           "logo": "https://www4.0zz0.com/2021/07/08/08/309828085.png",
           "streams": {
             "HD": "HZ2:9vRrySGrEVaH31yc8jFQJgVQ76od2xV8+4CSiTMkH8Tkw6cGfd3CZoBwsDbU4sE9m4NJ3M0o18OKp/VblRo9Q/zOY7yOvG3kQvpXVoTGWVRSMX2kmyVhvCL+kean"
-          },
-          "category": "BEIN"
+          }
         },
         {
           "name": "BEIN SPORTS 5",
           "logo": "https://www4.0zz0.com/2021/07/08/08/633113235.png",
           "streams": {
             "HD": "HZ2:fQxlp8gpHJXVVLfjYLJ2BhuN/Gpj7YzCxr1EJgBhjdVkUcvyBWQShJdtUOW7f7bETSrrq0nzZyZTJYl7epGIB4gdQ56dHuF0bML1SsFnqbHt9WFmn+p8wDRSXGE2"
-          },
-          "category": "BEIN"
+          }
         },
         {
           "name": "BEIN SPORTS 6",
           "logo": "https://www4.0zz0.com/2021/07/08/08/781939349.png",
           "streams": {
             "HD": "HZ2:xPdpcS4Hh5nC11zHOpkFg6fmXauWbirCY+1DZWrWihcSgGZcxDBlbKPre/zoBA86aq1afA+pya76NZ/5sbAp0tOApn1kAncItIarMt1ubc6J6c6flagmXWUDBe+u"
-          },
-          "category": "BEIN"
+          }
         },
         {
           "name": "BEIN SPORTS 7",
           "logo": "https://www4.0zz0.com/2021/07/08/08/882342264.png",
           "streams": {
             "HD": "HZ2:Xl4NiOqt/POEVeaR6ojSGl348kyljmWWLZxlI6yz9ddla8R+VkuxJfk+AWq7ehkFAlH6hZ8O0lP3dpkmmOTWmXMiL/tSTzIKhm6vsQWr5f4innL3fi6HKwibX3xW"
-          },
-          "category": "BEIN"
+          }
         },
         {
           "name": "BEIN SPORTS 8+",
           "logo": "",
           "streams": {
             "HD": "HZ2:JMpvZthUROyWjvbnnM2CxdmN88Wo3dlFNlbXK6zlTpobvtIKFyZ5yy5x3P5T8lgUOWZahoO37LuU8v8WIhP27B2PyKnjzRz3Q7EqDnPpx9YSABJPPxuhnGl0XJTj"
-          },
-          "category": "BEIN"
+          }
         },
         {
           "name": "BEIN SPORTS 9+",
           "logo": "",
           "streams": {
             "HD": "HZ2:wUUg/foy3wfWbsF/HuwIowkdYslOUCVWH2SOvit/BwDOttDaWbMA9E2udsC6375FXZ6vmNL+Wxv5NYelpFKxAydsUldr/fJjtYC1lHOA8k7B3ur3Of2Mqno9EJcX"
-          },
-          "category": "BEIN"
-        }
-      ]
-    },
-    {
-      "name": "باقة بين الترفيهية",
-      "channels": [
-        {
-          "name": "Bein Box Office 1",
-          "logo": "https://www13.0zz0.com/2021/07/10/15/630091358.png",
-          "streams": {
-            "HD": "HZ2:b/WB0IAHECI8dq6sMvNJWmnJ1kgT+X3CUwK3vDcUwj/9qN3ZHoAiFgh6rim7FWvAlfWyNYKZnr+bkMEpCP/OM9Ol/p/Kt78zrgqqNrreWdLtc37Tu0ElUGopsHSD",
-            "HD (احتياطي)": "HZ2:QYQ19EA0z79qGupNmwaj5CWMNzf9DpwX7tCwTLLe+oaj/GjJY75VO85Uqh5VEI4ldtR0wrVSc+JF+h77PIpybaqBq0VlS2dEFt0rLY+9JbCa3F8XDYQgrBQ2035U"
-          }
-        },
-        {
-          "name": "Bein Box Office 2",
-          "logo": "https://www13.0zz0.com/2021/07/10/15/324858700.png",
-          "streams": {
-            "HD": "HZ2:vLL0Eqw9T3UblddPRfVS9gArX9N26smzzmRiEeJ/YuetJzJ8OGuNtaCk9R3VJhqxlpciDqsqR6pIjYB08K0QxG3Bn6uh074YYL6BgMPVfgbPOfokRMmQSsO7OaYA"
-          }
-        },
-        {
-          "name": "BeIN Dream Network",
-          "logo": "http://up.jsd9.site/up/uDZfghi6zK.jpeg",
-          "streams": {
-            "HD": "HZ2:Pv4hKoAR0GOe7P0WbHZD7taqZ5TQZfm72YAGn77BrPV04C6/+Eabwtn4j8E+d5a3Tr5GZT5OQBUwxGt8xinIPrrT5H5STad9CtDXWjpc0MCUgCgZ6B2uQ+wODBLm"
-          }
-        },
-        {
-          "name": "Travel",
-          "logo": "http://up.jsd9.site/up/QGwqOh9F7ksl.png",
-          "streams": {
-            "HD": "HZ2:k9i2MIgfI9ZguMm45L0BDEpkx6C2qHQ51rD9cgEPPWDlTinHqmgW8Pq30glo9qfgwstWvLfk7LiD6P8j2xaYpRGgF5caNbQFekrVcGlQWLN3P5ILoGEoedZxQnmr"
-          }
-        },
-        {
-          "name": "BeIN Nat Wild",
-          "logo": "http://bit.ly/2tT4gXW",
-          "streams": {
-            "HD": "HZ2:Y2cnCY50hLH3xRQJdfEreo1hRnQ4JiXvFdg5aVZs5+Acxl6sN0yFUEkQt5GM2rl1EE/y9K2KQ2HCxVXdsVSZOuEwIwxwxq3pFmMJ/+UwIXXe39Z8DB6ZIv6BetHd"
-          }
-        },
-        {
-          "name": "BeIN Nat Geo",
-          "logo": "http://bit.ly/2tT2INC",
-          "streams": {
-            "HD": "HZ2:bzLbXrWpbd+NRX0NrI8ly0smb3dtwFULH89cUyekbZgKA1LJdzk3u+zta9ZKQF2Pu83+h3W0ir+BpU72aL85LzV76FSZElrclQK8yGrwX0CCi3/YG7Yu3iDH66+V"
-          }
-        },
-        {
-          "name": "BeIN Cartoon Network",
-          "logo": "http://up.jsd9.site/up/hMKyHzNa.png",
-          "streams": {
-            "HD": "HZ2:LTxw2LRDrfaEBYp7E+tf2MLLgEAdv1DbF9fw7E5Ko5icd+aiaVxRR5JRi9ySelY49aep5wNN3F1NXa4fMHptey7QTEoLLHnSQmYufJOQEUKBRXUc2W1YYYUOhax8"
-          }
-        },
-        {
-          "name": "BeIN Boomerang",
-          "logo": "http://up.jsd9.site/up/ScdLiR3Nu.png",
-          "streams": {
-            "HD": "HZ2:6XwNaTIdxU4rXP/2iUH6+atJB+i8kxfjc27sjAgdVBjfeFnwvtHpsYEZRWywRDSgKtzJTzG42/h1MGugKgtbhAE0gCH93H9ITdhSN3DuLwEP00RS1Fjw+fBprmrk"
-          }
-        },
-        {
-          "name": "BeIN Baraem",
-          "logo": "http://up.jsd9.site/up/jDZHRYvm4JP.png",
-          "streams": {
-            "HD": "HZ2:9kk9GSrclTwI3TdHaP7Iqf2Q4DVZ3JPAoOqsi3NwHV0Gdan6rDF8qTGLJpcz0hzcthh22DN/WVoYwQt0MZJVJsTx4tSFcnq4+uzdPaO3kW59isg7Yb+TDR6o1Jy/"
-          }
-        },
-        {
-          "name": "BeIN Jeem",
-          "logo": "http://bit.ly/2zeX79i",
-          "streams": {
-            "HD": "HZ2:BwIE/HrBmGnZ9UhaDXbhHyrZM5ESoK58HtZ2POA7npXm6znj3iy3mJNdS2srmy67XC9kjBn7kLit60kyZSvteu8YBFebgjTmJMEEPQl2YNUBK/UFPrj7NYmFsRFQ"
-          }
-        },
-        {
-          "name": "BeIN HGTV",
-          "logo": "http://up.jsd9.site/up/MxgqngnI.png",
-          "streams": {
-            "HD": "HZ2:aHCo8mklfaO9u90Kgbemsm2AUCoXp0TwPk/Y2GTIEPGW6clmkQ06S1f9AX+F7l2x6AK1v0l7iAi18Ptzms3RjNZhEOXLLEJvrEUeXSBmGZP9WqI2rkJ3OhksZCTS"
-          }
-        },
-        {
-          "name": "BeIN Fatafeat",
-          "logo": "http://up.jsd9.site/up/Qh7mJ1Tn.png",
-          "streams": {
-            "HD": "HZ2:3L4hQdxTCrFy85/KxKehu7UGwcMQKVaqSzM/UUY+htAAjsc8AnzM91dWPN5T29hXAvhzbfb9PH6T+MO7d9TVZVisaJdBreh24YYmDNgOdfx7ZD4xX+g8ByQEGplD"
-          }
-        },
-        {
-          "name": "BeIN Drama 1",
-          "logo": "http://bit.ly/2KMBAcX",
-          "streams": {
-            "HD": "HZ2:9SExKZnIAbWYcGBya+xsaZCXBh/TgqrRK+Q6KDRnswMhKk8LDcawD0ksST/KjC58iAkGd3t9BhsHxcO+NWn2W2W3cLq6lCVVggt+6nukrCN96O9KRVn9r4NIvXKh"
-          }
-        },
-        {
-          "name": "beIN SERIES 1",
-          "logo": "http://bit.ly/2KU1Sdd",
-          "streams": {
-            "HD": "HZ2:TWwpPTUsEuIwLYRhDbid1LwDWIU6fNTIdIzzaiuBkE0jRnwjUeMy2M/eKCVb7sgKzp5bVRPmf/KrFsErltspCcCGPHgDTrWKg+6e1y4Cv3Lq5QHEWOSzNFMIKWpe"
-          }
-        },
-        {
-          "name": "beIN MOVIES 1",
-          "logo": "http://up.jsd9.site/up/qcwb2jwo8z4R.png",
-          "streams": {
-            "HD": "HZ2:R7MYj+2BaYfmwih2sqOC3HS/cQasBs5z0IIeTPf0gAQJjKd/Frni7IHiperg8x5qx9109qOaKrUFvv4lX/Z2Z3Fhf67l6yE629MD4XZo+BW6gAumcRUbcLH/Vvmg"
-          }
-        },
-        {
-          "name": "beIN MOVIES 2",
-          "logo": "http://up.jsd9.site/up/qcwb2jwo8z4R.png",
-          "streams": {
-            "HD": "HZ2:/RIJmuHAgrjGDofJY3O5wpUG0iahQYcDzBYlBunjPNYRB8A/Im24uInv2/BdgjKGqEfmH72rUtGCmV5waTzEXwezfFMGNU8iclbKbuFNKa6SuVrUXwX6VDjFdjCm"
-          }
-        },
-        {
-          "name": "beIN MOVIES 3",
-          "logo": "http://up.jsd9.site/up/qcwb2jwo8z4R.png",
-          "streams": {
-            "HD": "HZ2:3cfTrUm0bQv9BwPUniuOg6DbLmOi74L/c8SJmblw/2CJWdb2oZaJwfE0Gw7Erf1PxRiHkb60sYuy0Gfr2W3gmIL1iiWWb1gSvKrc6XUPsfpD9Z79l+wD9YFFpaT+"
-          }
-        },
-        {
-          "name": "beIN SERIES 2",
-          "logo": "http://up.jsd9.site/up/8M3ZiW7X.png",
-          "streams": {
-            "HD": "HZ2:r9KDg69pKbwAi503J9hbAOmwPJI5yLvi0MlumAd5Iv2R8plp2SRvQutsDS/nwjqGPHvPRosFsUT+vl3I+tpgdQOU11pKufP5aV6NVM1xshjUNISlm7RyBPSt0e6i"
-          }
-        },
-        {
-          "name": "beIN MOVIES 4",
-          "logo": "http://up.jsd9.site/up/qcwb2jwo8z4R.png",
-          "streams": {
-            "HD": "HZ2:GNXIQh5fKST4nt34EhmHWTHJZgJLzLuL2FW9woH/M8Id02wRlNxBy2RGTAKxZPExzA4lNxdHH19sAaPaJyotYtTax7LPFbjFszggQpf+UtVdUPfOzJT2ji9OXK3m"
-          }
-        },
-        {
-          "name": "BeIN bbc earth",
-          "logo": "http://up.jsd9.site/up/5xOh1Pl3pw.png",
-          "streams": {
-            "4K": "HZ2:JYdooTl5fgFae0k0nobfTHDehpVFFKogOPZYx5HLBxcM9s8VpcNVIApBIgWavxSWogH0iny2V5AAFjoFeyNsmO9E3D+x5Ycqz2K0CbhqYAAMPQVzGmGTgURN3YTi",
-            "4K (احتياطي)": "HZ2:YEsoB+TCvymG36d2tJhTqX/yq+vOtpe5zgRFONl8ySmF40rJ6MVTh0NYiXEspWnLEioE2tlwLdp17fF8Rut5MfYk/l0hVwHrAFrBmyd6oAE+QaVpiUgeTYXYti4r"
-          }
-        },
-        {
-          "name": "BeIN Discovery Family",
-          "logo": "http://up.jsd9.site/up/ZnsCMvJP.jpeg",
-          "streams": {
-            "HD": "HZ2:y9JZfg1BVHBiKNeTeXeQVY2t5mGAPZKCsf0e0Il9lgPun0FnjB6e/eoZpJv4u4FXG4sgV3rt7jVi4RxMvHlelm9w1VhZh2AXnDmAa73Yw+hVWyrXFjjkUmOMBeUD"
-          }
-        },
-        {
-          "name": "BeIN Be Junior",
-          "logo": "http://up.jsd9.site/up/Ny0TIc4vpA2H.jpeg",
-          "streams": {
-            "HD": "HZ2:vgwaRDiprozFpB/dLcMy+NkOKgIoCoKyURZVHC8jj/fD+oZitV6HSB3i7Cn1Adr/CyGb+Hw3pG2TgLnv5smjtN4D6h3kgIrRHkewRgAM8XxZ8Dcjjn4q8+hF9DSF"
-          }
-        },
-        {
-          "name": "BeiN Animal Planet",
-          "logo": "http://up.jsd9.site/up/LbbrlXWTh7C.png",
-          "streams": {
-            "4K": "HZ2:en/7mwMoJBzRvHcf2K4OW/69V0H/rCj0USmIlgF7WezW7z1y0xwb2SbXdjxGIyCq5CFinH4lf58rNXvM79X939uH2B71lGQPca0EH4c8ondVUO7B/vtWIANDVT0x",
-            "4K (احتياطي)": "HZ2:Xpoj1a7kKpiv5E4SoyskAFhnSvaS3yTMCKg/+eiVgblJIehtzGRh4KIhpqNOi2sOwOy0QHdralou6NimcX59Q3//IygNqnrrVgoBacM/kyhmUOdNLJz6OSvhtDLh"
-          }
-        },
-        {
-          "name": "BeIN Food Network",
-          "logo": "http://up.jsd9.site/up/qa7Fw64bqw.png",
-          "streams": {
-            "HD": "HZ2:0fSxN7dzn4gjwywSMZoM2XVxJf9eivF0enxRuciP/jXHYJFKfO7IKC7FQtqHcaQedl21z6S6KfRVVS2ZVoJ8UX1wDCY7AqsFmB9genbQ2VxLyeGwphbtxRXEQ8Hj"
           }
         }
       ]
     },
     {
-      "name": "Alwan Sport",
+      "name": "Kurd Sport",
       "channels": [
         {
-          "name": "Alwan Sport 1",
-          "logo": "",
+          "name": "AVA sport HD",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzqdiJxIDQW9mD9q1wKv99J75n-dgWV_EHT2tvgIrbqw&s=10",
           "streams": {
-            "4K": "HZ2:7ZungufG7w0FBSdg3g43sQzH4KwNxsktGB4pI0hIY/sRBGVsOBEudcbxwUsuMHaflBrE5cJhmYvWbXfNKzYSx13sOFYcrafSuf1OQwCTYtdcrhp3OKDFAAX9pUFL",
-            "HD": "HZ2:a1i8lCRx13iJl8SVt2oBjzXJ5KVmGNncZUsAhI7bpYVWUsttX0meKHK93M0SbasQo9i5oANpJbB1rOFcdKc0z/mYW3S2AIBOhTZE+0+ntBAgsMN5bJ/3gFefqPm0",
-            "SD": "HZ2:hS43l++RxhtmoaE07EKeV/HDJGodCmmrP5cMW1vWebGY+D22AoiR/uXeRK/wynauvWQFYyUi+nwgVjzwO++J4fH/2VODtqWa+zcJYpJj/lUi+QUy9SKjzm4KDOba"
-          },
-          "category": "ALWAN SPORT"
+            "HD": "mbnBwpY7o+/L1L9F4xJtxMPY8qYii38B7AV7juSG1zDgDdlmlFrXludBNcASuXVwuMyRWN5l2za5t2nwQSm9jw2I7F2WMcz7mLF9K0lcL0o="
+          }
         },
         {
-          "name": "Alwan Sport 2",
-          "logo": "",
+          "name": "Duhok HD",
+          "logo": "https://mixmedia.tv/wp-content/uploads/2022/08/duhok-sport.png",
           "streams": {
-            "4K": "HZ2:GFtRUodBOXxWqbkZ7+UkQxP/bKP+w+rn7c/8vBs5/ZngSaUfqbi5dpwlvvk6uqMgv9xOuY+2h6G7eyp/bicnDxKIDcitfK5i1Xpw3DFK/zTcafb4q9CQ+24+dsxx",
-            "HD": "HZ2:Kbvf76SzIv3tt+rvUCT/y6DrcS+c6soO1LzK15lMtS82m1Csh5YeZMABTpmEL12I6MxHovHavFY1teaVEqErrDWmVjQeka9fzdbwbiXz3mhAaqj2BNbK8519+rsk",
-            "SD": "HZ2:OmDF1HjYh0qPrWjFcAvTgk6B91rY2+PD1mjJsQIl6fzWjOKI5RT8qf43esuOpWFFczZIQZWY7y6mHITuuEs9Q32FSLNcIiyIUeiUzAikXaSrcMOS2Zq6/OP674CJ"
-          },
-          "category": "ALWAN SPORT"
+            "HD": "mbnBwpY7o+/L1L9F4xJtxMPY8qYii38B7AV7juSG1zDgDdlmlFrXludBNcASuXVwuMyRWN5l2za5t2nwQSm9jzTACTrUpt0KHqL2BUXrLio="
+          }
         },
         {
-          "name": "Alwan Sport 3",
-          "logo": "",
+          "name": "NRT HD",
+          "logo": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/c20.0.100.100/p100x100/10988492_706543286133301_1064764163848882081_n.jpg",
           "streams": {
-            "4K": "HZ2:1jVTnoQS1uO0k2JnHCFIuFJvteQmAkd/c8L9MVXH1iU0nEgfJykE8OtXK1NqR6QQMM+DuOrPKLE5qBns8rIzcRvMILaBqCekxBXCNpDnFXuAqB0IQbuFy9nlfM99",
-            "HD": "HZ2:ENeT3lW/iAS1oqZuDoi2D5YHVPVGyc+XjnxoHZZc1Dj3egYUtV15a9xdpml3iNrh4fpnrwEOpgyWDMRm33HAvG4iIl9Ujjv/EXEgnKQCNI0ub6F3hFnyKTZ9LIuL",
-            "SD": "HZ2:1WFW5cURdcg+2x3sXnLgnwf3jA0fyEGzuRRqTsxYzcAoc12L7M9KF/7bIEnOq20yl8HRrOVFSpMBWgJB4kvpRaPUqBQOT43L8andP61u3LgFU19Zqt9PnApqLWk7"
-          },
-          "category": "ALWAN SPORT"
+            "HD": "mbnBwpY7o+/L1L9F4xJtxMPY8qYii38B7AV7juSG1zDgDdlmlFrXludBNcASuXVwuMyRWN5l2za5t2nwQSm9j0fHqd69EZ8XricSKmAVnmA="
+          }
         },
         {
-          "name": "Alwan Sport 4",
-          "logo": "",
+          "name": "SEE SPORT 1",
+          "logo": "https://ui-avatars.com/api/?name=SEE+SPORT&size=256&background=89e96d&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "4K": "HZ2:gk/BpLyMqqLfKl5uI5RxRZvY522/Ikw+VWLYn+CiBhdYraRCSXDlL2LrQEA+TF8Spf6RSMmNmK8vseDlAGHxpPlBGMoMb3ZbNLzwdj4qtrzF/donqxyh9odAREnD",
-            "HD": "HZ2:Vrwya0mNcffyDsN4cYBo+BAbayLjprwDnZ5AwpV1p5UpNr+zr+SITsgc8SQDDkh7z4j8VALTLlbfrdkjlLSBlmyz/CbqnXU/I4fE1rMQHJhVGVD02pRIrCSki1N2",
-            "SD": "HZ2:z0ppDaPY9gkM7SGWluukX8vMEuioHNhzl7VRsxtb38ZQitQGTjoVznNsmyvXeNUwdyl+gD1dw3cx38hkfLt34D9Jj82LIBCgGNaftFyqLMYvfY/7CRUscVmmw/EK"
-          },
-          "category": "ALWAN SPORT"
+            "Auto": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxDQbJ8b9rpbB+4w2mWo6fvqPAmDz3ppiiEyvZOQZn2to="
+          }
         },
         {
-          "name": "Alwan Sport 5",
-          "logo": "",
+          "name": "SEE SPORT 2",
+          "logo": "https://ui-avatars.com/api/?name=SEE+SPORT&size=256&background=efa45b&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "4K": "HZ2:LPgibEE1mm3PTQgJqxTv/5Nz5XxEjFKM8fU97Bwwo0oyzSYXwUBRh51pNhYIBG/Ez3zfw7PoHmb82DT7b6hjq5tRAxaoEiRMgz5zCthbEyUodM6Y6cUlYDbbU1YW",
-            "HD": "HZ2:d0go7fLRCq2h8Yc5tRt0FnnIu56k319KWICoGUhxz9+Cv6aX2Iv3jfBkxn5mdvora/QRvj7e+Xz1aGfhamnfNdFeQ4Rr+1rsyTdCa2zbYUj5dZ2yKzk/reFvBVfx",
-            "SD": "HZ2:NI3IVrJNM73KMnAx5eW/bdSqkd+RkeabA6XBvqLiSdhK22V+UyPLdD+rdz12/ivQMa7Pi/bxtoHkAjdiTrh/1DoyOdKbPS5zfO2xih64JU9n9LJtgknvYQz5845r"
-          },
-          "category": "ALWAN SPORT"
+            "Auto": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqx89FZELu3D3Y7T9dj4ApoabxNL2ChWoxf3I6pEF/CEY0="
+          }
         },
         {
-          "name": "Alwan Sport 6",
-          "logo": "",
+          "name": "SEE SPORT 3",
+          "logo": "https://ui-avatars.com/api/?name=SEE+SPORT&size=256&background=8110ea&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "4K": "HZ2:uOaj5WDGlqWDfFGEp9boldri/LQjmEUfDBohU5thJUx47xVJghh2DYShE34Qt5gOKdm9sFxCWheoaSZ2OhpiAsWnXn1eRdRkJdQu/lJC3v5E2fXzAAI7aSpCdKcW",
-            "HD": "HZ2:CzHZyZhwl+x7OT8dLIewZyerxH7CRg79dxOG9mAv8vb+L0eBuenrKg0Q3G4rhDwQVp9zZSvPyFI1YBS/I1wKNCKkJgCFyzPD5+rEvHYlcVhiFybwvKpIn7GPwH2P",
-            "SD": "HZ2:+JUtFAFx6R+IwX84pqEN0oND2fGRQHHOYsfnF2uCdupAUPFSZUb4rykldTw2gftqIzG+7V11aB/JDf7jwknfxWaAYXw+mLGp3xarhDawWmb4i3eAM8dOzCpzPfoC"
-          },
-          "category": "ALWAN SPORT"
+            "Auto": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxRXaUblRlUHNYCyhxIDGVfsZnryoNxcDIC67LrAfNgSg="
+          }
         },
         {
-          "name": "Alwan Sport 7",
-          "logo": "",
+          "name": "ASTERA SPORT",
+          "logo": "https://mixmedia.tv/wp-content/uploads/2022/08/astera-sport.png",
           "streams": {
-            "HD": "HZ2:IydmOoI8+sd6guGLcNni8Ymh7yU8ZG7Rh0PlnDG9jHR2srfzLyRKKtB+vZc607LQW4tmH2Fp60cn41HvEUpAvYXfYw5qUuJawwjFR52PXZvPvRPR6A/MeVACZRL6"
-          },
-          "category": "ALWAN SPORT"
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxBbRZUxP3UpmTeQaLzd6c+NhKWVoJNGK3gRJAzUniy/k="
+          }
         },
         {
-          "name": "Alwan Sport 8",
-          "logo": "",
+          "name": "LD SPORT 1",
+          "logo": "https://ui-avatars.com/api/?name=LD+SPORT&size=256&background=a1e649&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "HD": "HZ2:GU2RovPtFXF8h67pFRBI/v0nKH18/CwjUucMbW21h02oMZsBPk2+Rstj/Dyw5ZRW2gSQIhqz5sfhJxzvqXVszdA0Vh/uQiDGkuGvWX2fmKHEe/BXHXtfGSSJkRjQ"
-          },
-          "category": "ALWAN SPORT"
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxUhfMAe1mON0E0957uJ5b22ctHc89GwNbPhVf68JmSYA="
+          }
         },
         {
-          "name": "Alwan Sport 9",
-          "logo": "",
+          "name": "DELAL SPORT",
+          "logo": "https://mixmedia.tv/wp-content/uploads/2022/08/delal-tv.png",
           "streams": {
-            "HD": "HZ2:3pOt7NfFaDUlb2+xBEecSgpQE3BdLOZ74Lvcvbl5FVIsEVuJWLGi+6SICnk2rm0vHZ8m9IBr+rMa7uf+d6TIcHcVJfOSHSjTWxiaqQwl/8ntp0z5EJpJQ44WO8HM"
-          },
-          "category": "ALWAN SPORT"
-        },
-        {
-          "name": "Alwan Sport 10",
-          "logo": "",
-          "streams": {
-            "HD": "HZ2:2pGrnj/K7/L7Zbvrbk0qeuK1rIytbZl7HT+ZV9R9NY+x59Cvy4GDaVA9NC+Fp0fQoYr3BCk6bF4Wa4/sAbVyFB4Rw8VcEt0Jn9Lyr+3JdGjoHApCrC4T9lv84VZX"
-          },
-          "category": "ALWAN SPORT"
-        }
-      ]
-    },
-    {
-      "name": "Bein-vip",
-      "channels": [
-        {
-          "name": "BEIN SPORTS",
-          "logo": "https://www.freelogovectors.net/wp-content/uploads/2023/05/bein_sports_logo-freelogovectors.net_.png",
-          "streams": {
-            "HD": "HZ2:B+M86YDt4jMNhuvV8IsIidTBW5NzlTW6xMGi15KuvI2mO2UbuLQpwT/UBKSCzFRRUXWHjwmbkPBgrFQ2+7Vh5gFLF4GYiUuBpT5tBfshYq+GfQWrzelTqwmJ"
-          },
-          "category": "BEIN"
-        },
-        {
-          "name": "BEIN SPORTS News",
-          "logo": "https://www.freelogovectors.net/wp-content/uploads/2023/05/bein_sports_logo-freelogovectors.net_.png",
-          "streams": {
-            "HD": "HZ2:/dPjBd/TZqJ6RZV2ADWnTdRaJjtYNKju3ckpvNqB+Na7sRnYJznMzIJEd2hnejF4cIN88xlMddtUCEKDhUGht3RjKlVJttdywKSY3L8f0+yR67RopwWhgoSA"
-          },
-          "category": "BEIN"
-        },
-        {
-          "name": "Bein sport 1",
-          "logo": "https://lo1.in/fr/bns1.png",
-          "streams": {
-            "4K": "HZ2:rTWFp6qnGbvOAtVDaMmn6KbJScSl/m6k6kA6wNOYALmfk8zqDGKY2xJg1x3GO2+ewerPqkrbbhEiu4kn+BF+zdYkIbkg3PmQSItmQa5qMNai7QqtFrJpGmoA",
-            "HD": "HZ2:TWfBzbJ/ibWp4dOdJr3s+uy8FyLBzcUADS6vOW9lMMRSEBnNpnUoABFL4Pw4xZLFoZIse6CU/4kujEYlF85bfzQ0L53nfCoxrn37hDXXb/u/CuVlEBb67Hhf",
-            "540": "HZ2:kxyjWoiscSEwdJmLn7Ydl4jR6Tw779YIh4m++7oGwHPjImArcb6t4cHjHxcHFTF2e61AZUebscDKdaLs2Jm/MW5dbBfMWQh9egHu/uikd7+OP7oVPk7XMtd1"
-          },
-          "category": "BEIN"
-        },
-        {
-          "name": "Bein sport 2",
-          "logo": "https://lo1.in/fr/bns2.png",
-          "streams": {
-            "4K": "HZ2:S9MTuuULeDtx3+EZ2VltYxWnWiGTxKC+DskfwThwFThz/aX9ALGh34+M6VtFAYk5fxOCfbZ+K0dDve8gbBQLFEpAQhB7KA6N5l4E8eHY92OCy9/XfGvAWCR2",
-            "HD": "HZ2:VQhVAGaiku7bXXGxvQgMvCFQlctBYQ54S5KaY2NYd+UX13GrJRp42el4JbGWUi3Qf34HdXkzmUhSxUfcUcjNsw5n/L+WlKeexKl/t8Fwy/lLnoabO7EIgOeP",
-            "540": "HZ2:WveHdc3gVvzNLjsvmX+RmIid157xQD9n+CdGbh9JDa2wh1K8kZjZ6ZcCd7waRUkwWSbJIASh/KbKL5yOZw6i7W/KeFZyAdZqrx1sjEJmujwpJYPR8l2IU/n2"
-          },
-          "category": "BEIN"
-        },
-        {
-          "name": "Bein sport 3",
-          "logo": "https://lo1.in/fr/bns3.png",
-          "streams": {
-            "4K": "HZ2:qwreHFKbEWDjA0rLYfekcndTeYHVLTTWHPCK/a0wBycymmXiVk3us8RSQX/AOKP5by6wtlHHCoi/fj2vLs5ky9HxBgne0ozdz8W7D+oPGayTb5JQx34Ei6ta",
-            "HD": "HZ2:5HeF2PMqibtTNo1FvwCdgluv9voYWzm2jUVAdKs246cjUChhhYu6b++ZPnfyyky//ULTelGOrPzjrUlPoZ6lQPF8o9EpupmzG3kZQjyGvSlmJv2CbvfVoU++",
-            "540": "HZ2:6jG+U3i5NHvmKnJliNr8YtICWYO5jOmAkkYCXlxVFtF08Pln6tU6yssxsW2IMdDsJlwC5Itgoz2tO0JF8bUha10yxeW8w9xvg/wuxzXw+2p4neVAfeCTQYPZ"
-          },
-          "category": "BEIN"
-        },
-        {
-          "name": "Bein sport 4",
-          "logo": "https://lo1.in/fr/bnsm4.png",
-          "streams": {
-            "4K": "HZ2:JskLyh9X4BkTJuWl1pSL4AncOp9nxonBknjOTCJi132SbjaTiPl5lY4dyjRDdvIZ2XBGTOClYrJLw2h6n33JVnIZfcJj3c2Qgl+Q8rR4dbz9koKXNg1SEp/l",
-            "HD": "HZ2:VZd185p+oEWeCHbbX+PgcAHv6hkzOqT7bM5+o9l0M7Vud3Zdh66GehYagVXe3aVWbdm+9cWFMW2uoq0QKs76chUTOaeRphxoHlzw0YbEEuLMYEXFncSpps+f",
-            "540": "HZ2:70kw6QQWSLHeOprKxiN3GctYed+2px9BQ4YlqleMpizT67ON7J+/Qk4yB4/RVyc5C5i/5EJKnvJZzBU6TJUmSbUsdfp3gQ8+ZyIGkAMAu+URrUOnyHPZvIsP"
-          },
-          "category": "BEIN"
-        },
-        {
-          "name": "Bein sport 5",
-          "logo": "https://lo1.in/fr/bnsm5.png",
-          "streams": {
-            "4K": "HZ2:eVaDM6cX+YGD8MJ+9HNAuKiV8RX82EyemT6qgfhB18i7A2wyfwurfT8907xzqFDTRM2z/F/2bfCl9pEDtDYL7ddF46e3eh3/4Dg1qQyEsELWmW69tiwOOjC4",
-            "HD": "HZ2:scDmH54BQ59+oqo5q6Cm9cjE5wmjphQtMWQ43X8mErQIhqKnP2AhnJRdYEBAgyYj7zTcyPiZ7/3Xx2xU3KcckXOonNIxAUtnN+QcVp4u4Kal6YdQHqM4a4GI",
-            "540": "HZ2:SljtqhjPtM1Lvl/DPCHQlTZ2s0MSyRPKVRjYxTtszdydZj4jUG5lnBbGMAFSlUrwqnhNBRz9PHvfdEEMjRX6WVHU3pKuoEnUCxKJ3tcpHcv/RJA+G0jMWQ3a"
-          },
-          "category": "BEIN"
-        },
-        {
-          "name": "Bein sport 6",
-          "logo": "https://lo1.in/fr/bnsm6.png",
-          "streams": {
-            "4K": "HZ2:43yfeibDiipv8MR7RziFikaDbLBtbprwCx38Q6XFDuMDup101s8skfKXrkZMk+fWrFZgvZr5Tvx25y1xHsL6jO69ySx9DBAV6nWy9ooCUmOHM/F8AXeB/tGv",
-            "HD": "HZ2:gXNz/ZCEFplr8l7Ge9LVjEF1vupaGaaSI7QVfgNOGBZVT1ojgg90bxFET39i2qyWWei1QWsHa5Chqj4tV6vfhAYTnTNLUpS/Um2RLIjfIdI9u/liBqIbx65+",
-            "540": "HZ2:GiOL77lURYWnBamYbZu+8C99ByC8O7sC0Bebh3DptH53I5+6gSC3YwnTxEE1oV9+Q02ofzO2BiXvMZmB8pS2MNVeJ0kw0kVZsonN5JwnRjpAVSwR+Rxjq5Gk"
-          },
-          "category": "BEIN"
-        },
-        {
-          "name": "Bein sport 7",
-          "logo": "https://lo1.in/fr/bnsm7.png",
-          "streams": {
-            "4K": "HZ2:c+S/M6fIkBfAYQYaVoYT8ltnWsF0m0hAushuxDfVsBP+lsDPB/eyoJDW9+3GYlnfi91KLUFbxIG9EKNAq+pganWzgtEXARPGsA3ARMft7FBWjDz4GBkwZAya",
-            "HD": "HZ2:dpwqbWI39DXpKfvfVWgyblGA5O+bX102bBTN7hwSrmqFQsjQiz4Obb0TLLNkBkvnttX3PmeHJIHqUUP0cnSqiDDYfXH+NIGiNX3BMSxLMdBVWRyjM7j8UGIa",
-            "540": "HZ2:LchoAy+EQSKoS+1mjckZgULXX0UGK8IOp/UvtAiGxNb9ZPjTJHHXwopb9VDxhN61hZguBaMycyTVsAabDa92goP39hTDEm3UjEKNJEgBptOntJoH2KRiVMZj"
-          },
-          "category": "BEIN"
-        },
-        {
-          "name": "Bein sport 8",
-          "logo": "https://lo1.in/fr/bnsm8.png",
-          "streams": {
-            "HD": "HZ2:rppWLiT31nnhidI0jXoFcOyZsce/YPnojDgW+X90krM+dWD1ss3CpOuaF73kQcfYDAXn5gELm5y7xY6n2y2n0AbAU2e2YJMisNKAmTIx+1JyPHh6/1K9v6oJ"
-          },
-          "category": "BEIN"
-        },
-        {
-          "name": "Bein sport 9",
-          "logo": "https://lo1.in/fr/bnsm9.png",
-          "streams": {
-            "HD": "HZ2:OFqCkIzH11tS9o3uT7nqcYuhIZJB3GiU+y7BDSPgZrwg7GQrV18Ae7IkCugkRSZFAvZmMVBLGloYJbNh/YckcijygKhFO6Mmqo00l+lhREBGnWa1u+4tTzem"
-          },
-          "category": "BEIN"
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxLVx73ypd5Vi+wvlslKOTd7nabyZUEu+1CIhCeo51hNE="
+          }
         }
       ]
     }
   ],
   "movies": [],
-  "series": [],
-  "matches": []
+  "series": [
+    {
+      "name": "ليل البنفسج",
+      "items": [
+        {
+          "name": "ليل البنفسج",
+          "seasons": [
+            {
+              "name": "الموسم الثاني",
+              "episodes": [
+                {
+                  "name": "الحلقة الأولى - الموسم الثاني",
+                  "url": "http://130.193.165.22/Flussonic248/ArabicTVSeries2/LaylAlbanafsaj-S02E01.mp4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "matches": [],
+  "xtream": {
+    "enabled": true,
+    "url": "http://tanbieh.com:80",
+    "username": "110366811170D",
+    "password": "162411098190gH"
+  }
 }
