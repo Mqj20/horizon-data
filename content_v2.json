@@ -153,9 +153,9 @@
       "overlay": {
         "url": "asset:he_{n}.png",
         "pos": "tr",
-        "width": 15,
-        "mx": 2,
-        "my": 2
+        "width": 16.5,
+        "mx": 3,
+        "my": 4
       },
       "channels": [
         {
