@@ -14,9 +14,9 @@
       "overlay": {
         "url": "asset:hs_{n}.png",
         "pos": "tr",
-        "width": 22,
-        "mx": 12,
-        "my": 10
+        "width": 15,
+        "mx": 2,
+        "my": 2
       },
       "channels": [
         {
@@ -28,9 +28,9 @@
           "overlay": {
             "url": "asset:hs_1.png",
             "pos": "tr",
-            "width": 22,
-            "mx": 12,
-            "my": 10
+            "width": 15,
+            "mx": 2,
+            "my": 2
           }
         },
         {
@@ -42,9 +42,9 @@
           "overlay": {
             "url": "asset:hs_2.png",
             "pos": "tr",
-            "width": 22,
-            "mx": 12,
-            "my": 10
+            "width": 15,
+            "mx": 2,
+            "my": 2
           }
         },
         {
@@ -56,9 +56,9 @@
           "overlay": {
             "url": "asset:hs_3.png",
             "pos": "tr",
-            "width": 22,
-            "mx": 12,
-            "my": 10
+            "width": 15,
+            "mx": 2,
+            "my": 2
           }
         },
         {
@@ -70,9 +70,9 @@
           "overlay": {
             "url": "asset:hs_4.png",
             "pos": "tr",
-            "width": 22,
-            "mx": 12,
-            "my": 10
+            "width": 15,
+            "mx": 2,
+            "my": 2
           }
         },
         {
@@ -84,9 +84,9 @@
           "overlay": {
             "url": "asset:hs_5.png",
             "pos": "tr",
-            "width": 22,
-            "mx": 12,
-            "my": 10
+            "width": 15,
+            "mx": 2,
+            "my": 2
           }
         },
         {
@@ -98,9 +98,9 @@
           "overlay": {
             "url": "asset:hs_6.png",
             "pos": "tr",
-            "width": 22,
-            "mx": 12,
-            "my": 10
+            "width": 15,
+            "mx": 2,
+            "my": 2
           }
         },
         {
@@ -112,9 +112,9 @@
           "overlay": {
             "url": "asset:hs_7.png",
             "pos": "tr",
-            "width": 22,
-            "mx": 12,
-            "my": 10
+            "width": 15,
+            "mx": 2,
+            "my": 2
           }
         },
         {
@@ -126,9 +126,9 @@
           "overlay": {
             "url": "asset:hs_8.png",
             "pos": "tr",
-            "width": 22,
-            "mx": 12,
-            "my": 10
+            "width": 15,
+            "mx": 2,
+            "my": 2
           }
         },
         {
@@ -140,9 +140,9 @@
           "overlay": {
             "url": "asset:hs_9.png",
             "pos": "tr",
-            "width": 22,
-            "mx": 12,
-            "my": 10
+            "width": 15,
+            "mx": 2,
+            "my": 2
           }
         }
       ]
@@ -153,9 +153,9 @@
       "overlay": {
         "url": "asset:he_{n}.png",
         "pos": "tr",
-        "width": 22,
-        "mx": 12,
-        "my": 10
+        "width": 15,
+        "mx": 2,
+        "my": 2
       },
       "channels": [
         {
@@ -318,4 +318,4 @@
     "username": "110366811170D",
     "password": "162411098190gH"
   }
-        }
+}
