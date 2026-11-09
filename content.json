@@ -5,9 +5,290 @@
   "app": {
     "version": 2,
     "apkUrl": "",
-    "notes": "🌟 شكراً لكم لأنكم جزء من عائلة Horizon TV ❤️\n\nنشكركم على ثقتكم ودعمكم المستمر، وعلى اختياركم تطبيقنا لمتابعة برامجكم وقنواتكم المفضلة.\n\nنود إعلامكم بأن التطبيق دخل حالياً في وضع الصيانة والتحديث، وذلك للعمل على تحسين الأداء وتطوير الخدمات وتقديم تجربة مشاهدة أفضل وأكثر استقراراً لكم.\n\n🚧 نعمل خلف الكواليس لنعود إليكم بحلّة جديدة ومزايا أفضل.\n\n💙 نعتذر عن هذا التوقف المؤقت، ونقدّر صبركم وتفهّمكم.\n\nHorizon TV – تجربة مشاهدة تستحق الانتظار.\n\nشكراً لثقتكم بنا، ونلتقي بكم قريباً."
+    "notes": ""
   },
-  "channels": [],
+  "channels": [
+    {
+      "name": "HorizonTV Sport",
+      "logo": "asset:hs_logo_{n}.png",
+      "overlay": {
+        "url": "asset:hs_{n}.png",
+        "pos": "tr",
+        "width": 16.5,
+        "mx": 3,
+        "my": 12
+      },
+      "channels": [
+        {
+          "name": "Horizon Sport 1",
+          "logo": "asset:hs_logo_1.png",
+          "streams": {
+            "HD": "HZ2:sZMzFLCNnwst5MEX8ARC50lLw/J6mmi22w+VGTlhJINznywATIqJtoRgiF8CiUmF0j3NCVrTTOdoMJ5EqtppK2apZWDwPndAe8UKdJZZsHbJn1e5FSufWxrxqnmJ"
+          },
+          "overlay": {
+            "url": "asset:hs_1.png",
+            "pos": "tr",
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
+          }
+        },
+        {
+          "name": "Horizon Sport 2",
+          "logo": "asset:hs_logo_2.png",
+          "streams": {
+            "HD": "HZ2:3pPT0XSAmufeYABbO1aTHirZajImD6HxSr3ewNmC8iz+QcXb8G2DhlqK2qsHemqVbmiRtLBgTno6r4D/ykf/jX09HFAOqCeH2l0022zIgXfCjCg6ApKKm/KX2+1k"
+          },
+          "overlay": {
+            "url": "asset:hs_2.png",
+            "pos": "tr",
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
+          }
+        },
+        {
+          "name": "Horizon Sport 3",
+          "logo": "asset:hs_logo_3.png",
+          "streams": {
+            "HD": "HZ2:7twMJFm6S2x42f7hj0HeIiDTnMpGwMFJjCv3LDuYh4aY2erA6efGdB67RhRbLF/OISsjBlGoUun+0OvFPbrc2N0M9caobFaHbvLhD3EuqmN5YjX2lVK9keViCKGz"
+          },
+          "overlay": {
+            "url": "asset:hs_3.png",
+            "pos": "tr",
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
+          }
+        },
+        {
+          "name": "Horizon Sport 4",
+          "logo": "asset:hs_logo_4.png",
+          "streams": {
+            "HD": "HZ2:9vRrySGrEVaH31yc8jFQJgVQ76od2xV8+4CSiTMkH8Tkw6cGfd3CZoBwsDbU4sE9m4NJ3M0o18OKp/VblRo9Q/zOY7yOvG3kQvpXVoTGWVRSMX2kmyVhvCL+kean"
+          },
+          "overlay": {
+            "url": "asset:hs_4.png",
+            "pos": "tr",
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
+          }
+        },
+        {
+          "name": "Horizon Sport 5",
+          "logo": "asset:hs_logo_5.png",
+          "streams": {
+            "HD": "HZ2:fQxlp8gpHJXVVLfjYLJ2BhuN/Gpj7YzCxr1EJgBhjdVkUcvyBWQShJdtUOW7f7bETSrrq0nzZyZTJYl7epGIB4gdQ56dHuF0bML1SsFnqbHt9WFmn+p8wDRSXGE2"
+          },
+          "overlay": {
+            "url": "asset:hs_5.png",
+            "pos": "tr",
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
+          }
+        },
+        {
+          "name": "Horizon Sport 6",
+          "logo": "asset:hs_logo_6.png",
+          "streams": {
+            "HD": "HZ2:xPdpcS4Hh5nC11zHOpkFg6fmXauWbirCY+1DZWrWihcSgGZcxDBlbKPre/zoBA86aq1afA+pya76NZ/5sbAp0tOApn1kAncItIarMt1ubc6J6c6flagmXWUDBe+u"
+          },
+          "overlay": {
+            "url": "asset:hs_6.png",
+            "pos": "tr",
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
+          }
+        },
+        {
+          "name": "Horizon Sport 7",
+          "logo": "asset:hs_logo_7.png",
+          "streams": {
+            "HD": "HZ2:Xl4NiOqt/POEVeaR6ojSGl348kyljmWWLZxlI6yz9ddla8R+VkuxJfk+AWq7ehkFAlH6hZ8O0lP3dpkmmOTWmXMiL/tSTzIKhm6vsQWr5f4innL3fi6HKwibX3xW"
+          },
+          "overlay": {
+            "url": "asset:hs_7.png",
+            "pos": "tr",
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
+          }
+        },
+        {
+          "name": "Horizon Sport 8",
+          "logo": "asset:hs_logo_8.png",
+          "streams": {
+            "HD": "HZ2:JMpvZthUROyWjvbnnM2CxdmN88Wo3dlFNlbXK6zlTpobvtIKFyZ5yy5x3P5T8lgUOWZahoO37LuU8v8WIhP27B2PyKnjzRz3Q7EqDnPpx9YSABJPPxuhnGl0XJTj"
+          },
+          "overlay": {
+            "url": "asset:hs_8.png",
+            "pos": "tr",
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
+          }
+        },
+        {
+          "name": "Horizon Sport 9",
+          "logo": "asset:hs_logo_9.png",
+          "streams": {
+            "HD": "HZ2:wUUg/foy3wfWbsF/HuwIowkdYslOUCVWH2SOvit/BwDOttDaWbMA9E2udsC6375FXZ6vmNL+Wxv5NYelpFKxAydsUldr/fJjtYC1lHOA8k7B3ur3Of2Mqno9EJcX"
+          },
+          "overlay": {
+            "url": "asset:hs_9.png",
+            "pos": "tr",
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "Entertainment from HorizonTV",
+      "logo": "asset:he_logo_{n}.png",
+      "overlay": {
+        "url": "asset:he_{n}.png",
+        "pos": "tr",
+        "width": 16.5,
+        "mx": 3,
+        "my": 12
+      },
+      "channels": [
+        {
+          "name": "Horizon Entertainment 1",
+          "streams": {
+            "HD": "https://example.com/REPLACE-horizon-entertainment-1.m3u8"
+          }
+        },
+        {
+          "name": "Horizon Entertainment 2",
+          "streams": {
+            "HD": "https://example.com/REPLACE-horizon-entertainment-2.m3u8"
+          }
+        },
+        {
+          "name": "Horizon Entertainment 3",
+          "streams": {
+            "HD": "https://example.com/REPLACE-horizon-entertainment-3.m3u8"
+          }
+        },
+        {
+          "name": "Horizon Entertainment 4",
+          "streams": {
+            "HD": "https://example.com/REPLACE-horizon-entertainment-4.m3u8"
+          }
+        },
+        {
+          "name": "Horizon Entertainment 5",
+          "streams": {
+            "HD": "https://example.com/REPLACE-horizon-entertainment-5.m3u8"
+          }
+        },
+        {
+          "name": "Horizon Entertainment 6",
+          "streams": {
+            "HD": "https://example.com/REPLACE-horizon-entertainment-6.m3u8"
+          }
+        },
+        {
+          "name": "Horizon Entertainment 7",
+          "streams": {
+            "HD": "https://example.com/REPLACE-horizon-entertainment-7.m3u8"
+          }
+        },
+        {
+          "name": "Horizon Entertainment 8",
+          "streams": {
+            "HD": "https://example.com/REPLACE-horizon-entertainment-8.m3u8"
+          }
+        },
+        {
+          "name": "Horizon Entertainment 9",
+          "streams": {
+            "HD": "https://example.com/REPLACE-horizon-entertainment-9.m3u8"
+          }
+        },
+        {
+          "name": "Horizon Entertainment 10",
+          "streams": {
+            "HD": "https://example.com/REPLACE-horizon-entertainment-10.m3u8"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kurd Sport",
+      "channels": [
+        {
+          "name": "AVA sport HD",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzqdiJxIDQW9mD9q1wKv99J75n-dgWV_EHT2tvgIrbqw&s=10",
+          "streams": {
+            "HD": "mbnBwpY7o+/L1L9F4xJtxMPY8qYii38B7AV7juSG1zDgDdlmlFrXludBNcASuXVwuMyRWN5l2za5t2nwQSm9jw2I7F2WMcz7mLF9K0lcL0o="
+          }
+        },
+        {
+          "name": "Duhok HD",
+          "logo": "https://mixmedia.tv/wp-content/uploads/2022/08/duhok-sport.png",
+          "streams": {
+            "HD": "mbnBwpY7o+/L1L9F4xJtxMPY8qYii38B7AV7juSG1zDgDdlmlFrXludBNcASuXVwuMyRWN5l2za5t2nwQSm9jzTACTrUpt0KHqL2BUXrLio="
+          }
+        },
+        {
+          "name": "NRT HD",
+          "logo": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/c20.0.100.100/p100x100/10988492_706543286133301_1064764163848882081_n.jpg",
+          "streams": {
+            "HD": "mbnBwpY7o+/L1L9F4xJtxMPY8qYii38B7AV7juSG1zDgDdlmlFrXludBNcASuXVwuMyRWN5l2za5t2nwQSm9j0fHqd69EZ8XricSKmAVnmA="
+          }
+        },
+        {
+          "name": "SEE SPORT 1",
+          "logo": "https://ui-avatars.com/api/?name=SEE+SPORT&size=256&background=89e96d&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxDQbJ8b9rpbB+4w2mWo6fvqPAmDz3ppiiEyvZOQZn2to="
+          }
+        },
+        {
+          "name": "SEE SPORT 2",
+          "logo": "https://ui-avatars.com/api/?name=SEE+SPORT&size=256&background=efa45b&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqx89FZELu3D3Y7T9dj4ApoabxNL2ChWoxf3I6pEF/CEY0="
+          }
+        },
+        {
+          "name": "SEE SPORT 3",
+          "logo": "https://ui-avatars.com/api/?name=SEE+SPORT&size=256&background=8110ea&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxRXaUblRlUHNYCyhxIDGVfsZnryoNxcDIC67LrAfNgSg="
+          }
+        },
+        {
+          "name": "ASTERA SPORT",
+          "logo": "https://mixmedia.tv/wp-content/uploads/2022/08/astera-sport.png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxBbRZUxP3UpmTeQaLzd6c+NhKWVoJNGK3gRJAzUniy/k="
+          }
+        },
+        {
+          "name": "LD SPORT 1",
+          "logo": "https://ui-avatars.com/api/?name=LD+SPORT&size=256&background=a1e649&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxUhfMAe1mON0E0957uJ5b22ctHc89GwNbPhVf68JmSYA="
+          }
+        },
+        {
+          "name": "DELAL SPORT",
+          "logo": "https://mixmedia.tv/wp-content/uploads/2022/08/delal-tv.png",
+          "streams": {
+            "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxLVx73ypd5Vi+wvlslKOTd7nabyZUEu+1CIhCeo51hNE="
+          }
+        }
+      ]
+    }
+  ],
   "movies": [],
   "series": [
     {
@@ -22,14 +303,6 @@
                 {
                   "name": "الحلقة الأولى - الموسم الثاني",
                   "url": "http://130.193.165.22/Flussonic248/ArabicTVSeries2/LaylAlbanafsaj-S02E01.mp4"
-                },
-                {
-                  "name": "الحلقة الثانية - الموسم الثاني",
-                  "url": "http://130.193.165.22/Flussonic248/ArabicTVSeries2/LaylAlbanafsaj-S02E02.mp4"
-                },
-                {
-                  "name": "الحلقة الثالثة - الموسم الثاني",
-                  "url": "http://130.193.165.22/Flussonic248/ArabicTVSeries2/LaylAlbanafsaj-S02E03.mp4"
                 }
               ]
             }
@@ -41,8 +314,8 @@
   "matches": [],
   "xtream": {
     "enabled": true,
-    "url": "8k.lol:80",
-    "username": "19765982173986",
-    "password": "15908418752697"
+    "url": "http://tanbieh.com:80",
+    "username": "110366811170D",
+    "password": "162411098190gH"
   }
 }
