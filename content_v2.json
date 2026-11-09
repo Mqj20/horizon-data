@@ -100,6 +100,182 @@
           "category": "BEIN"
         }
       ]
+    },
+    {
+      "name": "باقة بين الترفيهية",
+      "channels": [
+        {
+          "name": "Bein Box Office 1",
+          "logo": "https://www13.0zz0.com/2021/07/10/15/630091358.png",
+          "streams": {
+            "HD": "HZ2:b/WB0IAHECI8dq6sMvNJWmnJ1kgT+X3CUwK3vDcUwj/9qN3ZHoAiFgh6rim7FWvAlfWyNYKZnr+bkMEpCP/OM9Ol/p/Kt78zrgqqNrreWdLtc37Tu0ElUGopsHSD",
+            "HD (احتياطي)": "HZ2:QYQ19EA0z79qGupNmwaj5CWMNzf9DpwX7tCwTLLe+oaj/GjJY75VO85Uqh5VEI4ldtR0wrVSc+JF+h77PIpybaqBq0VlS2dEFt0rLY+9JbCa3F8XDYQgrBQ2035U"
+          }
+        },
+        {
+          "name": "Bein Box Office 2",
+          "logo": "https://www13.0zz0.com/2021/07/10/15/324858700.png",
+          "streams": {
+            "HD": "HZ2:vLL0Eqw9T3UblddPRfVS9gArX9N26smzzmRiEeJ/YuetJzJ8OGuNtaCk9R3VJhqxlpciDqsqR6pIjYB08K0QxG3Bn6uh074YYL6BgMPVfgbPOfokRMmQSsO7OaYA"
+          }
+        },
+        {
+          "name": "BeIN Dream Network",
+          "logo": "http://up.jsd9.site/up/uDZfghi6zK.jpeg",
+          "streams": {
+            "HD": "HZ2:Pv4hKoAR0GOe7P0WbHZD7taqZ5TQZfm72YAGn77BrPV04C6/+Eabwtn4j8E+d5a3Tr5GZT5OQBUwxGt8xinIPrrT5H5STad9CtDXWjpc0MCUgCgZ6B2uQ+wODBLm"
+          }
+        },
+        {
+          "name": "Travel",
+          "logo": "http://up.jsd9.site/up/QGwqOh9F7ksl.png",
+          "streams": {
+            "HD": "HZ2:k9i2MIgfI9ZguMm45L0BDEpkx6C2qHQ51rD9cgEPPWDlTinHqmgW8Pq30glo9qfgwstWvLfk7LiD6P8j2xaYpRGgF5caNbQFekrVcGlQWLN3P5ILoGEoedZxQnmr"
+          }
+        },
+        {
+          "name": "BeIN Nat Wild",
+          "logo": "http://bit.ly/2tT4gXW",
+          "streams": {
+            "HD": "HZ2:Y2cnCY50hLH3xRQJdfEreo1hRnQ4JiXvFdg5aVZs5+Acxl6sN0yFUEkQt5GM2rl1EE/y9K2KQ2HCxVXdsVSZOuEwIwxwxq3pFmMJ/+UwIXXe39Z8DB6ZIv6BetHd"
+          }
+        },
+        {
+          "name": "BeIN Nat Geo",
+          "logo": "http://bit.ly/2tT2INC",
+          "streams": {
+            "HD": "HZ2:bzLbXrWpbd+NRX0NrI8ly0smb3dtwFULH89cUyekbZgKA1LJdzk3u+zta9ZKQF2Pu83+h3W0ir+BpU72aL85LzV76FSZElrclQK8yGrwX0CCi3/YG7Yu3iDH66+V"
+          }
+        },
+        {
+          "name": "BeIN Cartoon Network",
+          "logo": "http://up.jsd9.site/up/hMKyHzNa.png",
+          "streams": {
+            "HD": "HZ2:LTxw2LRDrfaEBYp7E+tf2MLLgEAdv1DbF9fw7E5Ko5icd+aiaVxRR5JRi9ySelY49aep5wNN3F1NXa4fMHptey7QTEoLLHnSQmYufJOQEUKBRXUc2W1YYYUOhax8"
+          }
+        },
+        {
+          "name": "BeIN Boomerang",
+          "logo": "http://up.jsd9.site/up/ScdLiR3Nu.png",
+          "streams": {
+            "HD": "HZ2:6XwNaTIdxU4rXP/2iUH6+atJB+i8kxfjc27sjAgdVBjfeFnwvtHpsYEZRWywRDSgKtzJTzG42/h1MGugKgtbhAE0gCH93H9ITdhSN3DuLwEP00RS1Fjw+fBprmrk"
+          }
+        },
+        {
+          "name": "BeIN Baraem",
+          "logo": "http://up.jsd9.site/up/jDZHRYvm4JP.png",
+          "streams": {
+            "HD": "HZ2:9kk9GSrclTwI3TdHaP7Iqf2Q4DVZ3JPAoOqsi3NwHV0Gdan6rDF8qTGLJpcz0hzcthh22DN/WVoYwQt0MZJVJsTx4tSFcnq4+uzdPaO3kW59isg7Yb+TDR6o1Jy/"
+          }
+        },
+        {
+          "name": "BeIN Jeem",
+          "logo": "http://bit.ly/2zeX79i",
+          "streams": {
+            "HD": "HZ2:BwIE/HrBmGnZ9UhaDXbhHyrZM5ESoK58HtZ2POA7npXm6znj3iy3mJNdS2srmy67XC9kjBn7kLit60kyZSvteu8YBFebgjTmJMEEPQl2YNUBK/UFPrj7NYmFsRFQ"
+          }
+        },
+        {
+          "name": "BeIN HGTV",
+          "logo": "http://up.jsd9.site/up/MxgqngnI.png",
+          "streams": {
+            "HD": "HZ2:aHCo8mklfaO9u90Kgbemsm2AUCoXp0TwPk/Y2GTIEPGW6clmkQ06S1f9AX+F7l2x6AK1v0l7iAi18Ptzms3RjNZhEOXLLEJvrEUeXSBmGZP9WqI2rkJ3OhksZCTS"
+          }
+        },
+        {
+          "name": "BeIN Fatafeat",
+          "logo": "http://up.jsd9.site/up/Qh7mJ1Tn.png",
+          "streams": {
+            "HD": "HZ2:3L4hQdxTCrFy85/KxKehu7UGwcMQKVaqSzM/UUY+htAAjsc8AnzM91dWPN5T29hXAvhzbfb9PH6T+MO7d9TVZVisaJdBreh24YYmDNgOdfx7ZD4xX+g8ByQEGplD"
+          }
+        },
+        {
+          "name": "BeIN Drama 1",
+          "logo": "http://bit.ly/2KMBAcX",
+          "streams": {
+            "HD": "HZ2:9SExKZnIAbWYcGBya+xsaZCXBh/TgqrRK+Q6KDRnswMhKk8LDcawD0ksST/KjC58iAkGd3t9BhsHxcO+NWn2W2W3cLq6lCVVggt+6nukrCN96O9KRVn9r4NIvXKh"
+          }
+        },
+        {
+          "name": "beIN SERIES 1",
+          "logo": "http://bit.ly/2KU1Sdd",
+          "streams": {
+            "HD": "HZ2:TWwpPTUsEuIwLYRhDbid1LwDWIU6fNTIdIzzaiuBkE0jRnwjUeMy2M/eKCVb7sgKzp5bVRPmf/KrFsErltspCcCGPHgDTrWKg+6e1y4Cv3Lq5QHEWOSzNFMIKWpe"
+          }
+        },
+        {
+          "name": "beIN MOVIES 1",
+          "logo": "http://up.jsd9.site/up/qcwb2jwo8z4R.png",
+          "streams": {
+            "HD": "HZ2:R7MYj+2BaYfmwih2sqOC3HS/cQasBs5z0IIeTPf0gAQJjKd/Frni7IHiperg8x5qx9109qOaKrUFvv4lX/Z2Z3Fhf67l6yE629MD4XZo+BW6gAumcRUbcLH/Vvmg"
+          }
+        },
+        {
+          "name": "beIN MOVIES 2",
+          "logo": "http://up.jsd9.site/up/qcwb2jwo8z4R.png",
+          "streams": {
+            "HD": "HZ2:/RIJmuHAgrjGDofJY3O5wpUG0iahQYcDzBYlBunjPNYRB8A/Im24uInv2/BdgjKGqEfmH72rUtGCmV5waTzEXwezfFMGNU8iclbKbuFNKa6SuVrUXwX6VDjFdjCm"
+          }
+        },
+        {
+          "name": "beIN MOVIES 3",
+          "logo": "http://up.jsd9.site/up/qcwb2jwo8z4R.png",
+          "streams": {
+            "HD": "HZ2:3cfTrUm0bQv9BwPUniuOg6DbLmOi74L/c8SJmblw/2CJWdb2oZaJwfE0Gw7Erf1PxRiHkb60sYuy0Gfr2W3gmIL1iiWWb1gSvKrc6XUPsfpD9Z79l+wD9YFFpaT+"
+          }
+        },
+        {
+          "name": "beIN SERIES 2",
+          "logo": "http://up.jsd9.site/up/8M3ZiW7X.png",
+          "streams": {
+            "HD": "HZ2:r9KDg69pKbwAi503J9hbAOmwPJI5yLvi0MlumAd5Iv2R8plp2SRvQutsDS/nwjqGPHvPRosFsUT+vl3I+tpgdQOU11pKufP5aV6NVM1xshjUNISlm7RyBPSt0e6i"
+          }
+        },
+        {
+          "name": "beIN MOVIES 4",
+          "logo": "http://up.jsd9.site/up/qcwb2jwo8z4R.png",
+          "streams": {
+            "HD": "HZ2:GNXIQh5fKST4nt34EhmHWTHJZgJLzLuL2FW9woH/M8Id02wRlNxBy2RGTAKxZPExzA4lNxdHH19sAaPaJyotYtTax7LPFbjFszggQpf+UtVdUPfOzJT2ji9OXK3m"
+          }
+        },
+        {
+          "name": "BeIN bbc earth",
+          "logo": "http://up.jsd9.site/up/5xOh1Pl3pw.png",
+          "streams": {
+            "4K": "HZ2:JYdooTl5fgFae0k0nobfTHDehpVFFKogOPZYx5HLBxcM9s8VpcNVIApBIgWavxSWogH0iny2V5AAFjoFeyNsmO9E3D+x5Ycqz2K0CbhqYAAMPQVzGmGTgURN3YTi",
+            "4K (احتياطي)": "HZ2:YEsoB+TCvymG36d2tJhTqX/yq+vOtpe5zgRFONl8ySmF40rJ6MVTh0NYiXEspWnLEioE2tlwLdp17fF8Rut5MfYk/l0hVwHrAFrBmyd6oAE+QaVpiUgeTYXYti4r"
+          }
+        },
+        {
+          "name": "BeIN Discovery Family",
+          "logo": "http://up.jsd9.site/up/ZnsCMvJP.jpeg",
+          "streams": {
+            "HD": "HZ2:y9JZfg1BVHBiKNeTeXeQVY2t5mGAPZKCsf0e0Il9lgPun0FnjB6e/eoZpJv4u4FXG4sgV3rt7jVi4RxMvHlelm9w1VhZh2AXnDmAa73Yw+hVWyrXFjjkUmOMBeUD"
+          }
+        },
+        {
+          "name": "BeIN Be Junior",
+          "logo": "http://up.jsd9.site/up/Ny0TIc4vpA2H.jpeg",
+          "streams": {
+            "HD": "HZ2:vgwaRDiprozFpB/dLcMy+NkOKgIoCoKyURZVHC8jj/fD+oZitV6HSB3i7Cn1Adr/CyGb+Hw3pG2TgLnv5smjtN4D6h3kgIrRHkewRgAM8XxZ8Dcjjn4q8+hF9DSF"
+          }
+        },
+        {
+          "name": "BeiN Animal Planet",
+          "logo": "http://up.jsd9.site/up/LbbrlXWTh7C.png",
+          "streams": {
+            "4K": "HZ2:en/7mwMoJBzRvHcf2K4OW/69V0H/rCj0USmIlgF7WezW7z1y0xwb2SbXdjxGIyCq5CFinH4lf58rNXvM79X939uH2B71lGQPca0EH4c8ondVUO7B/vtWIANDVT0x",
+            "4K (احتياطي)": "HZ2:Xpoj1a7kKpiv5E4SoyskAFhnSvaS3yTMCKg/+eiVgblJIehtzGRh4KIhpqNOi2sOwOy0QHdralou6NimcX59Q3//IygNqnrrVgoBacM/kyhmUOdNLJz6OSvhtDLh"
+          }
+        },
+        {
+          "name": "BeIN Food Network",
+          "logo": "http://up.jsd9.site/up/qa7Fw64bqw.png",
+          "streams": {
+            "HD": "HZ2:0fSxN7dzn4gjwywSMZoM2XVxJf9eivF0enxRuciP/jXHYJFKfO7IKC7FQtqHcaQedl21z6S6KfRVVS2ZVoJ8UX1wDCY7AqsFmB9genbQ2VxLyeGwphbtxRXEQ8Hj"
+          }
+        }
+      ]
     }
   ],
   "movies": [],
