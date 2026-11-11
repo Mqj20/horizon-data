@@ -153,7 +153,7 @@
         {
           "name": "bein-Ostora",
           "streams": {
-            "HD": "https://ostora.kianezidi0.workers.dev/?id=116900&cat=4524#.m3u8"
+            "HD": "HZ2:0XwLSDXXMz8pxuEf6OfCWzS0GnxV690XGNk2M5PLSKFYYY3bLmrrP3dgICKVlYy9oNzihD3XZtsySAwPDgYF7uQHVs6JAlqsU8HHKFdG1nPT6lnw1Q=="
           },
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
