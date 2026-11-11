@@ -151,13 +151,74 @@
       "name": "bein-Ostora",
       "channels": [
         {
-          "name": "bein-Ostora",
+          "name": "beIN SPORTS 1  [HD]",
           "streams": {
-            "HD": "HZ2:0XwLSDXXMz8pxuEf6OfCWzS0GnxV690XGNk2M5PLSKFYYY3bLmrrP3dgICKVlYy9oNzihD3XZtsySAwPDgYF7uQHVs6JAlqsU8HHKFdG1nPT6lnw1Q=="
+            "HD": "HZ2:lrQPWKvK7boTE2AzS19mi25HIs98SvJ2eRQY8/xlETm4TyStjSiPaHP9lbRwpVVIT9LA7T3fOUk9iJlVAgM8SMPVDj3D9c1jXp+cpqISpP3b"
           },
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-          }
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png?quality=60&auto=webp&format=pjpg"
+        },
+        {
+          "name": "beIN SPORTS 2  [HD]",
+          "streams": {
+            "HD": "HZ2:Rq/h35vc7nZ9K1ycWwedvUDSE31ZKN4aMeP2r3gdux2OxRhndpmSVk8VfqOym64rSCQ5H22VSb9ck1bSVjZtm4Q4fVeCUrdLhoRUJvuc8bof"
+          },
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png?quality=60&auto=webp&format=pjpg"
+        },
+        {
+          "name": "beIN SPORTS 3  [HD]",
+          "streams": {
+            "HD": "HZ2:UCsqa7iQafhp2dx4XQwYb41wC/NEADckTDfxefkojX5hKhr8HF/hu1uR9BC7NRizjl4GsNYbmFkkich5400Q2HRUMrr2Fjmsmia2I5gz1Rpt"
+          },
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png?quality=60&auto=webp&format=pjpg"
+        },
+        {
+          "name": "beIN SPORTS 4  [HD]",
+          "streams": {
+            "HD": "HZ2:VraN7R7j2e7R05TbTXcka+NoSFDYmrGml/7E2aET+qwDZZen0HcSt4L7y/d5bVqTwoxDCuIJUYfbO+TvZpitrEoBXRZ1JBhA1W5Y4A3khCMz"
+          },
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png?quality=60&auto=webp&format=pjpg"
+        },
+        {
+          "name": "beIN SPORTS 5  [HD]",
+          "streams": {
+            "HD": "HZ2:H0BP3617Ib9HDbjhdYiuzeGNEHBaB+51FcBoteBVF5KDCXb99gkHSNCbO6WW0LTvonfYBHe+29tLfYZ05hqBeq7fgEgxi/mBU7BfDe4wlrrk"
+          },
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png?quality=60&auto=webp&format=pjpg"
+        },
+        {
+          "name": "beIN SPORTS 6  [HD]",
+          "streams": {
+            "HD": "HZ2:Uoox73rxyDJ6sL+uhLO6KB0Dacry01bHEpXMU1E0swjctTAWpa9TcNGVC1JRfhgt5mkH6e8VrY1yu1iQeLWTaBQIRf2QiUtSuWWVhQ2n/FDh"
+          },
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png?quality=60&auto=webp&format=pjpg"
+        },
+        {
+          "name": "beIN SPORTS 7  [HD]",
+          "streams": {
+            "HD": "HZ2:geIWHD1lClRQrmSP4tEZCyhkEJsWaIrizFQ+JMx9Uwrf0aBA7YgNs901ozI7qWBneWW12SBxmWYCcDbmgdVtJffirLdFrJpe2PsqhdzFiVRW"
+          },
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png?quality=60&auto=webp&format=pjpg"
+        },
+        {
+          "name": "beIN SPORTS 8  [HD]",
+          "streams": {
+            "HD": "HZ2:CAJAuznbSzKEDqrlD3rZEGb1ojs1mNofIVmAM9GT7xu83/v8QZo5ql3Q1Ig5x29XBYVq93aWO/wki4hUlVmq8/EhyV9IY+QZKKhZUNPn5xRi"
+          },
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png?quality=60&auto=webp&format=pjpg"
+        },
+        {
+          "name": "beIN SPORTS 9  [HD]",
+          "streams": {
+            "HD": "HZ2:OYG8S1UnvhSsiN5GVcaQdIr5B1fHroJGM0/BQvJpvnq3jt+OagGZQALH1CHform+gcO7Zege3XB8vbDXIPSHkW96JzwPBCMNgTo72nLIr3RD"
+          },
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png?quality=60&auto=webp&format=pjpg"
+        },
+        {
+          "name": "beIN SPORTS  [HD]",
+          "streams": {
+            "HD": "HZ2:XQIxw0Sv9iiCd2dH+n0Ds2kohDo45Uua9QvHJsUNZNVDQdK0s/Z0qoFAO4hlnmE2l+9IC98QbWUuWHtchiQmrGHrgxcdUEmXtU7bwCzN9g1x8w=="
+          },
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png?quality=60&auto=webp&format=pjpg"
         }
       ]
     },
