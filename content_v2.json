@@ -148,6 +148,17 @@
       ]
     },
     {
+      "name": "bein-Ostora",
+      "channels": [
+        {
+          "name": "bein-Ostora",
+          "streams": {
+            "HD": "https://ostora.kianezidi0.workers.dev/?id=116900&cat=4524"
+          }
+        }
+      ]
+    },
+    {
       "name": "Entertainment from HorizonTV",
       "logo": "asset:he_logo_{n}.png",
       "overlay": {
