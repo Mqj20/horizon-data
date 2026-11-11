@@ -155,6 +155,12 @@
           "streams": {
             "HD": "https://ostora.kianezidi0.workers.dev/?id=116900&cat=4524"
           }
+        },
+        {
+          "name": "bein-Ostora (تجربة m3u8)",
+          "streams": {
+            "HD": "https://ostora.kianezidi0.workers.dev/index.m3u8?id=116900&cat=4524"
+          }
         }
       ]
     },
