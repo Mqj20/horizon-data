@@ -21,132 +21,453 @@
       "channels": [
         {
           "name": "Horizon Sport 1",
+          "logo": "asset:hs_logo_1.png",
           "streams": {
-            "HD": "https://example.com/REPLACE-horizon-sport-1.m3u8"
+            "HD": "HZ2:sZMzFLCNnwst5MEX8ARC50lLw/J6mmi22w+VGTlhJINznywATIqJtoRgiF8CiUmF0j3NCVrTTOdoMJ5EqtppK2apZWDwPndAe8UKdJZZsHbJn1e5FSufWxrxqnmJ"
           },
-          "audioFrom": "https://example.com/REPLACE-horizon-sport-1-audio.m3u8"
+          "overlay": {
+            "url": "asset:hs_1.png",
+            "pos": "tr",
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
+          }
         },
         {
           "name": "Horizon Sport 2",
+          "logo": "asset:hs_logo_2.png",
           "streams": {
-            "HD": "https://example.com/REPLACE-horizon-sport-2.m3u8"
+            "HD": "HZ2:3pPT0XSAmufeYABbO1aTHirZajImD6HxSr3ewNmC8iz+QcXb8G2DhlqK2qsHemqVbmiRtLBgTno6r4D/ykf/jX09HFAOqCeH2l0022zIgXfCjCg6ApKKm/KX2+1k"
           },
-          "audioFrom": "https://example.com/REPLACE-horizon-sport-2-audio.m3u8"
+          "overlay": {
+            "url": "asset:hs_2.png",
+            "pos": "tr",
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
+          }
         },
         {
           "name": "Horizon Sport 3",
+          "logo": "asset:hs_logo_3.png",
           "streams": {
-            "HD": "https://example.com/REPLACE-horizon-sport-3.m3u8"
+            "HD": "HZ2:7twMJFm6S2x42f7hj0HeIiDTnMpGwMFJjCv3LDuYh4aY2erA6efGdB67RhRbLF/OISsjBlGoUun+0OvFPbrc2N0M9caobFaHbvLhD3EuqmN5YjX2lVK9keViCKGz"
           },
-          "audioFrom": "https://example.com/REPLACE-horizon-sport-3-audio.m3u8"
+          "overlay": {
+            "url": "asset:hs_3.png",
+            "pos": "tr",
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
+          }
         },
         {
           "name": "Horizon Sport 4",
+          "logo": "asset:hs_logo_4.png",
           "streams": {
-            "HD": "https://example.com/REPLACE-horizon-sport-4.m3u8"
+            "HD": "HZ2:9vRrySGrEVaH31yc8jFQJgVQ76od2xV8+4CSiTMkH8Tkw6cGfd3CZoBwsDbU4sE9m4NJ3M0o18OKp/VblRo9Q/zOY7yOvG3kQvpXVoTGWVRSMX2kmyVhvCL+kean"
           },
-          "audioFrom": "https://example.com/REPLACE-horizon-sport-4-audio.m3u8"
+          "overlay": {
+            "url": "asset:hs_4.png",
+            "pos": "tr",
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
+          }
         },
         {
           "name": "Horizon Sport 5",
+          "logo": "asset:hs_logo_5.png",
           "streams": {
-            "HD": "https://example.com/REPLACE-horizon-sport-5.m3u8"
+            "HD": "HZ2:fQxlp8gpHJXVVLfjYLJ2BhuN/Gpj7YzCxr1EJgBhjdVkUcvyBWQShJdtUOW7f7bETSrrq0nzZyZTJYl7epGIB4gdQ56dHuF0bML1SsFnqbHt9WFmn+p8wDRSXGE2"
           },
-          "audioFrom": "https://example.com/REPLACE-horizon-sport-5-audio.m3u8"
+          "overlay": {
+            "url": "asset:hs_5.png",
+            "pos": "tr",
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
+          }
         },
         {
           "name": "Horizon Sport 6",
+          "logo": "asset:hs_logo_6.png",
           "streams": {
-            "HD": "https://example.com/REPLACE-horizon-sport-6.m3u8"
+            "HD": "HZ2:xPdpcS4Hh5nC11zHOpkFg6fmXauWbirCY+1DZWrWihcSgGZcxDBlbKPre/zoBA86aq1afA+pya76NZ/5sbAp0tOApn1kAncItIarMt1ubc6J6c6flagmXWUDBe+u"
           },
-          "audioFrom": "https://example.com/REPLACE-horizon-sport-6-audio.m3u8"
+          "overlay": {
+            "url": "asset:hs_6.png",
+            "pos": "tr",
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
+          }
         },
         {
           "name": "Horizon Sport 7",
+          "logo": "asset:hs_logo_7.png",
           "streams": {
-            "HD": "https://example.com/REPLACE-horizon-sport-7.m3u8"
+            "HD": "HZ2:Xl4NiOqt/POEVeaR6ojSGl348kyljmWWLZxlI6yz9ddla8R+VkuxJfk+AWq7ehkFAlH6hZ8O0lP3dpkmmOTWmXMiL/tSTzIKhm6vsQWr5f4innL3fi6HKwibX3xW"
           },
-          "audioFrom": "https://example.com/REPLACE-horizon-sport-7-audio.m3u8"
+          "overlay": {
+            "url": "asset:hs_7.png",
+            "pos": "tr",
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
+          }
         },
         {
           "name": "Horizon Sport 8",
+          "logo": "asset:hs_logo_8.png",
           "streams": {
-            "HD": "https://example.com/REPLACE-horizon-sport-8.m3u8"
+            "HD": "HZ2:JMpvZthUROyWjvbnnM2CxdmN88Wo3dlFNlbXK6zlTpobvtIKFyZ5yy5x3P5T8lgUOWZahoO37LuU8v8WIhP27B2PyKnjzRz3Q7EqDnPpx9YSABJPPxuhnGl0XJTj"
           },
-          "audioFrom": "https://example.com/REPLACE-horizon-sport-8-audio.m3u8"
+          "overlay": {
+            "url": "asset:hs_8.png",
+            "pos": "tr",
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
+          }
         },
         {
           "name": "Horizon Sport 9",
+          "logo": "asset:hs_logo_9.png",
           "streams": {
-            "HD": "https://example.com/REPLACE-horizon-sport-9.m3u8"
+            "HD": "HZ2:wUUg/foy3wfWbsF/HuwIowkdYslOUCVWH2SOvit/BwDOttDaWbMA9E2udsC6375FXZ6vmNL+Wxv5NYelpFKxAydsUldr/fJjtYC1lHOA8k7B3ur3Of2Mqno9EJcX"
           },
-          "audioFrom": "https://example.com/REPLACE-horizon-sport-9-audio.m3u8"
+          "overlay": {
+            "url": "asset:hs_9.png",
+            "pos": "tr",
+            "width": 16.5,
+            "mx": 3,
+            "my": 12
+          }
         }
       ]
     },
     {
       "name": "bein-Ostora",
-      "channels": []
-    },
-    {
-      "name": "Entertainment from HorizonTV",
-      "logo": "asset:he_logo_{n}.png",
-      "overlay": {
-        "url": "asset:he_{n}.png",
-        "pos": "tr",
-        "width": 16.5,
-        "mx": 3,
-        "my": 12
-      },
-      "channels": []
-    },
-    {
-      "name": "Kurd Sport",
-      "channels": []
-    },
-    {
-      "name": "MBC",
-      "channels": []
-    },
-    {
-      "name": "beIN",
-      "channels": []
-    },
-    {
-      "name": "OSN",
-      "channels": []
+      "channels": [
+        {
+          "name": "beIN SPORTS 1  [HD]",
+          "streams": {
+            "HD": "HZ2:lrQPWKvK7boTE2AzS19mi25HIs98SvJ2eRQY8/xlETm4TyStjSiPaHP9lbRwpVVIT9LA7T3fOUk9iJlVAgM8SMPVDj3D9c1jXp+cpqISpP3b"
+          },
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png?quality=60&auto=webp&format=pjpg"
+        },
+        {
+          "name": "beIN SPORTS 2  [HD]",
+          "streams": {
+            "HD": "HZ2:Rq/h35vc7nZ9K1ycWwedvUDSE31ZKN4aMeP2r3gdux2OxRhndpmSVk8VfqOym64rSCQ5H22VSb9ck1bSVjZtm4Q4fVeCUrdLhoRUJvuc8bof"
+          },
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png?quality=60&auto=webp&format=pjpg"
+        },
+        {
+          "name": "beIN SPORTS 3  [HD]",
+          "streams": {
+            "HD": "HZ2:UCsqa7iQafhp2dx4XQwYb41wC/NEADckTDfxefkojX5hKhr8HF/hu1uR9BC7NRizjl4GsNYbmFkkich5400Q2HRUMrr2Fjmsmia2I5gz1Rpt"
+          },
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png?quality=60&auto=webp&format=pjpg"
+        },
+        {
+          "name": "beIN SPORTS 4  [HD]",
+          "streams": {
+            "HD": "HZ2:VraN7R7j2e7R05TbTXcka+NoSFDYmrGml/7E2aET+qwDZZen0HcSt4L7y/d5bVqTwoxDCuIJUYfbO+TvZpitrEoBXRZ1JBhA1W5Y4A3khCMz"
+          },
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png?quality=60&auto=webp&format=pjpg"
+        },
+        {
+          "name": "beIN SPORTS 5  [HD]",
+          "streams": {
+            "HD": "HZ2:H0BP3617Ib9HDbjhdYiuzeGNEHBaB+51FcBoteBVF5KDCXb99gkHSNCbO6WW0LTvonfYBHe+29tLfYZ05hqBeq7fgEgxi/mBU7BfDe4wlrrk"
+          },
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png?quality=60&auto=webp&format=pjpg"
+        },
+        {
+          "name": "beIN SPORTS 6  [HD]",
+          "streams": {
+            "HD": "HZ2:Uoox73rxyDJ6sL+uhLO6KB0Dacry01bHEpXMU1E0swjctTAWpa9TcNGVC1JRfhgt5mkH6e8VrY1yu1iQeLWTaBQIRf2QiUtSuWWVhQ2n/FDh"
+          },
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png?quality=60&auto=webp&format=pjpg"
+        },
+        {
+          "name": "beIN SPORTS 7  [HD]",
+          "streams": {
+            "HD": "HZ2:geIWHD1lClRQrmSP4tEZCyhkEJsWaIrizFQ+JMx9Uwrf0aBA7YgNs901ozI7qWBneWW12SBxmWYCcDbmgdVtJffirLdFrJpe2PsqhdzFiVRW"
+          },
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png?quality=60&auto=webp&format=pjpg"
+        },
+        {
+          "name": "beIN SPORTS 8  [HD]",
+          "streams": {
+            "HD": "HZ2:CAJAuznbSzKEDqrlD3rZEGb1ojs1mNofIVmAM9GT7xu83/v8QZo5ql3Q1Ig5x29XBYVq93aWO/wki4hUlVmq8/EhyV9IY+QZKKhZUNPn5xRi"
+          },
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png?quality=60&auto=webp&format=pjpg"
+        },
+        {
+          "name": "beIN SPORTS 9  [HD]",
+          "streams": {
+            "HD": "HZ2:OYG8S1UnvhSsiN5GVcaQdIr5B1fHroJGM0/BQvJpvnq3jt+OagGZQALH1CHform+gcO7Zege3XB8vbDXIPSHkW96JzwPBCMNgTo72nLIr3RD"
+          },
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png?quality=60&auto=webp&format=pjpg"
+        },
+        {
+          "name": "beIN SPORTS  [HD]",
+          "streams": {
+            "HD": "HZ2:XQIxw0Sv9iiCd2dH+n0Ds2kohDo45Uua9QvHJsUNZNVDQdK0s/Z0qoFAO4hlnmE2l+9IC98QbWUuWHtchiQmrGHrgxcdUEmXtU7bwCzN9g1x8w=="
+          },
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png?quality=60&auto=webp&format=pjpg"
+        }
+      ]
     },
     {
       "name": "AL FAJER",
-      "channels": []
+      "channels": [
+        {
+          "name": "AL FAJER 1",
+          "logo": "https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg",
+          "streams": {
+            "4K": "HZ2:uwgW0XqJsg5ysfIdcN0dzLVW8B+acqckFviaCohQ0KS5zMUN/Gn1ciQNHg1T7WwIis4CsmkFoAH54H7ZpGjt29TEB08B66QwK1ITO592Oacn4Gls6m7xaw==",
+            "HD": "HZ2:2JO1LwveejXa1BENDGbgphqS6ssVYsoYxwOYfyhXBtFUvataxtAHhaNAwaQ85lCmjxBRWZqz6QzzZZDRct8aKytKkfhum0MA6A/UZHSSiaGUaaVSccWEhA=="
+          }
+        },
+        {
+          "name": "AL FAJER 2",
+          "logo": "https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg",
+          "streams": {
+            "4K": "HZ2:xZSABpUVTjkO7lZCnO2Z8oszmmZt3zmijLcgbQE6au4jmE5ognZh1Z5772MWJNshqw1mMXTeavrO6dQKzsNxUu5bpQL3Kafph3Vwn7ap+mRBKPU08+ZahQ==",
+            "HD": "HZ2:GbS7aqsNuyRJJOYblblXRrlBrqTD4NH9IiomA4u6oSG6j6EQ1TeRJyTZbPjP51JZoaJ3DQHaL19l5toK7cAFQjTyCeNMnUKS3YdaKBjFA1+t81NKNCar1Q=="
+          }
+        },
+        {
+          "name": "AL FAJER 3",
+          "logo": "https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg",
+          "streams": {
+            "4K": "HZ2:o++0uVgrSYlLtYghDElwNlSJEkyrZ5T5IfEYfbXmi1gPHy0NZq5CgBv9nWmvQv/1jQ1eeK8jWMrYpA4Dfk6ZFv3VOn9evDlRNaBmCxSGYNFVzvLfxvoQUw==",
+            "HD": "HZ2:igEX0sKV1hFXqMLJ+WKxRuK6SZKAkOdZfyyxNI0lROUnb6L9jqzK3QTPP0xV4uKQtAkYc1Gkt//2+etMUyUiXSZ1Z2Hxued8Gdl7B31P0XdZv0GNW6X6tg=="
+          }
+        },
+        {
+          "name": "AL FAJER 4",
+          "logo": "https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg",
+          "streams": {
+            "4K": "HZ2:XFklrXsTLDHLn6gzto+ilyoFmBbmcC+glAKxuM94RpZ5uFeAkPcwuaKLiNjxAWLOCEWWLXbTDF7Csgfc4dZz0zS/LptVTN1CJkXaHpxXhWhC/wP3fbwtvw==",
+            "HD": "HZ2:UAce2RUOjDbCQcOfefMbPXLEHzOBi16QDwmnyMcXdeGITpwAV6r6+uCuZ2VGthRpGLyzm9rUY5WPqcHgsTrhr17GWAo44AEpKljPTFZ7uklc/xyoUk1zGA=="
+          }
+        },
+        {
+          "name": "AL FAJER 5",
+          "logo": "https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg",
+          "streams": {
+            "4K": "HZ2:4AteK8D/Gl/iOmZ2lbzy1Bc2GO5hu6Mnya5JnZaJgcBqICNKrl33w2jt8JrBeYx3bawQKJLxKJfZs0o+r+0DTiiRXPfm/DCpsx7OC+LezKtU3Gm2xNeFnA==",
+            "HD": "HZ2:Otr4F/m0lB4WVPCNGKglfha0mkAbpvOzMeRjuDgk4AN2OLjRiAbc2iNmV0PPiPkdMF+VPnAamiwnJJ0F5Qf1Fij++5hqIclBbWhBXf6cqNmKs5QvzOkLxg=="
+          }
+        }
+      ]
     },
     {
-      "name": "SOLO",
-      "channels": []
+      "name": "Alwan Sport",
+      "channels": [
+        {
+          "name": "Alwan Sport 1",
+          "streams": {
+            "4K": "HZ2:I+jSHThfRi688Pbunfzr4y1ff45C3yxkszgW4w/Db+0kpp/54SUXuu6PftbkXhzH+o3QJntUnb6ks9cGKI7rbuy3fqz+tJ2BMV4OlJSUUUgvSx00RmRf/2EZzpI=",
+            "HD": "HZ2:l0GgYXlxBfXaAesmqc+ElJwbYlImKhayl2Fh3efRAm7svuLQxtXjydVG41c07whmfOYx4e+9eUK/NsWXLrZZnZsJlhXs/l1eW8rztTb9ilYuV988QA1YLCWx/4k=",
+            "SD": "HZ2:ViSXw6LvC5++l/u15rr6e6egDgjlvL6SMDpEwoSR66Xds+xACIqEu02XaS7k7UYnOd/7iwTJEo5htMFu0KIJ+CAr5Jei3z3TXyTxKPXYFofY0j6yKcOBcc+CnxU="
+          },
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s"
+        },
+        {
+          "name": "Alwan Sport 2",
+          "streams": {
+            "4K": "HZ2:K+94NCfJvfoznOMpCH1BSOUIy8ha+EQEy73vf1nyEZTIB5jAx2ql3b8RLIa7VUQA5S3cofkzdgAQWu4eczwLH1ldiVxTiVwM1HofxDykWlRFg85IJSq402iqglM=",
+            "HD": "HZ2:K06yXqmSSvYIedY3AYMKc5rpb13WJBikNnc33FP0YNbPH54k2mM73mORBahS9/43I8bu1PuN/Mq7GWeogoA4kLhRSZfDAHL1KyA51yU/DVUs9AiG3bRj58LBDS4=",
+            "SD": "HZ2:Qx4F6ydT68cDnmNKUOAO2peSRgZTIimJFd8zx6ZugkgZ1a9y7DlFJq2J3UicwS3vA0twc4Jh1EtEnpRGw5zvaJoNncCi7wnSUB9Yuo1+uBj2nOG8Nf485Bx1Ynk="
+          },
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s"
+        },
+        {
+          "name": "Alwan Sport 3",
+          "streams": {
+            "4K": "HZ2:fq0RGYE2V16ACB4tziKH014J1UhQfGCHMWrM2U11yTyOanHNYn9ypaxtrONJ7+o6Df7ybmdrwCQixqaJLfk2ROl/8ntrvyr4Y7MtQlidzGHbRngUWrFhwqiTL7g=",
+            "HD": "HZ2:a2PMCDGUR3TrTBr6HWhYeNmvnHmftPMbKOsJw032binvSgk1sCDYhnFphYKa/+B0YYriqd9IHWFA7+4QW7b4vkbWy/ogjjwJvaEHJd7V8HJCUahIfGhPSBTwxgE=",
+            "SD": "HZ2:ha/kE+cK0KvxvXX115bqnGnPpEfj8bC5qPB9e4cRSe9jkU8qlPIqdx/VG28w/d3rftlrOYlQXen7imFgOdxG+3b+bHd2K19/jLMxzrCFw1BorP8qd/Pt2LRQ7P8="
+          },
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s"
+        },
+        {
+          "name": "Alwan Sport 4",
+          "streams": {
+            "4K": "HZ2:Qs9mLv4Ohh7Lq92zouMt1IVjJ4WbSNXjXJahRfXMdZVGpOt2Mw/ndNt3M7OR7XSmKGDxz2XvVQiTaemLJPrqX0xFVUXNTErPEJRguwv4pcAh6DO7W9DBmV/fOUY=",
+            "HD": "HZ2:D574/0x6uhmlWssZw8bbSxf0MqRFv34GlUaFXDZnD3KmqSNMds+USxGWZgv4WY5F/kVPiT1dcHUn/6hkc/fWVCDiwjN4HiiJanjiVCOy0bujqK0ZrFx8/BWWDbk=",
+            "SD": "HZ2:QhIChvs2bP0XRAtAHQzHoTjcfSilhG6aGJ6WOwwsj2Tg7wP0AxcM7uqmNPKy5X4Vr0R9B3nUoAK01ESq7NpFcjAKgw243l++X5VpRYO7Ao5CK2P9Z1pEhRMYR94="
+          },
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s"
+        },
+        {
+          "name": "Alwan Sport 5",
+          "streams": {
+            "4K": "HZ2:qHK9Q+lxOqMvvNn7d0o+r5u/SOFv5egeRdHVW/pDIjhv8bkHmggIrXBj+UASk4qppmiX0RzEfGckA6f/XmnmEkxlNM16BwhGbWVTVVRQ/Bb1xeeuef/lOIxsBQg=",
+            "HD": "HZ2:vzwuzr4mwsq8IW6gKKqfzTxATCFbaV4s9MuMB5bSvt2351pXMA8L928sfeQ2KzRbkWGnTVeXrWewjmbACMmOhYbIiYo3qKAVXghIXr5wjufJphyQ5/zNnvXnYF8=",
+            "SD": "HZ2:J1PZ/voB0GUXGluPwIUTge/rGn3kpT1/NXlmmCbDZ3f9251JqF2d9Wo3bFC1sC/KIt1tiYbGZ9MGEc8M2ZJRUl6KfuZpnegsiMJuaYjqQk7lXVInRWryWrYuSnU="
+          },
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s"
+        },
+        {
+          "name": "Alwan Sport 6",
+          "streams": {
+            "4K": "HZ2:CEFYZwL4g8TKKaK2ZRuHgwhbu09f2fu4j6iJsvU5aTnRVqirt5ZY2n41m3mcl+icKciGvZ8wBcIJUGox3cxggZurjtQ7kdmAyIVnAKNVZH1wATDkmAYPTM+xEY4=",
+            "HD": "HZ2:Eg9UZUD4zypEZ4SNSEwPyeLgyEoo1TQKthsxDuNjPhCS1cAjWbYR4FzUPsV3OmGmupm3zbB7sBZ6wYCgeONehFrzwrZBPAqG9twd++2Jh78WAIb2jAZnBdnnKhY=",
+            "SD": "HZ2:7Nb/ed45vJsGSoh/BAyvJt+g4tu4HsRm7qSEMLa5wT8LUGd/S5S5hi1stuxFNX//0jTxfcHYW6akhVG75yIUvuwdqGz3IcF0wHQipcftGu1UdWa6+kxjtnb01WA="
+          },
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s"
+        },
+        {
+          "name": "Alwan Sport 7",
+          "streams": {
+            "HD": "HZ2:MYAh/0DeenA2r7Qn8IrOXrYTJAT1WhkgkZjiC7OGJwnTmabqWnOciLWETwlK/iQCjous5zGXZJZyTTjJ0ST55vlfCHt67hKQN4h5vFs/F1i0fYJhntSs4jY73oA="
+          },
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s"
+        },
+        {
+          "name": "Alwan Sport 8",
+          "streams": {
+            "HD": "HZ2:hSnEtovui0OgWVzDLhkC02mTq0Rp6/H/mgpMug1jxjvwVJ6IQhZMENGRATGWgHgSSSANGBEkDkrtgCzBbDSux09yzUnnCAANH5ofJxcgqnpMLGKo8by4nLVUKBI="
+          },
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s"
+        },
+        {
+          "name": "Alwan Sport 9",
+          "streams": {
+            "HD": "HZ2:P9AKPemI9j+wCOi17bDI08V7RW2GhZzz4GQ5q6Di6J07zbmBJNHWE5ekeMmh45GecVoiPUpYw1OAHR/cwzwK4KO/bI1XPlg/bBsCXjQQ+UfFNcBCLDX6Qs3b6kk="
+          },
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s"
+        },
+        {
+          "name": "Alwan Sport 10",
+          "streams": {
+            "HD": "HZ2:0RnTt4+wGwRBwNm56HjsWbm6eW3vAno2lht9wuxEIsjtXd9YB86OMpVQqN0Rq/5zG4tDvxac3ErudLApc+LUdwXwFWI9RkNaZEdh3uFKn4XTW9MzNO9q3NB7iHs="
+          },
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s"
+        },
+        {
+          "name": "Alwan UFC",
+          "streams": {
+            "HD": "HZ2:bpN01qubWLlZAm0VV8VlHSLUV+d7wBJ/yZxApyezSQn+bXzkEF9i66QppyibVfud1gzUxF7a76M2WSLujHjqY3zdWcIluEa4ZySYKRVO7dVgVMs6svvIK3ijsMk="
+          },
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s"
+        },
+        {
+          "name": "Alwan F1",
+          "streams": {
+            "HD": "HZ2:pKWcnrz+cWbcTJBVN6e8H25GYf8UThcxc+V8diQOrKCUVADxFn6HyCQjiyc6skyN0F2xqVKwOxdzNtLCXfkAwXaqI7TbyVPn+Id3EOVfzWNW+M3y25LluPxsyI8="
+          },
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s"
+        },
+        {
+          "name": "Alwan WWE",
+          "streams": {
+            "HD": "HZ2:JmAotXrgXBsv27/oXIK4fq+zYCfheMCd/f/YQS+GryNGfI/aqG6ClcGyaC1xCTCoNzHo5THbs0ZLuQBbZR4mgqJFHl0YVS0OF3aEUlDutxRUrN6reDrTLVyqMV8="
+          },
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s"
+        }
+      ]
     },
     {
-      "name": "beIN SPORTS 4K",
-      "channels": []
+      "name": "Alwan Aflam",
+      "channels": [
+        {
+          "name": "Alwan Aflam 1",
+          "streams": {
+            "HD": "HZ2:6Z+FHJqcpRnj51/Lp0E29FzOLW4xXyPeScZ4BoOAQAT9e7AZawcFmO0P2fb6TGkaGN4pCK85N5GTcCunMF/HEAIGffgAfsOIdXhi8T7wVWdPb3/bfG1m05ZeSUw="
+          }
+        },
+        {
+          "name": "Alwan Aflam 2",
+          "streams": {
+            "HD": "HZ2:rVeKeKUPWt8ybzcUG3lrjLFal5iSnicYzreKEkfZ3/7+GKvSxCIS+sZB3/YqXAYk+H35USRre2VjPeJtB8+R5PisoDTVb1iQxeUqEZzs4zL1IvAn9lk8rpW9oAY="
+          }
+        },
+        {
+          "name": "Alwan Aflam 3",
+          "streams": {
+            "HD": "HZ2:E9hR3xQhiEgAkQUnzsipD3g1dgFvHjNF5LsmgCx3GxSUxnZyL9YfP9ynIvazydReziDTduqLP2vGNoTM4KfK7pmwC7ty68mpnd224giIxMp7dgDtnsXaUFRLs3Q="
+          }
+        },
+        {
+          "name": "Alwan Aflam 4",
+          "streams": {
+            "HD": "HZ2:jBlkRsnY1WUsY8WExdGJCtfleDlvV4AtZvD+4HZnYkZ+27Gtv+q+Cdl5eXgdGwEfrsitaloj8EzB5bPPHdV6fhP6wiQQu3Zg5GyK/T8y97YrDwyLufEQMocQHkY="
+          }
+        }
+      ]
     },
     {
-      "name": "UFC & ALWAN SPORT",
-      "channels": []
-    },
-    {
-      "name": "NEWS",
-      "channels": []
-    },
-    {
-      "name": "القنوات العراقية والدينية",
-      "channels": []
-    },
-    {
-      "name": "AL FAJER & RAYA",
-      "channels": []
-    },
-    {
-      "name": "Kurdistan Sport",
-      "channels": []
+      "name": "Alwan منوعات",
+      "channels": [
+        {
+          "name": "Alwan Aghani",
+          "streams": {
+            "HD": "HZ2:SMCJm1dcwPz0HMOqocvnsRKSsS7V2LWEqg7TJaMPIH3ug08UYdkYTtEAoBatzZjBpqYHJEVAOG+fGmxENWVYLa9+6Y8MplJ3nkVmyhQ2iAy3P0hOenQcn6CykAI="
+          }
+        },
+        {
+          "name": "Alwan Alwathaeqye",
+          "streams": {
+            "HD": "HZ2:TZcCmPdVgOzBe2m5TvMPUP/oJCf6vIRtgtqnzet+al9STtpDzYP41v6etqSmM0H24HNA/2ICh5PjZhfcxNHqnDTWo1LVlsxZryKxEB98r6ouszw4G/UFx7VJ0jE="
+          }
+        },
+        {
+          "name": "Alwan Anime",
+          "streams": {
+            "HD": "HZ2:krVdchJ7CBUnt4fVllWsh7JFNERkGAm5W5DHxd/XMWTVQ8AcPGlurlBmj9VkXGYi+6K6Xuwzxc9MdlUzxY/dCGCfX1qTk4Rr3vPbZa+U7B1mFkzJ37Urw9nOvTA="
+          }
+        },
+        {
+          "name": "Alwan Atfal",
+          "streams": {
+            "HD": "HZ2:bDVNk5rP5rdqkkQsghmg8lOeE23lpsT0PncvZRbydi8L3vJTr+vSJASSjaWWmgbk7k/+pkODmn6QfbjEU8j+/Pe7PE6/wThbsPoMXkkC0R1YFS1teR4+qTSgQWo="
+          }
+        },
+        {
+          "name": "Alwan Bollywood",
+          "streams": {
+            "HD": "HZ2:/pkj/WkNv4SV8d3eXk3A0dNMVXlL5nKG5Lhw0nzfdSNtlHOXUhLSJlOB3vX8ZTwxxa+HDX5Iw0TLiCmEsMw7FhsYe8Q7jAjt+16BEN3bae93ip4qBPYVL/jHf3k="
+          }
+        },
+        {
+          "name": "Alwan Korea",
+          "streams": {
+            "HD": "HZ2:JWvsV7VmgDkIzbMAd4fYhMroNpnUgy1cF2p+plicfSNETPt9EhD9ahwDNYPEfrnImAdoL2HZF6m1pMl0JlhjWWWUgvdba1cnnc8+xn2SWHSoX8GpqTJO4H0YCD0="
+          }
+        },
+        {
+          "name": "Alwan Mosalsalat",
+          "streams": {
+            "HD": "HZ2:TLlWuhWDPNyPziospfB1rCfW/xumzW9f6+ZtVEULEVcVXrCiOhZOYsOvCNn3wyeLrZI/yRgvUVbWxGCYYoSg11wKEdvKWj20cR9plpzHBRRxdzIrBhN9JVMOnvQ="
+          }
+        },
+        {
+          "name": "Alwan Mosalsalat+",
+          "streams": {
+            "HD": "HZ2:t6JX/dtXS9Q3kCmbn1Trw37vjSjlPmLxPlAMIjHnsP366yslP8OYRCYgAKB7Ce4C25GVd3ObMwrXF5i30muDFBzDguQalQ+E3kkCuX+TnYZXoOj0Mu0PFn9QeAc="
+          }
+        },
+        {
+          "name": "Alwan Quran",
+          "streams": {
+            "HD": "HZ2:33uxKfQJhlhBYnR8kpB7Aq4t8BRh4q54+I+ki05w74rhJo80vtpKouHsAsnvY55qGLWWZJx5n7wcAyFEUUibdCt8ogMOL5SrIc/1ADl9H4zOOKZW3hkVrUlMo24="
+          }
+        },
+        {
+          "name": "Alwan Turkey",
+          "streams": {
+            "HD": "HZ2:5oG6vBC2f77BonJ8kv8R6SO9Y6jQzfVfWJO5TlZwPlp9D69t9oV/tAd/dfas0eKWb/01XzFa9BYDcvmW1g8fyVBOBR6BhCx/UpdY9g+Vs3SlQD4bOuZFondMQNE="
+          }
+        }
+      ]
     }
   ],
   "movies": [],
@@ -171,11 +492,5 @@
       ]
     }
   ],
-  "matches": [],
-  "xtream": {
-    "enabled": true,
-    "url": "http://tanbieh.com:80",
-    "username": "110366811170D",
-    "password": "162411098190gH"
-  }
+  "matches": []
 }
