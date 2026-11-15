@@ -21,7 +21,6 @@
       "channels": [
         {
           "name": "beIN Sports 1",
-          "logo": "https://i.postimg.cc/jd1CxQWM/ezgif-4-9b2f2bdb9d.png",
           "streams": {
             "4K": [
               "HZ2:qmbpRqs5ssitA00aGDWT9A7KSjb+B8PBFec1JzDHy10iRDbgG2h2SUcifl2KvODl5prEEZykedoSRWzZXTN77srnPo/0XSL4N9LJ95ZR+rP9yHxYE6pmPT4d3HY=",
@@ -36,7 +35,6 @@
         },
         {
           "name": "beIN Sports 2",
-          "logo": "https://i.postimg.cc/JhPf8K0n/ezgif-4-ea9735e79e.png",
           "streams": {
             "4K": "HZ2:zG2yNRKOG6inI3ZzJKZVqhhzcg9xngQs6E8S4GX9F9aShTo23piruviS07BiEDSn4D+7TyBsO1K/lsNErutz1oVLbLeG6le5ovzP2ZXyuT2TSg7sRylgbkKFWQc=",
             "HD": [
@@ -48,7 +46,6 @@
         },
         {
           "name": "beIN Sports 3",
-          "logo": "https://i.postimg.cc/7YRcKbcC/ezgif-4-c4a8973585.png",
           "streams": {
             "4K": "HZ2:/YH3xAEDCIgdyEPTEKlLyuW5elRt+yL/lSM5hLzTRYgEFCU4r+ITtOIL2cvFRZDYWTe3WO27PiTHvGUdOG5EPtX1Ipw3ZiEpnXcTMOe4HnGtFawTanW5DIb+tbc=",
             "HD": [
@@ -60,7 +57,6 @@
         },
         {
           "name": "beIN Sports 4",
-          "logo": "https://i.postimg.cc/BtfFvTbL/ezgif-4-fb431a65d2.png",
           "streams": {
             "4K": "HZ2:IT30zvnN5TesTsZfY20h+As2JgjtV2Gnq1ceCx+q/tT+SEevXgcDAmSiKjTf6z2lTRL6iAxXpQk7zy601MF67C0sqkwKIZHGSmqwSdEwtRvT2FlxdxKgcZGYhNs=",
             "HD": [
@@ -72,7 +68,6 @@
         },
         {
           "name": "beIN Sports 5",
-          "logo": "https://i.postimg.cc/tJj4Gz2Y/ezgif-4-d05f5f6b4f.png",
           "streams": {
             "4K": "HZ2:e5AiQEzyMPZwNQ1ItxivPe3DaVRlT13FB8IBEx3axazt/e4sE4nXESPvV3qBl1qEBgmkQu59ZnYLIM0RtCCeMqzerX+OCNY/eyMLzSWeaL1Ga9ROwB1+qHvLtIM=",
             "HD": [
@@ -84,7 +79,6 @@
         },
         {
           "name": "beIN Sports 6",
-          "logo": "https://i.postimg.cc/fbY4QQFf/ezgif-4-acc96c17d3.png",
           "streams": {
             "4K": "HZ2:DbexLdbr+Nu6CqLwuUlUPT1A4NMEBdJNF5gBItN6ClXBXgT1SY2IeYap53/oOR+u4Dg8nXRR+wBkADJia2xP08m7SUFnDGW4TLtTUU77hkPrzsD/gZ/7DpsOCO8=",
             "HD": [
@@ -96,7 +90,6 @@
         },
         {
           "name": "beIN Sports 7",
-          "logo": "https://i.postimg.cc/5ydScDhL/ezgif-4-4d554b1eb1.png",
           "streams": {
             "4K": "HZ2:RSsUfJozJ9XEKIixFc/F3u9ABKx9voSE0+OZq4LXO6U+3veX8SeE+9zV/MbjGaJdT/LGwYEFguSaPW8U/mMICAs5+hbPwuG2dUeiYJ7JK/LUXT0el8hIGWpYbEg=",
             "HD": [
@@ -108,7 +101,6 @@
         },
         {
           "name": "beIN Sports 8",
-          "logo": "https://i.postimg.cc/L6d27vnS/ezgif-4-6ae6a68537.png",
           "streams": {
             "4K": "HZ2:BUGwUrh78aTvKE59Qb3tgjft8hIKlVRSRs8l5wv5ImnzsKqx3xFkj33WBh1v+8NQMMikItztNkg7+HnGSZ5lQ5OGMz0OBj+119GQwZxe+Jd1Pd0QSUbG7xJ1c64=",
             "HD": [
@@ -120,7 +112,6 @@
         },
         {
           "name": "beIN Sports 9",
-          "logo": "https://i.postimg.cc/sgqc9BTT/ezgif-4-bb8ff83628.png",
           "streams": {
             "4K": "HZ2:SQKillnmF816kQKZdlEb30l0bJI6E5KzbVI+QuTsPtFUdTZmP6htw5yHsU4zi1Y9/KP+UdMS2S1T5ylpL856QH49Z9H/hCaqg4Nb7ufxyFxzYd93+Mtp1lEDFNw=",
             "HD": [
@@ -133,7 +124,7 @@
       ]
     },
     {
-      "name": "Horizon Intermediate",
+      "name": "Entertainment from HorizonTV",
       "logo": "asset:he_logo_{n}.png",
       "overlay": {
         "url": "asset:he_{n}.png",
