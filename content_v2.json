@@ -7,8 +7,8 @@
     "apkUrl": "",
     "notes": "",
     "com.horizon.tv": {
-      "version": 271,
-      "minVersion": 271,
+      "version": 273,
+      "minVersion": 273,
       "apkUrl": "https://github.com/Mqj20/horizon-data/releases/download/apk-tv/HorizonTV.apk",
       "notes": "نسخة جديدة جاهزة، ثبّتها للمتابعة."
     },
