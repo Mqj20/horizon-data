@@ -20,105 +20,71 @@
       },
       "channels": [
         {
-          "name": "beIN Sports 1",
+          "name": "Horizon Sport 1",
           "streams": {
-            "4K": [
-              "HZ2:qmbpRqs5ssitA00aGDWT9A7KSjb+B8PBFec1JzDHy10iRDbgG2h2SUcifl2KvODl5prEEZykedoSRWzZXTN77srnPo/0XSL4N9LJ95ZR+rP9yHxYE6pmPT4d3HY=",
-              "HZ2:Evq5Iexm9d4LhqB0Bjlq1eeyRqTajery0M89vlpfk/fxyJmZLfAimRt8199O6cV8tMazvDrqJXDrh5nv9ooG16TrDnWkPYjoncwo53QfJO7SkE7cSSGCd6XaTkNM"
-            ],
-            "HD": [
-              "HZ2:xIjS8biNIDjiya7yKzueYhKTeExLpLswGmLhxixcM4pRQcqmtWyF94u4iwcxQchDa8RuBpiF02Hz7j5DYvTBQCy3F9gJZlWK/QyyDIZwiDwCOVes4bsv7D7AkxY=",
-              "HZ2:P5px2rW3MRIszKNId+khzZmslLwGpI/uDX0ai/Ilcsg0OghEgi/mU++cVbEg6BfDgE+fkVITengSvBr9Kk5X6vieLi7lGV41SO1Ygdug9k7ZJeRHEavvRQLzjdME"
-            ],
-            "SD": "HZ2:AQL871TYNk8K+LeY9gk0BPmv3K3UIk4W77fKHx2hvNOaC70vMPE2SbUkDN/NN8GJGf9xZ6PMvPeyyYqVSsb1amC4gGpzk0d+5NJBRGRoN5do61buc3A0zY3VF7Py"
+            "4K": "HZ2:nUNrWT+hHkMT4mhRqI6FKxcFWGDh0ku7ftXg+VpfiJ0XmHNQWQQChj3NrGdb7vISxhQSMlzyiIx/484rqclC5kylChmzcFowrAC46s2gL7jUZP3gJU3y",
+            "HD": "HZ2:apuQ3+xwV9kvZn87wAOzK6jZYrMMoVSFfnPkb9Q+tQ6T6kvAz37WFsRxIV3MxCXWE8TtJ8yax6MsTCqy610FYm8OqePIMUDhpxlzZBHS80vm+wKfOelP",
+            "SD": "HZ2:GoI//uulKSF0OXTURJN6tEre3ac5UNsoDxN1JDm0wu2fjJ7ZZQe+ZomCb9+g3vm277mPVC68+zkm+s72NTUOTXgglT6iAiozGdkJnuRyP1/s9C5tfxSM"
           }
         },
         {
-          "name": "beIN Sports 2",
+          "name": "Horizon Sport 2",
           "streams": {
-            "4K": "HZ2:zG2yNRKOG6inI3ZzJKZVqhhzcg9xngQs6E8S4GX9F9aShTo23piruviS07BiEDSn4D+7TyBsO1K/lsNErutz1oVLbLeG6le5ovzP2ZXyuT2TSg7sRylgbkKFWQc=",
-            "HD": [
-              "HZ2:lVfoZTQSyOKZuaA7RIO3PpQNnmMbmKvzizYyqCIwf5Yhr1vwOxip70RNXz6yb8uP38nTfSAwG8i6BqVJg80dm0va3kggDI15CGcTKZI3F4qxcjm7xW4qFuHf0Ec=",
-              "HZ2:wLV1u8gB84Ru2P90I/YiGah5dLconIDaUZQE+8qHMPidoxGsHwoK6pOUqTA98Ee8OixmsA38hsTAHzcQLXQ47EqW+oIBDNZurUJz/OadVujb43yny65UpVBY6ovU"
-            ],
-            "SD": "HZ2:jOST2pJFre79rW6xyLYqcOKeEbw1MdjCS8Ysh7TMNdeaT8CIUMaNogU17Fm0dIKI9PgofY2DDM6jecE8uHS7Nj55ezoXcEButKk3y2mj+l/imB6sef3/JJpFpxgb"
+            "4K": "HZ2:+yQLr90pTcNgdcnBUngdUx2tZDR2U3Fd+gTk4O75RRZSLoQgQNPhtrar6WVHs63frQuL02GmJaz1WLorecSI4AbC4uPB6aGKT556ps6L/AJccUDq7kUL",
+            "HD": "HZ2:RlohSl7g8ocrYu+rc+M4lBqq1iNhWCeTyVO3xyI9i2G3oceb6w/d9NiKOm9la6DX5Um8jL0buoYNRScOwgQe7/G0TfOj0jXkJ5g7mX+NiMAmx7P8zcrF",
+            "SD": "HZ2:dPpiGOwxtYtqrmB4TYqSgDX5zy7yEJEHMcjqA5aeqIH4HbtsfiVN5lItJbykE50oPxhIfzLEO5UPHp5RMhbyFcpQZYp1J3gZk5OxBxnprc6RZPFU5CX/"
           }
         },
         {
-          "name": "beIN Sports 3",
+          "name": "Horizon Sport 3",
           "streams": {
-            "4K": "HZ2:/YH3xAEDCIgdyEPTEKlLyuW5elRt+yL/lSM5hLzTRYgEFCU4r+ITtOIL2cvFRZDYWTe3WO27PiTHvGUdOG5EPtX1Ipw3ZiEpnXcTMOe4HnGtFawTanW5DIb+tbc=",
-            "HD": [
-              "HZ2:fF6pcgztvIqsuBx48ovQKYg0ycLtcfbZcDWk+zndSpdZju49hElbvdxnQ1orO14r7MhFMItp9Pb+brM1IqArI2vk66MTvDuGNkZ46pTqYRLxEVm8iTyw7UI9lC0=",
-              "HZ2:6V3v3uBRa+QVgdjeVW9hZTd0LNc9R3058FgPd6UnTQsjzjfPoZvXi0sPoIK4W7RiV4j7eXWPeo0vNhXynLcu6vi2Qs5ESa4W+JiGWBG/eUKU56oDZc59Ci8KssDE"
-            ],
-            "SD": "HZ2:5w8JVvqjH5e1Z/wxSNNFdrPtn66Iq7YUpfu9pivRAkfGMP4s4A00AGgvp/Y0khqD9gpJXMI9OPGq5kGZaUrP6RUliqJeOIXOfd6zPQsWEl+U/+HqPQZXJG+eEA03"
+            "4K": "HZ2:3MS9QNWKts7dAnbc7mMSnpZbIPuwiksII8ZMotW1fcfJBfutCKjn29frxM1Ywc6McsHlyVw+obMnkwF1OqLJc3yDmRAOAQJHbG1NN4yxj5DsQnVkHvte",
+            "HD": "HZ2:x8jltrMiW5MZ9bixE+ezWwQ7+1dsPq9ToU867vxPTyF/FoP+h3A5VTdWaDVc9UcnsyQQU8YMBHEh2RPX9Ym7UAMRaJn7+XJAL/78M/Vwv7palZJfO/tN",
+            "SD": "HZ2:/EZfecphnv4C3C9XXnMRGqF1/4SxVEOBN21/QVuYaKRsRcChDr4LMs49eLOh4ApJ+XJhYav8Uv70A/WFwzUOtkOqEP92tlka6sQ3UK/ym+atiXbxz4GZ"
           }
         },
         {
-          "name": "beIN Sports 4",
+          "name": "Horizon Sport 4",
           "streams": {
-            "4K": "HZ2:IT30zvnN5TesTsZfY20h+As2JgjtV2Gnq1ceCx+q/tT+SEevXgcDAmSiKjTf6z2lTRL6iAxXpQk7zy601MF67C0sqkwKIZHGSmqwSdEwtRvT2FlxdxKgcZGYhNs=",
-            "HD": [
-              "HZ2:Yjkd582jeEtofBB21cFEI1PGsuVbeytg1MHDTEDkeKke8m1fojSacbBzeYk/2wi3qQWf/UzIpOrpObQW9xeme+86x0VeCbvtiH0Osz9NwompevuQoJUPu+O/GJY=",
-              "HZ2:4cPP/B6GqfrHLp7zFIiYShMLcElp7pbFSkf7inrfBCGGiuzeaBLv6QHfxkJ37MdLpKDoc+Ug3+fZ39c+1Q2607vvGpIjdrPWu85gppvxg6KfJTxTsN2OQqNBrCcu"
-            ],
-            "SD": "HZ2:1f4dApyf5nLmmvHqHh2nD2rZCZCcX8UlLAxMddD5vTjtgPzWZIpDM8ikMmtqI2XmhzuyYOBsSBukpy0poHq8BxivEFXn+5Ssqd6chN9oAtK6Z5Rr5tJopZIZva+n"
+            "4K": "HZ2:9pIuifwxN+fN8vIslamKYJKR1z+reTFO7/sLEvwa/vZ2ihVDligOLXaDvWldGbKQedlF71RfX80UDvPMbIpp9ZhbFBJOG4wbUtkRRjciV53CnJam+R/e",
+            "HD": "HZ2:mQlDtnRpfyEH6f8Ee3j5QchzcRRCXHj23fj5MkG4ipRrhNT/7pRmYs99qz9dJ+/qM3r9wzMCB6r7m5VdAPFhsi4gW4xUaZrimoD/xsCKwaZdsp1n8cuX",
+            "SD": "HZ2:Ukvdawlrts8/Sh6KfxrmwQkQswOWUO4prptkv7JOq4HE7ti4a7+Wd1IS3bKiazduk3bOn1PD/ZZwpgr3UJPZlNh4XplJzZiyKo0vQeIxZXZayzjGaw/b"
           }
         },
         {
-          "name": "beIN Sports 5",
+          "name": "Horizon Sport 5",
           "streams": {
-            "4K": "HZ2:e5AiQEzyMPZwNQ1ItxivPe3DaVRlT13FB8IBEx3axazt/e4sE4nXESPvV3qBl1qEBgmkQu59ZnYLIM0RtCCeMqzerX+OCNY/eyMLzSWeaL1Ga9ROwB1+qHvLtIM=",
-            "HD": [
-              "HZ2:lZoaPHZUPn1LJP61TVdbqIX7iElGlNR2rGnh9liy/gLRKnfW45UOTHlp/U+uYFJpAj6v3P3A8lyf41RMNe1+7D7jvLoFevBSU+qVYqj3afHVbLH3wxvq06rcnH0=",
-              "HZ2:YmlOGhQFH0g3m9ydrYYaVO11l70Kzeq9bKwclkA/NyGss6/y3RgFAWRuATXB0CaYucvJZZW29fSxrEc9fI+4hKnOSnkpDquADVa9ktzZM5afZk+btXHUu7DGqG8N"
-            ],
-            "SD": "HZ2:dP4XO9Wb8Ih/uuq+ZsaRHqa0Vr0RvDQTedjtDhMVNsdCqTDt/ZCVw0vnAAgigV2IacwyMgrLG/dfMlitSfL4OgaIHo0R1Dy6y45F/rLu4f2X9i66IRSEIPl5UuuI"
+            "4K": "HZ2:rGkP8M+ZWO683+14faxQNQ7J/uuqPNJvAIxkTPU97hI3ijF56w2HRF0sc7sbo9jcNQVfhUdPL5I9Oqm3co28S+8te0JA/mFBXVv+E2UPNxTL54nQIYPX",
+            "HD": "HZ2:j5uUqnJdb2LBzAr52YY9c0dfJgcKXcqIx7f2f3PHtzmzHiBoczoyZeEIuViLZWeXlPcH7/gyhbOz64gBadMQNpcZ04J/Ts4pHU3axxtitanFUgQNmIdX",
+            "SD": "HZ2:EvOsAUFMUICqBo35/UNBKwAqWAgCcAy9d5m7SBteIfJxUc9uT0rs5lJuavvDV3++BMcpRaQasK1LyLhcMzXOEMXEQ2DY0tbz1XxZo0Pj53Oro5ovskaA"
           }
         },
         {
-          "name": "beIN Sports 6",
+          "name": "Horizon Sport 6",
           "streams": {
-            "4K": "HZ2:DbexLdbr+Nu6CqLwuUlUPT1A4NMEBdJNF5gBItN6ClXBXgT1SY2IeYap53/oOR+u4Dg8nXRR+wBkADJia2xP08m7SUFnDGW4TLtTUU77hkPrzsD/gZ/7DpsOCO8=",
-            "HD": [
-              "HZ2:pZKkbWtyTrLjJQj0cyGTqyulNjWb23sI82barsatr50C9ioi+8RV4JcVSE1cvNXWO7Y+RRAA13733aLKtRO6e+pbC5+r/OQ/froqarFlNSu2JYoCueWjf32ZmbE=",
-              "HZ2:dmOXYJg2Cq0P0exaJhimLBWKR1e5rhE3Iavo/FqFP+ne8yjpdihIDyfP+7+QMGlpUHEdJOmlMqSvZuR6NoifuG3g9QCz0MPaoD19hutzmBpHCTXQ+hag6uSUmDfT"
-            ],
-            "SD": "HZ2:K+jTfMAYbAvpgQDnwOtf73SakpcbZWBCfJ7rHPkUWVqXfkbdrtkisRLZGgYAXiaJOcz6d/3SKDbiL9ih34RSWOm8HN4Ba3tKC5ZNiaGizXY051Ek0McCzIzpV4qi"
+            "4K": "HZ2:KMYBRRZFKaaNlzHvDI/sruNhno53Pn8xpQM9Awgkx7MYe9lDvpBuVufACZy/+PVKoB1LXNQZ+JLz0yd3wYv6VGPsuJNDf6WwgH0paZdhvOQarPCa/lm7",
+            "HD": "HZ2:O5IUweCFfPKH43tNAkp+RjrF3PwWr4dtdsuiLEqk8TCQgJT6vc2IgFMJyj0JlmZ9LTr0H052j0M8ffLMEAoh72BCPDXblJ2T/0aehUlxImiV12dKtaS2",
+            "SD": "HZ2:Nj92KUoe3FJEj4prdOcvJM2wHsbhPO1zzONo7aPZPn71cyn/2YOXNPBO6XyhqFIyQFPga/lOrYSSPJlQG+1V1/Tv7TXg5vKMQOuwuAHPyU9A67gIIu84"
           }
         },
         {
-          "name": "beIN Sports 7",
+          "name": "Horizon Sport 7",
           "streams": {
-            "4K": "HZ2:RSsUfJozJ9XEKIixFc/F3u9ABKx9voSE0+OZq4LXO6U+3veX8SeE+9zV/MbjGaJdT/LGwYEFguSaPW8U/mMICAs5+hbPwuG2dUeiYJ7JK/LUXT0el8hIGWpYbEg=",
-            "HD": [
-              "HZ2:+404NmH3IWdUd2UFuN37KLIJzsT2xA1ecvt//otOka5SS112f2EvvZvd+ELvcGWKm5KLuxR/pU6iNNKbbLGBDFxIfNEgw6195+OETEh0+dupXgj3hxPnbgK6vy8=",
-              "HZ2:CKZ5T7yLp9RCPYp1TeWpoItvfmPzp6fB02vcmMgC2mqHW/6OEuH5gMYdwOjq6yst1vU56qKFcEmPnB0OpKNVeOfWOl57Dfy3FU3tLcIJ2JR/pYWF7HboqSJrHHww"
-            ],
-            "SD": "HZ2:I7P5MS+xgBVppub2KSNS21ljL1vE8hGY8qsh0iUWkR00vmxC4PiPHh+PiVThMPSSSFV7wSN/nsCpKfDruDeDYnsogKANC8v96JPSAt2Eq6/KywJyT1bYIEtVNvcl"
+            "4K": "HZ2:AR12xyw+hZYmSZmzaQ5w59VuWOn05s7uora62nLEcnGlnWB4A7/shyZdEzXVAXRTgutmW4JkIaDF/SSJ+WKPVtqy1QyGKxnjAjwQ6oQJzdY9NYB+iOoP",
+            "HD": "HZ2:lN6r+tx0wAgdDoEMI3T33Af6Ham0DIhNrUqy0nyWQkAwY9/Yv0Jj/T0H5tFAms/ex95ot5gp02Xy2HUgT2dp2C6f6UuhWNyIn+AXNlrq8u6OsZrRSNly",
+            "SD": "HZ2:ub6LieGzRaQOQdKxcOAh/IKd5UElr2sAI9zMoYeEk89B3x4dpTjUrP8I9O6l4z8wUhIj7lJyKQWDZ0gCvKBgHLwfHzrB/1jjKJNpFZtI1ivlXD4XaQVb"
           }
         },
         {
-          "name": "beIN Sports 8",
+          "name": "Horizon Sport 8",
           "streams": {
-            "4K": "HZ2:BUGwUrh78aTvKE59Qb3tgjft8hIKlVRSRs8l5wv5ImnzsKqx3xFkj33WBh1v+8NQMMikItztNkg7+HnGSZ5lQ5OGMz0OBj+119GQwZxe+Jd1Pd0QSUbG7xJ1c64=",
-            "HD": [
-              "HZ2:iOmVJ6Fd4HE4eRFiLKOgoHCkdieLHTi2pc4E+ue43MR3lFwQtM5u98L/4pSgNfSKz+PYS6hZOiKB5gBo9xpfWwwU8bAW3FK2oL/zpwMYjN1bVPBVtwt+KZu/QHE=",
-              "HZ2:OTACUs2sdbDKdVeU0Lh18QqZF5L1hjrHZWUzAzXYotOdaWPNIJNZjXvtQ0UouRysOdKOAB4JsrI5BeCEVTe4YdtlIrWZD+T5bU2REycMP6Q7x98YXMhFIw84PImv"
-            ],
-            "SD": "HZ2:Q4p+60QiGUk27LTQwVGGf9YgnGVcxiK+IjJnnVOsI4nmx396XHOyHs1sMAVJrrMhsv17EgTXJuB6cDt4CIif69Ljkk5QQGsyssFrA7TxFbksZIoSThMbHvtoF32R"
+            "HD": "HZ2:wstrPLYMff+Q7+vmmN4UmKAHjUsZgjXXVuOk5HlP6ffrhKqnz8UeD2X4//KIvZI5psp8COyrlcdllf17Odx6N7CQSyHe9sH1EzwaZL7vSAuq5HnC1Voq"
           }
         },
         {
-          "name": "beIN Sports 9",
+          "name": "Horizon Sport 9",
           "streams": {
-            "4K": "HZ2:SQKillnmF816kQKZdlEb30l0bJI6E5KzbVI+QuTsPtFUdTZmP6htw5yHsU4zi1Y9/KP+UdMS2S1T5ylpL856QH49Z9H/hCaqg4Nb7ufxyFxzYd93+Mtp1lEDFNw=",
-            "HD": [
-              "HZ2:T5HTfNRXRal3N3FqVOCd+4x6XffW6y0/fDGykZlE+/YO1hM3yZOIGgL24f5u/Iu3hviT3lfVRUu2jC5tP9dFzB/RS3xG0opk8i73Wf415mlx05Cbh/kwE66zqLs=",
-              "HZ2:MNY7RsP6L4Xx1nUkPx2Eb6JSgzXpFvLJYRPg3tbR+DOTSrasmxyE9yhqns/yPE/Tz3FhvOjCE0eiPy8kDDX+XNxRf+eeJkuvNepnjmj2ueRGK7Uj+Y/INEDvB2Q9"
-            ],
-            "SD": "HZ2:7jG9EqCqeD6IKrcDaPm81nN5mR5qEo3sRWzWJjzloXOMaeN6tmfRYZX20rpX05E1TzkM2KHsxbzOwd4oJ5gW4UU2QihLQn4hK1hBQxx3K6iOYqneL0VEMZKL1SCi"
+            "HD": "HZ2:nFqzlUg7yya5qUa63l4067iP/AwYK3zby4BMQT7Vd9cKWyljd0YtCrG1HPh/p9kNlPX5hDFF+bqi3paq1KUjdkdOBPOYOpOxQmS4XeyPuHD1yRi/uvHP"
           }
         }
       ]
@@ -265,38 +231,23 @@
       "name": "TOD",
       "channels": [
         {
-          "name": "TOD 1",
-          "logo": "https://ui-avatars.com/api/?name=TOD+1&size=256&background=5b2c91&color=ffffff&bold=true&rounded=true&format=png",
+          "name": "وقت الحدث 1",
+          "logo": "https://ui-avatars.com/api/?name=%D9%88%D9%82%D8%AA%20%D8%A7%D9%84%D8%AD%D8%AF%D8%AB%201&size=256&background=5b2c91&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {}
         },
         {
-          "name": "TOD 2",
-          "logo": "https://ui-avatars.com/api/?name=TOD+2&size=256&background=5b2c91&color=ffffff&bold=true&rounded=true&format=png",
+          "name": "وقت الحدث 2",
+          "logo": "https://ui-avatars.com/api/?name=%D9%88%D9%82%D8%AA%20%D8%A7%D9%84%D8%AD%D8%AF%D8%AB%202&size=256&background=5b2c91&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {}
         },
         {
-          "name": "TOD 3",
-          "logo": "https://ui-avatars.com/api/?name=TOD+3&size=256&background=5b2c91&color=ffffff&bold=true&rounded=true&format=png",
+          "name": "وقت الحدث 3",
+          "logo": "https://ui-avatars.com/api/?name=%D9%88%D9%82%D8%AA%20%D8%A7%D9%84%D8%AD%D8%AF%D8%AB%203&size=256&background=5b2c91&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {}
         },
         {
-          "name": "TOD 4",
-          "logo": "https://ui-avatars.com/api/?name=TOD+4&size=256&background=5b2c91&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {}
-        },
-        {
-          "name": "TOD 5",
-          "logo": "https://ui-avatars.com/api/?name=TOD+5&size=256&background=5b2c91&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {}
-        },
-        {
-          "name": "TOD 6",
-          "logo": "https://ui-avatars.com/api/?name=TOD+6&size=256&background=5b2c91&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {}
-        },
-        {
-          "name": "TOD 7",
-          "logo": "https://ui-avatars.com/api/?name=TOD+7&size=256&background=5b2c91&color=ffffff&bold=true&rounded=true&format=png",
+          "name": "وقت الحدث 4",
+          "logo": "https://ui-avatars.com/api/?name=%D9%88%D9%82%D8%AA%20%D8%A7%D9%84%D8%AD%D8%AF%D8%AB%204&size=256&background=5b2c91&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {}
         }
       ]
@@ -532,422 +483,167 @@
       "name": "Kurd Sport",
       "channels": [
         {
-          "name": "ARO SPORT HD ◉",
-          "logo": "https://logo.0964750.xyz/logo/logos/arosport.png",
+          "name": "DUHOK SPORT",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:qH6TVQF7OQ67/VKY+aJbQxCEB+ihCcG6FaUCS7mpjXV6Er8M/KHrsAGi+0lH3k3MWokWj/GwcryoWIH1EhIuGo3JIum7dYQZMRMVwx8OuXTFF9w5Gaq8uYcq9iUvRjs="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:qH6TVQF7OQ67/VKY+aJbQxCEB+ihCcG6FaUCS7mpjXV6Er8M/KHrsAGi+0lH3k3MWokWj/GwcryoWIH1EhIuGo3JIum7dYQZMRMVwx8OuXTFF9w5Gaq8uYcq9iUvRjs="
-            },
-            "S1": {
-              "HD": "HZ2:FMOLNNdyvqCZadHMKIrmmMsz93pqaGPtWnyvJLPQh0wi/8pKzaSAYmSjR/5C/8yqWNb89g7XmQF29QHpYD0UH3hdCsBE/l06B3Kb3ED3BXsMafXQANcajw=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:mPLKxC77xEzyJ9fb9dfG/GMy3fe/zHKT/Z8KM5dXn6O/2ZHOtgZ7qgX1uYw3l+fiEljUOIeFBkOYtqvQOjKe5A+LQn5DhtfuGE98sRzGZAwDHDcHQWt1foJYvI+3cVzM6C8=",
+            "Server Two": "HZ2:2T6oPRpwktxPCiS/VOtCBpXSoOTrf/10AdGukJwTge+oPi5XYMUWbq4MlMwYUU/n+FP6Yk0TgUn3YXLv5RGdmnlTxepqflGVh4CyzqK8rFlDh9JXBDul"
+          }
         },
         {
-          "name": "ASO SPORT HD ◉",
-          "logo": "https://logo.0964750.xyz/logo/logos/asosport.png",
+          "name": "4 SPORT",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:yxuz8D4aIdfEV/2KZeSv6u6h+ft47Mo+AbU0zbL7shymJoHIT/NKULc+i9v+aDnbOu1iEdXke0vZ4M97Zakdn2rdC7fLH543Yaf1FZUm/7EUSoK9+/1w3xbbp1A70uI="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:yxuz8D4aIdfEV/2KZeSv6u6h+ft47Mo+AbU0zbL7shymJoHIT/NKULc+i9v+aDnbOu1iEdXke0vZ4M97Zakdn2rdC7fLH543Yaf1FZUm/7EUSoK9+/1w3xbbp1A70uI="
-            },
-            "S1": {
-              "HD": "HZ2:fy79sTdd5GxCjpXwkwPABYJXmEjMPx8kI1UePpnvKR/sozwl3nuEAUyy2rznmdDWlJVimzA2mrGgWnhR61TJQN0Og4SZJyRRZpz69qaQTJslpEriO785SA=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:a1EQdP/8Obzs1A9dxyOtx9SPm/oem2VIXOVlyz7vBoTY4g2rcAZD1J2A5bHD/YEIhhnrtVMYYi0JGxMqguccqaAvmYnwj2U0sjfYHlsY4Tpvs7CQc5x3Kva3G33iDd2Nx2g="
+          }
         },
         {
-          "name": "4SPORT HD ◉",
-          "logo": "https://logo.0964750.xyz/logo/logos/4sport.png",
+          "name": "ARO SPORT",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:wK2S4zdtyfXNCiZ0fHrUQud0rZZgxVxaGumfxnjpm5ixYrfeQk+AiZELzpvkb2k2wdh6jHwavh3+Wc27f/IqPJ2zj8KnNAnH1awwlWbfkQjKPhgBJiKVxcL4SH5uzng="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:wK2S4zdtyfXNCiZ0fHrUQud0rZZgxVxaGumfxnjpm5ixYrfeQk+AiZELzpvkb2k2wdh6jHwavh3+Wc27f/IqPJ2zj8KnNAnH1awwlWbfkQjKPhgBJiKVxcL4SH5uzng="
-            },
-            "S1": {
-              "HD": "HZ2:bfegLmk6+/TH91CwfBSVM5fMcYXqDiGRaIhO6khBYAxNucTUmKEDUGuv6RmhtdvyFFv9cxlKbF3Xm+6nTlG5o39IbqRdPrbSWxBZa/FPROdxvcB+iKsFhQ=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:1JChktQy24bq416yBnnoqyfuZk2jNDaombwx6ZIXm+K1n2qgOFm6hSrKcCJ2umBXn1jJRzYQT0ajOtv9XfVN0hbskoZyl5l4lBiS3787wnkSY36ehQo44vWX4fjiRIHNm38="
+          }
         },
         {
-          "name": "SEE SPORT 1 ◉",
-          "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3211.png?85306",
+          "name": "ASO SPORT",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:ClQvAYctROuRjum+GZ0SgQxUhvIy9sP5HPcQPHpy/8lsrja9AbzxvEi2edUxyw+HtYIKiNYHCoED5jjESWqhMsWDYQIifhJi8hAdXSVQRpv1R8mfA0w1alkCYomEaUc="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:ClQvAYctROuRjum+GZ0SgQxUhvIy9sP5HPcQPHpy/8lsrja9AbzxvEi2edUxyw+HtYIKiNYHCoED5jjESWqhMsWDYQIifhJi8hAdXSVQRpv1R8mfA0w1alkCYomEaUc="
-            },
-            "S1": {
-              "HD": "HZ2:OVXFgOJvngaxfkhikRRStEPG+oGJCrNLdOtH4xJppMGHrca8IgeI4Mh+xewhkUOvVpOa0BXdNK7CFL1b7wz48s8pk9GoDnPg4tPytr145vmywI0dHoHwrA=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:9romBQHtueUezl0mOKVe97NR0h+nQucvdhzJZy1Ptb5Q5kwniMKVgBuFiQNcm3zXiVbw/K0zum5kv2YmBqqT9wghZsJJRub8ely+DZWhO64vO/M/lKehmqA1eVZtcMRudLc=",
+            "Server Two": "HZ2:hBLprW+jwQZziRrjmOs5NhmbTbJTk24iQZBBfFYiO8J+3lu9fWN+IslwWa2mODPbzfquKx6t6dzuegfYd3QHNoA7IkL0ilao/RKMrN5sfFrMqY4u8TNQ"
+          }
         },
         {
-          "name": "SEE SPORT 2 ◉",
-          "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7705.png?11944",
+          "name": "DASINYA SPORT",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:kZVsxTQYi35eHQqsVj/5xaBijDzsimbrCRXBq+gHjhjWCR0LVbevNTjZsMtxtS9NlShJBznUy3QfmdVB3DZg8bGKqYaRCN18cKo2+DSoNhS8BrxZMSbZKHTFWj8nW/0="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:kZVsxTQYi35eHQqsVj/5xaBijDzsimbrCRXBq+gHjhjWCR0LVbevNTjZsMtxtS9NlShJBznUy3QfmdVB3DZg8bGKqYaRCN18cKo2+DSoNhS8BrxZMSbZKHTFWj8nW/0="
-            },
-            "S1": {
-              "HD": "HZ2:K5o/h5ZgI+2VF1s/tb7y8A+XYYFhYqCuP4LH2OC5L6tqGwtqG6TV+8Srg2XCXR0JV4OuBQIV3S+Jv7TsI4YmJdxzh1EpsxFUmHw4DABS6oTd7+T2vN2FeA=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:RJvMxjYBz+sEFKvUbaI+cBgg2Z66KH9Cgzvul/ztydGbiwcKLX10rdvvFsFu1650oWjYO9kwmVZd5/BfB4CuetLuFgcga2Fg/iSdOUvsTpklkys9Obff90PAJbq1jd2M0RM=",
+            "Server Two": "HZ2:OTr3c9KqWrJJHYqfAW8DvXoVc23VfO43PD55tK2WpOuuNPY8rA+3WJL4UeyC2Fww9uIs4nnx+RNqfzyFNLr4mtWsgwaDWuEgptDl3e3NSvCQ1A1Z/aFx"
+          }
         },
         {
-          "name": "SEE SPORT 3 ◉",
-          "logo": "d",
+          "name": "DELAL SPORT",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:43z3KdtBSWIVT01wiazilJengrqqNslKRlfYvhGntD20e1AKDKXqmbylvM1qUmKEHZR6zlfyK7ewNcGZa/JnS6P+EGqWpCCgXqS53lJqiiF2yr6nTmwX7Wcx9UFulhE="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:43z3KdtBSWIVT01wiazilJengrqqNslKRlfYvhGntD20e1AKDKXqmbylvM1qUmKEHZR6zlfyK7ewNcGZa/JnS6P+EGqWpCCgXqS53lJqiiF2yr6nTmwX7Wcx9UFulhE="
-            },
-            "S1": {
-              "HD": "HZ2:QJAII1YtDzq/m7JO++3+LA34xWxiyRkLCh0jS6p3ohKbf8fFTnV14J8ws7/ziVNPduZWaE1OgBbh2VQV3nJENVQkIxaA8nv42bWNuwaac+XVO1bCufJFRQ=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:pxHshMl0JdtrSxqYVwEqakNDMd/x/xkxRFCXoJ3GWfjAuuNRl17JXZsmKbPgwbRfmWV+qSlt0inJ0soeinlz9aooH9u+JaPAqDb6Rwf6Rg+OqLmTgGyUuSJqt5+PCbHQrBQ="
+          }
         },
         {
-          "name": "ASTERA SPORT HD ◉",
-          "logo": "http://logo.0964750.xyz/logo/asterasport.fw.png",
+          "name": "KURDISTAN SPORT",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:25p/7qsT+m6KMewPLwKDDLu53r80As+DYW9xVvcWuuW+9JA4UpxGjxJyVWtCiJvoja0kT6Wv9ZzcYQTY+9ofW/AyfTZUE0vv0SBG0ZdkWGXe5atMxrKzhjbyB7U9oY4="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:25p/7qsT+m6KMewPLwKDDLu53r80As+DYW9xVvcWuuW+9JA4UpxGjxJyVWtCiJvoja0kT6Wv9ZzcYQTY+9ofW/AyfTZUE0vv0SBG0ZdkWGXe5atMxrKzhjbyB7U9oY4="
-            },
-            "S1": {
-              "HD": "HZ2:+DCAjK2rdiUAwSA86HY36nCISocjcj7Foin7k9YaGgmuhyCKD19rKetfh9lgNtpOXngXoXmztVRDy+tAE9tAOxYgEqA+AIcIwgRbJ3sTgH5it7eNxbBfFA=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:MB2YEpgtYPwCmb4riO9GC/KqWNXn8Ro112kGop68NuopacDS7DvW05VSKL0T1qWfeXEDVc7wxqtlBmefuktJfCsZhrwgE03iXqU7CVewbg1ADMYxL36BeAXJAyFEz4HdEJI="
+          }
         },
         {
-          "name": "AVA SPORT HD ◉",
-          "logo": "https://logo.0964750.xyz/logo/logos/PicsArt_02-02-01.14.03.png",
+          "name": "LD SPORT 1",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:jR4K/0BNpO0olZKZWET15Lob4UMF+4eRfUMd9mUGtJV5cDv/aY9cFml/XNpt54l27DYshrIXdiA4c+YA8TdK/2S7QQjDnr9b+Blpo2hTIuD0aukTHkVJcdyxWM7Z+Eg="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:jR4K/0BNpO0olZKZWET15Lob4UMF+4eRfUMd9mUGtJV5cDv/aY9cFml/XNpt54l27DYshrIXdiA4c+YA8TdK/2S7QQjDnr9b+Blpo2hTIuD0aukTHkVJcdyxWM7Z+Eg="
-            },
-            "S1": {
-              "HD": "HZ2:ouTQyCwyi4f6Oxkxy13F/98uKSpJIVN8so1aCK89A1OhrFGpN9D/jvGg1PdrE1sft2bQCnsrQ/P4F6sjhgDIXtZ+pPd2b/Z+GlmRXd0clnEfGkMxxJUg3w=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:YTm2+tglIT7UDeltVounUjV8lWdTkVAx3Bio2K/097f6/MfFrNkWp/OV6AlXe2hU1QVWbSfbGy/bmtkUx4zekPhUFlaPk9Cb9omSuyIPHYGRsIoXpz+Sm1uuy4GzPofLB/w=",
+            "Server Two": "HZ2:n4mpOyxmAN4U0YF8e/qE4gKbINMtwn6saOn+1EUuq3uo/N9FctUBiMIFwO0fGDXE0C/U+E2mxLlZ3Kn0OIqtwZB7y6g3vRhNVjs/Ka1e2KMJSXsb+w99"
+          }
         },
         {
-          "name": "DELAL SPORT HD ◉",
-          "logo": "https://i.ibb.co/C3SKdbq4/392625-delal-sport-hd.png",
+          "name": "LD SPORT CHEK",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:U4U8Ldo5DtGUXshetzqu9PlH5oKJSyqc9t71MYBSLciJC0evv59BFfnlNV4yro6Mp/jxoKeZVz5P5fsAoliRGYriSyBouba4bGsOBeqsN4feFtuXyVaMCWQ6Ohvpclg="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:U4U8Ldo5DtGUXshetzqu9PlH5oKJSyqc9t71MYBSLciJC0evv59BFfnlNV4yro6Mp/jxoKeZVz5P5fsAoliRGYriSyBouba4bGsOBeqsN4feFtuXyVaMCWQ6Ohvpclg="
-            },
-            "S1": {
-              "HD": "HZ2:hjO31Zx8911uiDxd3oP2HumVNphZescIaKtdG0pNr9UvQJ0IUFjlFBb85Tc7XgBSZiJo/Tq3BQyMmsFjpa8mPfZVDouF0snOh8Ia6V29bBTUEXhCoDm+zg=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:12k7RGRnceoLY3QyGOADmfhDiMpqc3Nv9ReU9U8jywQ/TSNUNlJTXgsPgPtDrjvXEHrm4yXyaC2bGrySzPevva7zmzKFxvgTRGuzqJO4mIQGIfNTEuk+zGwq//JdmNuEdeI="
+          }
         },
         {
-          "name": "LD SPORT 1 HD ◉",
-          "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8114.jpg?2945",
+          "name": "MMN SPORT",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:9lTBxa2tTkJGGIJcD2k7a8FV4Wc8XcBTFFQwWZ72vaO+s/p0eJhquRIdm3Q0nt+ZuAHSpgGK4eavNwkkaTMpOa9iEJn1HokR4zq2qNnGNSbXL/WsU97fUaEXw4oQZ4k="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:9lTBxa2tTkJGGIJcD2k7a8FV4Wc8XcBTFFQwWZ72vaO+s/p0eJhquRIdm3Q0nt+ZuAHSpgGK4eavNwkkaTMpOa9iEJn1HokR4zq2qNnGNSbXL/WsU97fUaEXw4oQZ4k="
-            },
-            "S1": {
-              "HD": "HZ2:Y/tEy2e+n2mVJrT5SBOmcJLyUVfUFjQkWB0ydA2tEvNKlUwT9JFuEQwruSUDQv5F+ZJhB5XvsObC7rps25TKzBHWERJGUYLu8Cbs1AYmmq8kEO6HV81GUA=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:+otwAiApkZTYgXh5BkQDQr8prqXSqN59HgSLPRMLJRB6qIOt3QQJ97Jgz23It9pkoop5lnLhZxUO2kPZBab23S/Uxm5XLola7GkKG3sESKUemz+qvh2Nj/cpMT/5n+kOOL0="
+          }
         },
         {
-          "name": "MTV SPORT HD ◉",
-          "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10596.png?5797",
+          "name": "NEWLINE SPORT",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:46D0hajETS3iq6Kzgc5fldyk5n20y9g+JhsOA1jfYEGnv21OksE7qk28BTHzajQzYdpvXNEx8hC7Ded7EVJu9oCvOA2ojRxD+bMgzZ55XQC2Alx/0p+9E52jjrzR14s="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:46D0hajETS3iq6Kzgc5fldyk5n20y9g+JhsOA1jfYEGnv21OksE7qk28BTHzajQzYdpvXNEx8hC7Ded7EVJu9oCvOA2ojRxD+bMgzZ55XQC2Alx/0p+9E52jjrzR14s="
-            },
-            "S1": {
-              "HD": "HZ2:1BIvpC1B0sv/t8CqitT/TqDhMFprP1FTUdgR/afQOrGi2x2ZNBuoFZ1O3rg1WqpP8iPYABw1O0vBFw6b/0KNucLIwrI2ZkrAsYFhFJZMDlm18Mhj9iUXlQ=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:GcTaIfgd8UxthR9qxBQN37QsCYQUUV1TmXM/gmEaYDsPr1m2DqYemqWeILXSvilT5HUmniGrIj+ngY59/qnF/bCuFiHpA6jrv+Y3fEFM+Se9Tv6vt4hTzm+ZUsiviIBOKSg=",
+            "Server Two": "HZ2:wdNA7SMS3xjEnLGTGSCPmA0GQGXqOBJ58bDUI7SbC2DVvd5Axw/nQS/JgQmSG0K76EKkdMsH3tqmq1xWZ6x0HxrYWLlF6VxkAW/hiT01SntUd79HmBsk"
+          }
         },
         {
-          "name": "NRT SPORT HD ◉",
-          "logo": "https://logo.0964750.xyz/logo/logos/nrtsport.png",
+          "name": "NRT SPORT",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:UAbKV5Mz0TEujfQ2LMSiP3FccbsjR1QEB/2EaK6OXayVnhjaLqL3GwXHqwAO4vfX1xd+zVcft6tYAObFWH+x+GGfN+3ymjkSX5sgO9pgqtuNhodrOEoEeHADSrwJQuo="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:UAbKV5Mz0TEujfQ2LMSiP3FccbsjR1QEB/2EaK6OXayVnhjaLqL3GwXHqwAO4vfX1xd+zVcft6tYAObFWH+x+GGfN+3ymjkSX5sgO9pgqtuNhodrOEoEeHADSrwJQuo="
-            },
-            "S1": {
-              "HD": "HZ2:IOpwLREZJRMjksat7hINFuBBIBtMiCYO2kfCZv+5BNbJ3sUFkITyHAFnqzDkOdq9IhrAxEtEG77AgBldzPyfga4eTiHeXQUnAT5Vqb7RLl6A5WRaokl3mw=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:FvvNuJAS+PHCO50BRd1hXiLvaUdhyiUKcPnEpYmaIpHP/XCd2kPjpSW0RJQKtMrjEshwBtOpQEYK47TixpkyP7Iy51OVL+7bSJ7NjIQ3iLXNTmSIWzVzxvCFHKI3BXUiUQw=",
+            "Server Two": "HZ2:8e8d07O86vseFSZ0I19zpwpyvVGMrzzeUiPshhpUow6hrvPBcmc7uv3F4gS75rjlrjFoQJkfb1vdrZAq34vfZBUSMA0PccAgL7U44CGjaTSSjC+FX8c0"
+          }
         },
         {
-          "name": "LD SPORT CHECK HD ◉",
-          "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3314.png?73953",
+          "name": "NUBAR SPORT",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:AZT6aF19SHT3aqa7J9BxzV8bchLkw+AX0xW41oi341zSxPRgBMaaUXt4acq7rkNMBcjAio2xEi4+y6/BjYqlGhnoFalrjkDG4HEtIYU+F/8vfX0/huAXdbBBaw40oWE="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:AZT6aF19SHT3aqa7J9BxzV8bchLkw+AX0xW41oi341zSxPRgBMaaUXt4acq7rkNMBcjAio2xEi4+y6/BjYqlGhnoFalrjkDG4HEtIYU+F/8vfX0/huAXdbBBaw40oWE="
-            },
-            "S1": {
-              "HD": "HZ2:uK8uypUV2oQV0xx7v4GmeXPmX1UK1gEHDie3J9V+8nKkEx4EIPubMrQ2wEW+hPP8qcwVwAvxYSlDbwwfWE3HCgv8BIiANJEhh2RRGVCncMGGLQi8coRYdw=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:AwpCUxQSQWFNsKfA/rNxmAHcFJYZESZAS5SOa2a2skMW27IAuMaNIJkE2xQhlmcQ/KUpCpalm5tjGOquBrc2DrrT1o6+Rzl+SaHUNQD89O30uMhD4eAIL3yk1YmSISkH3fM=",
+            "Server Two": "HZ2:4/oX6Z8FGWsnNW5RcKTF9kP33YMAXV9MPzvBdGUP8TzrPzB6H37xTew8/zEFq0jWgGxtjM7U94KipGdBbAgzwufFic0flJumYiVRhZ0k/H59H6/ysu8i"
+          }
         },
         {
-          "name": "KURDISTAN SPORT HD ◉",
-          "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/971.jpg?19154",
+          "name": "SEE SPORT 1",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:bKYqNKx5kGsVCJmsHosIcAhpeKZd3xIJkD+7zwYh+ZHw0KZfEp1/MRmbe/SbX8799uRkUCZJWday2Sqd1de71jg0ynXfGC9u2s9M+8X9M57s3VRLDu5WpzbCrZzVRZo="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:bKYqNKx5kGsVCJmsHosIcAhpeKZd3xIJkD+7zwYh+ZHw0KZfEp1/MRmbe/SbX8799uRkUCZJWday2Sqd1de71jg0ynXfGC9u2s9M+8X9M57s3VRLDu5WpzbCrZzVRZo="
-            },
-            "S1": {
-              "HD": "HZ2:kDt2uwux7CF+co55Z3qpMg3LgMRBkgV4ci80vpUgVF3rMCGZLHikmKrusZq6gXjvDHGgv9KVHJlpBEDIMdFp6x9NLVN5pl8VqYXyRH5ITNJ+y/UeWXC46Q=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:D98DQvyPM8/AvnFUFIgyaOteX2W1IiYpUqtXobKd2+BmTb5692O0i08XCB6JbURnlM1ZqPx2faq39Ck5b6kVwibJg+j3G8pCcWxcjkapSZhRGUY2HsIyf79qPVZ/cQ6DwUY="
+          }
         },
         {
-          "name": "DASINYA SPORT HD ◉",
-          "logo": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fkurdtvs.net%2Fdasinya-kurdish-kurdish&psig=AOvVaw3DYKnDVNXqzizdxzU6aKBi&ust=1602753834416000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCf0r_hs-wCFQAAAAAdAAAAABAD",
+          "name": "SEE SPORT 2",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:z4Mh/paPNRq9D4of9CNIrce3tU76lI4sz5AgjlKfEN1bOEqN6uulflHiUVLkYo7QL3g1GtxXd6dIm5RESwT6aWxjAQ1X8SnmEZg6hbYF08olmHciSKjlPSm5aNRe0jI="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:z4Mh/paPNRq9D4of9CNIrce3tU76lI4sz5AgjlKfEN1bOEqN6uulflHiUVLkYo7QL3g1GtxXd6dIm5RESwT6aWxjAQ1X8SnmEZg6hbYF08olmHciSKjlPSm5aNRe0jI="
-            },
-            "S1": {
-              "HD": "HZ2:zCX47s6VUjnwLsB1xbSL96W/h+IPs7gs9xbydk8UHWVF0r8br7VNSh0VP5f5cG+RDuYn/Ez0r/rBkKzSIkGEIqMsc9eWyAnh4p70yqThH7KLUNOUWclRjw=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:9R69zzlfyJTyH4hBF4kZDseETCMbpSZYRt6czvg7ANQwZQ5WVhH10EgQLdEvFkqPbuWo9lF50XVNMO6gkCI2INKVxKISxLu0hwygBQYWA0loV7mVIz7nMXwUDGwIVsqTGIY="
+          }
         },
         {
-          "name": "NEWLINE SPORT HD ◉",
-          "logo": "http://logo.0964750.xyz/logo/newlinesport.fw.png",
+          "name": "SEE SPORT 3",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:E5F6f6ZOrUBg7yBgZBn+JvA5bKQidBk1dOXiIHlIg/NJEQ+xsLWhMDLwmXTnoex2qVnKTZwvUZeW4Vf3e5w0LVVAQZS8US1jiaHWOR/xd2b0TYTZWnb4QEOHL/wF5BM="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:E5F6f6ZOrUBg7yBgZBn+JvA5bKQidBk1dOXiIHlIg/NJEQ+xsLWhMDLwmXTnoex2qVnKTZwvUZeW4Vf3e5w0LVVAQZS8US1jiaHWOR/xd2b0TYTZWnb4QEOHL/wF5BM="
-            },
-            "S1": {
-              "HD": "HZ2:mq/95am7wj7Kjwo6W5Ko9/aZCXFLZpC1ZMxe2A7QNHdkQo9SgNLvwtlZwi35z/nueRs+y86sduw+tzlsskxkxnMDxjijr4TZGzc/btAR2/NzWrq20gPxEg=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:x2mLhMi+Y4aImlCODliNjmEWo25EWaPwz0jARXg278YbhiAODC0bxhRBAqEEHBxMImgD9yn92pbHuFK3Mie1xcEVkgjuZhhk8gm4ZbPxLa7jXz5DeVstSLjN8SXWjBluhAI=",
+            "Server Two": "HZ2:wsp7nCT+xkKNvwRzC53h+60BF64FTYKgeF44q6z7RKJqy9qEJer51LT2dWW+WYQoXif1L3GFqmYoUZqirCpQdHI6vC3fSsRq/VoZK7SvdyHSlgeiSxin"
+          }
         },
         {
-          "name": "NUBAR SPORT TV ◉",
-          "logo": "https://logo.0964750.xyz/logo/logos/nubarsport.png",
+          "name": "SIMA SPORT 1",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:DaKjLosfOXrO2/I3aGq2hm4h/Uj/eONMrM2UybGKT5fmxt4uktEUMzA00ZbIflwX5VCIph9ncfDCDByJH/sMVlVk5qW4gyTBlCQlFBIYqV4AEBMeMJXkQ6u1ipIj9TE="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:DaKjLosfOXrO2/I3aGq2hm4h/Uj/eONMrM2UybGKT5fmxt4uktEUMzA00ZbIflwX5VCIph9ncfDCDByJH/sMVlVk5qW4gyTBlCQlFBIYqV4AEBMeMJXkQ6u1ipIj9TE="
-            },
-            "S1": {
-              "HD": "HZ2:QxOvDcGpg+nzzH/tBNFK1T7sB8JIsml9+7XgXpX6G3YhzFD5A4FZmnFgq4HR047elNVMJ0xjgioGWMeUeR92RTXBlP/+2gRbRy52kFz5wDA/0qGVOQaOVw=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:jxOdmbToovMcRZCVYALx5lOzfLkFsBumMoMa//0fu6il2SXl5Two40sGcrXr2RcU9ecAk50cX25YUlB6AOeBbgGNQ83Nxz0DEhmnZp4WEm1CRp1leZ6wP06aETZsFaPkJs4="
+          }
         },
         {
-          "name": "SIMA SPORTS HD ◉",
-          "logo": "http://photo-tmdb.com/stalker_portal/logos/INDUS-TV.jpg",
+          "name": "ZAXO SPORT",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:hu7Vrvu5pBchpBi5seAKLPCrq0TWr/7YgKH8Ve+eYt2zQ0ImWI9GPbDlTRUOycphEisl2onmXlC7qsYF1uv1q8yeHDOCIsZrt6w+ZKGABYz+Bqg4hFeWOfbV4jGldWM="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:hu7Vrvu5pBchpBi5seAKLPCrq0TWr/7YgKH8Ve+eYt2zQ0ImWI9GPbDlTRUOycphEisl2onmXlC7qsYF1uv1q8yeHDOCIsZrt6w+ZKGABYz+Bqg4hFeWOfbV4jGldWM="
-            },
-            "S1": {
-              "HD": "HZ2:tMl5/g6LY65xLmhdSKEm+r4BI43VloIzOJeVgt4pwj5BQTSSE1DfNmxGfO5w/Gxq4QJUjFPkWxO/8m5w4NoN2nuRQ9mbpZdPz4EpH59F2Mv6NXYenRoAnA=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:eJbwmwn33SVK7VOa1l6SUyWWlAyXbN+r6bJ6e7gjFwskHszlHvWPX9dfmA9WbVdlvrr0LAJ1OxD1kglUT8QU0RSwx4exWfolJxID0D5E1l4S1TWobw8XwI35BKpaQsYcgEw=",
+            "Server Two": "HZ2:PXKXvEhjkauDdUxgOLBLcO2Cr5ORZTBWwdu0PncgFyuI3kVlj1cue8HST7zG86DzcPBC0AGMbik9Ei+VCKolGrFm6f4MVP/HhWUqu52HLBqROjhzt7P8"
+          }
         },
         {
-          "name": "DUHOK SPORTS HD ◉",
-          "logo": "https://logo.0964750.xyz/logo/logos/duhoksport.png",
+          "name": "DERWAZE TV",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:3HQzVzqZvR/cOMflewPnPA514B5N1LJjAkUVQQ9AsyMgm+KPEwT6hqMZhGteZ268uxFu6/l/N0OiOXpeeMJouNNjvvw5n6ABq3UvcXsYrEZVBg2tBmX+nBFla/007YU="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:3HQzVzqZvR/cOMflewPnPA514B5N1LJjAkUVQQ9AsyMgm+KPEwT6hqMZhGteZ268uxFu6/l/N0OiOXpeeMJouNNjvvw5n6ABq3UvcXsYrEZVBg2tBmX+nBFla/007YU="
-            },
-            "S1": {
-              "HD": "HZ2:1WCS5SThEXEuphMlZ+RXCqTLLeZt209/vJzaJ7XR97vBV1uwEJ9vL0snqqjzkrOn6lhLNjRDF2T1hJ8wDmHCOzKFV5q5iBhnm7Q/BW8jQ4sZyfA+0rWQHA=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:Eshu5rxaCg3647OEAZ2IgL4mOqV/VKZdviWjlt5FIbq7JntDOr6t86Y7qX1gFqBZ/pOFNFleP4q19ZFVXM/juny1IQ1fXHHFoSGBh93ONDgLLQUoqspdPJ5iQiTQzVPunfw="
+          }
         },
         {
-          "name": "FIFA + ◉",
-          "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13616.jpg?99177",
+          "name": "AVA SPORT",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:j7diavZYlmoJohqPU9tBz6PkRot/D+FXmVP27rsGXWkXWb3w9WM+/i+bN102bcVortFt1D+Gt7OJCa5s4ORB00P57D6phickolK2wq+cb5HCdICpAPPZ17Y3sAm6ZM4="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:j7diavZYlmoJohqPU9tBz6PkRot/D+FXmVP27rsGXWkXWb3w9WM+/i+bN102bcVortFt1D+Gt7OJCa5s4ORB00P57D6phickolK2wq+cb5HCdICpAPPZ17Y3sAm6ZM4="
-            },
-            "S1": {
-              "HD": "HZ2:VV+y53jy7MYRUsnfBaUdl+citnv4KxrwI05tFhjV9nh44ClRTpmT1ivSEdNmQrKG58XBM7dacegSJuGmmFMDSIx9MqU1rPQYzSek/spjSrXVrEQWwq/oPg=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:7tBuerRiVB2NRqisqzmNfXw6QpdeHXcOBCIEcsjXE7YcJMJSJjlBpO3TBSLTpT+g7xaruG5sxp9G/2IinsKUkm595PGm9zsUmXefCBLNz3G+I5GzT9RD"
+          }
         },
         {
-          "name": "ZAXO SPORT TV ◉",
-          "logo": "https://logo.0964750.xyz/logo/logos/zaxosport.png",
+          "name": "WWE",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:cymgC3rFI6tJ4oB/MC34qvTc5AGlNtY0fKjzP29vo1svURMH6y3R3H+ANFP58aeiK1gzDKD3z6Wqy0p9w2BFBifQYg3QArE5UKtfvGqGyUbRf0XPoBrf3xS36UO7UVc="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:cymgC3rFI6tJ4oB/MC34qvTc5AGlNtY0fKjzP29vo1svURMH6y3R3H+ANFP58aeiK1gzDKD3z6Wqy0p9w2BFBifQYg3QArE5UKtfvGqGyUbRf0XPoBrf3xS36UO7UVc="
-            },
-            "S1": {
-              "HD": "HZ2:3v5RDxTfs/C0LLtWXIvovDaeV964FR2/+NKEdtklUH3ntLumQiNkeTBd3EIc70oAMn5ICCQrwZjt0ixJz9DcB+wJ+awq58O3UjOvH83T/lCZZxMZeLVxcQ=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:Xovh9qvPFCtkcx3eyGW6kmKA498yNWjnfSZj0ygfmq0x4UdZvYP+3KggM1J+/VJqy6lcgI488sWmSH01whJuEYJnF4yC6WZPDcIn0+X2ZgvelfyqGazh"
+          }
         },
         {
-          "name": "WWE HD ◉",
-          "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13933.png?ver=51511",
+          "name": "ASTERA SPORT",
+          "logo": "https://loggg23444.club/mbc/kurdstan.png",
           "streams": {
-            "HD": "HZ2:J/lf+C7His0d967apJKWu+4cP5CJtVlaKU/V7VZq7gP4V0VvtZ1t5rqY5rkMaUivvGb1l79E9+nxuix2oL7iYobHRuVeINqM+QFRHIZWzayrApXKsoyCzlDoyr8/lGM="
-          },
-          "servers": {
-            "S2": {
-              "HD": "HZ2:J/lf+C7His0d967apJKWu+4cP5CJtVlaKU/V7VZq7gP4V0VvtZ1t5rqY5rkMaUivvGb1l79E9+nxuix2oL7iYobHRuVeINqM+QFRHIZWzayrApXKsoyCzlDoyr8/lGM="
-            },
-            "S1": {
-              "HD": "HZ2:XdvRrd4q42ZpHff69NCnVbcqWYei6sHmLaq5Czf9QFKCkPHFX3hrQ1Py6aAIHfeDZsTrb3LomC9xTbxmCCmqDLUZd2ONyoWKZNXDpmf2OLla8WBKGh4jFg=="
-            }
-          },
-          "server_order": [
-            "S1",
-            "S2"
-          ]
+            "Server One": "HZ2:MtMGsJB8B5rDn3IepPi7c0/G2WLOcP862E9BVMZU2P5GAddt8S5V5NvIRPMJCnc7ExtGLbpDuKxqVjtRB33i9Goi26r3RwEdQoGH9xZLsr3Y4dlQZhjh"
+          }
         }
       ]
     },
@@ -1242,317 +938,103 @@
       "channels": [
         {
           "name": "ALFAJER 1",
-          "logo": "https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg",
+          "logo": "https://i.postimg.cc/ZYVC5dyh/wwewewe.png",
           "streams": {
-            "4K": "HZ2:Zkn7YInDr8zpMAmdehw21uLGQ+Rdjta/9dC/qdh/PG7zhyDUmQPhLJpMzmGo8uVK+fvU5OrYgQvQDLI/AbL1fb1cFK9vQPreAo7Vr4LDbwNs6XgBI8AwiA==",
-            "HD": [
-              "HZ2:kwRrH/vHZadnUVCjrEZnSxj7ExzUUkdVxSZVBOhMrNt/R/EKRXPADstAcLM+7YaG5c5T5S0MuRqZXp69wfp2Eo8M8kb/TQOndJT8wcecagCYt3i4C1n4Aw==",
-              "HZ2:eN4Tkj9s7R+Hh+WQNQ3dM7UAd04/St1s0hlc+izlZlkWnMw/XQ8hBf7o9O2Sal7hqPopaRzkyMMFDWtEGN7In8d54a8ieV95bIcJu3LKWui13Ln+/I4iUu+z6IZY"
-            ]
+            "HD": "HZ2:UX2+yi19GdnUjo6MS9nO5wI6xi7p33tx/dENgLqH32K1ZUzK73STHc3ApE8jz7H78yhXwgZa5nuRUoMbuzuORlm1ZTDVqbLisOYezz+LWvOiErwrn5lo/DPQdsyEJ/g="
+          }
+        },
+        {
+          "name": "ALFAJER 1HD",
+          "logo": "https://i.postimg.cc/ZYVC5dyh/wwewewe.png",
+          "streams": {
+            "HD": "HZ2:5sUt7qQJWwVwZww8lQa3BrTVnXoLNZL6VyzWzg8CRaCffuYk6jpmuvSFJgUDcsEJNb/YZcZ7Fx9u2OcCUH8A79YXCA2jSgZOypZSlMNhic3XaFuKOBAMVNESfNmuIpE="
           }
         },
         {
           "name": "ALFAJER 2",
-          "logo": "https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg",
+          "logo": "https://i.postimg.cc/ZYVC5dyh/wwewewe.png",
           "streams": {
-            "4K": "HZ2:/Zk+a8siW9SFekp8zPd06wrEY7XVX+aYzAk2nICXQlmZJQfk2DSXrDebti48nx4NT6UMq9IHw8oWGPMfuoDnAgspRZ0+PdDZ09qHOIqDcG2DXdzMHSfJJg==",
-            "HD": [
-              "HZ2:aEx+Grpcs7rqY8Y23kG1bzpqZ6GurB1HPTlqpMXOkDh3qUpCrlkxeDNwwT98e/sU+lhCKwhUJ+bXQgl+8QKRXOiQ3Z+0mkdPiPyfiM5cXIKOU9XceSCP0A==",
-              "HZ2:OuTSpqGhmXA79VzxqOTPky3yuAz0mXCL77qYW8bQThU4ugv11NOtQqFb+fSoj/AhQxP3f58fBzQnnyCIQPLt/4ww6OQWVu5eORyW4SHLJP1oF4t1fs+2CxsM4VK3"
-            ]
+            "HD": "HZ2:rZ9yep+gGpBuCoVzW6OBsxy7b0tOZt2c8l5cbryroYYRUTwWN52hIsY85ceRvO/6eR9ygOUdU4iM6miYQ8R3OotY1/NaEXfYYRgzVl4xxEjnoH1U9dDtH1g30RoH/RM="
+          }
+        },
+        {
+          "name": "ALFAJER 2HD",
+          "logo": "https://i.postimg.cc/ZYVC5dyh/wwewewe.png",
+          "streams": {
+            "HD": "HZ2:W7ubToqouuian9ISdYcZ8w5su3ELBtS3pinB9ACn5Z7CICiSCg/4AqrQpbN9CSG2QXkmTRf1Y6eny6E1bDKjPnfXKI3Xb3SLvKCPx3U0i3VC6O03pPGwoeVVlN1m2Nc="
           }
         },
         {
           "name": "ALFAJER 3",
-          "logo": "https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg",
+          "logo": "https://i.postimg.cc/ZYVC5dyh/wwewewe.png",
           "streams": {
-            "4K": "HZ2:/GIvlLNo9uOuD1SkunnLMLivtwCSAYvO4JO27ak5qQJ34uOJ7HL8yE0VhyYeJt/btP6UVcekXUJuDawCGBsangb//XrOSCxB9g7z12y4IZO46xG/NglZIw==",
-            "HD": [
-              "HZ2:oP4cyTNB9DtIqzqBDxl0DFIP1krBlpoj9w8j65+tRXfIi2TbOqVP6+CQ+9JxZP2S47DIN56qrgI1nIrU2MNSOmeFDmu3+pM0XvED1rp940Rym+rYn8uEmw==",
-              "HZ2:zCjhswo+1ffJd6QAAsiMSBwV+4cYd1HZjxZKg9FRRjfE+fwjT8aDQsMR/kxt1bysBMVqmY+oMA+bXfsjAEeeI43hBevb0bD843f9BZOgSrFhEFHjd6XQTpoo7/pp"
-            ]
+            "HD": "HZ2:x0+tiUFPZG2NgLXlqY01Ovz/4VHdyml2CWGx4uKdH/TW9SusQ19sk8FKZ3n8VtXfj5/Q50hM0IC80ujZwa1LyViDtUmCYuIcinwFDFDubrASMwGruyj1SHmLNUjeVjI="
+          }
+        },
+        {
+          "name": "ALFAJER 3HD",
+          "logo": "https://i.postimg.cc/ZYVC5dyh/wwewewe.png",
+          "streams": {
+            "HD": "HZ2:2m4zuyiTJvOqQQZXmiI8g5P8iOfApZZzFV/WS/IvSh0QqgV7FvibTRahRyCzyDnNRjasULaLN+cIGtP0cyD52RLiWzYSVEpU0aDyizQng6w2pdXEH89uNegeKMnjINg="
           }
         },
         {
           "name": "ALFAJER 4",
-          "logo": "https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg",
+          "logo": "https://i.postimg.cc/ZYVC5dyh/wwewewe.png",
           "streams": {
-            "4K": "HZ2:YW++3OcIXa1zigSJl/7hzdYQRzkSfBb9Ne7a8JnOqjOuwFcuEEfB8HMVlXBIdmqYGD0/b/HxmniHReaS5P6kBgfI9G/koRGpSDt8jVmcKjgDMSK/FdY5Og==",
-            "HD": [
-              "HZ2:ar3N882jy0U9rYUScOj6VsEPgo9kKTdQ8BhyKbEXDxTtq42F32psLlCIDcrpqSDGNM8b+MuY0xuATqyyLyfcdbfZrfL3+M05iXFZ/Ih6xbtuA9Jjs2LMCg==",
-              "HZ2:YVhzhKcYbBSNxgEkp1c+EcRrj2pb+UlxjLttUMoOyW/dFCKTJ3iYFizMLfOl1EOmKoJ4GBD2KZt21ulxQSW2VCdXwarMJLBGNrBoCNpg7nirz2S1IhV1oxGVsZkL"
-            ]
+            "HD": "HZ2:9V01B2J/1fxYrlnleuGR5rR+nnmafI39rFAqq2+9g0SOxyykHZq8O83yymoANMTc8xH/kdiiZhocVAijyPPkdmhsZqqZOT4ieAOcsq5kWCiEsIk3ZqsFVC8ZZHrHP8M="
+          }
+        },
+        {
+          "name": "ALFAJER 4HD",
+          "logo": "https://i.postimg.cc/ZYVC5dyh/wwewewe.png",
+          "streams": {
+            "HD": "HZ2:CQJ5xqq5bCNePL/gDFbkkdHGd5XHpGTyHMWQ5+bX0kLGqATPymHmat8tt/2/YmBvbQvZarrU9Sh9jImMyREoAc3eJX/F2CBN0WYqhf+26vA/M8PrMUR3Ef3o82mIaDA="
           }
         },
         {
           "name": "ALFAJER 5",
-          "logo": "https://upload.wikimedia.org/wikipedia/ar/7/7f/FajerTV_Logo.jpg",
+          "logo": "https://i.postimg.cc/ZYVC5dyh/wwewewe.png",
           "streams": {
-            "4K": "HZ2:xqlQIyHtqk2EyE9LE3Xv7+HQaJNXqlvJuDV7h3vfMtd5nhWARNFCKWo5sKu56iuVx07D5Vi0PwJ9gQGO58LkeOyOUirysvZfsDH0xyW+ZgAsa5whZZGN0w==",
-            "HD": [
-              "HZ2:bz8hbM3PjfNZLfXyfQYat+M4gnm5Jb2YwCgzBLI+YehoPokc330gcH9C5DBMNDSxnIJxQo4dloRVnqMXKp75DC9S27oiToUslMEhW41plM5TLR5Ha2us3w==",
-              "HZ2:Biz9lm7UOGGh/npiS2YP2Mlp7OZi/ERHKdR0O0HH/VezOCWsxrY9HB2G86Ao68JKR4IKdrKOjozHZNjXtSqLW9sAO8xOQZZUzxx3PSiQDTTYXGrR/izFTWQznbMn"
-            ]
+            "HD": "HZ2:wHM2ERJA7g0+P1/Pd+cITepw4QcLYsxyhGWX79gvTDk4acop+Y6Di3BVigoABP5jcffi/Nv4YH/LrKbOUz9kvD5Ar8ebARMW3YF2FXtjuEMUHPlq1iD8lAB5rcXwO7U="
           }
         },
         {
-          "name": "AR: ALSALAM TV",
-          "logo": "https://tv.alfajertv.com/assets/images/logo.png",
+          "name": "ALFAJER 5HD",
+          "logo": "https://i.postimg.cc/ZYVC5dyh/wwewewe.png",
           "streams": {
-            "HD": "HZ2:ZbU0u7BfHvKB3Bzgb6MbFKAPWKiD9n8wxcrUwAsUVVl/ya1xxDF8l/moaBA+eGAbrRFIGYTN9bJ/frWFBcjIRZWX3n5gKqXKwh1qu5EO8rx5ltwFYt8qWA=="
-          }
-        }
-      ]
-    },
-    {
-      "name": "الدوري الإيطالي",
-      "channels": [
-        {
-          "name": "StarzPlay Sport 1",
-          "logo": "https://i.postimg.cc/T2z21zCH/channels4-profile-4.jpg",
-          "streams": {
-            "HD": "HZ2:h+AcMTEWSzQlSKR/RCPm7+NIJJbk/0dDDSyhaZH/fWrxug+GMNmrW6Wby9/UPH0aRb3DRBy7H4O2trgsLVj73eum4McsEbZXaXQiSmWSqHS/IptXofIV3Gtiq+iP"
+            "HD": "HZ2:54zDxLY9Moi9xHYOHBQZYrCAOLmOQFZJVGHP7tX6uEpRtIdwoHEwKtwFn8oexwO1xI59GB1Mk92iwZRym6gE4Vy21eHkcbe5zUXtNJ3DJVWoP/bo8Wa5NjV+0zhMjmc="
           }
         },
         {
-          "name": "StarzPlay Sports 1",
-          "logo": "https://i.postimg.cc/T2z21zCH/channels4-profile-4.jpg",
+          "name": "RAYA TV1",
+          "logo": "https://i.postimg.cc/ZYVC5dyh/wwewewe.png",
           "streams": {
-            "HD": "HZ2:X3OtWDg0YdfV2D0vnU7vAMpSUyr772gouz/qlcBTiIzUtLGcjundT7H8VpWcGzP00oZCH82eKkfMyb2fEddV4YU1pk3oEyUNcKBwb0BiU7PRvVrW1bbPwTjR95yA",
-            "SD": "HZ2:XRDc3zAwP10cQQRgSZTq/t4wC5Sy7kt7tQ1UULUstOjP9LmaNPYfQdc521JfK0aMltKFNlbZFjVpezsQSyvUpNIpou8GxlBUYtpFY47PM6atrBzoVKqwJlWeNl2O"
+            "4K": "HZ2:pJl9RHwzUR8eWD1AAjPlcLSIevN876YLkPIwKLO35z05NFx8xL9xyDhDmo0cnwXWK4ByXqJrGR1Oge5XYOOZh/ZM343flpd+n/oJZ2flzNhn5R6WTQQiI7rDGfOl1u8=",
+            "HD": "HZ2:UUwT+BqBXqxc1VRWFtY4MQzsOWeASvutNifRybPsf7wRoU5heEibf72si0d23W1hjvqAObCBVt3Ad6ETELl+dThBh1VA2pEe7FJyCjpmwj9+anG1gXjffZZOSvazDNM="
           }
         },
         {
-          "name": "StarzPlay Sport 2",
-          "logo": "https://i.postimg.cc/T2z21zCH/channels4-profile-4.jpg",
+          "name": "RAYA TV2",
+          "logo": "https://i.postimg.cc/ZYVC5dyh/wwewewe.png",
           "streams": {
-            "HD": "HZ2:QhxJSSE9WqBdv8AKeMPLtf5qGR0lZLYfkxBYRJARWUQU217LfV+kq8/V2mA0K3zr6mEzAngqNkt2ZXEJVK3eg7Dk8g7HzTypWyxhbceEUgZS3YIt3QCpAw8AKovJ"
+            "4K": "HZ2:bmD1Ueji69Cny9gYxBdXjv/cE2YOW8OsZQJl6Cn/lfD1FwYwCqBOW9sAeC/1sHHSHZeKDiLPQOzkfV13+HRs4qwRc32pShXzcNEbuDIdPsRPTlTVxo5iNOlC7im0K18=",
+            "HD": "HZ2:s3Qpws9Uyqk+cLTAVMVFb0jO92SJ+RTDztFYUgeH7MIVDCOYyNNx8ksjWpyhCCOxVgA/4zuLgl9r06U+UWtHefi906pOJaDtL4ZDt0HM2Cia7k2XtmoofACjKsy6Xn0="
           }
         },
         {
-          "name": "StarzPlay Sports 2",
-          "logo": "https://i.postimg.cc/T2z21zCH/channels4-profile-4.jpg",
+          "name": "RAYA TV3",
+          "logo": "https://i.postimg.cc/ZYVC5dyh/wwewewe.png",
           "streams": {
-            "HD": "HZ2:HtrKUVEVDX3T0BsBqYkuX+mfF/lx9sfrUCzta7su2d4VTnUHRgBsfdm/cyBLQbAxLBXr8lKL7AstnhRtF2yJJChX0aY3CSbwoFkWpW4y4kP3wsY7BUM+FyE+g5tT",
-            "SD": "HZ2:gKjk8UrvhySMBLBx8Ex2Jqv8bkwNvLG91RwjTNHkpEFTukJbG0W4uuekEtC6J0DRNRGNKEt82UL9MPV8Dm5qEP7GDcOzz3mQdB4NRumQTDeQYrTGdxPDpEuV/T8U"
-          }
-        },
-        {
-          "name": "StarzPlay Sport 3",
-          "logo": "https://i.postimg.cc/T2z21zCH/channels4-profile-4.jpg",
-          "streams": {
-            "HD": "HZ2:wGCfeQwsbPaf2Aup6sze4WZ0oRN2GurZSPsWKnhJmRC9cm/RcGttR62UN/xddoGUBCBaJiYItt9JLE+ZrOD2tslEwOl6zq4e4oPOH6fJqwlLvzwoNSxvhMLVOd5y"
-          }
-        },
-        {
-          "name": "StarzPlay Sports 3",
-          "logo": "https://i.postimg.cc/T2z21zCH/channels4-profile-4.jpg",
-          "streams": {
-            "HD": "HZ2:tMm8RJ5or5RLmqHU4sBQaCDlnLtRdeMfHXJmlZsf5Dq+elZwLw2MMyFlSkFY4/2TKXELch5nW0/HZ8mUysjmbf/9mdOTwlO1VAong0pBFECMPwcLWlL++AmiIaG7"
-          }
-        },
-        {
-          "name": "AD Sport Asia 1",
-          "logo": "https://i.postimg.cc/RhMRLsRv/images-4.jpg",
-          "streams": {
-            "4K": "HZ2:HJBviCl2t1hMD+8+hufm5elwd824nitWhfUL8vTgvoeEqIP/wVc/5wYHiwI7qzm7kdGO1KczXTOaIhdPyQKeqCEojy4Jbc6iMm+sPCyqnms8VJ15RwWFO+462x2C",
-            "HD": "HZ2:05XV1guEvMreVFtAZ4LevTbXCVQ5IuTXmxw2+V99pmmIEx2DUDgFUsru4p0j5NR5buI4AFEd/KePj9y3NrBFkBwiKn8JoFOotsKDX3DbN7hvnhjBOOsqBZinEp2i",
-            "SD": "HZ2:R0qbu0E2mFMFYkM2+xYnS9xC6Rxg1yl7IbrQXtQAQE/qEqPzVf51VdJMMLr6EsdXHk1BLvP4bXqw2gNIaXFVVd9tiaxpx7hpXiJXbilOMGu1lQX4fUs0OZBUSbZD"
-          }
-        },
-        {
-          "name": "AD Sport Asia 2",
-          "logo": "https://i.postimg.cc/RhMRLsRv/images-4.jpg",
-          "streams": {
-            "4K": "HZ2:w8D6/zx33CdmaCacRi7vqmwgAOVb++s/P5m0nG027VSzuthl4e47wbTH+96xUUNXcN3CukIb9E9ejghxdV9vRCvXVKfIM4nG9p5euzB2WIOzoMGQ+vZ8igHCRiWd",
-            "HD": "HZ2:o/JPznJx+uCFPLrPJajcmEddH0GSbO6y4iPfjHkEyIv3HdEQtlrfnpqREiWuNZllJW3MvBpfxbjBPyg/sB4TbtmlHQF9L1eHfODxRV577RRtIL0KYnS/e9fhVPaa",
-            "SD": "HZ2:YL0Ebvyk4mMYHihcQuo/vUEdr6pTc7OQNXPI++qaVW2HlncgOdV1GJZkujzMcEqjlJ9/RKDs1LNH0BooSdmfLnIVDjpvscV/kXpWZlUARz6AmxdF43DqO9oU3fDq"
-          }
-        },
-        {
-          "name": "Shasha TV",
-          "logo": "https://i.postimg.cc/Px20wkc9/SPORT.png",
-          "streams": {
-            "HD": "HZ2:OWkYVoYoaReXVOJKhXouQSoNOEShs8pE10Hxdtme00lnu3GEWI8cS3S9H8jG+sMcLp5R3EIqe0y/bNn5EWvBCs64dES6I/Glc3m3YVLNZGe4cpn167A5atlVtT3W"
-          }
-        },
-        {
-          "name": "Shasha TV 2",
-          "logo": "https://i.postimg.cc/Px20wkc9/SPORT.png",
-          "streams": {
-            "HD": "HZ2:xAy2ULe50YSapcyKvSwn0rYS1sZXmUFg7GX9fe4U5dLJ3/rJzRSFx0mm3c+vkiFrmLYUkRKMYg7WfsNjnPO0nXhMmcilfgBPwZBJsB5K4tRqmvGCbFsS2UG75LQp"
-          }
-        }
-      ]
-    },
-    {
-      "name": "الدوري الألماني",
-      "channels": [
-        {
-          "name": "Shahid Sport 1",
-          "logo": "https://i.postimg.cc/8CsZ0rnH/Shahid-Vip-sports.png",
-          "streams": {
-            "4K": "HZ2:z7ihLkBcS81Nd70J9bRErKXhtFK/APOdd4ecKBhxCdE+8P6udaMupn9YZwM0m5XzgareGhWu8wUNZRqHinFzOuybax+sdGeY4B4SSKxen/e8nji/A058So1z8ttQ",
-            "HD": "HZ2:qi5eD2YbHCivyKkJEvfF2vDKfi1124SooemBgr54AT8PM9UIJG1F5MzvDMnAFlV+Tck8iOK2YsnVX6RayYmkTElmdHYDXyFOQvTmsU5dFW44Zfs+diQ2nrkbBUDt",
-            "SD": "HZ2:KdJZ4w+KhE/mWHLy5+wNRW29YZIre1DNAIQjXciErO7Y9fNRRw6AyA+9YnaJhjpva9HyeqttBEaETy6pqZ0QBqvbg3MohDmboNgYq06M/fl5IOTJonikBK82Slhh"
-          }
-        },
-        {
-          "name": "Shahid Sport 2",
-          "logo": "https://i.postimg.cc/8CsZ0rnH/Shahid-Vip-sports.png",
-          "streams": {
-            "4K": "HZ2:+hIKoSqZDfZfdQmLRuQVRsM4UFInKCUlKTNHsod5kxzTM/IisnVEqKAOVuX7tuqF06anuqjUbsPKJOEj4sCcilpv1an8bYyRe7NmU6hCcpCXsrht38GqAOY4ssQ3",
-            "HD": "HZ2:U0zGO6iwJXeo+WYdjQB91F1zEbtsw7MiT7C1KJRz/4mSp3mnHxT+nSBDItxh8NinDQFWQG3KKRxH8TC0hd+9ZTWIHXT5E/KFlVkqkPkNETGtt8lMTdQ0BK8EGBwn",
-            "SD": "HZ2:oyehfo+9wyTW04GYjIU0p28MefbglrV5dVj5UqLoUzomZb2ApAUQdWnUxokF1SBmbrXwzjs4qD3k4BFeDhjrb/0fZJMyVgWxihfrRvYXZPkzGWNn95IK+/nERyWr"
-          }
-        },
-        {
-          "name": "Shahid Sport 3",
-          "logo": "https://i.postimg.cc/8CsZ0rnH/Shahid-Vip-sports.png",
-          "streams": {
-            "HD": "HZ2:n61JuBUkCow2/Vxue7y3wIkUfTKNdHjwvlDFr6AeAZFFlxiNVlyfPnGKWdzsV/n3rB+YaK5Wh9AW2A0DkYif3Wg3Jc41ydYNJv8BmecRJQFHB+2AD4B+LI0nzgVG"
-          }
-        },
-        {
-          "name": "Shahid Sport 4",
-          "logo": "https://i.postimg.cc/8CsZ0rnH/Shahid-Vip-sports.png",
-          "streams": {
-            "HD": "HZ2:TTTsb/NnB2C+/nu5ZiPM5j2Mp/cyaH8XX+CQbqPajklI96XAcabpwT/WD57MzNFUlPqwc0jmQJa0vR8u/DMkaYnMpsIJFqxh4hb5yEZbYpKw+ZqKO3snn7ju2Fb6"
-          }
-        },
-        {
-          "name": "Shahid Sport 5",
-          "logo": "https://i.postimg.cc/8CsZ0rnH/Shahid-Vip-sports.png",
-          "streams": {
-            "HD": "HZ2:FGzR64jKsg/GebSyjqiexHZMBnvij4GF0tqb7c2UJ2r2FW017xb3r4rY9mBW8n1pG2kqAlwbp50H717tD/zljz4tLgrQAUo7lRJIIetAhax5GqeTk5V6/WjvlRc+"
+            "4K": "HZ2:lh3fbyj6s07ZW/aPPhh9pLnr0gbdeg1ip+BtepjclVYNnldQbbTGEmJtnVAVuibuJM/QNbmhy63PCZAoxwzIkGMquAuVZgqrad1xwx01169h3yjiAuOu1mvMzZhJn9U=",
+            "HD": "HZ2:yCWRHnBYmfDGBv0TXzFpy1PIKWBElyIS8zcgTGTGiuH3PnkCSEvx5frG6Gq9BzDVbD1i0tJxvEZ3FQZAQUEaTr/Dz4p9/sNsukYMVx9LiiA1Rng9yHTsYjxx16NKFwo="
           }
         }
       ]
     },
     {
       "name": "وثائقي",
-      "channels": [
-        {
-          "name": "Quest Arabiya HD 1",
-          "logo": "http://pro.netmos.ovh:6051/imgs/quest.jpeg",
-          "streams": {
-            "HD": "HZ2:9ZQjVcgR6QBIGohERxZPe1A6+TeDYDTF6oiWIHFUlczDevzIhLJ5GCAXOwHQ7Mcowc1ERA91R2ZedYKD1BbY6AneWyIfA2xLbT+jisodc37qROYkcuCbcg=="
-          }
-        },
-        {
-          "name": "Quest Arabiya HD 2",
-          "logo": "http://pro.netmos.ovh:6051/imgs/quest.jpeg",
-          "streams": {
-            "HD": "HZ2:i9EGnJLqQ4Vy91uNJPDBQ1LsWCCPCuidN+L7BdR4H/eBgNwcG1umjiitIRrPP+3yT6DEVUXoDjLed59gZ+IqLaI7RYZLFJzoZHX2p0GKpdYjO7PwauLCzg=="
-          }
-        },
-        {
-          "name": "Quest Arabiya HD 3",
-          "logo": "http://pro.netmos.ovh:6051/imgs/quest.jpeg",
-          "streams": {
-            "HD": "HZ2:8GP9Y5t264wAK9cshdkNIhXJKovATsc3EpYVld4Q9/8hjWAfilNS0uIQh6/dFsJrVivvyO9YEmBNAUZj73VcDlHdkUPHw7VC1a5FapSQkm5FRZbVet9IGg=="
-          }
-        },
-        {
-          "name": "Quest Arabiya HD 4",
-          "logo": "http://pro.netmos.ovh:6051/imgs/quest.jpeg",
-          "streams": {
-            "HD": "HZ2:t6pt5st/1eLQ3YIE3fIgIcMHr0pCsz/hfA8mrafMoW6GSJ3qgwioMYNJUkcBTdykupJ9ETemGoL4BbsE3iBxJKaZD4M9zgAs5PJrPByfDv4mbZTAWbrF3g=="
-          }
-        },
-        {
-          "name": "Quest Arabiya HD 5",
-          "logo": "http://pro.netmos.ovh:6051/imgs/quest.jpeg",
-          "streams": {
-            "HD": "HZ2:T1fv3g6CL0neLXbOM9qJ56NvyLlijFx5RwYAgPDgVhlpU6vKGiFhxx+kyjek9KLsRNBngXk+kRKYHmEwikSyaxeH+redvqE+/D9qFj56XExzJ8B9oWZSHg=="
-          }
-        },
-        {
-          "name": "Quest Arabiya HD 6",
-          "logo": "http://pro.netmos.ovh:6051/imgs/quest.jpeg",
-          "streams": {
-            "HD": "HZ2:kB0DQWSofpIjd/cM/KpRiZ89vD7I71bXcd6Gd/qVitKwOIe2Wy055L67fsyHHq8DdOyoH7SUxgJeTIzZ0azmdFCrth6l5zOvDYRl7lSBIKgSa2MrTbPGSQ=="
-          }
-        },
-        {
-          "name": "Quest Arabiya HD 7",
-          "logo": "http://pro.netmos.ovh:6051/imgs/quest.jpeg",
-          "streams": {
-            "HD": "HZ2:U3jjNRLDIwRiPDikmEyLo+6YWc/T0xT3HGRkX3S63Yo7OQGHitILkMZ7etfEOihaKCgkc+ZuzodyHmPs0cT66B1gXZo4GEFrk49C0cm6hz5GcuTxNVSP6g=="
-          }
-        },
-        {
-          "name": "Quest Arabiya HD 8",
-          "logo": "http://pro.netmos.ovh:6051/imgs/quest.jpeg",
-          "streams": {
-            "HD": "HZ2:7NZ19S5ZrNRGxDiTGVLbo+ry6f2NqrqRC5zMidxnDWNl9OZQo/VNdVdZTmSyipuAsoU18HaKvtmHN7cOxlJ5fOah46TaqIUOGSobLiAYfu9sIW3lFsGG7w=="
-          }
-        },
-        {
-          "name": "Quest Arabiya HD 9",
-          "logo": "http://pro.netmos.ovh:6051/imgs/quest.jpeg",
-          "streams": {
-            "HD": "HZ2:tcV/0TVLEYnq2LCNgnIXPzOAR7Ac+0+ejQ2k6xST+UyhBBbjRr7ekW4S00Qc65YLeKYwkLHs4lzY9Ar6Kvtx+oJIbT+vgU8R1+pH5caS41OiKi0tlNa6YQ=="
-          }
-        },
-        {
-          "name": "Quest Arabiya HD 10",
-          "logo": "http://pro.netmos.ovh:6051/imgs/quest.jpeg",
-          "streams": {
-            "HD": "HZ2:p1QUUB4qPQKwpsd9cZbcOhWnttpyabXb9FhBtUZ3vGrsA/rpo8Grjfn5By+CkpzbStsjcZl/fhRCn1xjqS2NZ1qbBhS1SudphsEnnbNFYmvd8e+474HKTw=="
-          }
-        },
-        {
-          "name": "AR: AD NAT GEO",
-          "logo": "",
-          "streams": {
-            "4K": "HZ2:3dyYuvnraoABIptou2rSVsYC6So+hqDzZ5VRZJq4DNo7vMcXQz7nYXOwSpmIB2D5DTfPmUdyhDhl754IfrTAH1BFxky4u4R4XFcMRjMJZF0DaKnGCqCExg==",
-            "HD": "HZ2:izypqse1T0qXk6Ir0DmZY33bGTgUifWOrGIuzEtFzWMcEVRxW3feQdUkEuZ/E+BAyUUEsVQNL2ah6PUaAhK/iBX9wisRjTuqLuDGoJnzyGXeKculQ87DXQ=="
-          }
-        },
-        {
-          "name": "AR: Al Majd Documentary",
-          "logo": "",
-          "streams": {
-            "HD": "HZ2:6+wZyDA1kjkVEa/3G6iw62oHHNwvTXJ2modZH+uCqwbw+FteNQIs8lsofZPRkP8fu2xB642U9VdrEKuoyJpNcVWuehVvcd7tCU7KY7B9oUOpMrOdOizY8g=="
-          }
-        },
-        {
-          "name": "AR: ASHARQ DOCUMENTARY",
-          "logo": "",
-          "streams": {
-            "4K": "HZ2:MMKLtv6vGV3DMFTJ2iVrtoOzGkjoESv1LmDXEyKpJF4AqMB0hSAW+O8s65W4GwhuPnVnjx6CPW24pL+LyXTtlZZ9a1l0Pas9mk32HCjBL5kGFnk0f4to5Q=="
-          }
-        },
-        {
-          "name": "AR: ASHARQ DISCOVERY",
-          "logo": "",
-          "streams": {
-            "4K": "HZ2:yQSacpZL1qXhFEQovzlexiqndDtG+tdpNFF1JVGW3LQZhXwHhCDc4Ze7/malJ0b7GV4xHMj3SXZDBShTjDEwKoQeIT8EndDNQhXE8/59lwfTH1ts9NsmtA=="
-          }
-        },
-        {
-          "name": "AR: AL JAZEERA DOCUMENTARY",
-          "logo": "",
-          "streams": {
-            "HD": "HZ2:fADpMD3krZ7gZUXZsicF6bZAQVY7xJv4kvK+hQ3M/UQcM08MraCHswFCQz8JMqrKe68JkbobCNBBmLu/UM/36vfl/uFO1EOMJz+t7AN+WFB6A770VRNdaQ=="
-          }
-        },
-        {
-          "name": "AR: ALWATHIQIA",
-          "logo": "",
-          "streams": {
-            "4K": "HZ2:+yTGABV+tFrgVWQtKJlS14UD4hQUFnIl7JjmOFJ+6oGo8MV60u53ZawObMKFnXIBgTN6bJPMzZdcxO4yeNmAtcCQho2GtdmS3NqfdRKL17R6h7Zn0Dbakw=="
-          }
-        },
-        {
-          "name": "AR: NHK WORLD JAPAN",
-          "logo": "",
-          "streams": {
-            "HD": "HZ2:kDWfIag9gT355PjtwpB21ruJhsJInarItKDZ3IPshrLJAcws2Kz743zFI7CamI0OOdKrmPKqdhVjUamB9TQKP8nfrjND+k6bKXEsHDDpdVV2vlhVVpO1xA=="
-          }
-        }
-      ]
+      "channels": []
     },
     {
       "name": "MBC",
@@ -1788,6 +1270,143 @@
           "streams": {
             "4K": "HZ2:hgHkrs8N2A3IgXNF/K+AuqO+kJWbnFXOfVZ1J8u2BDf2seTZXbrXhSAhcIH4J94fGvAL+ajvSeF7WdlQORwMSdmRyy87+8mj/sIsYMrLm/nQbuayI/R65fCPiu/ZJHE=",
             "HD": "HZ2:grDgvHoU/854tsNJ2O/MBWKliHQkkBRVLgUVwtbp/8Z5jQ6RibXmpsjPSq48An6ZJYgiXWrRxDg+mb1Y8lWVqFxPtPqj/1mxDBKPq3NU3UUmQD0OzHK0LgvkDUz47E4="
+          }
+        }
+      ]
+    },
+    {
+      "name": "الدوري الإيطالي",
+      "channels": [
+        {
+          "name": "AD SPORTS PREMIUM 1 ʰᵉᵛᶜ ◉",
+          "logo": "https://i.postimg.cc/c1bftNwX/Ad-sports-new-logo.jpg",
+          "streams": {
+            "HEVC": "HZ2:THt37Ii/cTx9J0MMkEp7ujP8Cz5oG+vadAuGn9bleQM6XAZbiJEv8XYCngtFzp1KUNqZNaCvTRJfsVziggx4ZQCa/ij93+VtXgBFoljCyEyv4dtgwtOvNOClkgyPInQ="
+          }
+        },
+        {
+          "name": "AD SPORTS PREMIUM 2 ʰᵉᵛᶜ ◉",
+          "logo": "https://i.postimg.cc/c1bftNwX/Ad-sports-new-logo.jpg",
+          "streams": {
+            "HEVC": "HZ2:5COh1ktCGbonZv55ndE92uB5Y2H2FfjoZ9h3dZpMGW8n9unnDv/Ui6V0vg0/bWHO1CHiZk24tsFjwaOaB3Yp00szFbOiiNmw9alUNA8nd74m4dorv2OUcQBWJTJAuAk="
+          }
+        },
+        {
+          "name": "AD SPORT 1",
+          "logo": "https://i.postimg.cc/c1bftNwX/Ad-sports-new-logo.jpg",
+          "streams": {
+            "4K": "HZ2:Axvn79a/ZpDp04QyUwvJy3cr27tyZFCk2HWA2IGUZePoV1HaBeE6dLAh/VOcbCoAcFCRfLevx8WmX5FB/yCFcvA6n+8wSuYs1nd/pwKr3eid4xQTMSyyLcJl9tXfnoc=",
+            "HD": "HZ2:DffJ5Qr13hAZzCxGlAZmyetOWYvzeUV8hHXjjhd/k8yApvsbMgdBBaHR+8jFChzVL8Up7xXiWNvfn6PBpAzO4SGvH7Y24jc+anxoa7sRnNOA9Qc9WBtKq0XUiT8uCvs="
+          }
+        },
+        {
+          "name": "AD SPORT 2",
+          "logo": "https://i.postimg.cc/c1bftNwX/Ad-sports-new-logo.jpg",
+          "streams": {
+            "4K": "HZ2:+2bTbuapgEBWJ7ffjEB/TlzzZ2yas0dHMlpa5rhNax4OTYoGKXoH36WLh0kcd5IIJdgeGXz/FYCkQvgfNxhdKONdhvrKsGt0bSv6NPc/rp/z5/iwFVZfoeicQN0t7IE=",
+            "HD": "HZ2:iAKE5LHt/8CbUUPF0RRrG+5L8QmRnXV3YDFH8xni236lWFrqbCT+oi9/UgWbmlNHQDma1EHgjKHdX0fy1+gZvcZ/CH2xWGPTaMtaGjppTHPiUNrEssTCwfSK0JgQA8g="
+          }
+        },
+        {
+          "name": "AD SPORT 1ASIA",
+          "logo": "https://i.postimg.cc/c1bftNwX/Ad-sports-new-logo.jpg",
+          "streams": {
+            "4K": "HZ2:tXEeTTerjqQhJ5O591dRwSE7E70xoMaHaKm9nzFuwTmVCpeHE8+BJEvhhA3larLqG+HtZ4lNKPas964R6d1tfG4XSAjV1nsnQu1E14f004hAhLjsjGK2g/lpMjlqEu8=",
+            "HD": "HZ2:D+5bI+fht9ykCIfExqZCswtAypJT3czBHBXRoiEjTjCROCw/BvxTCk30HiBwagQsZLBJjkeP+j3/lzHl78uuJJyFyoIUfjaUM3kYM96LHsThpQgB57+H601OhG9ylNU="
+          }
+        },
+        {
+          "name": "AD SPORTS ASIA 1 ⁷²⁰ᴾ ◉",
+          "logo": "https://i.postimg.cc/c1bftNwX/Ad-sports-new-logo.jpg",
+          "streams": {
+            "720P": "HZ2:s6b20DhOXjluJEbIUEqCxVB/RX0P5pJc/0oABSYk0YPv1HsqKfHsbJUDSS+V9nf9nwDPWhu2IUw2XnEPkxl2E5QYZ0TSyLegUsa5XjdvpDME4VJSSHD8ex3AGlbEWN8="
+          }
+        },
+        {
+          "name": "AD SPORT 2ASIA",
+          "logo": "https://i.postimg.cc/c1bftNwX/Ad-sports-new-logo.jpg",
+          "streams": {
+            "4K": "HZ2:Gcqb6PEoEpq+GaHMUdTye34B3rU/QxTw95S9dg3ffH3JQJtdCOGkzNQy3gTmtGCoumJK5zRGdapwC8hdmC2HmMJD+meVqkdoXUIFvYSC+MpdpM0luYtPMf2HrBwgobc=",
+            "HD": "HZ2:8GMX8KZf+bSxqZXrPTRlecnuGgG1fEkgyHSH2pglDJzfO3BTxbqZImPF1jujYU1ECuePRid9jELwylEITyk14w7hK6ktAFEFzQYb8/Iz9Zr80uoKndfQqNHF5HeDWWM="
+          }
+        },
+        {
+          "name": "AD SPORTS ASIA 2 ʰᵉᵛᶜ ◉",
+          "logo": "https://i.postimg.cc/c1bftNwX/Ad-sports-new-logo.jpg",
+          "streams": {
+            "HEVC": "HZ2:sAxGYIWHG9DSwPISMJ2WNOMC920pedPo6YaEl4Lw75NrYr5xJkdzvV/F+esMMVIwVRALtJP+IF81FRO8aqXKwpfyriHWVqJfKqllED1daa8Mg9X0tGKEYnv9FhlcG3w="
+          }
+        },
+        {
+          "name": "AD SPORTS ASIA 2 ⁷²⁰ᴾ ◉",
+          "logo": "https://i.postimg.cc/c1bftNwX/Ad-sports-new-logo.jpg",
+          "streams": {
+            "HD": "HZ2:mnfBhFZCGe5g9hGJ6N8qF08I+tsle9c6MJPV/vSoRElwzMIEtb8uuPa1EVFm8JJHU02/DpCL+9THnQoah7VnZvIxRplQucr+yiuhnlX+k2VH6bqkArX+CxnKR75uDNk=",
+            "HD 2": "HZ2:smyE8w5Fmkpt4jxFkyLRTciaURkOOAFpWm01bodR7tvbygUkXjos4WHyqu4nIbvcf+SQL+2YqrdIIqcJHkCFzlhEESqh0b/4ZpDUQOp7Dpq0PgHGzFLBRoCPB8aKv/I="
+          }
+        },
+        {
+          "name": "STARZPLAY SPORTS ◉",
+          "logo": "https://i.imgur.com/LCjpNSf.png",
+          "streams": {
+            "HEVC": "HZ2:o99qaGfq3kYn7Vcvyl3nkuuVHUqe+7EBwvR3Q++Qy0HOIseUuVGiOvIzSx9IvtSrT42F7SWqNViAETq0B+TJW5E0VSQJeKOAOmk5ethzRzn+1Ounb5mPaIJKMdX+Znc="
+          }
+        },
+        {
+          "name": "STARZPLAY SPORTS 1",
+          "logo": "https://i.imgur.com/LCjpNSf.png",
+          "streams": {
+            "4K": "HZ2:+ujAfh620tvOQ9BjqTCTYa5N+pcrcYB5Xs40+/PuTJOib7NVP3SEa9luQJs1AFhxew9B71udV8f9PCmWBYP+lWpHtLZTNoK0IW0tvU7iF/rKLu9qHWnls6MuEKell/c=",
+            "HD": "HZ2:45eI4TTtUwfqjqRzgkrkh4411dyQngkNu/n18CB0gFYGmIaB16MB78KIRmbF06PLN2WPxyaUP4X+C5jZEal4JPaYrmvutnsS5zASDN+glxrp81XndfOiq2Yn39NVFSM=",
+            "HD 2": "HZ2:n2ewIyq3mLzUCRQueJvatQLO5eTNcPe41itnFUFxQ36n+v8uN2Awq7iaarhpC6H8I45Jvwbvr3Or/mEae1HySS5Hytheq+MNEHb0Tp+0r+KwE+qXdbLpNYokTyWAeJU="
+          }
+        },
+        {
+          "name": "STARZPLAY SPORTS 2",
+          "logo": "https://i.imgur.com/LCjpNSf.png",
+          "streams": {
+            "4K": "HZ2:yx7JihrtiqFWleUVgEY3VWNoptF6RXN9RB7Jju7LrsJgVKyNz6AXj7nGGo1TNOmyHQ6koMA8mHUHIESaQ289ic48D7Y/wEQmbD5xe4TnrVXgRpypZYzpiFNwsjz+O1E=",
+            "4K 2": "HZ2:AnJbf+r0M0Wp/rJFVQ63q9BW/JmYx2R7+5ltN4BeeL8DtN7gljlaWbhImdPCBl8zOyptygKK/lSUv411vkN4gMzKdVbaeyRqozPZ94nqSylEQ3c/StZl8SGFRl6GuUo=",
+            "HD": "HZ2:z1kv6l6voH3t6G6VLokFusRQjNlaFZVbIgsJa6u66jOi3pgLgaIvnjr5wkO7/CF6Coemaf2lwXvINNqelEbTTkGLjRxcjwE8YZwJHaPkPISCVoDMOr85a7qUQFZo0Oo="
+          }
+        },
+        {
+          "name": "STARZ PLAY GOLFLIFE",
+          "logo": "https://i.postimg.cc/c1bftNwX/Ad-sports-new-logo.jpg",
+          "streams": {
+            "HEVC": "HZ2:eYNyRibsXe2R3On9b9H+XmRFBnpa+oT1LdWewtcfdGv9BXfdge1S2FXe3jLIGkfnPqxkzNRuBKLYZ52FqwKShNUvkoXcJYyx57BcLoo3YGisgCmi1mqOLrgkRG/g7qo="
+          }
+        },
+        {
+          "name": "AD Sports PREMIEUM 1",
+          "logo": "https://i.postimg.cc/c1bftNwX/Ad-sports-new-logo.jpg",
+          "streams": {
+            "4K": "HZ2:Q585Hx9XHLCesrrzULO22DU8WieYF9F6Wi8hHMZy3yTjnbE83AdYx/OQBCF81AScF5UZjsF9rmTJk/riLgX0VWKg+yqasYRxX1/Qc86pG44I6fTd7v3bpQmGwJ7Iseo=",
+            "HD": "HZ2:bgj/okaKD+brxHHDExMSEelPUaClnbL4ZskuN77aN4byFvCjfRXSUSDqNmwRNzWXcCsTjP5VAfGnmpGs9pLtJIxxITr4JWUK+YmLfomZEiGQWBlw5lz86gPpxzRd4ww="
+          }
+        },
+        {
+          "name": "AD Sports PREMIEUM 2",
+          "logo": "https://i.postimg.cc/c1bftNwX/Ad-sports-new-logo.jpg",
+          "streams": {
+            "4K": "HZ2:R1Nvb0qlQFK4oHdCijVlmIFyoTZLHEPeQ+3q2w52ZiVmcUVneQWezSOb13bf00NoRzJ/LN+BTIE/Ol9cQ5WAlGbtd6RM2ytVqOrMBuuKAlCIUFoFYPcRKLypMfnCGoM=",
+            "HD": "HZ2:P3ynEMX9CecNJpidjsvT/VU9Lg08WwR9VRe9yfbwifJCCL1oIgeFL6Jf1FZ24v4kS0VZiu/g6BtREhaMGgSc/83yPhShHAQ0moFrxKBV9WwkT/zjoYxra81RZtnpbrg="
+          }
+        },
+        {
+          "name": "AD SPORT ASIA 1",
+          "logo": "https://i.postimg.cc/c1bftNwX/Ad-sports-new-logo.jpg",
+          "streams": {
+            "4K": "HZ2:l4WJ6rowvUIG91v/WpK3Z0bJe8SqoEbl5CDkuij4vDmV7Mh4K/o5mNHisGg112g9it+AKaF55bjW1r7twVCm3voZ/anxg5wvCOROgXnXMsNtLuiFFaZnJV9b9d4XRJ0=",
+            "HD": "HZ2:PoWCi0OL29iWz4SsJGyy937qTYLKm65JwTdcoPddPzMevAREsiBkfuAGhMjH5wloR822rIQxrk///UgBRlAwmqB/mxhG5Nez+poHYanKF6hC/T0nRZBWVviyPcm5+1o="
+          }
+        },
+        {
+          "name": "AD SPORT ASIA 2",
+          "logo": "https://i.postimg.cc/c1bftNwX/Ad-sports-new-logo.jpg",
+          "streams": {
+            "4K": "HZ2:Ql3GUDVpivpoxFrER7k4tTiTOdMlywSOsyyOKZs/UmWpGmduJO71tAxn7Y2gWhmyM3oJ9OVuoWZU+grpgEfRfEJP/pV5E1neLZquub2xl4FWAVIziTj3E/xPjjeBFy0=",
+            "HD": "HZ2:1lGc4tHux7/weXNzPbUes6pWBIqquBfsWmp4GNJCxAsInYaBCbVRFcPIftmUb8+fAEt8rn/L9CsZO9LC5C27mimedtkzl0Tlt5r3wWPW7x2E5jhG1EdXz9Bh+TOulX4="
           }
         }
       ]
