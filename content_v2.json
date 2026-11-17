@@ -7,14 +7,14 @@
     "apkUrl": "",
     "notes": "",
     "com.horizon.tv": {
-      "version": 290,
-      "minVersion": 290,
+      "version": 287,
+      "minVersion": 287,
       "apkUrl": "https://github.com/Mqj20/horizon-data/releases/download/apk-tv/HorizonTV.apk",
       "notes": "نسخة جديدة جاهزة، ثبّتها للمتابعة."
     },
     "com.horizon.gt": {
-      "version": 175,
-      "minVersion": 175,
+      "version": 174,
+      "minVersion": 174,
       "apkUrl": "https://github.com/Mqj20/horizon-data/releases/download/apk-gt/HorizonGT.apk",
       "notes": "نسخة جديدة جاهزة، ثبّتها للمتابعة."
     }
@@ -663,155 +663,131 @@
       "name": "Solo",
       "channels": [
         {
-          "name": "SOLO HDR (HLG)",
-          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
+          "name": "SOLO NEW",
           "streams": {
-            "HDR (HLG)": "HZ2:aT/am5QRhJYTfp//tiRCjERkFhoGpQP5ViI/m+m5Q06H3+BQE7JbxqCpV3dZYfwpvhpnl4m67qmAk6PrY2auXmzToH8IFCGgmbqs/trAz89vADqmZyU="
-          }
-        },
-        {
-          "name": "SOLO 1 HEVC",
-          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
-          "streams": {
-            "HEVC": "HZ2:2aDltMBdFij7QmGuz7P3XS4EIYPys8V6CdbYdLVKWlEaJ1wwjDJor7rBJNT/4i0hq6IfQhH3d0B6Pr0rlmHN3c++HD9Gs9VZgwDqJP8OwtGROgBbGyI="
-          }
+            "HD": "HZ2:sv1G2Z8ngqUn6xsuvg0ga+q43N4bc9XpWa8tdFHHzDhWDBQhpWF99LmuiR9oK9S3klIW+QJWYdI0fvtDO95tSweqDH59lTFJrt7/RlKe8TLpSW5laizmsVlTcTBKuiIHfhPN"
+          },
+          "logo": "https://i.ibb.co.com/wZtLwqnq/Screenshot-2026-09-24-141949.png"
         },
         {
           "name": "SOLO 1",
-          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
           "streams": {
-            "HD": [
-              "HZ2:TH3aR2NGiUwm/1Jeohch0ZjQSPR58v1QjFrS7igLaegVpwNBY+yOIkvMgT+FfQ1THiabRNsSyjIodVTCRs7JBXoknm0SDnvPXP/1KTsyfGfBx1HzKNc=",
-              "HZ2:qT5MVfa/lZmtQ7rDxEQpLGz1y951v3IKESANo+Jzxt+J/nIh4co0HoaFksnYe6BpnCilAgm5jS+VH73kP08TJeDXtPdIXY6t0DKbC5MFonirBhoXBAg="
-            ],
-            "SD": "HZ2:cOVYNnAo+qZ67ctwbqKV80PiHQ6MW1IhHwaFNv7xGRGy2yg7cBF0saY6XSGo6/jNUOdgWmjAWGoUdNNk5K6wMONno7wea7hfmmsOfceWE5AMPGOQnb4="
-          }
-        },
-        {
-          "name": "SOLO 2 HEVC",
-          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
-          "streams": {
-            "HEVC": "HZ2:CrHmqtrFkVw4uBp/3fTnFKVckoaDjDATPfaU6dE20MtNGm1nMqfy3pGMk5Ttn/2nQv5CRZmuG4n36Ff7Uiz7pr4+y7F2MJcvpr4cW9f2K+RB+zkxHTQ="
-          }
+            "HD": "HZ2:7ZA3Kcm+T7qUU54kEpFuVZrdDkXkICZ7kqTRDDuLkhfiC/6HpPt4/fpJG794auZXhw4Mza59ZchgIiSlqdXFeVYf2mWHbc5YMzXMA2oEpv0L6fJiDJoYELi2lzRqfR0QkG2E",
+            "SD": "HZ2:fIIBqbzrSxhp+BmxbfRhzlncNgeG4n7a8buLMZg6utoBo0QseIoxrrhyQb7rjmNlPiP8+t29rQaiS5SF6FNiYiydnd/QzhB9dIfUzAsElEqNwVqT277TQOBYNt9tzoD5fgsv"
+          },
+          "logo": "https://i.ibb.co.com/wZtLwqnq/Screenshot-2026-09-24-141949.png"
         },
         {
           "name": "SOLO 2",
-          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
           "streams": {
-            "HD": [
-              "HZ2:iVvialZjEwf4tEoTVmu2gApZs23cIwMaLAL0HgNfGP8x75RinmJtF7NED7Oa3u1wo6NsgG1zcmPF8A6zGc584Wt4ooLv3rvaBsvVLs4Jw/4lANduDc8=",
-              "HZ2:fuSV7oOM0enUq2yNP+eGyQaBgjM3dHBHNKBno34utYIqJmD5DX6JqllzGK2RH/T7zbr1xsAiHSMdxZU7dYJASqgyxi6JeVe+s17NhOh7OT3qGE0di5k="
-            ],
-            "SD": "HZ2:2vmgjHiuvkiY9YUoZrhxbFiMe2+AqrE0Ja8wThOZRK0HMcVQ1q4jDYRXjgGYqjY/DdtRaBs6fY1vPPL+CC8kYHUgwh+G6gwqK4E4H1rijUnu2QGdoO4="
-          }
-        },
-        {
-          "name": "SOLO 3 HEVC",
-          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
-          "streams": {
-            "HEVC": "HZ2:s0c5kfI+GKeyVxaBqNjyV+GgPegJk3ZdJ10OfkBLAA0SfD4/VEs4hrcDpxwtccs3s/cSPAREh74/dpdqR97FDgdtcWGOwk/am9Dz3LZWpTwz2/up8Ow="
-          }
+            "HD": "HZ2:+xnkchSWifTElqnraRCkz6Fasd3XXxlsEwplZexAjUla6wzKLk04nYmUw9xbHy0QodxB08qx5WrtDXAtf9RSZoF8jQ20EwinHZuGKBUI6y5gaAhkM4mthHzxboMDibXgofDO",
+            "HD 2": "HZ2:AunTDIBWXE5hxLBP9Ecl5Rye6li5pCOOMeNkHpBOWZNlPfJ8m8V7KLGaXz9uCJ/PWqERoKSz3zock7uE6UdJRkCbIOdm/IGuiddr8US67boerjHmLB8aX5g+P9muTDOGYFjP",
+            "SD": "HZ2:/QOPzxoX3lcQtOsNjaqR0QyvD5GTX/tulrbzVXjX/6XnL9clBMmOCrdo6B8QO2xNzM2TbVV/8myFB5f7duMXJ9Xf0FwdjRusjvUQm7rkEVRHjeMk4h6SR/Uz8DDzt4pqW91f"
+          },
+          "logo": "https://i.ibb.co.com/wZtLwqnq/Screenshot-2026-09-24-141949.png"
         },
         {
           "name": "SOLO 3",
-          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
           "streams": {
-            "HD": [
-              "HZ2:DH703fPKC0HZa0i/iXuAOLILR9Q6g+InCre6p/9DFs+Zsx8ZgIdCtfrozRAJQ2N9kDmdalFWjmO6Jc2T1JFYjM/aBIkYCNJapeAWD/mOaP2X+9iOOJE=",
-              "HZ2:lK3FaA23AyLcdLxDZrg+47npV0SHD+P/i9ai/1MdRCt3ZX2g4CzfQl2+WTrAtBliadg3J+5SpnARS4Szm5QebcCzatmLhkqo4i+9uh/fJjM7lT0HkYo="
-            ],
-            "SD": "HZ2:tXgWb3HjA0pod57I6libZdwoFeyqWtT3lQDMkBXjs0mYgd3r4B+Z54zAUL3iljNXXDjzcMZtO0Xt4N9SQk4P3ZCsNA5wNgMVqHeHoTObJt1pcdHNBGE="
-          }
-        },
-        {
-          "name": "SOLO 4 HEVC",
-          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
-          "streams": {
-            "HEVC": "HZ2:P8oa8Kzm+rYWjyOzsU/ZMTkPUnAcRaitC5DBfD1h/nvAW0CP1bGfeRup710i04pSwkW1quh45q2vgw0MkNpH1GqUvFWNeR4a2twfhiegcZWoFhaB3Hw="
-          }
+            "HD": "HZ2:z2rjUmqO5O0GGI363sHw5SwhFgrFwgAKkjeTLcqQJMKKtl1l7os6b/59VNmC66Ckti7HnpQskRi8ArwuPWYSQq+hPTA8t3A3jHiwJus4QZnRcDPXiALsqG31G++igtyEx72m",
+            "HD 2": "HZ2:5gzvd5cdA3408ckMU79M1wTU4YVI1mrNFNtMR+tYWsw5Qdv3DOev2AwQ++8ks1g49/CTWYJ2WPEgxu+wJHcTCx+42CRHA112BbioGlW2TECiaZIUgizf9VPADjO0YLP5+WsB",
+            "SD": "HZ2:zUxglta+K2myUSsfR4kFsdrnnPyycwzH9DzlZTBVYrxomlLlslMhOnIMbjyReZPqP+vEYf/hWURJ1OoHpn6SRJFSy1cmzFdaTi/w9++RRqtx+f7hl+8UiIZaHJhIDZAgsvP7"
+          },
+          "logo": "https://i.ibb.co.com/wZtLwqnq/Screenshot-2026-09-24-141949.png"
         },
         {
           "name": "SOLO 4",
-          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
           "streams": {
-            "HD": [
-              "HZ2:kFSK0exVrkZ2awdFPyYUiW/6g7MwDreTMTnQo3f2d5demuPjDB3fPG53Y/WNAoEr4+6iP3Bj3Wh9tzbvoAiHadPadCS+FHq1llcOtnNHjPhcxPt95BA=",
-              "HZ2:mSV3TzQxcCGKUtOovfoIoGUUd+bTlZWD4bvZl9adGfzgWU5lptD7upDIvlHckLg11WQGd8sJWz5JhA8AVgmxpvkA975qiIfgKATZJilDsakAXba9JjA="
-            ],
-            "SD": "HZ2:7azbJulJqZ6Z+46rMG8BquHGQmHbxo79BIFllqXgOInAvMXZR/Q/WH1X2IRky5DaDD4H9zwTYY7bHXvnPJYu7P+EVJLXifS/zO/2PTzE+G/bp+9RP4c="
-          }
-        },
-        {
-          "name": "SOLO 5 HEVC",
-          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
-          "streams": {
-            "HEVC": "HZ2:BpjoZRDQ0jhT463LcCnH+tnMslO8HuS3ps5+Q2rEF3cSGEZLecZRC3nTFuthaoGwYpV7IZUi8wkRF7m+61NIZnfdzvUNi+XFr8RGLfX6JJwLwlCZPWA="
-          }
+            "HD": "HZ2:kt6m9Rs0SOledEzRimZl3m75R/itukO1OdMXmC5irc+N2vevVuo4y55neBkCUzKHGCcztVAWzW17Ds5zqtZgGPJ9HOAAI8NkHctS63BZLtjNwsXMZj+I/m05+Ar/3mAHNNfK",
+            "HD 2": "HZ2:VOWcadXXfteSDWN29wz5o95EO9ySJic6WLhWYaU9n1RYTyJRyXDUhnXnbCA7Gr4P//P6zFToCnXd+kz9hYhQqEdosyiMwPh8QYYHaSMvK/4K5CP+lrQgMyYq1aqWScCKKunu",
+            "SD": "HZ2:AsSRYazxaI0YqFC5JQZcvpnc77yG29nGdq01MI8fmprIM9RQ8VWVnvzJCkBGiFISHlWG81uq9j0s5HyznpyBJ8bUF6BV3/TA6a/Z3zII5oXN5UK8d8YKZn980woWocAAvgEr"
+          },
+          "logo": "https://i.ibb.co.com/wZtLwqnq/Screenshot-2026-09-24-141949.png"
         },
         {
           "name": "SOLO 5",
-          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
           "streams": {
-            "HD": [
-              "HZ2:GKbJZYC1oJ52Pj/u/+OrQjvUo8QWIPoj8Y+C9hNuvNR6oXnsCO3T0WCjaP3dy1Ymgh2zTP+X1zqErHybo6LO/OV0QhL1vMMO1DPCJASQdzOsOZX6Gpg=",
-              "HZ2:gwvqhkBI/cmuJqLTjqtKXCLqEhejH5e6SsHS5FF+wLDXH/HracQltw+jvEFSvU5M6h50LiamN61pgTPLv8lbam3VvVKlV0btR08Xs4lbeUPB0jfVKY8="
-            ],
-            "SD": "HZ2:fZQBtOgNqXWBA25G16ZIAfgmY8FEpvY5e+J97L3qzUprU+wa3IkyfpTF6Xxcy6eX3awAj+pnfZ1d92o1sgMRIoa/EyP7Wt6vy4wLMToy+N4ofrwHYvU="
-          }
-        },
-        {
-          "name": "SOLO WWE HEVC",
-          "logo": "https://static.wikia.nocookie.net/prowrestling/images/8/85/Wwe2014.png/revision/latest/scale-to-width/360?cb=20141225161923",
-          "streams": {
-            "HEVC": "HZ2:SCCQ0EzPv4aPoNcywUoy7o/zE2zuADbABPqofD/pRrn33g7Ek8LKRNoyg5EzR1NEHTJLHzrII5ennsYtCPKk5I53izQdM/Hc4WA8D8VyNFekNne6W9c="
-          }
-        },
-        {
-          "name": "SOLO WWE",
-          "logo": "https://static.wikia.nocookie.net/prowrestling/images/8/85/Wwe2014.png/revision/latest/scale-to-width/360?cb=20141225161923",
-          "streams": {
-            "HD": [
-              "HZ2:bvp/JF8uRzPdFW0fqhJFaJJVQjytjCUclu1jhvnDHqCaD4ye2MNKSvf9sBJ8wTAHogFY0UEomKIiFn5Z/Bh4n2Jzar0/a/6SAs2wi2IEBTrm5MiE7iw=",
-              "HZ2:SfRL+afKBu7amwF5ovp71Zbb6w//V0GCAASgbOFTzdi/fwG15cJ5mA5EnzSSO7szri5Y6RnnUCyWHiAVt7gbDAv6sdwW0m2lXGm0B3U5JzjPN0Tiw1k="
-            ],
-            "SD": "HZ2:s4vj+NZCmbsYc7NctIGLubxHMDLsdaDm6lCZjq7xVWU4BP8KYdaKHY0IEVk5H5yUweHWTS+b+RYVyefspxJb3eHtCgFLHtzjK9HLdPhWn1Sp7wj8WCg="
-          }
-        },
-        {
-          "name": "SOLO UFC HEVC",
-          "logo": "https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png",
-          "streams": {
-            "HEVC": "HZ2:3Ngm2L5KRy3Z2uSJiWQibxNupD+5s85L7OSmEWj6AMNY7OD99YL9smrmXMmpC4PA0HY/ae80RQWRMCxRnXfmYWtGPELm05kxCk5jJRz1mOcqkioEkhs="
-          }
-        },
-        {
-          "name": "SOLO UFC",
-          "logo": "https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png",
-          "streams": {
-            "HD": [
-              "HZ2:9BB1/bY19putWY8s2Xk3vhoOBcPTflcXTy+rmabPLk9KAyQqv9lQts+QrUpuK6U5XvE2rQdoQrdJoLwywOI1ZSNWvF1ZV9xfJAqxdrrbD9hNlnWKg6o=",
-              "HZ2:OwlUPp6LAagD4nHDLFTgD8AoQNk3uANtYk3vxtxCzF6HRrvwlnC9D7k/NO398PYLx5pxzF20t03/1ssNnX5jeAoZc0aENmYTRKsHplZNX3u/jEncDCc="
-            ],
-            "SD": "HZ2:bzhBvhosNJUFIm6sXJQCytejdK7ZRXIh4KSvG3CaZw/w1+xkz3+VHC1Ce93Uw9DEZLmJ4RMAMgqDbVxUFqa50Id5W45/Lp6KOS31w5vgG+6nhB+cCT0="
-          }
-        },
-        {
-          "name": "SOLO F1 HEVC",
-          "logo": "https://www.edigitalagency.com.au/wp-content/uploads/F1-logo-png-medium-size.png",
-          "streams": {
-            "HEVC": "HZ2:RhL7v16TlG4aUHM4Duj6/B/hhVa5Fos0LdHgbHIROAVDWgP8+jpbdI6JifqdVbh30Aymx225wRTr0KgOfHoVju7y+WF8j6ywx/DFSwoGRqV1WraYFVI="
-          }
+            "HD": "HZ2:83a+u+ko/gYG6hzTqeqYlI3bFW4RKM+k/pcVOmpYcIXxU3pYojIEGnJxZossbSZd32RGKXvcZFNo8H69Tk9UmDzKMjYSjRPMDWim7CwF8Dfy8IKgyTWIezzt/S8JdGiazZHS",
+            "HD 2": "HZ2:oz6/KJbRpqvfdXDH/atfNOA+1Rt7EipbjoaDET/jiMhMutSM4CH0rc4zz+ZfTHvqawnK94H63s9gjQIa9FFQTdYyH9PV6nMdWYOu/Pz0Rm0eDAWOJ6hHb0EWnNVXnp8lHXze",
+            "SD": "HZ2:kcWx6jB4AJs2+M0Jpi4d2UITXzx48ZBmT6FqAiPA00Y5JJrvpq/ZdzvAr9qZu7+96C1/ryIweq8GlO/8Dy1gs0cDR52NNusOvdr+bMg1/l1Ve/tJu2j5cl9z0dhPmlZLwAf8"
+          },
+          "logo": "https://i.ibb.co.com/wZtLwqnq/Screenshot-2026-09-24-141949.png"
         },
         {
           "name": "SOLO F1",
-          "logo": "https://www.edigitalagency.com.au/wp-content/uploads/F1-logo-png-medium-size.png",
           "streams": {
-            "HD": [
-              "HZ2:x4Loe7QGt2cqjjuJxjvQsdprf/yTpaExrYHUj4RlEOJpLLIkl3AlI2qA8NxoNPxeDN6n2+YUFvQ5fPlbLdtLZWqbjAbY3AVJ7E7jEn2aFJNMDLh7QEE=",
-              "HZ2:2LcPJHyYaQcn7I+n7/bj+5O1vhs/BonOISewXvIrrnjHrC90XcRihvxKDj7sEMYVIyOpfLOzhl6UqnEQzWCs5PPqdlOwTL1zmdZ3dZuHeQev+IqYosI="
-            ],
-            "SD": "HZ2:FgrRkwirSZwBjtz+rKQcaA5gyzPvIfIO8+4VIIB1ON4MHa/q+LvTVDchrrTrr6QJTzO9s7zShNJu5oxKu8S7753vFhAGg0d2SpIcGxA0jKdPctzZEMI="
-          }
+            "HD": "HZ2:5cyKZi5fwNTQtnp0hE/XYUsKgRpt2pMaVi6qiHkoO73kg8VAzDMxv+PyDyqcRmOTl2Ue7qfMQXxuzVjfyTlzvbY7uGw8mQK4ueymBeQLVJ+LjEIxFXu5my1IjHUevaafUyYF",
+            "HD 2": "HZ2:CJ1eLyzjj+eMXO8YAip43z+HMlyKMIWNpWHKDzvw1JunJIUgZJfox1sD+aAL+iT5dG9txFvrYv37//oasOIXB5+2wOLalpfX3aPw0Rxc80WISwBqWk3kp/fRCF0T5GYRoi55",
+            "SD": "HZ2:oqwdNUHHPrloKKVhn09C57TwgqFbh92hq1r6HdCclHqdxBbd1BmnZ+rJvvrujTBH8hzXze1sDALeRp/PYgJUIe/Wkgu5Gxn479YqF2DpR3PbjZOdAfY4ucKum25HWdNmxWSh"
+          },
+          "logo": "https://i.ibb.co.com/wZtLwqnq/Screenshot-2026-09-24-141949.png"
+        },
+        {
+          "name": "SOLO UFC",
+          "streams": {
+            "HD": "HZ2:BuduQjdNx6R6iQ2xLrz0Jp70L/UplPRIaDKH86pI5nIkKL1OA1QuK8CVuMyU79Ci0etTMDQZsN971qluyQyEc21Z7xf3cirQJ7MILZTavyYWMi60qPqCW6p7cnz7WC5ed26U",
+            "HD 2": "HZ2:TbZliJgrurt1OXdyDLYEWCyiykOYzC/YqAqnDpUBJ+VpvhAoCR6uYflk/+HOqgK4ejLatqMKxSpDc+nQg16txiq/ED1qHJZPs1CfIWo+xOrMwrHuAksG2EY1sBQucyMM8+Kr",
+            "SD": "HZ2:5OWxteOb7ijh7311J3aKw5+vuZbC+LRzsBvIu6jlNr+IWrQX2zTbuJmKSORb7dBLLMIOH4WBggggibz+q2UXV7fQvZ7vTpV0tE6FyhZPtZSlWck9mjuLdoyDcDM3dFlCtFmD"
+          },
+          "logo": "https://i.ibb.co.com/wZtLwqnq/Screenshot-2026-09-24-141949.png"
+        },
+        {
+          "name": "SOLO WWE",
+          "streams": {
+            "HD": "HZ2:iDqpXuaUReey9lw+AbpEpvmVv/1BG7VovOM5yB/MIFb1vHxveqG4lqtUm3/sJTqci7+x3+QTAh3EEUfDR5FBBPsOT2KwGCYCsYMfWh8XnqQWWj9vm1+IHtHgJGDy5ZlfXC7q",
+            "HD 2": "HZ2:P4WPBxgBs5LzUi1WeDcARZMM3pcpevFFoGST/f5JvCWKf6ruyVGHlbWogzWSBQE1qL9SB19C53Z7ov3vLIb+tdd8YfgAQPLztzWKXNjC0WKn3Fr1ZiLsFNqc4h0zoc8S7rp5",
+            "SD": "HZ2:/HBoW3+CcZf1Wtti/Xb9kBZOpPyj4xm2UeHqjdoDwEo634t3HqoZ+5x66xwO12a1iL7YrZ/Ex2+TWstlDeYqiLwwGqppeeMLsJGZ9CHfdphzL9UnvEcNvVe4plgg5MvyNd/4"
+          },
+          "logo": "https://i.ibb.co.com/wZtLwqnq/Screenshot-2026-09-24-141949.png"
+        },
+        {
+          "name": "SOLO DRAMA",
+          "streams": {
+            "HD": "HZ2:WpGDduTK59IwXAFtROyKoeGeBkOdfS/zSQ4xZ8DqnQjoujsth/V2C4FiJJ5+XqivYOVaFKSbnOkliC9G+e+GM8bbU1/okTJkCTPZ3yebz1kWF0p1ZfO+/lOnY6OH3PKZs9EP"
+          },
+          "logo": "https://i.ibb.co.com/wZtLwqnq/Screenshot-2026-09-24-141949.png"
+        },
+        {
+          "name": "SOLO KIDS",
+          "streams": {
+            "HD": "HZ2:1irAPdlamkwI1tku5Bfh74NAQpwjjWNVL+kIHVDq8viewb9pTFcXdm8HggalBz4+Z+X5IbH7hzu5AImpDD1/D7Eq5Ewp4/AbHlyTPRLWQzCjOjheka0L/pId7NFhfinZzEcM"
+          },
+          "logo": "https://i.ibb.co.com/wZtLwqnq/Screenshot-2026-09-24-141949.png"
+        },
+        {
+          "name": "SOLO MOVIES",
+          "streams": {
+            "HD": "HZ2:hurTRkb2o++M7z2XmDyDtZPQTf6aS2NRo3KUoQvpIdvsxB+MmEaLMhhkOD1RLsWUA7r1RSba0fMjaFDIhxPhg+ztPa1oxZHbJQVtLmw4I0K9C9eJRf1PoytAfrcOXmlpU3V+"
+          },
+          "logo": "https://i.ibb.co.com/wZtLwqnq/Screenshot-2026-09-24-141949.png"
+        },
+        {
+          "name": "SOLO TURKEY",
+          "streams": {
+            "HD": "HZ2:5ospNE7guO9QnWPwi0HkvXAx0sPxwxeNgP5XPImHY15bEun5bCRNV3cOhJm7o6/I5P16V/ue5gcPR7IcZP2ZKMx4ZOOOWWqX45EnUgK86t8BHfP99FMVRvVt5Hjk55s9ADJ6"
+          },
+          "logo": "https://i.ibb.co.com/wZtLwqnq/Screenshot-2026-09-24-141949.png"
+        },
+        {
+          "name": "SOLO DOCUMENTARY",
+          "streams": {
+            "HD": "HZ2:9o7E+dPGpRUwPw5Ktsg1FQN60XwHJpb31YOKHDU498EoIdq6GBdAsPXj28P3rGYjnAL0G8oKdKOVrakNDxAepk6a1zGYbOnP6Y/2iDIuCYRIpGsXk7bu18lV/XMFmThIEF/y"
+          },
+          "logo": "https://i.ibb.co.com/wZtLwqnq/Screenshot-2026-09-24-141949.png"
+        },
+        {
+          "name": "SOLO ACTION",
+          "streams": {
+            "HD": "HZ2:gXEp6QtFpcyOxwqs3U8I4Cry8H8m7PsfCORgSqsWr/K+NMlrXzQuGt7fqvhGdAiAbUD3IqNpHX18p253lCckBWcYfbA0YevnoH8scL8UaZNX4KJ5wj+RMg4pWtGkUO3SQZk9"
+          },
+          "logo": "https://i.ibb.co.com/wZtLwqnq/Screenshot-2026-09-24-141949.png"
+        },
+        {
+          "name": "SOLO COMEDY",
+          "streams": {
+            "HD": "HZ2:px8JKVOzZfQaaLPlr+bHwrKAldILtuqzZ61HAqvGG2epI4dpFzOvY8jUYv+r8+opQodbNudKpBXVXLSaQZzuEkRcfnH+sgPOOO3gG8ZT/yEdUVuo2lL/X3fz0GnjoJ5zZKeX"
+          },
+          "logo": "https://i.ibb.co.com/wZtLwqnq/Screenshot-2026-09-24-141949.png"
         }
       ]
     },
