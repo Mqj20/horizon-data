@@ -54,29 +54,35 @@ def check_url(url, headers=None):
                 return False, "القائمة فارغة"
             nxt = urljoin(url, lines[0])
             if ".m3u8" in nxt.lower():              # قائمة رئيسية → افحص القائمة الفرعية
-                st, body = get(nxt, headers)
-                t2 = body.decode("utf-8", "ignore")
-                lines = [l.strip() for l in t2.splitlines() if l.strip() and not l.startswith("#")]
-                if not lines: return False, "القائمة الفرعية فارغة"
-                nxt = urljoin(nxt, lines[0])
-            st, _ = get(nxt, headers, rng="bytes=0-2047", limit=2048)   # أول مقطع
-            return (st in (200, 206)), f"{int((time.time()-t0)*1000)}ms"
-        return (st in (200, 206)), f"HTTP {st}"
-    except HTTPError as e:
-        return False, f"HTTP {e.code}"
-    except Exception as e:
-        return False, type(e).__name__
-
-def main():
     src = sys.argv[1] if len(sys.argv) > 1 else "content_v2.json"
     data = json.load(open(src, encoding="utf-8-sig"))
+    def urls_of(v):
+        if isinstance(v, str): return [v] if v.strip() and v != "null" else []
+        if isinstance(v, list): return [u for u in v if isinstance(u, str) and u.strip() and u != "null"]
+        return []
     jobs = []
     for g in data.get("channels", []):
         for ch in g.get("channels", []):
-            for q, url in (ch.get("streams") or {}).items():
-                jobs.append((g.get("name", ""), ch.get("name", ""), q, dec(url), ch.get("headers")))
+            hdr = ch.get("headers") if isinstance(ch.get("headers"), dict) else None
+            items = []
+            st = ch.get("streams")
+            if isinstance(st, dict):
+                for q, v in st.items():
+                    for i, u in enumerate(urls_of(v)):
+                        items.append((q if i == 0 else f"{q} احتياطي{i}", u))
+            else:
+                for u in urls_of(ch.get("url")): items.append(("HD", u))
+            bs = ch.get("backupStreams")
+            if isinstance(bs, dict):
+                for q, v in bs.items():
+                    for i, u in enumerate(urls_of(v)): items.append((f"{q} احتياطي{i+1}", u))
+            for q, u in items:
+                jobs.append((g.get("name", ""), ch.get("name", ""), q, dec(u), hdr))
     def run(j):
-        ok, why = check_url(j[3], j[4])
+        try:
+            ok, why = check_url(j[3], j[4])
+        except Exception as e:
+            ok, why = False, "خطأ: " + type(e).__name__
         return {"group": j[0], "channel": j[1], "quality": j[2], "ok": ok, "detail": why}
     with cf.ThreadPoolExecutor(16) as ex:
         res = list(ex.map(run, jobs))
