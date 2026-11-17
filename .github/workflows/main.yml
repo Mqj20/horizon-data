@@ -10,7 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - run: pip install cryptography
       - run: python3 check_channels.py content_v2.json
+        env:
+          HZ_KEY: ${{ secrets.HZ_KEY }}
       - name: Commit status
         run: |
           git config user.name "horizon-bot"
