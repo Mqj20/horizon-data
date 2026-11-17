@@ -2,13 +2,29 @@
 """يفحص كل قنوات content_v2.json: تشتغل لو لا؟ ويكتب channels_status.json و channels_status.md
 الاستعمال:  python check_channels.py content_v2.json      (أو بدون وسيط: يقرأ content_v2.json من نفس المجلد)
 """
-import json, sys, time, re, concurrent.futures as cf
+import json, sys, time, re, os, base64, hashlib, concurrent.futures as cf
+from cryptography.hazmat.primitives.ciphers.aead import AESGCM
 from urllib.request import Request, urlopen
 from urllib.parse import urljoin
 from urllib.error import HTTPError
 
 TIMEOUT = 12
 UA = "Mozilla/5.0 (Linux; Android 11) HorizonCheck/1.0"
+
+# كلمة سر التشفير تأتي من متغير بيئة HZ_KEY (سر GitHub)، ولا تُكتب داخل الملف أبداً.
+_KEY = hashlib.sha256(os.environ["HZ_KEY"].encode()).digest() if os.environ.get("HZ_KEY") else None
+
+def dec(u):
+    """يفك صيغة HZ2: (AES-256-GCM) إن وُجدت، وإلا يرجع الرابط كما هو."""
+    if not isinstance(u, str) or not u.startswith("HZ2:"):
+        return u
+    if _KEY is None:
+        return "ENCRYPTED-NO-KEY"
+    try:
+        raw = base64.b64decode(u[4:])
+        return AESGCM(_KEY).decrypt(raw[:12], raw[12:], None).decode("utf-8")
+    except Exception:
+        return "DECRYPT-FAILED"
 
 def get(url, headers=None, rng=None, limit=200_000):
     h = {"User-Agent": UA, **(headers or {})}
@@ -18,6 +34,10 @@ def get(url, headers=None, rng=None, limit=200_000):
 
 def check_url(url, headers=None):
     """يرجع (ok, السبب)"""
+    if url == "ENCRYPTED-NO-KEY":
+        return False, "الرابط مشفر ولم يوضع HZ_KEY"
+    if url == "DECRYPT-FAILED":
+        return False, "فشل فك التشفير (تأكد من HZ_KEY)"
     if not url.lower().startswith("http"):
         return None, "رابط غير http (تخطّي)"
     if "example.com" in url or "REPLACE" in url:
@@ -54,7 +74,7 @@ def main():
     for g in data.get("channels", []):
         for ch in g.get("channels", []):
             for q, url in (ch.get("streams") or {}).items():
-                jobs.append((g.get("name", ""), ch.get("name", ""), q, url, ch.get("headers")))
+                jobs.append((g.get("name", ""), ch.get("name", ""), q, dec(url), ch.get("headers")))
     def run(j):
         ok, why = check_url(j[3], j[4])
         return {"group": j[0], "channel": j[1], "quality": j[2], "ok": ok, "detail": why}
