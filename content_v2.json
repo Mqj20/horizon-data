@@ -181,55 +181,64 @@
           "name": "بي ان سبورت 1",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4111&cat=332"
-          }
+          },
+          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_1.png"
         },
         {
           "name": "بي ان سبورت 2",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4113&cat=332"
-          }
+          },
+          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_2.png"
         },
         {
           "name": "بي ان سبورت 3",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4115&cat=332"
-          }
+          },
+          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_3.png"
         },
         {
           "name": "بي ان سبورت 4",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4119&cat=332"
-          }
+          },
+          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_4.png"
         },
         {
           "name": "بي ان سبورت 5",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4123&cat=332"
-          }
+          },
+          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_5.png"
         },
         {
           "name": "بي ان سبورت 6",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4126&cat=332"
-          }
+          },
+          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_6.png"
         },
         {
           "name": "بي ان سبورت 7",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4127&cat=332"
-          }
+          },
+          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_7.png"
         },
         {
           "name": "بي ان سبورت 8",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4965&cat=332"
-          }
+          },
+          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_8.png"
         },
         {
           "name": "بي ان سبورت 9",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=3961&cat=332"
-          }
+          },
+          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_9.png"
         },
         {
           "name": "بي ان سبورت اتش دي",
@@ -355,6 +364,91 @@
             "HD": "HZ2:0YnvzlfL5bsmx8/sQ1aikAipSskdIzT+Rh2bB8X1+TLPVJ6Enc3h7PwWGxrgnvpvq29JGFqqWolVnR2vWVS7hquSDDRjlSkHyEvk7pITolxIU8Dvq/vkkxNifqq3bKbo",
             "FHD": "HZ2:BLSYVfxG5HhAGbKN3xQSkQzeZTnnBu2YEOs5ktzoCAyBlG4YJW8tZVoEChI5ehOAJMHYR2zHvHAJqf9J0bMRSTzjhBDCHfC9zRzIM9GVieUc0Q3LYwMlMWIaNt8ht3W5",
             "4K": "HZ2:I8ekt9yL+uhogU4POU6Scb9O9tkDCuHSV/F28uns0sSuiYQ+XlkThcKAba9pmgBLGmgkh3owO9Y49qZ0pf5bAYwPk0BK2w7tmmelAU3drCh3XrJik2/cxOg7Mta0Zak"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bein-Family",
+      "channels": [
+        {
+          "name": "BEIN SPORTS NEWS",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-news-arabic-int.png",
+          "streams": {
+            "HD": "HZ2:5RiErYSThhxTTb7FJO3Kz99Tjav/WHkBIjfYMxtxNMBBAcpoHjSlOcnmYJ+5UPGAyXHXcOSwEGcNYk1x4YV3WE6cSeWO5VL6J0eK/MBrwYT8sJeZwPCNSQ==",
+            "FHD": "HZ2:2Zxr1srqLRITDWtlFMoR9Bv/SwWA1hf47C0c1EVP7Ae8glYjFsd41khB9HzZheQwh9YUg0SfBhWF7oGxWRP6XULcszyZb4/E9Q1SVvVr1WwpykupDXQ6Ww=="
+          }
+        },
+        {
+          "name": "BEIN SPORTS 1",
+          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_1.png",
+          "streams": {
+            "HD": "HZ2:Uy12pJoV1deco0kJ0spQZkuxyGsKvHz9GRCR5hYOIBdlsyLiQcOujG4wvryrpugTHDlna34zs5rv2q9p84PkV72/A5TB3oHwZqf73Y/tk/FjS/zvDQlfwWh7ZKMbkw==",
+            "FHD": "HZ2:x8yigd28Jd8WJ8jT8pXVVqrZLf1bIF1HCEqfYMysyS89/peKsHTNzKtmLfrrCZkr/BQWm6SxeStZilNMV4aKzW34OJm1Uh08zXWZloSiEPlAGA24MwzzRLZY1yGWPyjy"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 2",
+          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_2.png",
+          "streams": {
+            "HD": "HZ2:sIXcdpKft/MctHq8monJp21wTSn+C9xQhnyX2+s/CYDiIlJ+Uc/+tn3sTa0jH4k0tvud7qyqBlnz43s3iWaFgDCyPWXw+sQmv0Jx9tPFVX5HQoXJAvziiPrVcqOc0Q==",
+            "FHD": "HZ2:eLTSI7d63Sz02XB6VWP7Fuz/K/wFYbredhvjzGoKPPpiOP/61zmChSEGeLmC9J+QYjF5WNmrOXN6mxL+GfDZ47IcVEYau4gMEJE06/5E/4v9CaFRnbEcSIUKo3V0Ey0n"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 3",
+          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_3.png",
+          "streams": {
+            "HD": "HZ2:P990lPbHaSbPdDgn9aRR/7dZHfx9LJ4RlaOAR9IWpREhG20UtExU2Nhscyl6l/qvcrxyqGeBp50zbQcD+e2k3E/TdKY4gtx/myK6m6Z1VPqR0l2t4k8sl2A1b14jNg==",
+            "FHD": "HZ2:IRNYfcLB9tzGbpO0nSiB3USBDkmSCs3IfSNs2BFk7qIzJHpcTRJiPOtiQ1pZHoBckizxvn+a2Iez7XaOQrHMjx+4/+Yck/WjKEBlLM3kwOxKzwYHJIAuV0/SJOzxSHA7"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 4",
+          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_4.png",
+          "streams": {
+            "HD": "HZ2:13fQtzGE4pKrjHt8FIIqvL2JbjBFcFSrlGBV+vaHu7gwb1e9HS/AudvUI3RKcgivP5bjzgScRy0LGxkUC2aOfqH3PnT2bNWwivl4zGiqLcwu9CKpeGkXZ6bVqwFuJg==",
+            "FHD": "HZ2:jAm3wnXaBVm/b/BTfXw06HaeMVNbPCWDS9dURaLPPtKDz9XZVHudfs+Ni3jBAzpVsauU7gx2a6xnKXPSw43CRffmJf+WiiGtiIPYQJncspBgUylOIVog/KBJNpHZguLJ"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 5",
+          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_5.png",
+          "streams": {
+            "HD": "HZ2:CCUx0MzSz26r0Ng+6XuUucNRiFxonUb5XaSQMTTR9Xr6EYsUmLqkM9Z23zdjHpuE4VBnLPUFc1qhdlfSu90sfkzgesP0Pg9jUGFJoAudkJuWPsIVrJ7il9EitK+xUrY=",
+            "FHD": "HZ2:X8UTsX9C3CQL6eN6baWuQEI01lGWU6UJ5ImhAbi6eRa1I6ZPujbhYv7uUC870oSnwsHlhdV+GLbHGm/4aB79yvKcsO8HcHMxDSJY29cv2+AOGNFsG68B5VSm0DXHg0Rt"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 6",
+          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_6.png",
+          "streams": {
+            "HD": "HZ2:dwEi6z1lW9Mpvy+rfdXzhh0WNRTEPoSKBh/BkbtNMEI3k5l9SMQomGqUH2/licceal41Yl81TwMMn2wvnIFhV5T4x5bX1MOltC5pgGq07j50SoElqnYL87s8m4We/0U=",
+            "FHD": "HZ2:O7jGFWkFWno4zw2MOcTX87IURlAsFXFbnDwwm26nCC6YaVSPV6X9Rzu4LNk3tlyjhRARDvYUFipROak7Mip7YpH+BsjexRzPGGW2jE4rJahReeVR7ajyj3qNQKxNWOcD"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 7",
+          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_7.png",
+          "streams": {
+            "HD": "HZ2:AMVPxuPNqV4eNSBMcMAP4qEQom/BvfgziGxyWd2YvJTNYJV8EmQQrfKID6WPs0+MYQMryQkAA6oTq4ADRmcyEkd4CvW7NnKT1PCHDRwPIJfKDiZB28KQ6PjoWVnANWQ=",
+            "FHD": "HZ2:kcBUhKvZyZNuIq341ZNCiwtPyc3E61ZQHhFlKgvZLi763BxSvrE2/7vog/gfI3xNj4MAE+8GGeLQevfIAeiMLdMNYl2F+bq8f+jxVwLUJSuS3XRe/bvC16+1ulgJ2eh7"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 8",
+          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_8.png",
+          "streams": {
+            "HD": "HZ2:qFRcRdElqJC3IbthaE2dSS9buNxx2DzyBpWZjj8HtC194g+m3VJO+PUwJ0HS0KN/02SmrSmpS2cUzu9380DveLjOvdswHJJlBzR3isfQ+KvxLGXesFQK+0viGTGFwks=",
+            "FHD": "HZ2:cxA9Dh/MLolg0c7dL3fGBh7dMbhrI6v+IAkYPIlpRRfh7z7d1ib7yAtACCtxIii9sddmBgxpAMSTXxES77fr+bGur1DSc61RcfdRiYTp59b/yeGUt+PVyGVREFuxCWyH"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 9",
+          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_9.png",
+          "streams": {
+            "HD": "HZ2:0YnvzlfL5bsmx8/sQ1aikAipSskdIzT+Rh2bB8X1+TLPVJ6Enc3h7PwWGxrgnvpvq29JGFqqWolVnR2vWVS7hquSDDRjlSkHyEvk7pITolxIU8Dvq/vkkxNifqq3bKbo",
+            "FHD": "HZ2:BLSYVfxG5HhAGbKN3xQSkQzeZTnnBu2YEOs5ktzoCAyBlG4YJW8tZVoEChI5ehOAJMHYR2zHvHAJqf9J0bMRSTzjhBDCHfC9zRzIM9GVieUc0Q3LYwMlMWIaNt8ht3W5"
           }
         }
       ]
