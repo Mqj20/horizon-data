@@ -7,9 +7,9 @@
     "apkUrl": "",
     "notes": "",
     "com.horizon.tv": {
-      "version": 105,
-      "minVersion": 105,
-      "apkUrl": "https://raw.githubusercontent.com/Mqj20/horizon-releases/main/HorizonTV.apk",
+      "version": 101,
+      "minVersion": 101,
+      "apkUrl": "https://github.com/Mqj20/horizon-tv/releases/download/latest/HorizonTV.apk",
       "notes": "نسخة جديدة جاهزة، ثبّتها للمتابعة."
     },
     "com.horizon.gt": {
