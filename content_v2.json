@@ -13,9 +13,9 @@
       "notes": "نسخة جديدة جاهزة، ثبّتها للمتابعة."
     },
     "com.horizon.gt": {
-      "version": 174,
-      "minVersion": 174,
-      "apkUrl": "https://github.com/Mqj20/horizon-data/releases/download/apk-gt/HorizonGT.apk",
+      "version": 183,
+      "minVersion": 183,
+      "apkUrl": "https://raw.githubusercontent.com/Mqj20/horizon-releases/main/HorizonGT.apk",
       "notes": "نسخة جديدة جاهزة، ثبّتها للمتابعة."
     }
   },
