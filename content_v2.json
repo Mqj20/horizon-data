@@ -7,10 +7,10 @@
     "apkUrl": "",
     "notes": "",
     "com.horizon.tv": {
-      "version": 295,
-      "minVersion": 295,
+      "version": 101,
+      "minVersion": 101,
       "apkUrl": "https://raw.githubusercontent.com/Mqj20/horizon-releases/main/HorizonTV.apk",
-      "notes": "تحديث أمان مهم (تدوير مفاتيح التشفير) — يجب التحديث للمتابعة."
+      "notes": "نسخة جديدة جاهزة، ثبّتها للمتابعة."
     },
     "com.horizon.gt": {
       "version": 179,
