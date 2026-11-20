@@ -462,6 +462,332 @@
           }
         }
       ]
+    },
+    {
+      "name": "Alwan",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png",
+      "channels": [
+        {
+          "name": "Alwan Sport 1",
+          "streams": {
+            "4K": "HZ2:izciNnA/+ybvUWOlauy6nSQnrq6DWxOF1cIvs8hrF2yEbpf/xKLGHf0B5ib++sf351N2fyxs/kMzj8NCYDRboMLqNbG8fQ33XwetfzJFqbumRbDwd4dSeJTzL0Mb70z0",
+            "HD": "HZ2:uJatC/QLV5A7TZOpqZ4zMpn63v/99jzmtvdHBbm90rqj+s1sOFbE4VUX3i/byjriQetxo4OCVz4/oHkIPqGET85aVsyFRSt77YbTkdUlcX/gdqU/qIjExQduaYLMNiyh",
+            "SD": "HZ2:cX+l4NMw06rgjnCCs/scBESaN5aVp+FBZHjrD6Lqi2lo/ZZ3zB1XKlBjMltapKGdGxS3mGFWTzbsSlVHsir5Lo+b/9YHVHcF/w2fXCvm4oIQkKc42NJtfC9px7bKtJts"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Sport 2",
+          "streams": {
+            "4K": "HZ2:kEl0uZuNUklDUFgSDEEDSc009QzflCXPXmZTN15LE4LfPOHOzyvyzSAOlBUwOlnmpaRb1EeMKa1HoI3E+d+C7nNs778Hg0GhPcLWvSgqZDv0VmfnFxj6njsbHpWC5ih8",
+            "HD": "HZ2:Daf2VDxVuDNdCG8xJzC8wCcbhMHjS3ZkhUVPJ01q0UP7irglMTiBusgofRdTvkzixYDjopTz/HeBPJLuuP17CxXKfkX8Rtw9VDnp62nmsZwgrEEdbVOwsUDL6cP6ubWt",
+            "SD": "HZ2:O1pX+9FfKTqOJKhIqR0inCGAiZRmuYiK6uNGkVG9PPr33bLFW/pr0OQ6tmC6XrqgphVMzthBMOd8D25nqb+tPAbClwmxlD40Qgj9mZjUbFS92mYJt3ZNVjTeAXUTiU3+"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Sport 3",
+          "streams": {
+            "4K": "HZ2:u2onaQ1iej4eap+PglyO4FmIrEVWovbuojKCDED8ddBYZA2ru4ieOpA0VLaqmRPzF/zJrAMJF/+Xc/+2eWm6+OH7pSy3glZ4/OXkupFg3z888PmvHvCofbd5y6B2uXgV",
+            "HD": "HZ2:/eP7VkMLPA4MSC4Fcb1OWZDvusCv8Y18fPdUtSIRqc2CK1L97bZfWfCg44SmVft+Y5/vq0tJioGiFVm9Y145mlC1rnulGvMbpd6VbDgABQRoL2SirMbM54q8P4bARk6Y",
+            "SD": "HZ2:8fTWZhl4Grd/cuHo8/iMeMwP+bsR3VBIEDf7iGsZgx5xDoy8Guxj6d8wMSu+CG+t4v6dONZFxdy7aoYZxzVOps8Gv+YwVxF5zjWkQ2N2ZkK8+Z1QX7lYuU+7KDcv6pQT"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Sport 4",
+          "streams": {
+            "4K": "HZ2:nSGmsOUe16kFj65HOKGe5Ept/Fp6wfwcJO3Oh258dt5mTPOBaQSueQt5ERQoDJ1ylM9XZJ264skNH1uTZpffhbzyx9FB/FA/DEwq0d2OW7dJ4MaVf/9dqNuoJ9SurQTV",
+            "HD": "HZ2:5srw39yNa2cDDljT2mSC5xYQyVA8W4hgisWObV9YYfxK/Jxpcjdczf9dn+kP4CyluyIBVRUJrqyzu1Z+ty7gW/oohoB7p4aRQ2x1rHTH03DkFnrKk7knuhNf3oaWasCq",
+            "SD": "HZ2:hW9KNRbEM/V6PeYml6QNXVYrDu7+6vXfuJvHNkuV9lhxhKArCu6mcrZHfvi5fDWtUTOudhgeaUQJVJgiX0wAWBRzZQ7tS+XQAnvoN4qByGne4mU+9+VOKtLpJzrgmpeA"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Sport 5",
+          "streams": {
+            "4K": "HZ2:ZWh9YrwuDhbPxpEt/Ts+PjbmEev8mREn9JT4DM/ndbpaAFNO2za0Gg6S6OQZIbNob2n23j3u/v6NkRfUC6aZaABKAQIEaE2J98LWMaNrybkb/EVP0T7SA5VEGecD1mXH",
+            "HD": "HZ2:tKeq79h8oZdZTA8XkGs+aRWmRqeEDemG+bbPCRBD98RteMtZ9vgLVE66iK6VNohntPHQvDUBGpjzvc3hmjKHDigQMNenntxTEJ1EgADNMeSy6z+dnVC+3c3Os3pccU6y",
+            "SD": "HZ2:hXHuhXrY2lirFapkCvPgA94Omq2aAHvws+kngT0Er7jDBkURWH+v9BbpZ3OaFLaw07ffMb+RJin9UJlkWxEs2TFa12xkNBy3m81Cr3lfOZbLnEWjzgtELXCqhk5g/87u"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Sport 6",
+          "streams": {
+            "4K": "HZ2:Fy1uk/922BWhgD5gQQwc4Lq+GDUWbzOB1SOmyMF+XSsfTy4zltoPnkwQ0Ij/VtWnJIS/t3oAgsupc/SdySD2hJPvhnh0GR65v+UDRIMLLYNEyYTqAUt+TJH8IHVqSujz",
+            "HD": "HZ2:q1A3JWV9d595QfeukzpPmJlLmydUMnpfebU8QTWSnvXuR1Bkh6Rcy1iAbUc4QIAzuyN7/Xp/0qz5tixIyuGA0RkzkTyjn2jxUVk1Q7UfuJj2efbd2o6Eka20tyLN/Pwr",
+            "SD": "HZ2:luMK+rkmPhGqc/yEh8sICHBiNGiu4sHIA1UlgPbepCNaB617DjJvyJzYCXvYQHTZZm25nJFbNCFKNytSQQe7wJezY+RkeHQF59C2mMgDEJmHvF3OMmDBOsFnIpVAPEel"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Sport 7",
+          "streams": {
+            "HD": "HZ2:u9h5twZQTW5tH82f3QkU0RWsM8a0aDq6DnJJlstDdYB/pNQ+gAwEZ8mZDsM3j9lYt2eB4DTOjiCIEAb7vzbRwsLWP34EMwKDJJmHNa8694O2n6v8q42pRDo6ficG+68E"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Sport 8",
+          "streams": {
+            "HD": "HZ2:/qZt71UmeoT9VlDn+zbRQrirQ1XTtsRSmCaQbq8/ZYotiO/H1zIZwwoHTtQbQ/4U6/vJa9A+YDrKgwCJrL45w9a2BU6U4FPP/GJXjrwNZ1RlvAd3/MOLz8PBDPCdt7Kh"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Sport 9",
+          "streams": {
+            "HD": "HZ2:V+CC4uOq3aqF+jZwPkQ5hzfWk/lIrXvV2VNVsP2hnHAsSJPL/t2sivl2BpIEI2mN8ptt1X/4Qy2Sxj+hYin7RzXVzpFzHbp+/Oib5Kpl7eyi4BLSRv+rb4xuXlGSU4Ca"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Sport 10",
+          "streams": {
+            "HD": "HZ2:ll+WMJcLiNuZDDpL3rIiUblgQWdSAXF0/itAuc9TygLYa1R1LUWiQdVhMS5sGzlJAoSwFzyT+ToamdmeM+5GoDo6ReEUwKzF3pJYj3W2Se5xaf+pBuPxsQHqJrNc0Dce"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan UFC",
+          "streams": {
+            "HD": "HZ2:+Xi6aTia4rsAn2d8X91FdwS6lRT0dHPNLM0N13bfzmDJELkCvrMCaPHN8KkO2x069VKae7n9pwsFWCaeScpQ230eKslGQxMJG7pAnOILr931pVMWzfOCQDd/Dmv1rX8W"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan F1",
+          "streams": {
+            "HD": "HZ2:mFcQrI4L8pkYL6TiZRnqYYxHD+SDATrEZW+Z337Pefwe2L6arxkES8CpXFK30V1YjkgcKfPkI4fGeizlTtPBvq0wMwYg6Z0yhtl0UOIFMXROCaewK2iTfOBk3Hnkae/T"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan WWE",
+          "streams": {
+            "HD": "HZ2:qG6mGiqdFuqbgmoGICJ4FMTe9SCiQl/NVcWh1uui7CqpLLFQ24/Eg5Jpm7YrBV1P+jJIkq5McTUv8XrdOTWzfsDD014rySiv2ede3sPcvXMsV/r73/OndYSaxmQBDIX3"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Aflam 1",
+          "streams": {
+            "HD": "HZ2:Z8yhbev5R6VcyCQGfi2KYn3wwdpfGR/h3jsGgxAk/dW666QF7q1O7XMHEkOHTBVhNcj8psyuvTJrvdpRe1hbkaxrHyxnNIo+mCFCczXgcU6+e+LVLUwN5h8m1TNUeJfW"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Aflam 2",
+          "streams": {
+            "HD": "HZ2:+BGBxMkxeOQdYeoKkqN+Njt7VoBtMG8d+RkKYYV62ACGJ1AWx0fwPtyA/uKnmYwJu1Oii5nM+JKRR4AvKMtoEGV+GLzP+N5DZ8a9hfDaTqyrruNg6UKI6EkpnTmDWoC8"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Aflam 3",
+          "streams": {
+            "HD": "HZ2:TMEws9qdIWJIupXKuNBi1z2P5UFY8Vz5beK2d5+8+nVirni2QBiy+2EiH1BrOgJ2frQW4HLYb5UzbbWgvqqt3MdsEzcxVzRBVtVNtmTCatuwoaanx8u62S/VdyWYR8pP"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Aflam 4",
+          "streams": {
+            "HD": "HZ2:/sfDAK7XUhBK1VCCnFjHc4ox+Az9HdZu7xZdc4kj4umRv6M1o58WyxR4wKjJ4NbeVy6uXqxQmoQf1rwa1fjDiWhFRU8BoR/9Q8Uy31dqgovAVgCFnTH9YFAGhg4b0U+a"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Turkey",
+          "streams": {
+            "HD": "HZ2:/86B3BagrO90Dbx6X1teldcfUGo382/T7wIuXMaATvWK9Obgp1egmrhc9bqYnYIxF/M8aWzoBH7igH6a5WrVcCKWp6qribR68aE6575b97KvbF9b6qGnnuOYBi6jbBN5"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Alwathaeqye",
+          "streams": {
+            "HD": "HZ2:1CHE0xDKPRljlJYwKAG2sV2e77N3mRHuKlclP96G3ACIdBWxLMQUX8g0LH/NGJO24CPKJ997wQtxlU834s2AM4tbKaONVkezgzokIZeGboBcFhmGkRPt6JUKv5VaA0mg"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Atfal",
+          "streams": {
+            "HD": "HZ2:J85TOmVa+wAPiqB0hNC3n1l6DWKqvb/iRUlqNdkiCVwjJXMgoONqPneHB452RWW/ggIvO7DK3WIiX6qL0SHglCPobxhKSwUnrSfB9+1iQqJ4ARHHvA7wB/oTdw9UIEGG"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Mosalsalat",
+          "streams": {
+            "HD": "HZ2:ztOcPFIbvdj+Tm9Dp+7+9REy5YFuQP28NSxNWJkJSMaoVRoD0djmnz6I/IFN49UEo14x1nh55Kx3KuO4sI8QGygIKa+MMBjAzcZDaskKVfaR/5tsB/q0SEaJL/Y4z2kR"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Aghani",
+          "streams": {
+            "HD": "HZ2:djZgjEiKyAsfuCsU4fv4njT8H6II8kpxMM2uOiynIdFUKhvUWccbgwk8izTzkx94fTspxcmG4+SqH8+YvUunhW1vNKvmJuhY+maJBScYpRB+90uCMrGFdlmZISGssRHP"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Bollywood",
+          "streams": {
+            "HD": "HZ2:txFu+n/4bi+ZHFyf6lhVuQe2krv9awLUkeF3/GhSdKb2QBnKyL990fgPHr3zimZFH1e2vnDzUBAOrXSCHJ0SwVssiCsD4ycp+5IBYZUjJCVUlrhrklEwORmcZZH+7tvm"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Korea",
+          "streams": {
+            "HD": "HZ2:DcVDTPV9l1BIDmdeXU1Bko5/t6fkb4Pxge3s32rzLmuo0dCMB1mMnftlfFidffgxaTr1dq5kH77qWVgMeYlQNxA24kn7JGoh2lnFveGoRBRktMqY1Uxt5I9zp0+/T/Y+"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Mosalsalat+",
+          "streams": {
+            "HD": "HZ2:1nEhVeAvvfsRjeww2n8TRxeyfjLu21rPNsYVOWi56mkNumPkgvARpi4+oqj5UOplhAUeJoXICDmc5H0fh4fMvFjO9/vALN070AJmvMjyrO1hVxXFcnjPsx9Efi5myFqs"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        },
+        {
+          "name": "Alwan Anime",
+          "streams": {
+            "HD": "HZ2:XT/OUV42xWPL4UFXC+vgJK/8EIQi286zpLPfKdQk5rSUr7Vgp6ZtU31MpLPsbo68DSZ29b0opb5UawoqCy3WmAIDRHFQ2V4wTRP+YjR6QmS7VxvyEPwBZLj5egKP/mNE"
+          },
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png"
+        }
+      ]
+    },
+    {
+      "name": "Kurd Sport",
+      "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
+      "channels": [
+        {
+          "name": "Duhok Sports",
+          "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
+          "streams": {
+            "HD": "HZ2:UOiwSjrqm3VLEQ2A+PqkEQ3KbDNL8B1GEL2FlEClyCGRmD7rA5hBiYBxF6IWqPO5t2aWd2Nu8NxOD49JkLuijmOOuTw1HE93Z2wXgDINlPLwezgJUlUj2t0oPymjqAEu",
+            "HD2": "HZ2:dwSYEF6hlez3r3bpIOUaLfvvrafWWx+75YUM04xcfvh0EY13Vsd3tQlrXfxzrhhVdaQgOW1av+VQzp+PwoHiFy/mAIGnEqbhftOLiGXXcyHsPNwfb/klLuZw8AK7kdngcjk="
+          }
+        },
+        {
+          "name": "AVA Sport",
+          "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
+          "streams": {
+            "HD": "HZ2:nF00MXmiAu4nrVKYhTk0I/vqBg5TtOdQ+DkzRrrg8H4x+0Jq2OUg5dqW2NEasHG9Zihjs4AD0c//3Oaqe8jbwl4HA9ln9+xusqYB4WFrgx5QTsJmEF0hAH/tOsZpa3qQ",
+            "HD2": "HZ2:+xqCkPMWbRC05fWFRp59f87XNNfY5oSI+lFh8uZzxS+MCLeE7BdA8f58OiKKs3MTlACbCzeb5GiPgGtCxOzAWM4bH4V2QGdCUmlVtooDZA4d3U9Fs2WSeNiyLlr+UQQHZAE="
+          }
+        },
+        {
+          "name": "4Sport",
+          "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
+          "streams": {
+            "HD": "HZ2:Ff9njZGD9/Bh2OiDBJHoq7x379r3+AP7g7ByyblhSvpdc4i+E5DgN+7FBamFI2msrVSnUmGDPa/xaxUSn81dr/2F+zMExusxrTMWBI6imZusFt6FmmcUlkGOARaWx06s",
+            "HD2": "HZ2:TuFQFkTOxezWCnJKRZUzjTweYUpalZYK9ToVLKyElohovN+Q69QlX/rB0/E7VBPbjeJTHRFJKD3R2R4LEbow8nErd3HAkPNb6PUylRQNq83V7xsok5ZQ+OoYBxwUSw4DMFY="
+          }
+        },
+        {
+          "name": "NRT Sport",
+          "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
+          "streams": {
+            "HD": "HZ2:eK4nbeA0DaWWXeljXCNLKy7POG1C09wW9quzaT0yeHUOdWPuiHVz2w5M3ko7QlZWjHw/CQebj3d0TvQ0/yrDf2qeMs+C00bX8Hkfg00X7B7obTkGwvVsxyhXwdnJuENb",
+            "HD2": "HZ2:hb7KMVZSQ2WmarpCYqRHK3ZrYuPU6KpslXe6wnYPcCgoCSiNtZ0fBgFCYQ0uLk7OKiGTaEAZx8KybkIzf1PkvjdC2m3HA4XxsJPGJnZxFhSgND5J+VEcrzx2z2u7vFDfaqI="
+          }
+        },
+        {
+          "name": "Reng Sport",
+          "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
+          "streams": {
+            "HD": "HZ2:7sPSiA5XFQVqKwQ2CdgQig19dXfM+SM+N6T/YWiyXTnzshzJ88AqkyzNzLOtL9k/Nfh+FeS3WEsMcYXRllwtjJJycg8Q9wispJU9b1dn4NmxYzT3ukaprHFtkNOuVe0X",
+            "HD2": "HZ2:YUscN+S02N7ObLd5alX1GLzJQf9Y9og9NSdjkGx3CPGDsw2DKSIeG3Y+vh8xyYycYXZ1a+IMyjQdvpP1tXL6XpytHYUJOW43p4+F43zTvNk0TwuDZxA0fhGXlpGfw1wlfqM="
+          }
+        },
+        {
+          "name": "Kurdistan Sport",
+          "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
+          "streams": {
+            "HD": "HZ2:nff+jjCe8QtgAh+bm/e9plxBSiQJEKVT2phZf8AmC3sFisncqRlZ8hE56IAzNcOMBzUiI/zugeNvlM0U50DHOaCKWRVFvrEGBAiMpqqEzzlrqTOD7e7TXeHK0Pk+qk05",
+            "HD2": "HZ2:yu0js7m38kzq99HQXK3WB7AA1Be0VJjO0fkBmhnpQrXzTh2g0tb6GMZwIvY28TDnQjzTIP1zZy7rpUbqMCSpcWpeouYVkktjP8kl0PrgL6x4ZFkiKW+Smyf4slT9OXp7sN8="
+          }
+        },
+        {
+          "name": "ASO Sport",
+          "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
+          "streams": {
+            "HD": "HZ2:2J6Tc+RVNL8BDvTe4sogTQWOgvtu9zuR4hArMM6sFuhfBX+utgjcWdL55OuvlSZFvBqs4EY+cTfj97eKSdTSy+6Uxf2gMfI7L1xYJSAV1vhgOxLzl1avsOeKYnXc5736",
+            "HD2": "HZ2:9gdJZSpjocRWWNc9uwdT7hYtwnfp1XDvOCIIm0pJUqcO+mPYuYzQxqAFbRy08Pj4ZWmfqRZY4ICEBxxSKQ7LoRqheqGhSeeI8xV8nsjRLqWaQKp6BuIs0uawv5rE8DNXpg4="
+          }
+        },
+        {
+          "name": "Nubar Sport",
+          "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
+          "streams": {
+            "HD": "HZ2:zSDYh0DCg91ZArWC0p8cPafZin8iD48RNbB1nrTfsRiXsFPWb7pxZnXtZWJn97DBMSDr5QLLuo7nOG1VgIZsEOkYV3APr33rOhEAuEcw7GtirlSn5S4T5W26hq5sSTfw",
+            "HD2": "HZ2:tPwZi6EAhg/IBWZKpxb6eibgd9pFn6cf8/Rv9gbvoEsOpEW4WdRyA5djHCobZDxJLjuQHOBLuGA+WSQj+gUQ4ORoIlMICT7VNq3BgrFWrFRZDKGBFHWTQvSEBINHhhcFI74="
+          }
+        },
+        {
+          "name": "Motor 1",
+          "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
+          "streams": {
+            "HD": "HZ2:e5zZcbl0t2fXHgtK4QMEDOiJrrdFfhqSOriWfrFNzxBox0pTuvevnWhpsdrBJiKIxg8dct8AvAfehXlxOCOybohhEiZEvH9ynV9V0tui7Q329yYR4wqGI7ju5gRzNir8",
+            "HD2": "HZ2:x9LryGrDpJbDJEhZaw0a4iRJ4rRNISVcmG5WJEX/BZxtSX29Zn4rkqfEZW24LXnbPTqHtNZkghY9XqDHp8gxX53xQkIU8aNhk1XaLWUbGP75UaMDIBUHJTpTlG+zL8/rV5Q="
+          }
+        },
+        {
+          "name": "MMN Sport",
+          "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
+          "streams": {
+            "HD": "HZ2:clKKw+QwHCQXuNnxQU/fU5OKxTW/S9Q34oWD1VXsyiyZNAFBF5pggFvMoUvfy0qN2jSERCUZW75c5GouMpyCgctg4qA2Tmj3ryN+Pf5/TaDSsY+mIoC3DNPyNUUejoNv",
+            "HD2": "HZ2:fBFLcwHZVWID68ojSJOseUwMPcW2pHOLDh9+Md9aq4p6DOQtSdVPDd1CqIZXBQY1I9MHqThEej6hj3bSM9SDOzdb0SVjZFbDsK4JX0Sl1NlN0ASq08ig3CX1T0Art0kln+Q="
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fajr Channels",
+      "channels": [
+        {
+          "name": "ALFAJER 1",
+          "streams": {
+            "SD": "HZ2:WmtuCAXrs4Sxg3b2SFZTwWJq3yr0g64m7eRvCNxJ+hoOmbsnDiIarSlDCOFEpM/kWWaF9YpBnaPj0lB/Ni7tIocLJxQgCEJP21lSH/48zRbyAxPKeIMdkLam0IF5YzByUY0=",
+            "HD": "HZ2:QMqWFHMxH3U+xAObfKKFwvOIkEQpouJtR4R/OGNpfyeVmLL85ubvcZGPDnxlFdE4cHpaXxSgFesBpMavl7DZYGuVhzCYGWCtIR1CTmDuGpPvxmvZAPN63J2zU/fP8Go1Q6U="
+          }
+        },
+        {
+          "name": "ALFAJER 2",
+          "streams": {
+            "SD": "HZ2:0GQ8+HLvS7JspLThIiVkr8r88YyxiSB93ZWUTF9xqftFV5/nFzkUmU2GbsY62JOzrofI+yXW6jZI4G58Ynnw8UL7n2YBdowIywnuaBVDTVmalKiZ4otO/r9HhBBziv98NEw=",
+            "HD": "HZ2:4vf4lTYLhAt9Nh/c7bmjV4g9rRP1YlZ8spvROPldorqWfr/wUo9ybRLGYQ7lbvcXy3BPIsgj0NY4reIpizDXOwysOo5mR2yY73btTqhcW9fLUC710b9SCSvS1Y9B8bE2Xx4="
+          }
+        },
+        {
+          "name": "ALFAJER 3",
+          "streams": {
+            "SD": "HZ2:FYQGgueJhEZdr6SpllVLeeB0DHe7ISYdvvJLrj0GSAXFIXAIppAzwYeGflUBztiGNfIqj6AtQdQ10NcwL86p8wgjhrG75HgDgs8gMctAJzqfUbyytRTdxc3sNZUFNbI7V7M=",
+            "HD": "HZ2:wcvNwKIwYCKAUGUsjxVXvY5VdTgnqO1AQRrjFOPGQjlYq0mU/eL4BWuPfQoDnznvzVeoXaUITenhkz1WoFaUWmeNu9XL84ZqOQI0sZcW8MyCqPCOCLR8u/mIX3et0R/XVVg="
+          }
+        },
+        {
+          "name": "ALFAJER 4",
+          "streams": {
+            "SD": "HZ2:pwC3y+2FhaCe4lgQ6WI7dEZQyqgy7a1AtjAUIcye2wVauVC5tLlH6uo/P2Ns/ZEHX0J2rqhpjoy5CSXywfjvSo+zEnhYfmGkP9ZlU2ti93DrkA4wy+5MxWOxyWEzi4aOg6c=",
+            "HD": "HZ2:TBtZFZJmzeWpSL0hvUoCzCJ90fwUqJxbbvbTX600QwMFP0hd2svTaO2604nxbQ0FAPcwPwi2128mjcbESi/m0lYm9LUXpaBc+nl3AyNabt9W3BustWGwogRMRW0Brxu70cE="
+          }
+        },
+        {
+          "name": "ALFAJER 5",
+          "streams": {
+            "SD": "HZ2:c8dX+HbCj3MsHPDjuNZJwGlTe3Dn6dfcHA3bJR17XjSxtHlN+RFNP0nQJdwgO3glwsciUplpiOkpuwOkbXeNBCAdg9ILl6V+crXYa840ovDQ8BNQgTnOKEzabOo7skcvTTI=",
+            "HD": "HZ2:jwcqEsj1Z06g6vjVfJfnDlXhLShSm7O9c4zrpq0CV3TCsP6RxstkF/XqKqI/QPMKziBOFOwcKeIQ4c5QgKk/OpBIAZtCB9iA00oyq6POhIaFBMdu407QHxFw9cStgIMCIJw="
+          }
+        }
+      ]
     }
   ],
   "movies": [],
