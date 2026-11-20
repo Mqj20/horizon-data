@@ -113,63 +113,63 @@
       },
       "channels": [
         {
-          "name": "Horizon Intermediate 1",
+          "name": "DRAMA",
           "streams": {
-            "HD": "https://example.com/REPLACE-horizon-entertainment-1.m3u8"
+            "HD": "HZ2:YoUGW9XtsWUIBH6VVuNj/M/mL6LczZQ8pEmP9nGjjBJ0Nxe3xIu8Nd7vDCDX/wwYIxbsY34jC3cxJ4Lw0ZJenppv6JgKw9L0jL8FC8990t7X7ZhfqJhKf+MeIg=="
           }
         },
         {
-          "name": "Horizon Intermediate 2",
+          "name": "MOVIES",
           "streams": {
-            "HD": "https://example.com/REPLACE-horizon-entertainment-2.m3u8"
+            "HD": "HZ2:+L3U0kSdtZK8Eq8VHekzdBppTngvoMqXf+LmoZvvJXTGnquPe+z1tgaQrTTCVWkhHiFdxuil23bsT1bSy2IMJLFlC/wps185Vnb4pawDVB4ejBdbSKOXQREq7w=="
           }
         },
         {
-          "name": "Horizon Intermediate 3",
+          "name": "ACTION",
           "streams": {
-            "HD": "https://example.com/REPLACE-horizon-entertainment-3.m3u8"
+            "HD": "HZ2:6kUcVAGCa4IfM1Y/LX/4JtOKkjHNicRz7Wvnw5kaOpbdJx96wsLBdLBLxfu38AkK3KY/da1vUU2JErb1NaayQ2OJeVRVvr9fOmuejNM3amB9piIH5gNb0uVygg=="
           }
         },
         {
-          "name": "Horizon Intermediate 4",
+          "name": "COMDEY",
           "streams": {
-            "HD": "https://example.com/REPLACE-horizon-entertainment-4.m3u8"
+            "HD": "HZ2:XhV1f4ipR+jJaLJPVuXs/jHRf8oGFF9eDALHCZNgoVunbf/epE6LV5fS0caXeQxGiFpjbYsPA8YKO8kPsO1rp5/3C6MG4i0oAi6UKYe7HupdNyThZvcrGoy+Lw=="
           }
         },
         {
-          "name": "Horizon Intermediate 5",
+          "name": "TURKEY",
           "streams": {
-            "HD": "https://example.com/REPLACE-horizon-entertainment-5.m3u8"
+            "HD": "HZ2:m01uMkWi2cXMpOdXqBpu0AY55jHGQLtXdaW3M3ltwXXsK48QZLAGh7iDTYl2uRKQu4UJ9FiZ2NcRH8Ah3aGsXCqZPCl3u1ovkALAki6pHMkNEd3dV8UPQR51/A=="
           }
         },
         {
-          "name": "Horizon Intermediate 6",
+          "name": "حريم سلطان",
           "streams": {
-            "HD": "https://example.com/REPLACE-horizon-entertainment-6.m3u8"
+            "HD": "HZ2:gWHPs/wUYcC9K8H7ikVcvllVP1lA/JI0Gn9+ay7PKFJd5+Jzvv9gv0adQPCD+izrOMCdl35jDJv2J5m8CuKzX39W556oR+IbsGmtsFkLCm5iTSFIl5uBieLOqg=="
           }
         },
         {
-          "name": "Horizon Intermediate 7",
+          "name": "وادي ذئاب",
           "streams": {
-            "HD": "https://example.com/REPLACE-horizon-entertainment-7.m3u8"
+            "HD": "HZ2:4ICDDmO3Uhymd169GBPDz7Ge66ysQnLzz5bhNt0ic35uB4hjp+MOg/OiuVbfc6c2ZMort8APvQjihyuFe/cYtUFhAtjg8HEbdOpoek0i1wy1IJq30otgYRlknw=="
           }
         },
         {
-          "name": "Horizon Intermediate 8",
+          "name": "حفرة",
           "streams": {
-            "HD": "https://example.com/REPLACE-horizon-entertainment-8.m3u8"
+            "HD": "HZ2:D+4Bp+PZoa7C0OldPGvl+34NrUM58JxpYLMvliFpzw26SngZEhIglzLO7oz3fEco95LELq7ZlTXTVkLVeBci3hNN2jz0NTkXi5BsMz14OvbsVjVEkP0eDYb8VQ=="
           }
         },
         {
-          "name": "Horizon Intermediate 9",
+          "name": "باب الحارة",
           "streams": {
-            "HD": "https://example.com/REPLACE-horizon-entertainment-9.m3u8"
+            "HD": "HZ2:WMwmf93smVEobITZ1A8lYyN2CqOSFGIaa2B3YO2nvBRgVvlH/C2PNDMMzeTpjPugx45dgkhR2TZWS4YKxxZiusESBd+LiTGCw94CQltvJcsbvbRfnwgStSJGWQ=="
           }
         },
         {
-          "name": "Horizon Intermediate 10",
+          "name": "مسلسلات سورية",
           "streams": {
-            "HD": "https://example.com/REPLACE-horizon-entertainment-10.m3u8"
+            "HD": "HZ2:2i7OSK2ZytRmKzrENcYxfvolusJXyXo+KzwSwEgJHpeikATXS6E1RYTPZAW9yOSDsk5g+WXmxC/zOcRFIFRgSwnAd2sLW8NXHec7OJgtSiXH/QmRQCI0z827Qw=="
           }
         }
       ]
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "name": "beIN SPORTS ألكابل ألضؤئي🌐",
+      "name": "beIN SPORTS Family",
       "channels": [
         {
           "name": "beIN SPORTS 1",
@@ -369,7 +369,7 @@
       ]
     },
     {
-      "name": "beIN SPORTS أنترنت ألابراج🗼",
+      "name": "beIN SPORTS Abraj",
       "channels": [
         {
           "name": "beIN SPORTS 1",
@@ -752,6 +752,98 @@
       ]
     },
     {
+      "name": "Solo Sport",
+      "channels": [
+        {
+          "name": "SOLO HDR (HLG)",
+          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
+          "streams": {
+            "HLG": "HZ2:yZaJwyRLWPQxxcng9u5XNHYb40GOdo/Mum6xK3K5BCFBA9/O9NqNwDkZJTgNohWwyiKYkPcTt8rqdzN34XTKuw8Og9TOPwyPY8UlU5e3SzyuWVstN9DY2AcKqg=="
+          }
+        },
+        {
+          "name": "SOLO 1",
+          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
+          "streams": {
+            "HEVC": "HZ2:nKl/QKvS2TedFyEF/8VNLKgZsuu+IoS0QrUCVwJw2EDNoJgxeS1EKGfZ0+uiNXnGm0YH7Bti5UTt9B+2vtijyiMHePg4OATS+4xQVmPgXHEF8SrxiT5GFs/5aw==",
+            "HD": "HZ2:d01mE+xMkfhqbeZFEwDW/ebU3SE/GlEez6kqXXI//oYXJLwPUWiM/19HAt9DA3ZScwokY/tg+hqBr0MuEOn882wF4dqmYbz0bt6bwpOT/2T1R7KbPx09VaoDeg==",
+            "HD 2": "HZ2:ud/Yh4qUi1kTvAF6cs9t8uEY6NhuruNMObuMG/WhALdDQAV91F2k56He5Sb5P9i9xH5yQcsK4hIL5QJNcwQZhh8xVXHqjYVQV6QfMinDRdZc0LYuzTr1mDmTHw==",
+            "SD": "HZ2:/ifZ9f/BsWsQN2TkgwqEqjEvOGs9RE98cr6krhniRu5UCE+bjqdDvvlyZWlUlNvd47+kOY1Z6TEtw0nMT2Wpl6gpEPJO5qbXrc07kgvQwdxm7OEtGEzbT9NVDg=="
+          }
+        },
+        {
+          "name": "SOLO 2",
+          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
+          "streams": {
+            "HEVC": "HZ2:sxQzya23DvT1gYv9VexQv79CHRg/MKrkCUBbKnoU+2VTFde/k9C88dtUzf/eLGspX6h2AkjNffc8zobXtmvosaPhJtM6gOA/MP5MWdTv0miYj5QICROmAz3vWA==",
+            "HD": "HZ2:17AcFf1rXQBk3Tfo3rxRb2mk18huaXB0gPKSu317p+hgzQ/mAM0idnmzLYs+lIJAzqrff/yOhSu5joIa40maUxcSmhPmmoBIkMO4CNQPq/AgEsiLOgwW6qh3QA==",
+            "HD 2": "HZ2:1DtNskqIacVUeSFF5caOTWJEcEFEhdDibFSWLa9ElB5STRHC78JqrLrZ9NEqSC1Fv7u/+qRDyyKcrQNDU/ha1tvsN9YelXQazJJAtw+4ZeFBSijKbFim3idztw==",
+            "SD": "HZ2:UgR44lq7WIn6Wphfx6bBn8EWUmOJ80A3N+1rb4FE0YfaeD5SegOU/W0jHlZqpeKM7uQXCXTxNKWDQBqjH8gsOKrZ2gvg0QDeorHXEDllkxvH1sihpG4SvCZGAQ=="
+          }
+        },
+        {
+          "name": "SOLO 3",
+          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
+          "streams": {
+            "HEVC": "HZ2:x/Gwi1n35TgqSEIysPYiXy3WrfzCLzqi4Jb8fZ+aJxJ+Yhf2m9zYcCeO+vViX8kj7iM+ZR8p2fM0rGHM9HkM/uwdMKTtGHOFrhU4+U0737j+OxTFq8BpnK7mSg==",
+            "HD": "HZ2:wU0XMp+r7bzcGXjpgbYqbQrn5neUCb+vIyXZ6PYCPpWJgc9B6EFufx0lFrttIDVDAlbH37K4EyAsMOftaMgmeh2DKShjVXmlA2AKNmdLQzQUE4CWxocY0wGtCA==",
+            "HD 2": "HZ2:VJWN1kcvJf7KUZrZN+Kdvm4OvLgVAYRwqumsoP+em+jYfjlJ0Km4a3uTGIHzFkgw0wqe8nYSp68vgOM8eoq60o2VGszK/IrIdilD+OjeUztyxMK8+3pQaFdDwg==",
+            "SD": "HZ2:9vy94MUT0vbsLIbskwyUMhhsot6Ao9a54ovL2Gul5c5sK31EQhVUKNTo6gP7Dm4GQA9TwNu56wEghf2U6YceXKYOCcxc0mSBe373hfgJqFuPeUByohWt8sY65A=="
+          }
+        },
+        {
+          "name": "SOLO 4",
+          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
+          "streams": {
+            "HEVC": "HZ2:eduflUdGQYajV+MpYAr9TEVj3N13awDkfHD1w79ZSOiXOWj+wP1Uy0mLobsFmC+21DIjDKV/zsZfBKHou6U5+Bg9FWMYNXBrG/3XWjGIvg4XY9WZmQ7sCNGHow==",
+            "HD": "HZ2:iS8O/owiHc/2MC1YyyGAmUouWb0UvGoiDjpm+r6ulpADJqrg7NwUJf9lT8V9Y+ds+x3G3EiFXrGDKbS1gxjSjsU7UjqxRpTeN56qF7xddaC0fKaYMw/imsfRnA==",
+            "HD 2": "HZ2:j0z1UA1WaROWQQVt9y02o8t2VQT6VDJbtKqowlVWtE/LBaW81fD2VpkuaIIzROQ4pYqekD2WGzYNQWNQ9vh0erxRUAemetuHS6sTXKWRxg/QPYG4/k6zvX4oyg==",
+            "SD": "HZ2:DkFcvje3krS+82LvwP6dYUuPZmdvQSmxuNqe2eGZboOq+pWk/azCXcCLN1AQSN+McVKu21cUfASo38W5hwIgzi5XVBmJqQHj9H0nSRMVev9qvIXIMpl0Tm8nIQ=="
+          }
+        },
+        {
+          "name": "SOLO 5",
+          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
+          "streams": {
+            "HEVC": "HZ2:TXSBnZjg/Gmp/qskd5ibgdhufEEqtiSaGhcRoeb6swn6YfbmJSBxvH1AfP/35z5yFKBi+mpdUghYxu+R0suRreo/EBiRRSXgxmXhrRNuuEa+xOcJLYSMpfOJ9g==",
+            "HD": "HZ2:MvIDDetLo2mtIAzW7IOChV4PM55tkUNHc/0/9hCTHI4XPUU0YXDuaQNzDkF9I5d/722mrm8rRtyt/L4k8+tGg+vLJYCJIMqx8PWsZrJ1Nyyc8y7M40RWiyXSXA==",
+            "HD 2": "HZ2:WV+C8+POSYiXL2RHvP/uktWL7IWLETNcc0byR5CRZmcub/B68cACzowEZag7SAPmMIWG8PEcM0x9El4nhH/XnDYhkOMu5FUxte/Ht9q40Q9s33cZvnQW8teXfg==",
+            "SD": "HZ2:SIXYYDFhOtmBUVp3FyNl4Rq6ksyJOW+SIl0Zx085p9/jM7JinA4K6/tAVM+tKBfR8mB2U0DXOz19G9QwgR6pd6mm6q3mQRKN4wP2CNKleY3OSwKrR8cOhGg44g=="
+          }
+        },
+        {
+          "name": "SOLO WWE",
+          "logo": "https://static.wikia.nocookie.net/prowrestling/images/8/85/Wwe2014.png/revision/latest/scale-to-width/360?cb=20141225161923",
+          "streams": {
+            "HEVC": "HZ2:6V4g6Q0jN/MYdSuSMorzo43M4vNZhooFtE+hiTbfkRiVHjoQWqWdkDBXjU5o4D9fCBjuG5hguqa7Or/BP0OStQjyKuFBr2OC1reZt/oDtGLvtEJKavZUzSm3AA==",
+            "HD": "HZ2:3yX/TmkXMBRkFnOnfFV5u1kCcSNb7F7j4oFEOTn1tcT5eGeWfAZViCXw16Ae9jTmmDcIzVcN6sJhTm5tCdgMTHhBE3S8c64nnvGhfXZFGA9uYIVyzyMn6iplhA==",
+            "HD 2": "HZ2:0BGD3fws06zR6ME1HZanKUqh4syIQma9PErNiDxgKLhgoEfOqvgahrc6jN+3Q4oFfghtILZaVU3ssyJQc0PGjjzsbsH/7COWROyZrSBoZLP8rBHVGOh4YWZnbw==",
+            "SD": "HZ2:fGnmW9KI80jbQPB1bz4vZQiGvI9tBvJ3q6H0uAOCn/1sPPv4mIO1K4sNezD/PcKAOWrPxUXJlLMJj2bkMr+nlGnZZx+bKVuVRtRwWof1aLz9xS+nv/gRcoqeCw=="
+          }
+        },
+        {
+          "name": "SOLO UFC",
+          "logo": "https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png",
+          "streams": {
+            "HEVC": "HZ2:75F7xtPtxa3AsE6rolQt9Abyp5/d6xkMcJWKkY9eX1iJ383RwqOAgOtAiIbkOYj/myM5ksoisqFsYgNgYM5raCbCjcweXWcPbYpwwVVsHPaS7bPzkqz6WtNiqw==",
+            "HD": "HZ2:Kpo3mexyG73BYSyEcBPoLwFqvuLz5XpTP6HnhRwDCyLD70mkkQJhIzBsjHCgZ9wjKqBQkz4F+vhLV9ZV+01TATV19VkQ+yo2k557upHgVG/nKae592ElF6rAPw==",
+            "HD 2": "HZ2:EuYwTE7WLbJQUGcLzrO5NHcd6n9SoeQyw16D3UP+2V0X3ndXFRHhW4ulZbulVr/Pj+oAtO19zrxhwHdHDx+vBBk9/Nj7uhRtC7mLUcqvy9O6amb7S9smu+Kuuw==",
+            "SD": "HZ2:+kIfc+J18X/4OqaGjRU84rrOBBphV5YtU5pOheHxyiDi3w4etGS9QKm8aJqoifmZZf1ISDdmVJX1LQ1mvivPx7yXiGvBvjVm7iR0ZoIMCa0sShiMJVC8qbWJ6w=="
+          }
+        },
+        {
+          "name": "SOLO F1",
+          "logo": "https://www.edigitalagency.com.au/wp-content/uploads/F1-logo-png-medium-size.png",
+          "streams": {
+            "HEVC": "HZ2:dD1n996ODQf9xmFTmqI8tasD9uvVwcUttW+H3z9VNR0sGOjKp58S2/BEVoCDlvGN/c1h3p0z9mFTESnA71vQvMqc/O9fo9Cq1YSqWQrV9pCIRxusA8RGrfiwkg==",
+            "HD": "HZ2:gXrop69xjh4DJDSXC0J2Hp1P0vFQJs6wo+59J9FzULhLOIt6kOtjT6e2SPyaWh3vTLoDH4pjIk1hLTwwnfSX/8ZlOFO1ZuzYQrNKKOJivyxnIGkZFzvQBP4UYw==",
+            "HD 2": "HZ2:nuwtyQFIv5d/SMNcu16FltthPJqeURrZIkohPST7oLuJ7+sn3XdmTggm8jaSDtXcGA6h4o+AcsWgZ/YqN8Zai2pNmT3Woe5bLqAzFp4JQRIVaKbkpr2VOiy+Jg==",
+            "SD": "HZ2:gbmwi6Jv01xwJsDwvPIJyrn0NzYrYfQWwrl+/nlbrCumbiCjuh6diAZaW20vzAf9vw5yTAHCRRtajyecyGQFNjw67EaZiWRt5z22Iby9id9LT2D3QIjiaWJ5xQ=="
+          }
+        }
+      ]
+    },
+    {
       "name": "Fajr Channels",
       "channels": [
         {
@@ -911,177 +1003,6 @@
           "logo": "https://safiafamily.com/uploads/family/starzPlay/Starzplay_CRlife_2.png",
           "streams": {
             "HD": "HZ2:51mhHgvP+XINyP+hcTvMJVTncKx/w7F1Xkud9+vUZi3iiJF35rufW1MdWFc1YC1IzGULko2Jx3wlZ0Oi7DrxyAUTre3Oszw/6EoGfqeruJs98+lqx+uGI3lRaW9KZgG14Q=="
-          }
-        }
-      ]
-    },
-    {
-      "name": "mbc",
-      "channels": [
-        {
-          "name": "MBC 1",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mbc1logo_%282%29.png/640px-Mbc1logo_%282%29.png",
-          "streams": {
-            "SD": "HZ2:QmzcjOojacoVjjNQiVBl7BFs1fOf8k0hpOoL4VcleFzCrH8mZAwJWZ16onUd5SfNs2Sk+8AfJbgxrt+GOpQ6e2zkM0865YIo4XcROxG4ZjuIIkq7vkAK7m5iR1III9DiA7k=",
-            "HD": "HZ2:lNjsQkQjiPcy1N3qLvaUi/ix6QXYSHZIbEgaDPjCOiG86sDfKWMq1xLPJPJ1PGKjlFPNIl4VIZqBwyp8Nw//X2gITt0GN7RMwQOlPsNDv8HKZ1gPtn70a0XxD935ya71RVM=",
-            "4K": "HZ2:11UUHsDg21jj075sfziyyQIHrHK4VfhW7NqBQQeIeZcJ51eqNEjAozdocgH8zzaj3QhyZBYJ89wrtCs8OfLGrSUbP7Y1GXNLXS3eBmzP3Fotn7WKEP+xi2ms/6V4prUL/So="
-          }
-        },
-        {
-          "name": "MBC 2",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png",
-          "streams": {
-            "SD": "HZ2:nPSVf5zxLACYE12pFKfRj/dwLK+FExrCv/EzvFACMOe7G7bJRKthRYSxV3Re8dVbz5nREa3kmon/Pd8xhI4YtLN+thnKeb6Rww86f/EBZTl7STUyN0xpp9bU79B35Q3vaks=",
-            "HD": "HZ2:QhqR4gPjvoZNlFT518xmeod3nJ865qwkDgNj0YIAqxdo3KToJzA4cwIAx61/8auwBUHWU5bC85wX0naV72WVHmN3tB3OkGcGExrKnwBIVhS8f4DjIR2P9F4V55Z1riEwOh8=",
-            "4K": "HZ2:Oz4fkNIvu3VRAs9GAQtkw5Wj/K1Nyi5j6+a8CQmumm8yy97zGVxASmdS07OZRey7fnIpY8dhFeOuiyYVErZf2hf3XPw1KTsMqO3Dd+/1v8AQA5YS3r/KrgeCtrtfonjjzQ4="
-          }
-        },
-        {
-          "name": "MBC 3",
-          "logo": "http://x12tv.co/mbc/MBC3.png",
-          "streams": {
-            "SD": "HZ2:3nufsab9Mvude8FUbCdTMes2EjlBk97rand5fwFNEP7gN2e8wIR0mzmTE+WYhidjs4mT8jALZxaQQDHy607hk/hsmoqNUKnx44lnjyFK+sHrDJmtEQcJdZT20wuI7ZBioek=",
-            "HD": "HZ2:kSuNL3yqUANFwJvXDwrOsvRM4OzBtSFgfFqFfBNIx7xilX1EAT29lYfEC6/9iKuEbTd67yBhM1jf7gIZSrV04gXE8dD00J5pDYu5xBHEcZFCLFc7hdlJgTrxuqA271fX9VI=",
-            "4K": "HZ2:hcIwnfW6NCjL+11Tnm/Gzxxws3cQNYv7hzj8aTsN7HBH0zrTaSVOaDpZScqN4XKVXZ0yyc/tti2c5ZRrFg1UoqCvJ2AhDZwCCCJ0fssB6WQJ3snr3Rsi6oR51UUqdbUzj94="
-          }
-        },
-        {
-          "name": "MBC 4",
-          "logo": "http://x12tv.co/mbc/MBC4.png",
-          "streams": {
-            "SD": "HZ2:JZXzpmo+62rdmD3hw8MbRMRlqj0oixYC6T3IXSIwhfnfwQEketkCX/6FojfADy1RJQ0f6RIFmwM30Ce58mZIyHx6Uk6QYYvkpqm1PV/4KqkQR4V65sNtHkMFbhcqCasHXEo=",
-            "HD": "HZ2:Al77JwJHA7x6vuaiy6FVl8ArSX0zhUP09nDHyAFPSvFs5VDTQA6ejqvwhgqqPOTUlylTSvAcSqERrcT36A7psTWjhNZRMCXEoPgkumrhkvJlXxDuhlCkNMcG9eFiSkXxi7o=",
-            "4K": "HZ2:iFUFNINu/SfDqTXgX8qDH+wuOBKuxzj5J6LDTE+atix160tK9Efy6jPNBbRrKAUKJEaLuvrRzsng6jhHTmKBkgp5jlG+JHVzjuR+2pEqExAlXn5CM8iwGNd/mtNNPkR4fmo="
-          }
-        },
-        {
-          "name": "MBC 5",
-          "logo": "http://x12tv.co/mbc/mbc5.png",
-          "streams": {
-            "SD": "HZ2:I7wEOULA/ZACmvmfidxflG30yR6scgiKmO0+jz0Vdk9o4HN5ZJKmgjsAKw5jYYyUSa9o1iOdm1SmOhumDu9KUc1YaNr0Ko4pcIXVEZJbrloeMjlBWFTScOqU1qaQxleNXvA=",
-            "4K": "HZ2:oPpdqIgT2LpV9PkXPIbC+ZUc5lor8u5cp4LtnhAcjrF4ElW+GBldBwMGcH69BZ7wrvawd6rifL9GzTFjUIaq4FdgMmm+JGjfswue8UuVKeguLqC7c8R3Bm/u3XarrMYW4yQ="
-          }
-        },
-        {
-          "name": "MBC IRAQ",
-          "logo": "http://x12tv.co/mbc/MBCIRAQ-1.png",
-          "streams": {
-            "SD": "HZ2:5YalDVWJoNcFiz+HHQv7RHOJqWwR5fHtup7uTMz+TrCCX5CfQmwByhZW/m0ui5rTd/BCT8p+hXT9lNrAsMIXjzQfCqY0Z8KMLQaIhy7NdWJdk0plc3PC6EwhxfKcPFfU2Z0=",
-            "HD": "HZ2:truh23YeL8RjVuR4ClWbnhl0T501GteRjSayYg0akrcmTCNBvtYX4fnSySHUlk6x83v4RF1PT2QcWrsouS9O38doe49yx6yOSnaJcGq5AfTUCyvkWOB1sP8bhDSqVVHpiIA=",
-            "4K": "HZ2:A5USlYByzrPl1G7i+rK/VyAXdVtJPIGF28gTfJ1/TwRN7TiBKAt2wUpSjmIwww+Sgoh7e01PHx6ikEhnHgOu9s+D4qIzm1kAwCGh1bUaP3XrBurRpGuw7GjFFhCddudg0QU="
-          }
-        },
-        {
-          "name": "MBC MASR",
-          "logo": "http://x12tv.co/mbc/MBCMASR.png",
-          "streams": {
-            "SD": "HZ2:UxYFSKNYptFoV8q8svlWt2KGLjYuCAIqPoWKjgjVeOh4weDtKL0C3OR3uAu8MGUdvPWDYAMXsOWvypRnL+cmoZZjhSgYax/uvuJcrog28HQ03KtOVyDk9TgEwoGwbTNGrbw=",
-            "4K": "HZ2:NGLhEZ5/glj6PXRK1PwtPfKkQXtZFIESMQk4ZN4FjgLF7+HIizebFKPFI42+MOhwwOL7BXCWHlDjW95VpQFIoS9QP6XiSllxyKyUy7nilLnOhV1xg/bQitE+iNKefwuXQ2s="
-          }
-        },
-        {
-          "name": "MBC M 2",
-          "logo": "http://x12tv.co/mbc/MBCMASR2.png",
-          "streams": {
-            "SD": "HZ2:26Fhuctx0ZxPU70E7/cClUeStoTdDP9dwJOupaPkz5Eah4VWp0PB434wMhrGRYTAZzm7+cXXFBtapDa7PCi1/QldYtCg0rya8wqyVhNc6W1sg6315UZ/i8fzpcjhu0p5Hrg=",
-            "4K": "HZ2:gneVn/+e9vepAU9faOjcR9pMUA2fZwV5FhwMt/EbK6hpXhOgsrDCSgrGiOGrPlDO5fo2Hty6483k/bvH7+estDKAhsUzaYZnbvaDgjpEkNejQgqupMglNgDtvebP7GEbL8o="
-          }
-        },
-        {
-          "name": "MBC DRAMA",
-          "logo": "http://x12tv.co/mbc/MBCDRAMA.png",
-          "streams": {
-            "SD": "HZ2:by1wtT9RQeK1ceMOibVfEVhG+61T8zwXZl4GQhsazaiL59NF+0srkMU3MwslH5BK0NPOlPQO7/BEIM1PPiTPqZiBBdzzybwDTpNkNePp+ClqcBcWhijto/zPjPQ1dzmNdlE=",
-            "HD": "HZ2:yCj+f9f4Bee6iTjVs1G4tdo8SvNljjTf+hSMQrwkYr8khDFWwap5vxrmRcTSpg1YI1LvTeGoAOlnE1xAPzx9jH4nej1VAX//THM9SxEGS3SZJ8kvvg/HqB/TD/sRDLYNp04=",
-            "4K": "HZ2:cLdH5FNUcz4ycMvIrQ+W/xK5OTDR3uaTka2ofa8JPtOIb8sPNViSeYjQYexAoP2HNT+jAr7K9EM7eDT+yJupnOdv/4EoSR/za+RxKbTcPSeVP3DmS6YlmKmThyvKd5EICkI="
-          }
-        },
-        {
-          "name": "MBC DRAMA PLUS",
-          "logo": "http://x12tv.co/mbc/MBCDRAMAPLUSHD.png",
-          "streams": {
-            "SD": "HZ2:N2ExAq/GRO/IDQmpd9WS1wS4l+5y1R3ksredsLKQLa8tc/Id44B16XgOu1GiywULEIZ3Rp1WCj4p+yKflZOXAHKBe2vjx7ZUgCPk4rbZRZz+Vfk8R4ZAaDXjy9Hvyg1upcA=",
-            "HD": "HZ2:6uy96zeEs5WqsYa19k5ldMZwEN9sBGBFv0162HNNw0WV7vVHLLp+rfklooBW49xQ+/teK3i0LGauMor6qfuJ5iQjofkuGCA0c7UhpzrOs2G6+gtkpXSqtMJYWyUOXsT+txA=",
-            "4K": "HZ2:BG1ohM+YsZs7up6PFsVebBJPJHHgM5igyzEmv+5dXu2Xz9pI9Vvhn/4F2/gAHfb8NUFcpLfTjAAbUasmb4dAj5vfvjtI3+PSc/IsqzgJgLgEliqY7BJgntjBRP+D5Ln6udY="
-          }
-        },
-        {
-          "name": "MBC ACTION",
-          "logo": "http://x12tv.co/mbc/MBCACTION.png",
-          "streams": {
-            "SD": "HZ2:JlxhadhVMInTBTJy+Agp+4q2jDrBgglAbm8V9AxAh/WXFlPtu4PHxHkWyd4AjdBdn7/wGBWZF6PKFFUIScapJ6EsB5ifHHHvtxCIFD/9hwMCW46Z4uLR17NQ58n2gJr7JI8=",
-            "HD": "HZ2:+Ak/eTQ4escn3D9iQT+lk5MjeaUeWnj1xQmIQQvxY3XVVL7Tthd83Q6dUAXDBJ83CZBcTqZXPnDzevzdS7Y1wYceOuL76+V4zoxPk34B9NHsRCR9L1XwDrSweRzIygfePNw=",
-            "4K": "HZ2:FosOUBBKwwlGmSybDUHNcp3xkjIrSz2VtPyyfXgR/nPIsVYzhVLu7xr5Y4OCbPXQcneu0JnglzoQSSvvVyboqTAyc8S0AV9JEwskwuzHBSxSwLHvMvMj2npHN5MdjzRPhKU="
-          }
-        },
-        {
-          "name": "MBC MAX",
-          "logo": "http://x12tv.co/mbc/MBCMax.png",
-          "streams": {
-            "SD": "HZ2:TwqgHqkGn9HPXLi47OxK48K/e+jo+iFwjFWEJXNmuOH6EsTkRSNGO67K2C/GSwXKHKtbd+ZwtJTbj2YwiUqtAAau+ZBRse/kmowAQX/2HPp1WvVURTq0+aK29nw3a8Kqn00=",
-            "HD": "HZ2:Cm4SKL3XL0GORbCBdZjEb6hGCJolxq47W4TDZzVYhOH+KCGhmU3rACJJKYGnviEFe6VYsYfDwe+RomlVrOwM6Kdc/+TqN99spfFlROSqepQkH/iA276ADg6BHNGmSzQw+5g=",
-            "4K": "HZ2:cfDMI9XHIbP7IdHsCJCZXQl0eLYeEd9e9OxQOyguC6BnFZr1gSuVbA+SQ0Q3pG5cRI+FOLrlxwCquiWNrdb5Rh7JXreNe/58VDNP3bzURetikJyvCNRIX02NjLYZgT9IMB0="
-          }
-        },
-        {
-          "name": "MBC BOLLYWOOD",
-          "logo": "http://x12tv.co/mbc/MBCBOLLYWOOD.png",
-          "streams": {
-            "SD": "HZ2:QYozALUkCijtGH5MtVrBvEj5r9ecZAsjYaz9P49jx5+VjdLjsygoyJY3bXyghSSbH4hybOXAegIfOcw1UlY3huZ59Wt7rZdOuXLWAfcdoCXq5lp5PX2NzPz32V+d7/nSG/E=",
-            "HD": "HZ2:lnpL46K0bOqNF2k7jQAJHs9lApkz0qyTES/XPYIy6cA6fYinPM+k/CfGnVpm2vNO6hN85MN89nP0Mn7OONDCgIMHt061K4ItNdP+NJ2dZ+Ga8aNDxx/0FFfm6PWJooLfYmw=",
-            "4K": "HZ2:MaVxVvxKdNV1Dx263ClKfqnJOCPfzpVGAX4qwZcRD2mO+aGgXrkT97llNI+BoAr0wPuxSsWVtpkGcPbe8RJzmPQYzBjwQ0ThOgO7aK43XQO/7Na8Wgtb89878eRK+slQeTs="
-          }
-        },
-        {
-          "name": "ZEE ALWAN",
-          "logo": "https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png",
-          "streams": {
-            "SD": "HZ2:EO4Tf65qgcMBNa4LhibHndzjUlTyvgPqJIcmofYYTzIcH3CH2Gx7fOAvIkIGxxDU0RWovzBv8bNixN2oS6NHQNC64LagyNMavGOWckoqsmTFWghSeRrEsp/VeDNf7gv5MRg=",
-            "HD": "HZ2:010QLMvE/gEjlLK4W3SNtAKnerXQ1cYa35YLrhGSNLPd1wbVutNq7Nz3F+nPwfUzIv/oHzTsO9K7U8IBmEg5uxXf9Y4sO01YxUna+Uwupd+MmnX/LTGZAaMd9bZ3c1AU5FU="
-          }
-        },
-        {
-          "name": "ZEE AFLAM",
-          "logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png",
-          "streams": {
-            "SD": "HZ2:I/UB6piyGTYiZk7dgR7OicO9VYF4NXX+L2H+wRXcIKmjJYxlrgMw2mjMuf28hKbLlB2ayuoA1xmQM8UL1DnIHXSLWU5+fJm3C899vsyHeOKyeqSz/t950WQtWyD4z2veX4k=",
-            "HD": "HZ2:lupikdS8RJtdYa5Bc+40qToKpXQtqERNPJPiOXGFf0PmE96iub926TfhgzgK0zsQda8nmXA7J8Z27djn7ja80fXeeO2L6rIfb5JHNauflZlG0d9tFT3yce5AzSoII69w0Gk="
-          }
-        },
-        {
-          "name": "MBC PERSIA",
-          "logo": "https://upload.wikimedia.org/wikipedia/fa/4/46/MBC_Persia.png",
-          "streams": {
-            "SD": "HZ2:A0oyfsWIpJefYsgu3l+HFscBEpCM796Ld6t8ThY7/5fPJ/pvIDI+Lbi3/FY1NAhyTQdE+CIQi1ibzB04RoYcnflRP528+Ha+SAZrScTi2O5kyyBNCwZHcygE/v3lbjSIGw0="
-          }
-        },
-        {
-          "name": "MBC FM",
-          "logo": "https://1.bp.blogspot.com/-ZtNvN1c6hjA/X3n4U-g1h-I/AAAAAAAATno/SRCSM9utLjsYwK0CMF7LGbvDtxfS7CVmQCLcBGAsYHQ/s2048/%25D8%25A7%25D9%2585%2B%25D8%25A8%25D9%258A%2B%25D8%25B3%25D9%258A%2B%25D8%25A7%25D9%2581%2B%25D8%25A7%25D9%2585.png",
-          "streams": {
-            "SD": "HZ2:breFWybaoS7affFs6iEU3Elthj0yevlm4JNVN2OM7EMgralK/UXO1ho81THjxOhq3m1WaKfEJVB8SG5GgcaBOgAMUuRywpsZV4FmGZ1YoKKqKAM2DSSWMF3mRPIjx975GXI="
-          }
-        },
-        {
-          "name": "MBC VARIATY",
-          "logo": "http://x12tv.co/mbc/MBC-Variety-1.png",
-          "streams": {
-            "HD": "HZ2:6zthYdRtKn6hka5hxOKjcVNmfF0NMYZ8zkmuUkNZgj7WoxHko4BnFLXKHZ2POWv6DNW8PcLRBqIOGnmPLEBFnSbVt0pLKVhWqcQ7oPoPS2ojPRCrFUVW16YVW1DeuqWn+p8=",
-            "4K": "HZ2:fcxqCyB7u3VaYffuhUsvQ+/FSjNNkAM/bwxpan4C1g9q4dkq2hSt3CINmoUXI5p5IKTxp0OPdXuG0+tPaX37OAuMAjUfLizZaH4gDYjiQhKaD/xdC/AdufaaoE7VMWj9Inc="
-          }
-        },
-        {
-          "name": "YANGO PLAY | يانغو بلاي",
-          "logo": "https://media0075.elcinema.com/vod_platforms/58268988_2.png",
-          "streams": {
-            "4K": "HZ2:fCWLx2Fb1PR3UxBGeAxflAq7IZfuCGnBIyakw2HGkUkkqw7+mOq3iM/tuY3W1pwlWmihG/EOJVbTa827Dab0ylRcPjycQ9oLGmMut3HNortexPdE/Cph5LQGSFFJTsNHaYvEuntf"
-          }
-        },
-        {
-          "name": "SHAHID VIP | أعمال شاهد الأصلية",
-          "logo": "http://x12tv.co/mbc/SFFF.png",
-          "streams": {
-            "4K": "HZ2:ZiJgh2Lq8Gn028z/+WUnSnJzL9uYG3XkI4alU8e6v1Q6uDsuzosopQJQbXWeRhn6Okxdrn7khjYhP1pV+LScPMlTk25fiuVf9V9GzGfNgg5316rSYTARkgRYlwi3REkaraoFacaJ"
           }
         }
       ]
@@ -1249,6 +1170,419 @@
           "streams": {
             "HD": "HZ2:b5mPOKeOD6z3W91M0PDmOlPNLopYIaPd/LjjCzCMVjeg89fi8h6iV+lk/Xtxe3jog4HQtqwqolO6ExJao6BUZVukoV39UNVxJ471ZbNq2PMWpBHEFONzI2wNVaQS1vgSgw=="
           }
+        }
+      ]
+    },
+    {
+      "name": "MBC GROUP",
+      "channels": [
+        {
+          "name": "MBC GROUP",
+          "streams": {
+            "AR": "HZ2:DHH3J7fmP0sc+DDpcBy01ZsTxMCTV+HDv6oWIlomMLkV7rO15quzjlN2Q0JrXGRIv1N1X0LA5kpaKEteayhgSRguYW45gWra+VWquRad+l3Xx73EL//MrJobTa0ARUA="
+          }
+        },
+        {
+          "name": "MBC 1",
+          "streams": {
+            "AR-4K": "HZ2:Shc3pX8nZQtR+NNBRLTRSvVFwmVBGhnqAjBKCS7EFrrLyOuNOprt+zJL3pF9Nl9m3p/tfV8/2XOmdbAssPZQhgnqfumPXeu6SQsiiv90BTwmlDlgeSnMT2IpJZ6IFi4="
+          },
+          "logo": "http://vodkom.com/Logo/ARABICHD/MBC1_HD.png"
+        },
+        {
+          "name": "MBC 2",
+          "streams": {
+            "AR-4K": "HZ2:QwBgsLRN2OUWVgWmZAIZcc8REUf7l7xII7vMmt7Fgm8Z+MG0LwDtgfHm4zZ2wmZS0386mG8DhHlFUETUmr68D1qTpqYBf777pB3MAyqhVNpjFcvzajEImnTDya7hxto="
+          },
+          "logo": "http://vodkom.com/Logo/ARABICHD/MBC2_HD.png"
+        },
+        {
+          "name": "MBC 3",
+          "streams": {
+            "AR-4K": "HZ2:JLdhYmND98LGhWDfWFqI3NqfhvtdACcAqMrJ/UCOaYCY0B4CPV5TTPFdLgyFPTMgg7JlFmNiKngDud9gmzj3IuHUqjyT81AkvkwrvAQ3MnJ3gyPQwG6geAsHFnY+Tgw="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC3_HD.png"
+        },
+        {
+          "name": "MBC 4",
+          "streams": {
+            "AR-4K": "HZ2:8hRxJHSVwegwXYCvdQ0XlJDLMeP5Erksu/KbHe+tNC7UlDES3RbPWFckE4h6ODYpcZqrjHi3XgSH5DNVlhlQTVzyF7QeOz6Jn0icmaWQGTsUgpXsXLi4XJww+dQcKrE="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC4_HD.png"
+        },
+        {
+          "name": "MBC 5",
+          "streams": {
+            "AR-4K": "HZ2:EY1eJq5pFMVnc7wSwb9ZLSmoaTtmTA4kd+jlurRSFwtYILkKJfPWzUoiqr6e6twK5nixPNLCrN0f5j5ULyWw6XHmNvRboVHHFo/lzR7Ntr/m8Aj+iHw7QHtX69LoNbI="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_5.png"
+        },
+        {
+          "name": "MBC ACTION",
+          "streams": {
+            "AR-4K": "HZ2:EKPOfs8qsYrXAe9rz3jIZtyDfUS9EYxJGYU3oKh4dZ+tbCeHlUCF/zvUl/KbeH2iZSgBMIgVqZZlI3Jqxc5L6ks+3es7oFl2e3piBWinPl92x1MSyu3FBMeUrmAvRF0="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Action.png"
+        },
+        {
+          "name": "MBC DRAMA",
+          "streams": {
+            "AR-4K": "HZ2:yBaqIkO81LNKDasdERUc/9by4G7qk3t9j4mWC90Lg+n9fN/u584STBhtiTo0rtnNflDYRQMvIz3k7lBI96muQAogTtpD7OfctsbIJArCx4oG3BcTEeI9nGkVJPIyOQs="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Drama_HD.png"
+        },
+        {
+          "name": "MBC MASR",
+          "streams": {
+            "AR-4K": "HZ2:/r3qdHokh4qIeHPWmI4Wwk9v77IEqXM04Qh7dzVGyENcdmi7Crd1ZJ5/PYzjmlXQUPEyBpPDHVZ15LiPx8HGUTlEuHV73eqJFtEi8dgU5EQmj06NSlvG2dijoChOWLM="
+          },
+          "logo": "http://vodkom.com/Logo/ARABEGYPT/MBC_MASR.png"
+        },
+        {
+          "name": "MBC MASR 2",
+          "streams": {
+            "AR-4K": "HZ2:RrA+d8RR4X7nZaKTbpteC8PNUaCncSfCmmTvmfwpPk0ryZg421UxF/3mcYC2epHiLtBSbdefI2x7pLEx7baqra+bziICqUuh8u2JEKJBHoh36/Sfgpl9usx5XU8QX80="
+          },
+          "logo": "http://vodkom.com/Logo/ARABEGYPT/MBC_Masr_2.png"
+        },
+        {
+          "name": "MBC BOLLYWOOD",
+          "streams": {
+            "AR-4K": "HZ2:kVviEla2hNvo4XTNOoZn4lLKRlQivMSdmmtyYFE4S6ZA8A/pQhLffnWX7M4nDmZKyA279dQCpLk9axwuEe3tRj+M7+aocd0V6bbKQieCHqC84g9N88KWqF8O+nKCXtw="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Bollywood_HD.png"
+        },
+        {
+          "name": "MBC MAX",
+          "streams": {
+            "AR-4K": "HZ2:uDUyrJWx7YT/mrG06DAK+n21RQ9cPH/kIGXMoAPmQeRWQ6wNRixdGCLiR/24OzHd2a6/Y8g0CarpUkXFFctveZkDrJ1GvEh1jAwPutCnCprLooOGY18B13da9jYUH6U="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Max_HD.png"
+        },
+        {
+          "name": "MBC IRAQ",
+          "streams": {
+            "AR-4K": "HZ2:/H+ON13nJ3KhpEjWiDfihdXBvsTufoZAnfqY7sQgALbIdThYaapZ9b0/eIlPXTzdoeMbC95Wh3dA54cgOtQBDAVbb5KCHuxp4pERnSGdcOysraor7aZAIYEHo5DCPbc="
+          },
+          "logo": "http://vodkom.com/Logo/ARABICHD/MBC_IRAQ_HD.png"
+        },
+        {
+          "name": "MBC DRAMA PLUS",
+          "streams": {
+            "AR-4K": "HZ2:jon+gBDmFLBCCrzaWbESbERQ9vjm8cdJkpxS1R0CnR1SKN1xXvSz9t87dFEiksc1nZldgetYSJ7HGDW0HOiw08b450eHLTNCdWdx3FFoAijcuOB0lWbxDqPxpPAxXsM="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC+_Drama_HD.png"
+        },
+        {
+          "name": "MBC 1 +6H",
+          "streams": {
+            "AR": "HZ2:eeV3zB54SvfxMNJ6kRKmkqWynBvad86OeN/h6Qk3tZ5LQXvduF06kyZykeBYOnqSByr/PYp5Oj1KLJB5+lyeOXwaE7CNxRF6zRi1ExmALek12Z+3vi6smx5112r4p30="
+          },
+          "logo": "http://vodkom.com/Logo/ARABICHD/MBC1_HD.png"
+        },
+        {
+          "name": "MBC 2 +6H",
+          "streams": {
+            "AR": "HZ2:Mbj26SqQT6r7wqAG+DHLGcZKTofTHBupXZ7AmWkgDAjgCuf3mtDpLALawRK3Ms8PkunYXcxB8HJg6FPxZMF4GDCOCCf95j++ioKBxo9G0ZeasC5pUnWo5uZKgc1G4LM="
+          },
+          "logo": "http://vodkom.com/Logo/ARABICHD/MBC2_HD.png"
+        },
+        {
+          "name": "MBC 3 +6H",
+          "streams": {
+            "AR": "HZ2:Mqxtyz60kM/5S1L1oU2kG3bsvv7VW6v514QPqPT9eFSGrRXIOzyR5HTFp2MIS/G7VQNcv2J6/knUi1vlS3m+OBRK/qYVLE0A5dkYTTFIL6DY+JNyPJtEg4d/NQvTwKc="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC3_HD.png"
+        },
+        {
+          "name": "MBC 4 +6H",
+          "streams": {
+            "AR": "HZ2:+wHM9AqrD059bOGrKD9htwQhadF4rpuP4+Y1os/BwofBLlL+utqUHalcHlNZhbN1Uhua2ytVvxMKCIsNwiEFpSXPHmM05RXcMs1NPcvNanxVY+AzW3giLxYCmWQYSPk="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC4_HD.png"
+        },
+        {
+          "name": "MBC 5 +6H",
+          "streams": {
+            "AR": "HZ2:qEEIobtuH397IvR/U617rQ8pn/rjrlbCvMPZDv7ZXkqW62r0A1I/XRa7jd5izKwcuqnza2xgmPjBgmmjg3ViuIRp95nYdOJCYW0Y7jc9JrUHNfhejr6FSnzqZUKNvqA="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_5.png"
+        },
+        {
+          "name": "MBC ACTION +6H",
+          "streams": {
+            "AR": "HZ2:tfR+xb/4JabF2TnRm/q6MnvfEmtc6V8sjVj+6znuO3816jK8It3So1SLMUK9sK+ra8vDTH2zM1qtUpF/9aOObUt9cs6xUlIuaxD7owPiCHkeG3v2vYXlgBoMFKxNLIU="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Action.png"
+        },
+        {
+          "name": "MBC DRAMA +6H",
+          "streams": {
+            "AR": "HZ2:ZmU8wgBqmU2ubirzxPQK5N0ng/LRH358XRXJBszQRiQ+RG8fTWScZRhb+Y8GSVfeX3QCxfpU8k4csCgAsGUQ6FLqurqsBdlWOf9Ri9QC/GNHzcBJOjvBYRT+kc8r5Ws="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Drama_HD.png"
+        },
+        {
+          "name": "MBC MASR +6H",
+          "streams": {
+            "AR": "HZ2:mpCsEdacimLg7C8y1vXB/LeXS0K1qR3Wemggl+jEze9O206G1jmcXwmfdk+rhtIMOIW1pTAe7W4hc8hBC7Tk+ZQlp0ilYbmLsQZZk5kCSs+YVk0VoP4ZyZINVjZXCkk="
+          },
+          "logo": "http://vodkom.com/Logo/ARABEGYPT/MBC_MASR.png"
+        },
+        {
+          "name": "MBC MASR 2 +6H",
+          "streams": {
+            "AR": "HZ2:HUhi2+Y7HxLb31o0MkqW0EOsJl9icRVmfs6JK56Ljnh2W/ZYRHsOLDKmOXGoenJ05G8lyLLPanTTUbNEACzUJ59+4vDhxmDRLXV6GrL5JJ2KkFSv0248saiM+g0Vi90="
+          },
+          "logo": "http://vodkom.com/Logo/ARABEGYPT/MBC_Masr_2.png"
+        },
+        {
+          "name": "MBC BOLLYWOOD +6H",
+          "streams": {
+            "AR": "HZ2:dV8oquUSPB+dUIATpcmCsShFUnYcVOAz6X8kioiM1BjERr7xK3HoeEJSLf8h8I8GE0CY99EY2wqBiiPUv4taCNxluIM43R74ueR0PMUZOFDtlOBjoJYUjPrIuG/MxYE="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Bollywood_HD.png"
+        },
+        {
+          "name": "MBC MAX +6H",
+          "streams": {
+            "AR": "HZ2:xp/3lWlo6jglO8/Jx6m1/p7neMCGsu+iTBq/k86Q1IFlXy8V6DdbD7vnFq7YFKb8bzyR38MByFfU46LbGrxIHnOyl2jCJXq+O3RJVxwI6dST2kcVVAe/FrJmctBN/f4="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Max_HD.png"
+        },
+        {
+          "name": "MBC IRAQ +6H",
+          "streams": {
+            "AR": "HZ2:v8PY64z5c7HIELjUBhBVsAqyKZuBnIq2RyXPamfEKA5SWJ9E4Q6xK9NpiGULKcgcXTeipTPJybXD3b3DoQR4dKa/YbK2wgp9gy5A5aGGmBxTJ4JScqfISMQ9rwo42mI="
+          },
+          "logo": "http://vodkom.com/Logo/ARABICHD/MBC_IRAQ_HD.png"
+        },
+        {
+          "name": "MBC DRAMA PLUS +6H",
+          "streams": {
+            "AR": "HZ2:J/XZVPw/9Rt765pMr/HYY4homyvxP0sYUiiem6ErtsGsBFyCBEjItfqmi2hb1rdjHgcPwo9/5OD1XonQQgZzhfdrwrizzCwbB7bU+tzagdrko5kpdFj4N7qdEYvqK8U="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC+_Drama_HD.png"
+        },
+        {
+          "name": "MBC+ POWER",
+          "streams": {
+            "AR": "HZ2:t59ZhXCyB1bCqdd1XSjst1oTN2tdFkBhGAwWLNvnWWy/0kBbvkrb7tr7G+VWBofXZ3lN2sH3LyMnz1zTLLRjRE6WPdHzLozff3gP8Mvb27SikcI2wY5ndIB8BMKKNP0="
+          }
+        },
+        {
+          "name": "MBC+ POWER SPORT",
+          "streams": {
+            "AR": "HZ2:Ov7fgycwtVwzt6Hbmm0ZpE8c07oa77YLv4X6CCjpAEGpRvA2uwTbbESmJe33eGnyfnzxnSS3OgwjWZqIbpED3NIz2vURGejzj8uSQk3UE9dWVCwk1wAAgI2UBkYS3S0="
+          }
+        },
+        {
+          "name": "MBC ELIFE",
+          "streams": {
+            "AR-4K": "HZ2:VM+WbiB/7Z95omxk4rQ0kUEEUYSf3eK+hoeZAkF6LLcFnnGMkLiFFjWbv5o8oNfMUC0UgySAJ0tGNUt5OunSFE7BZQL41FNh9TggFwXNLs4dqeYe1dFWpxDofcmzG2k="
+          }
+        },
+        {
+          "name": "MBC 1",
+          "streams": {
+            "AR": "HZ2:mNIhxoUH9EA/KWSBSFTQj9wlu4LdQKDm1UZc6/jtz4N2H2iXAYsuORHyDy/DYlu6YkHRIcpYsnPSUylakTUEkG8OKAyE1T5jw6cZvKR8wheAysDgfVUWH+nfNtmRsyw="
+          },
+          "logo": "http://vodkom.com/Logo/ARABICHD/MBC1_HD.png"
+        },
+        {
+          "name": "MBC 2",
+          "streams": {
+            "AR": "HZ2:yuWy39w+ddvbkRTiF+52t+0pS4j97JSt1zwiLnZqC8GG71m5rHs4t7VPoOGPWk9+Uuh+zLlPmhVYYPMeUXwUWP4rKu+HPD7AFH8/YPsPDO8IwfKAwUhKVBwjNldG7uA="
+          },
+          "logo": "http://vodkom.com/Logo/ARABICHD/MBC2_HD.png"
+        },
+        {
+          "name": "MBC 3",
+          "streams": {
+            "AR": "HZ2:DP30T1hYF7Xp3pcuf2sc4TS4wZ+QH2u8ST8LjR+ZCy85a18YPlvrhcLG2mW+hjOWirJNwEKRmZMO1/Kn9PCA8KQyytXB/y1BNxGzeQX5AHfUbu6dxPnWmOxnQ9K+cpA="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC3_HD.png"
+        },
+        {
+          "name": "MBC 4",
+          "streams": {
+            "AR": "HZ2:sNnaBocT+Y5KRqyXK6FVJY3Dg1BTHhOca+K0v3W8Fq90V0eUBOboX/IJBw7MWnWjunn/0Fv0oTHxw9g0dhR2zBspZLNnOOnFXZbvS+ZWznQgha4TK0YC+RHf5cynpP0="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC4_HD.png"
+        },
+        {
+          "name": "MBC 5",
+          "streams": {
+            "AR": "HZ2:kt+w2gUXWLJllNRvNY3pukWmGW1W7OZghTKJEQZlalMn8f8YpeyE5A7i8rjjXSQN+QrMNDEYdctK2bUQ9rhy7OwySv3jSNHFY2LlbxDOWTtMN/fQjQlM3b9Ha9OlKPc="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_5.png"
+        },
+        {
+          "name": "MBC ACTION",
+          "streams": {
+            "AR": "HZ2:I/w9/pLxeoEd+OK6NWdB6boHlpX6WEu4wwyZDYAGL3EMRmE+gJQfYt05kFu7SjXio6RaeyRWrctXzgrIPK+jQQ7I7yKtzRGqhmRTfUlBfvkoJagAT0xaOfnB1bAmjxc="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Action.png"
+        },
+        {
+          "name": "MBC MAX",
+          "streams": {
+            "AR": "HZ2:0oWYAt94wv6jsDpM6FgGiDzbh9cDI+ezyNK4JETEyixaHGVHhejHOMV2be/l+6OelMigf6U9nMjYqheE3CgiBZJjpQE9cmM6KHA+F0kHSOk4BaSObQROkaCUXNIcqYI="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Max_HD.png"
+        },
+        {
+          "name": "MBC DRAMA",
+          "streams": {
+            "AR": "HZ2:L8yRICTyBQfHeh2wIcOOXZMdd0xBGzn0iameUKEhx5SJnC0M2aMjqdggUzI164nXpqjheRW8xEqcb+EJ6s1H4uDbmptpMqxZdvyYy35+Emm9FpYN7qHqpTrmW1Wovfo="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Drama_HD.png"
+        },
+        {
+          "name": "MBC BOLLYWOOD",
+          "streams": {
+            "AR": "HZ2:Vd7zvEPrX0BiNPqryLTV8AOZzWItBeY4B4UAHxWWBFL8mMpAzzGjbmHvihteuTrjoMSHf44E9KPFtLtt2TTooLgVOz0dgkUIgapB9vHPtUb/L6btWd4h01uXjkam0Z0="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Bollywood_HD.png"
+        },
+        {
+          "name": "MBC IRAQ",
+          "streams": {
+            "AR": "HZ2:yH2MJzJNMCgE8iB2NX6igBROhIx2veq6pzi3f8kEtCzjAuYgYcSrGEYtHHIqUstoxf2uWK2eKibL+OE9mGCaAD9/IsJgPiHwb5fIECffYCsx2VYbgovT6uG3wOzkwVc="
+          },
+          "logo": "http://vodkom.com/Logo/ARABICHD/MBC_IRAQ_HD.png"
+        },
+        {
+          "name": "B4U PLUS",
+          "streams": {
+            "AR": "HZ2:5Emkt1WHp9sYdaI5PSTPv2v5yDUOwK8UGlEvg9BUcroEUKw++a7aTL0tixeqmcEoQJXJxUHY4H2gr79gxbAMurf7fQhfGIZaA+OFolLUuq42GR0jvH/0fOfAt0DAQVE="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/"
+        },
+        {
+          "name": "ZEE ALWAN",
+          "streams": {
+            "AR": "HZ2:SVwxlLqmB3nqh7TQkxqWJBNjI1cmHSd44hvqYRPA76s8jPce+hhimKwYT+o+dVT77UsHAd27vZsJ3kO0pgeeNzCmTlPFMsDh7QS6TBy/oDVOBnmlOJ+bkm++YczuJe8="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/ZEE_ALWAN.png"
+        },
+        {
+          "name": "ZEE AFLAM",
+          "streams": {
+            "AR": "HZ2:euMrMEqxiBCBZFzQ1LNnhz81UVwtc6nWxn5PZmJeA9y7IOmub/XwXsri9BS9rEN3laITMaDUsmVUelt+ZVD9maGaPd8fKK6QnS44yxEaQZtdfvMVUNPlxULSI79ALJY="
+          },
+          "logo": "http://vodkom.com/Logo/ARABSAUDIA/ZEE_AFLAM.png"
+        },
+        {
+          "name": "MBC MASR 2",
+          "streams": {
+            "AR": "HZ2:UPFP+wFBA3+pN1K0jR/9Kolf+xOW9pnT5YnHF5C47n8/XdCjEhox0W7JVU4LVVz09M/EDbkvX1dw/l1y5vOxHohKyDgJIwkRkspRYBHwAAV/M3TPX3wzXVbHD0XS9YY="
+          },
+          "logo": "http://vodkom.com/Logo/ARABEGYPT/MBC_Masr_2.png"
+        },
+        {
+          "name": "MBC MASR",
+          "streams": {
+            "AR": "HZ2:9hLw9GIor4s9IQKBxaY7+DqR71DbxTn57pvXlvstN8VvAPKhGtQcgCaMlTMwxoL3aMHuqh0SSxvUwQbC+pjjMzwgbr4nJ4cNs4+6JLxt6a+kts0RxAFqlbUvh4l/Ddk="
+          },
+          "logo": "http://vodkom.com/Logo/ARABEGYPT/MBC_MASR.png"
+        },
+        {
+          "name": "MBC ONE",
+          "streams": {
+            "AR": "HZ2:c8vgDED70X7PItM7FvxrrwFfaPusk7l3Bb0kUXpGhPA8whPdOCoiCxondZ8ZdEAaSzWaS2AAojhu60/PLs69xjHh1n0NlYaO8SgXS0+M14U4PeWOc/ulj5kYSfT2YJY="
+          }
+        },
+        {
+          "name": "MBC TOW",
+          "streams": {
+            "AR": "HZ2:neLQ609fWnrLoQvFfur5STAkaqoUNoPuSKvwKvX44ME0Z5kk7idWR3hABPO5htDLRdh2L6XD3HiDOPsZiByz6EvyKVkV8VbfIndhqx6kotC7ziu9s4vpjScXbId8cPI="
+          }
+        },
+        {
+          "name": "MBC SEVEN",
+          "streams": {
+            "AR": "HZ2:RJqH2lcunP1CjHjxtZR2Tk+zFNOgtOnavRGGj/+xnLzmOuS2TrFNLEYa+ag+DVcoBLRx92vkSnbRMz4v6Qj88/gfl45ChPS26gUSqHRpW7bf3AeQ29BmgvltXq3aAYA="
+          }
+        },
+        {
+          "name": "MBC EIGHT",
+          "streams": {
+            "AR": "HZ2:cnYybEPFN0oVmA4A+9dOVaBEUrPM5bHmzpab3iOY8gUXfsgfACU99tR9Jn9q1woJmedJyKiiys9H2PXae3wlT6mDjymKm3iXiZ97ss2z9giXKtzH3JunNQfutpjJKmw="
+          }
+        },
+        {
+          "name": "MBC NINE",
+          "streams": {
+            "AR": "HZ2:x8bN4H0KVSoJXGhUC04mC2/iOYGARokuivzD3DvxjKhv4wfsH40bydTF//8ZAKpxb/KxU9bFtXRB55QP9k3+v1jQLAXtBnaV4OrWYffg2l02uZLkqdqVVxWl5UcUZPY="
+          }
+        },
+        {
+          "name": "MBC TEN",
+          "streams": {
+            "AR": "HZ2:pBWqMXJ9uM1do3vcFZlnbpFRDEP7xRN3JQK6/54trynS+nG3FUyye5t0MWrA8Q681Oih4B6uc/UgyZh2JDU+6qwvCB/WhD1rgN0I8zQb4AEY8m4zRgmb6FEADvVyOJE="
+          }
+        },
+        {
+          "name": "MBC PREMIUM",
+          "streams": {
+            "AR": "HZ2:AFpiaiQgHndYnFb1K9fSCtbgNlcg8jylSGL8v2EGHablMNTllKWCXpROrhGv4mc9oGN0F72zywP1XFkU9ZEHV2jQmE9WViZykfuQkfRB3c4uD+MtPk/OmL0tMhL6k0U="
+          }
+        },
+        {
+          "name": "MBC PREMIUM 2",
+          "streams": {
+            "AR": "HZ2:urClLpgiAJCx3sKeMOVNEvaHGH7Uy8jYTI0l8DcoJV6Vny63o3oY2lKywcrD2M8iX4BzdJceIfQAwVJGw7J4Q9xz+fFyZ29DGOMix/1XvF1p4LX9ZEWRqc3PEsA01DY="
+          }
+        },
+        {
+          "name": "MBC MOVIES",
+          "streams": {
+            "AR": "HZ2:LwxzkPVOksxzS9Qh1V1WPDeiC6Hg6wL76ljowq7IQ+Uf9oMDsHEjCvX2yRU1tJ7Otb1Ywnfn6akoHoiTilkQh3I0+4Bh7onUG7DQDXFDom9RmqCTtUexilUZB5E2JGo="
+          }
+        },
+        {
+          "name": "MBC POWER",
+          "streams": {
+            "AR": "HZ2:9nrjShAM4digM8QJAiPkNzq4adTiSCAT51dkJSWaLeqZgzc/tGGpYoO43X4KFE1t8ewk0tShhc7UVik2mwq8vJH+YOJD5aOn9eSHy0dD8cbLZvcH9OZeSr5xfAWjBf4="
+          }
+        },
+        {
+          "name": "MBC PLUS",
+          "streams": {
+            "AR": "HZ2:RFzTg9Nay3izIgEaw8/HiXXZ9iBCglPaMxpGP/gH7qsPdS4TmJtT4969fVKtzJim04T5OH0Aa9S+fBfp5X1tTJHI+qcSM7Mb2QRb1I/Lah0wk/YRGRSnGZLBojkH9hs="
+          }
+        },
+        {
+          "name": "MBC SYRIA",
+          "streams": {
+            "AR": "HZ2:aGsQ2uqOy5gbOWc2aHFodhNp681oLdbJM68OusSgCEj7fdNaHjeQqvX5OcB/7WdutodEH4ob05OJ0/XwMGFa+RDNX0QRpk8zSAn453bkJ3/2pi8NdqCQMEnBPQQ/ELg="
+          }
+        },
+        {
+          "name": "MBC TURKI",
+          "streams": {
+            "AR": "HZ2:krbo3iRpGM3SRon7RlBrvPsYTxpUHyL5uU2MyXxGmCYnEtAHEHyZcpE0F4ZHyeY0YXxJpYG4KuHbOfqz8P40hTzJB7gFGJgsfIeOnKAaLzu1m0xfWnxml09hg2M6SKw="
+          }
+        },
+        {
+          "name": "MBC ANIME",
+          "streams": {
+            "AR": "HZ2:4dA5tw09dg4KbZ+Bb1Cfx/JqKyOo7XOshhwM20KUtEJjV503FRTPzIx8mpl17MgeO+YFlJINi32WhZzXQvV8fa1AqhcFRJeTVJ/cTu0QP8JR/8YRzQgkDx3dtq+naXs="
+          }
+        },
+        {
+          "name": "MBC ZOOM",
+          "streams": {
+            "AR": "HZ2:HV93IIthJ0KAlYK9l33lKD8ZlakzIeRZqxDVpQqJGXGJt5hy9K3twVE52+IvEOA02iTyNfmyNiZci05U+PcGQ68wiPDmg0Ty3+1p/aLKXuQ7aITDlPkX0KOC6V/ly3A="
+          }
+        },
+        {
+          "name": "MBC FM",
+          "streams": {
+            "AR": "HZ2:JR0kebm2uAdrg2sZHvEFVxkpMwpFBOYnGXRY/X1sufOeiLHV8JPewP6ry+DBPq4ooVfV7iMlpifdOYAUCZnMKjHSuwXuScKo5N4qQoTid/g/hBfjJXvP07daAOic7Es="
+          },
+          "logo": "http://vodkom.com/Logo/ARABICHD/mbcfm.png"
         }
       ]
     }
