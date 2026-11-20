@@ -1585,6 +1585,29 @@
           "logo": "http://vodkom.com/Logo/ARABICHD/mbcfm.png"
         }
       ]
+    },
+    {
+      "name": "Falcon",
+      "channels": [
+        {
+          "name": "Falcon Eye 1",
+          "streams": {
+            "HD": "HZ2:eZNXyylyKgBT10ZTobi9gugB10JIYyhrPUjR/I0nUco6SGnTxVD/P1JcfPRKzxN5KemGVvBKyuKih9kRm2hCQPJbowetvLcfN/w3sglQ05Y0ML7RaQ=="
+          }
+        },
+        {
+          "name": "Falcon Eye 2",
+          "streams": {
+            "HD": "HZ2:N9trUMsoM1MO1rFMFRVLCxpiCKrklFYfnFbiElZRMxwyo6/3L4LzHncTCpmnjBfoWsIk0A0J8P/Qr3At3+1syH8qRNyAlsTvPnzHsbpkkqyHAPkaOQ=="
+          }
+        },
+        {
+          "name": "Falcon Eye 3",
+          "streams": {
+            "HD": "HZ2:PE3Isu8BKU58WK2jGj6qihCacNXeKpPZdzaNOqPuCAT19ktbo6h1Pa0hUFjuIPeVaUxXF1iIxA2+htLjoHuikPni0O3NjpAwEcR/j+WBJv1uLEhT5A=="
+          }
+        }
+      ]
     }
   ],
   "movies": [],
