@@ -274,327 +274,191 @@
       ]
     },
     {
-      "name": "G",
+      "name": "beIN SPORTS Family",
       "channels": [
         {
           "name": "beIN SPORTS 1",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
           "streams": {
-            "G": "HZ2:MHpiZQ4ZkuJo8hMj19w048Estp5fh7cjAiDCPO8AeU94/AaL+V7n0lyGtonh3YmwpVPV45xXlGTGtLLqaM3obFwYsi+dNqO2YWJMJR+eKguetAvlfWG1AcqgGtkQgEMY",
-            "SD": "HZ2:ASfFdOdEKn1IU3/ZZFO77Qyw1tf5+w5halj2ei/ph2gN8WfLWbm/be5YTni+ot5ezVcCTpnJVHAOAqJupptk0dgYdGQvLUprsfQEWLkCyTeiEajBpmOwZZVw9Mvl4Wk=",
-            "HD": "HZ2:Uy12pJoV1deco0kJ0spQZkuxyGsKvHz9GRCR5hYOIBdlsyLiQcOujG4wvryrpugTHDlna34zs5rv2q9p84PkV72/A5TB3oHwZqf73Y/tk/FjS/zvDQlfwWh7ZKMbkw==",
-            "FHD": "HZ2:x8yigd28Jd8WJ8jT8pXVVqrZLf1bIF1HCEqfYMysyS89/peKsHTNzKtmLfrrCZkr/BQWm6SxeStZilNMV4aKzW34OJm1Uh08zXWZloSiEPlAGA24MwzzRLZY1yGWPyjy",
-            "4K": "HZ2:LPYKv8BmZubk6iw8+RVuIEUHfBEXpJBclRdzfvBMrqG4b56TSVV74/1vW4mQi0XLY5ecqyWLKhYtjOM9TkH6/V4mXhi1zrl3WWkVpmSyjpbzYr31ciBBIO0Sy3R02Z8="
+            "SD": "HZ2:+mZEEdTt6NGXcUi7POfynngmyqZzZ3VOGqGLfWoYt8EYuB58Pj/YuQCWprm8kKWtvI+W1Zzbkj+eQTCaXoRJaWVrx2RVXMFgQC2qbyDOXnulA5EZNzP/+x3jnPyC2kHS",
+            "HD": "HZ2:P1TA5cQUhcBhBr/DUCdiopgp/UG41m+DDdZNOUl+eafZCLnkKeyUdYA/il199FufmU012kwgErmPpzvaP4E8YfhRGnw5U8Y1T/PlP0tB8RrwWVVzwQUaPkcauTici4GH",
+            "FHD": "HZ2:Soo/NWHftU4Kq8B/Qc2J2EVM7foghcbCWXMQUho3afCZgtiacXqBRMz15BpffajI+uj9opT6z6Apc6jDS2oljz5V6zFDe65NdLd+g96AZDxjKYpyvrEhObFADmqoby/t",
+            "4K": "HZ2:MaQdCt8aS34wiSqnEW9uBp15YWxsHbGO03n35AEcPwI5BhpgYN3BxzgLj75zGJr4FB8mulcFeMvRzQnuAXPZFBGB4nW5wG2z23byFpXiGyGDBdnBg6gEVXLVjnudIz3a"
           }
         },
         {
           "name": "beIN SPORTS 2",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
           "streams": {
-            "G": "HZ2:v4mXr5E+AaIj4uWInHi2cVv1IINhZMz3pUFpBQ8DjKQp5x/X+9H0izSFT51BipamNkY+eKL+9Cd5qXNRmIKoaSw6pIS85lOHxIDJXXOzDZq3Jm8ykI8Tdgovl0OBH03E",
-            "SD": "HZ2:tSssX7+ZIzLSyysRGq2cZkWmGcbiFJ0o5eDX58mPjPs/+xGS12GXUH5pIUijmyeHCyqoHb1PQYpQu0ZKGZmNY7hwrs00Ea3L44+bFyPrHWk7fFbA/Suvo0DIZkbpIGQ=",
-            "HD": "HZ2:sIXcdpKft/MctHq8monJp21wTSn+C9xQhnyX2+s/CYDiIlJ+Uc/+tn3sTa0jH4k0tvud7qyqBlnz43s3iWaFgDCyPWXw+sQmv0Jx9tPFVX5HQoXJAvziiPrVcqOc0Q==",
-            "FHD": "HZ2:eLTSI7d63Sz02XB6VWP7Fuz/K/wFYbredhvjzGoKPPpiOP/61zmChSEGeLmC9J+QYjF5WNmrOXN6mxL+GfDZ47IcVEYau4gMEJE06/5E/4v9CaFRnbEcSIUKo3V0Ey0n",
-            "4K": "HZ2:D4KdpME8svTuG/wwllTpzcmgUBbQ5L9ayNGKDxAZRxrLpM6omNO7uBdUFmfToh/zCIvhvH+sW8m2bmhgAdbnFbAqIw+LtGVsEJvXdDsQRKRSVat/WOCiJQMxlZVoZXE="
+            "SD": "HZ2:yqCjmwtMEyrg0wgYWfYwRKGgInB8s1cAUaTle5CzU7bqHnzm3c6edrYscicV1seasRr/pYEY3sPgl6UYZtsMXX5kSQso58SPFXU8WemYMRUhxJwhlHb9Efxu/nICnVwi",
+            "HD": "HZ2:E+tG9FLbe4PWwnipcnxcK43cuVcn39Z4c7mJm8fHTvghPJoCh0H7bDLSLxCGFN9JHlxliVLHvO4GO2bwDrDA9pficc+L+FBtiEs/XS6fbV6j1ASiec36bQVUNzkBSuSj",
+            "FHD": "HZ2:PtUM/SGt0ZPBSLtuMbZadjoEypCZrTp08fY2w0NwOw9jHU/cuyhvtvh3RbvknB+6PftyuuGSI/RaguFSXpisp1gja8XJlYhwXzP1GT3F1ipKTuR1dHl066XUAL9WxknE",
+            "4K": "HZ2:dX/UJ4DSC1HZC67PUWkuCLjQ4kOFcHhiXa/XWYXHw4SB/RPVDvdWSrKc13XjoEQXQxO2TssNYoQaBLvwhc9xDoAGaBLmvVbamRnxiOTLzq/yhczFbi0U7WZakubyf87d"
           }
         },
         {
           "name": "beIN SPORTS 3",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
           "streams": {
-            "G": "HZ2:8C9xH0YHZlwJ2lP0gvhoNOxSWEw288JSuiVffqLcwnQwkO7R7S44pk6QuTkCpdxUDklbw2ZLGCJofuD3zWHMUzOJW4rDufJkpov1EmysCKhlBnpshTIR3jAbe0I3878u",
-            "SD": "HZ2:4LpXGQF/3dvAT5WDVwoVvGqexKjgJ3VUGd8h4baq6moA3BuHI/9HSCIcbw5WvhYVTmSAM6izU8n9HEf7UyMaMdQ7EkVQ654CdktP555ZHj45azo7csxW4pCExG+rP/g=",
-            "HD": "HZ2:P990lPbHaSbPdDgn9aRR/7dZHfx9LJ4RlaOAR9IWpREhG20UtExU2Nhscyl6l/qvcrxyqGeBp50zbQcD+e2k3E/TdKY4gtx/myK6m6Z1VPqR0l2t4k8sl2A1b14jNg==",
-            "FHD": "HZ2:IRNYfcLB9tzGbpO0nSiB3USBDkmSCs3IfSNs2BFk7qIzJHpcTRJiPOtiQ1pZHoBckizxvn+a2Iez7XaOQrHMjx+4/+Yck/WjKEBlLM3kwOxKzwYHJIAuV0/SJOzxSHA7",
-            "4K": "HZ2:TUcyCHWl5iJj8BQ83WxRJ8V0LDDcPzd7I0MMT0cFYnZX3UWbo9Qq89Kwm5G2Ic1Xe/baghMjdUCf791CzRmd9sygOd4WDSsR5Am7rUbBrF+v9hre/+J2x/gsMIvrr9E="
+            "SD": "HZ2:flbDxN1AfdqhrsI3wDFelJltNE5Qt/2tMsHIH/w/vTfUkbvzAkj5S55+TFFsqA2do1jYJwS3rVitDxpOHBelSXm2t76Ey/ocpe0MlETDXO6aIZevucYg4rgffWkZRvnl",
+            "HD": "HZ2:w0NboYW0GG38gY6r+q5d/G7awh34KrboaTZxX9GkN9Q6tHjgtQj654MChgNRZxu6j5EHNI/tuwm+aEWYlFlnW7PyhAl/JtOl9u01FiTi9gxgRvoWA8D1Ultn/OiOoQ0+",
+            "FHD": "HZ2:MRUIRlenNsyjlXlBSp0u9M3O+xVh4iRymuYxZBNbC8JPoxEhX5XzerEsz9xcPW+OhDrSR+6pfoXdC9D2CzpE7zYDK+Bo4AGsSbMs++n/ip8weNYUJx7gHPp+W99XQfH5",
+            "4K": "HZ2:ON0ac9Jhl/MZCu9tjsq8w0rB6oWH4phfY3QVEaabTBOKou4JTTNfcmOWgY5/SUdEQvaIvT38DnBdzhEnx/So37MU9jMwqEuNagsx0FyGxUFwsnkoxDIICCTQCswjRLFg"
           }
         },
         {
           "name": "beIN SPORTS 4",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
           "streams": {
-            "G": "HZ2:yETXmLcsZShBCsXDubI5iiXXmWWhT83cuKi3IWc1auDYtwbckZzI44nKs4/8kEHC0Oidk2REYr1AqMmIXG3IZ0j8eS6Bt2GKx2tqhYeZsHGH4fQyVBcNEW54NfQkm0lP",
-            "SD": "HZ2:4CAsE2a37/Q0QsMsZdMnEzVg+KSNkKsLQbZXqda/c4bxdvKKBDTRyx4LFtLrysAMnZuvhsUgY89fu1T9KyTB9M0oRc+CFK5B4Im+3KtZG2A84IfPOuvsIzYP1Z96Lsk=",
-            "HD": "HZ2:13fQtzGE4pKrjHt8FIIqvL2JbjBFcFSrlGBV+vaHu7gwb1e9HS/AudvUI3RKcgivP5bjzgScRy0LGxkUC2aOfqH3PnT2bNWwivl4zGiqLcwu9CKpeGkXZ6bVqwFuJg==",
-            "FHD": "HZ2:jAm3wnXaBVm/b/BTfXw06HaeMVNbPCWDS9dURaLPPtKDz9XZVHudfs+Ni3jBAzpVsauU7gx2a6xnKXPSw43CRffmJf+WiiGtiIPYQJncspBgUylOIVog/KBJNpHZguLJ",
-            "4K": "HZ2:J25mEBPxqVfNsmcBb66UKX+v1SVWe3vytaNQ7Dy2mhbMPiYNYOkqz98w3abq8I+WObRJLT3T2Q0pR1TDOusC7Vx3+jYTxkcdyPBlNP+gQe/aQLadDGgrB+/oKfuP1kQ="
+            "SD": "HZ2:q7FZPPdccrnyvrv9gEMnxXcoBv7TS1+JP2yPlsOSg9KjDUUtkLwVe5OT2lvV1IseGgwmka1PjQK82vQjzghhR1wlcHHKFnFIMm0W9uv50J7zA7uPZhuK5r9GkZJ4SDwK",
+            "HD": "HZ2:qlADXDticeSkegsORAuzf7kTy0Fx/ZVPohRrtGlSXdg7y42JIeNu+hQffublsyKLLp42yhH9BORTu8MyfUu9HsfviZouq8RiZLy128SHWW+sb4zHV4tRpVSACuAFqkLj",
+            "FHD": "HZ2:2Nikh8JquB18Ggja4KY+etrBScQ76nIflEtaUcUwMO+a+/F92yjd8dcN7Gc9XEFhhU4j7YGwyk7t8jE+uj8hE5VCX85W+2NDhGjoltVfTBO2sLNw+arbhaCs3HEoDTZk",
+            "4K": "HZ2:dkhat6/+cwUods9yNrhUQ1GoSEZtLA6bY4H+XtramxEPS/crFq9aGxN8Q1lylwbQw53Q1NVlt0dZe8KygGNLOuAjwFtXQb4oZcg2xaxjsKAoOvs02N42vbzpgsAwZsLQ"
           }
         },
         {
           "name": "beIN SPORTS 5",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
           "streams": {
-            "G": "HZ2:tTXG+3zvy3xnM4Vxrb2yieTEpbND4ahjfujdC26wrauM8tBQvjk+09P2xfDeeGkX6qgOtvQ1lN4EL3JsIQEHUWj9lCZ1MOf4tuo6glnqBFGAbx2pp8Pz7QVzuKTzcqOf",
-            "SD": "HZ2:f1iXnpFOJzcewdRGfRpppn8mvHGU8tOi4ETYQm1elG70kHI5vBvwaqZ6cbQxVPu79aSV+YphPNYKnqkbZbn7WaRoNaxXKxg8e/Z4uOjqhYLsFmkp+yLvL6ZRC2Tvjsc=",
-            "HD": "HZ2:CCUx0MzSz26r0Ng+6XuUucNRiFxonUb5XaSQMTTR9Xr6EYsUmLqkM9Z23zdjHpuE4VBnLPUFc1qhdlfSu90sfkzgesP0Pg9jUGFJoAudkJuWPsIVrJ7il9EitK+xUrY=",
-            "FHD": "HZ2:X8UTsX9C3CQL6eN6baWuQEI01lGWU6UJ5ImhAbi6eRa1I6ZPujbhYv7uUC870oSnwsHlhdV+GLbHGm/4aB79yvKcsO8HcHMxDSJY29cv2+AOGNFsG68B5VSm0DXHg0Rt",
-            "4K": "HZ2:iyre3knfcc2cxbE7DlSHMXKFMf/UxRRquS4mo5ZIc2J9QnDFEFEpORV503+ufKVy1UXnsx/lwyG0nRMITC1AgjSkIW+wkRCaIY/QQ+1TDmrbfNSwd28Ldb/6wkizYbo="
+            "SD": "HZ2:yIb3x9MHopZQROgGAu+mN2bti04bAa3smWlbbiQBwx8KXPvF76BrbqAogXv42PrDfSNFfb3C3jn2l3ls7XK+wkQ/QDIJ2s0KyYyWQfsTiEfqvOC1XbfGxqy5lGFxLEY5",
+            "HD": "HZ2://MVteD5jEeYUIj6rAEjK/4wPZMa0OQ6G9OG8w2Mbhp4em+oHwW9r1tBXHH9Pp931oiilBpeYeYUh7HCC99WYCq5fYLDrW6Q5RAF4OTdDGWg8ESfZT6XOkzlz4zoowni",
+            "FHD": "HZ2:B1886P7xaFjM0FekpmpjIHOoP6Zl/aAqdF05Gx5Ik87Q12ufNdRh0VhbgurFg8Ba9L/q1rMRDu6nmg0QvJC0yyVyv2yFsnvRpT4K3O97MneKuyGhcKYV57KY3f2hhfo1",
+            "4K": "HZ2:qSAWL6w80nYAgIdKoB4zkNHGVs+d+/a2rnupFdVn0RsaOTf8Wdf1QcsXCX3e/HvjGG8XUv4kVjt2Rd912p1YtuZ8KdqiAaz7sRfGSY/VUz0rl3KfqGAbOp22HeuYT7lL"
           }
         },
         {
           "name": "beIN SPORTS 6",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
           "streams": {
-            "G": "HZ2:GFBco3uLbq9Rj/3XnljSSP9OiKF84jn1yU9AzBiOm6xbkg3VI2KwMsCb2CIY9Nxlp5vSUBMXUhDgTCOa2Ydf47mWAp59RyIL88dYG6qkoqQgfpbOELrpjqBq8T1n+PAK",
-            "SD": "HZ2:pso6DdWiouc+YeEJ9HThAWGnI5GVp7fCdsGMBCpKM/kImmcn2MaYr99tZzqUdm2kHuCpoa4MKs8AvBpeemzpc50GJRbRzrzG0zeuwDY9x5jSytM7piPf3t3caQQXE2Y=",
-            "HD": "HZ2:dwEi6z1lW9Mpvy+rfdXzhh0WNRTEPoSKBh/BkbtNMEI3k5l9SMQomGqUH2/licceal41Yl81TwMMn2wvnIFhV5T4x5bX1MOltC5pgGq07j50SoElqnYL87s8m4We/0U=",
-            "FHD": "HZ2:O7jGFWkFWno4zw2MOcTX87IURlAsFXFbnDwwm26nCC6YaVSPV6X9Rzu4LNk3tlyjhRARDvYUFipROak7Mip7YpH+BsjexRzPGGW2jE4rJahReeVR7ajyj3qNQKxNWOcD",
-            "4K": "HZ2:0rjG6peKEG+30XNHW5Z2nD/E1KMigSGIyOf2GJkE4uygmkSuXrob00xQojSw6+dXa6RFS5ufaQGDe+CFKGKDqomvdzl0f/Xdtccg51xvvBXCibgRIvHlyiaZRpSYVP8="
+            "SD": "HZ2:QK27CapLyyvrQH4Y6LXLKxWOMPiCmMFaDmIjRiq34+tTnK2sLdl4L7jh00V76iZ2e9RZwzhJ0Y03qmFFUVCrfAAk2Y9rQYagiISzohRtss4wfvjmiG2avZqED6T4liCk",
+            "HD": "HZ2:ZJLBwAnPwrqKfWGH3dkRBFp+Y7KK1bZYYiw5D7kQUvZ/LlaSZwAJQNLPGKbvzmATYtjQf4UzbgBmofoZB1DvuizEpd062bLF+IgZRREq8QieaaGTX7GSrfAq91Ux5+in",
+            "FHD": "HZ2:6SHeIlLy5coQzLOch6/pvWJiEanbCI+6cs4q/EfvhzYi7QKiZk3HFq1osNALBSOmJFpoJV+nWAGccVN4QDK51JWSuam5qRmI5I1865Mpdp7mvtK55J/+5+sn9rxlwlfh",
+            "4K": "HZ2:+aMBvEsw/qGy5WW6DIgr2b0aXrCllXZr7qYW5BNf3IufSGsLVsVFMxJN5Q1yaOi/VkksxP6rInPPPxiSCF5iAxQ8bpXbxQYh627NBpmifeHNk44/OSvEnYyPfTZxvT7E"
           }
         },
         {
           "name": "beIN SPORTS 7",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
           "streams": {
-            "G": "HZ2:WfggPZaJ06M2qxCDsYo8D7A4xVko0Rqrcr9ivyPCDmrSNXEl9RsQGPCfTrKN6KD7BKheSvUTvp6WBN0xggG9wojLOA17AsAYf2Yo3KpMRc7yWNLB6kGDsGzj1IfAdKEF",
-            "SD": "HZ2:geKl7gHPqUPHjpCwS1Yu5MSwQxfsfkigsuWUNplH+62z3eh0RGwD4bJnnCWm5VvZOrJmfYNxWBKFfHq+minVVNVEDkafCgGmBwZIBiJUUK4oYCOMEQZSEieklHWF5sw=",
-            "HD": "HZ2:AMVPxuPNqV4eNSBMcMAP4qEQom/BvfgziGxyWd2YvJTNYJV8EmQQrfKID6WPs0+MYQMryQkAA6oTq4ADRmcyEkd4CvW7NnKT1PCHDRwPIJfKDiZB28KQ6PjoWVnANWQ=",
-            "FHD": "HZ2:kcBUhKvZyZNuIq341ZNCiwtPyc3E61ZQHhFlKgvZLi763BxSvrE2/7vog/gfI3xNj4MAE+8GGeLQevfIAeiMLdMNYl2F+bq8f+jxVwLUJSsU3XRe/bvC16+1ulgJ2eh7",
-            "4K": "HZ2:d5EYIo2AS/F/U1elWXROaWvsDMv0ALTrC/RnWKWTFnGd32D72zoSM5KMtOjsPTX1PJ4Ha4iWmyP84kF0qfjwnuL+o2DZQefsSji2BgJgb4jguJGAr4HHzFLr6YQ+zy8="
+            "SD": "HZ2:8QH99FqLR9HDmTRanNZwgenMz5uXU0CxQ8l9wP9/khXAm8DuyR0exX8LM2RzE8VxCtINmQ+WXsqkOSPaTaaT4V69wu9lcx3kKZvipO7DucrqiNonyJUOoTGlaFUbWd7e",
+            "HD": "HZ2:2sS1Nu19IZkptpbpWdsAUNYrD7Uw+ieBzmHlqXzH1c9RzSlZwZ2Ma9c/TQZgmOQFuHlUcN2flMF0sMqCI0Hehm4qwspmAnZ/cV2XnzehDWR7cnf44Bhc1THlZ7J3nYaR",
+            "FHD": "HZ2:jXwgvY3X6B1l+CyDf8A2BpP1yqiv1K9R724yB9qh73oK/nDQjzIJFmYV1bsfBbKSTLPiW9lcV+gyxkkf30rXjMP3ya4yKhzXLu0HL5Zo//RFvCcvIlu8z391ukduxJsv",
+            "4K": "HZ2:i+OKuypPKBfo9SSGsUBEXYUQAKbQuNFUqQKgBPXYhXdqPZpRnw/caNF/CqfLPoMsJUyqYqoUwGh31qzFexObxf7n+P026RVSeuf5A8nSRZ8b7TrSIkZR458ct9riHGsh"
           }
         },
         {
           "name": "beIN SPORTS 8",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
           "streams": {
-            "G": "HZ2:7XURWyXRONfsePQ4B/e7AgT8A1lcNnuCnn2WTclk0JaFhMjMrciFPgC5bzVMwGb2TBP+MQ2ZlrKv8IDcuQkvuxDDGi7OqawFAtb1mA0RywZar/Ez4KS+hVVoiFVTpUCJ",
-            "SD": "HZ2:FWKZdwGXRprPnfaUoE/fqjbuVc3G8PocruiDvte1FDbElQfYTos+fbA+N/81FboORS8WlvRPu4ygBNqYUUvT/4jmkJi6rDx1PVlyYQXFX+27wpYgr6RUiEBEfzQI0aM=",
-            "HD": "HZ2:qFRcRdElqJC3IbthaE2dSS9buNxx2DzyBpWZjj8HtC194g+m3VJO+PUwJ0HS0KN/02SmrSmpS2cUzu9380DveLjOvdswHJJlBzR3isfQ+KvxLGXesFQK+0viGTGFwks=",
-            "FHD": "HZ2:cxA9Dh/MLolg0c7dL3fGBh7dMbhrI6v+IAkYPIlpRRfh7z7d1ib7yAtACCtxIii9sddmBgxpAMSTXxES77fr+bGur1DSc61RcfdRiYTp59b/yeGUt+PVyGVREFuxCWyH",
-            "4K": "HZ2:jTOrcHY0IuHsvVhOdI8C5KqEdQ4sTLvzZ0KQyr7SLd4umObg0D9zzbmrPp1l5XNujlvQXYOeL3Ukf3sL1iHTgasphmYl2neIavI6eKj+SZ25wnD9vEcJsSBoSp7iy28="
+            "SD": "HZ2:jua8tsSXOeaiFnigywNEJ0P9f2cYjrH31Fa3j7GaqrhzYu7eNK4eP/+Ev5AOtyDnTSZTjBFL+Oj2/nx8leuaJw1NaAxRHRIm5aitilC4EjBxrey8Aprp2QZ9UNMJb26P",
+            "HD": "HZ2:f6CINuv1/bEQym95NdTIJWhI8Aqu0rmsmLISXfebpNl9DhIElzlcQfB+mRp9/CZBIbZfk2hWcbbMt3EBoYubw/syeut+ECcixv2ZBto89gKLFxPW3B8ftlf5L6drukQa",
+            "FHD": "HZ2:+jdaQGNo/HoQKH4FlPPXGUhkU9uvvBEVDoK0LakljJgUbLmT76zaTaUjgMvCoMmBE76NzWfcA9Sc5WMNDWORxkOuKdeTUEmngfsJh+qd3ZNKwyJoyqEJSkDZ4NJ4E+th",
+            "4K": "HZ2:tbNm5HW9pwRrHQTSNvtwRoYeg7fwF8/m03S65yaE6Z+WB1VUeMw7ZR7tPxaQwMDAwk47GM63NORn3H4JnlW3vcKHRpr7NNaJbJpsyO3mhEjf0f6SFHFNEyXAhtTglYpp"
           }
         },
         {
           "name": "beIN SPORTS 9",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
           "streams": {
-            "G": "HZ2:B2Mrip2wmJYi3dN98YACPq7+KW4nDxHzFdPTEJVWB+CMUGRVcDgszROzYHgn5P2HEQuJ7CxtWpkSdorADLH4wiC1OIt1qvhPWXBWwC0QFRWwHnxigGOuIcLQ1l4Jmi4H",
-            "SD": "HZ2:PpJMrFqm07B7xq/lSkf6eWGJUzyfT1a0YnFqcH/843Q/OitXi2b/gEhxVruIwMV645QwON75FTZ+myzmeqvsO4DzPM/IX7KFqXdgX0MwB0uCmhJsSbmVGCUklMy8Ze4=",
-            "HD": "HZ2:0YnvzlfL5bsmx8/sQ1aikAipSskdIzT+Rh2bB8X1+TLPVJ6Enc3h7PwWGxrgnvpvq29JGFqqWolVnR2vWVS7hquSDDRjlSkHyEvk7pITolxIU8Dvq/vkkxNifqq3bKbo",
-            "FHD": "HZ2:BLSYVfxG5HhAGbKN3xQSkQzeZTnnBu2YEOs5ktzoCAyBlG4YJW8tZVoEChI5ehOAJMHYR2zHvHAJqf9J0bMRSTzjhBDCHfC9zRzIM9GVieUc0Q3LYwMlMWIaNt8ht3W5",
-            "4K": "HZ2:I8ekt9yL+uhogU4POU6Scb9O9tkDCuHSV/F28uns0sSuiYQ+XlkThcKAba9pmgBLGmgkh3owO9Y49qZ0pf5bAYwPk0BK2w7tmmelAU3drCh3XrJik2/cxOg7Mta0Zak"
+            "SD": "HZ2:woySKXhu4dFQp1VZN9ufB6309gvTHI+n3tq0pqgK51xlO1V+Z/56AH54EPo5DtW/n9RqIs8g5bzKHmf4rnZcACTi9l4F5sa2azJXF3Hq0T7VDmIpA/+oBmVvLiyCA+nM",
+            "HD": "HZ2:bv+Sa4LIul+zh65umuaXpWYdPJsHpz4rIRWGRspN3AGLTKFuEoYE3fvV0aYy5znenOklPWAcUzES0JTXuHf0shJUrjB9mBScuUPESwp0CRAces8fGn8oWbjXUgAG15Un",
+            "FHD": "HZ2:nEx6VdveJs953dSL3WOhFglgwivuQIvNZccQ7u+Pycy5SsvKcEu+S6VixVilzwong4MQDmc9chYyFos51+EGEJvC45TvuP9WHBXE9EY9ePapPXKy4h8oJHPBKGZyMgBd",
+            "4K": "HZ2:q8diojhVAHnb0j6eznJ/CU2TKM4IC3ENnpkNKyZXUcGA7rQb30BrpddBRbtmTSLVLPFgu3z6SA7JFzA66eF5EE/KIZ0LVOxVg7YAqseZBI7id0SivR10ojj5KE2JqsWQ"
           }
         }
       ]
     },
     {
-      "name": "N",
+      "name": "beIN SPORTS Abraj",
       "channels": [
         {
           "name": "beIN SPORTS 1",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
           "streams": {
-            "N": "HZ2:P9MsmAiyzEr9WPi9xl9+yAPn+eQMyohx299dHAXWU0rNjeCz0+ep0U+ml2U4vhQfMZXbTe53POorLnRds1L1kAazEmxSRFag/TyHC92lsiDBkzHJ6B0xU5wSMZHGUnER",
-            "SD": "HZ2:ASfFdOdEKn1IU3/ZZFO77Qyw1tf5+w5halj2ei/ph2gN8WfLWbm/be5YTni+ot5ezVcCTpnJVHAOAqJupptk0dgYdGQvLUprsfQEWLkCyTeiEajBpmOwZZVw9Mvl4Wk=",
-            "HD": "HZ2:Uy12pJoV1deco0kJ0spQZkuxyGsKvHz9GRCR5hYOIBdlsyLiQcOujG4wvryrpugTHDlna34zs5rv2q9p84PkV72/A5TB3oHwZqf73Y/tk/FjS/zvDQlfwWh7ZKMbkw==",
-            "FHD": "HZ2:x8yigd28Jd8WJ8jT8pXVVqrZLf1bIF1HCEqfYMysyS89/peKsHTNzKtmLfrrCZkr/BQWm6SxeStZilNMV4aKzW34OJm1Uh08zXWZloSiEPlAGA24MwzzRLZY1yGWPyjy",
-            "4K": "HZ2:LPYKv8BmZubk6iw8+RVuIEUHfBEXpJBclRdzfvBMrqG4b56TSVV74/1vW4mQi0XLY5ecqyWLKhYtjOM9TkH6/V4mXhi1zrl3WWkVpmSyjpbzYr31ciBBIO0Sy3R02Z8="
+            "SD": "HZ2:qh3JQ/3BDo9OI6gplRzUQfIS+4Iifmp+Fm3sGkbDeGE5BBZhKATMJq8cm4303/R6MNGqhXHUJi56w4w35nE1MXUs46QpXJOIDmDufiS0JiVssWQaC01HI14YBJxUsEqF",
+            "HD": "HZ2:I+KWzJ/U/tDPOyGTzGWIl5oHyhMCw7iiCKn6W31V3PB8iTrZHGjvlGJJaj/d6kXBoSJaBN/n4co9Kk+Mad45QK+fNB8UDppK4gl49aQH3eY4Fd+hErO3DhpgFbHWr68z",
+            "FHD": "HZ2:9K7fnk6mv8QuzPIDo/Ve6/NCks+m4VKYJLhpHqQuQVckamCjg++YkT83eZVoUocPwBwyx6I2PhvWCt8aR7y2Go2a+uLgSCTwEZ0AG/7IS4Qu1x9ZJ5mu8pUPCKOdlL1I",
+            "4K": "HZ2:/EIN8p7wD7XiXsF99h70tm+0AjfDDlc7SP5jjMbu4Z812/u1W09gk7a7WLWyBPjduNMt7/cecsiFj/fKhhIWcGOAnFK2VJypXyw9PLaSVuk6T2gtlk6LCPJR7+HL/Fs5"
           }
         },
         {
           "name": "beIN SPORTS 2",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
           "streams": {
-            "N": "HZ2:V1MDzaNq2mI154wK21XQ1OTBfUQE/V2rcjuGddCen/GASAMpZD8pVQXy+2KkjMEsqPZSAD4/lj5MTTrfHhFYc1VyLaD7hfIJd546aIgwr7dnvCddbacrm0qU9pGip08H",
-            "SD": "HZ2:tSssX7+ZIzLSyysRGq2cZkWmGcbiFJ0o5eDX58mPjPs/+xGS12GXUH5pIUijmyeHCyqoHb1PQYpQu0ZKGZmNY7hwrs00Ea3L44+bFyPrHWk7fFbA/Suvo0DIZkbpIGQ=",
-            "HD": "HZ2:sIXcdpKft/MctHq8monJp21wTSn+C9xQhnyX2+s/CYDiIlJ+Uc/+tn3sTa0jH4k0tvud7qyqBlnz43s3iWaFgDCyPWXw+sQmv0Jx9tPFVX5HQoXJAvziiPrVcqOc0Q==",
-            "FHD": "HZ2:eLTSI7d63Sz02XB6VWP7Fuz/K/wFYbredhvjzGoKPPpiOP/61zmChSEGeLmC9J+QYjF5WNmrOXN6mxL+GfDZ47IcVEYau4gMEJE06/5E/4v9CaFRnbEcSIUKo3V0Ey0n",
-            "4K": "HZ2:D4KdpME8svTuG/wwllTpzcmgUBbQ5L9ayNGKDxAZRxrLpM6omNO7uBdUFmfToh/zCIvhvH+sW8m2bmhgAdbnFbAqIw+LtGVsEJvXdDsQRKRSVat/WOCiJQMxlZVoZXE="
+            "SD": "HZ2:vsIU/mfYjQDWj7FB344ooRabWGOXaHoZ4fg6fQsSwdBRGGfvwPARYNesYpK9WIVn5OzF5oNOEToF18dY5Vy5TaXAyEIZahHMN+oUbkJXIAYE2CTETiGJPPGRCRxk/eJ8",
+            "HD": "HZ2:DKfm4zDhy4jIiUzrwd+C/HeMGAdKO6DXmO+8emJq/bWa3LU6Myy4sJdS/Zen0By8VvovY4bq9jCQY0blhJcvmZQNz+xzfVnGPaYggqHwrw6aoGWmBR88TRRdLnHVGCUz",
+            "FHD": "HZ2:XStUrzIGdLQGfjgd9gPPp0Ed7G4AT2VLOaZ3IQ/1Jd74ED1uWx7rjx5rJI2+z+rP/ERoNltrQZXy4cJb3jgAey83snbScTPkLj1EgSzQNgBKTgBBOVknx59G+k0FVnv/",
+            "4K": "HZ2:FkwryJsYpBrL9e2P3lv//3HreYX69QQ8frOVXIpNdhpO8WbjrPjw7Dk59VzzFffeiHfcChTCaqAt2s9mZVMA9daWB1//ienC1kSLJlxKlOBbDJv5s3ua9oL3adKguOgD"
           }
         },
         {
           "name": "beIN SPORTS 3",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
           "streams": {
-            "N": "HZ2:wwFU+nGplCBQDGHcSJeJX/m/JNDV73wEgSiMSjdw8YIoCKRi0pVDzD8KPI+4Rvj4NuikSGQDsOttMi1jKOttpL9dXUloPN9lAinsIcQohvMyHRw9QLJaxqakajMWbXDc",
-            "SD": "HZ2:4LpXGQF/3dvAT5WDVwoVvGqexKjgJ3VUGd8h4baq6moA3BuHI/9HSCIcbw5WvhYVTmSAM6izU8n9HEf7UyMaMdQ7EkVQ654CdktP555ZHj45azo7csxW4pCExG+rP/g=",
-            "HD": "HZ2:P990lPbHaSbPdDgn9aRR/7dZHfx9LJ4RlaOAR9IWpREhG20UtExU2Nhscyl6l/qvcrxyqGeBp50zbQcD+e2k3E/TdKY4gtx/myK6m6Z1VPqR0l2t4k8sl2A1b14jNg==",
-            "FHD": "HZ2:IRNYfcLB9tzGbpO0nSiB3USBDkmSCs3IfSNs2BFk7qIzJHpcTRJiPOtiQ1pZHoBckizxvn+a2Iez7XaOQrHMjx+4/+Yck/WjKEBlLM3kwOxKzwYHJIAuV0/SJOzxSHA7",
-            "4K": "HZ2:TUcyCHWl5iJj8BQ83WxRJ8V0LDDcPzd7I0MMT0cFYnZX3UWbo9Qq89Kwm5G2Ic1Xe/baghMjdUCf791CzRmd9sygOd4WDSsR5Am7rUbBrF+v9hre/+J2x/gsMIvrr9E="
+            "SD": "HZ2:lZ7Y8sBa2w8VPUIBCWuyNaWCqIJa6ZnyBjqIWFTX4lrnyIxqdIV+P4BVxWT+Y1iOZEEcJTnen/fFLp6ulHnNp4G3HhtPuQvoTsiPP0zp8Zrc7kEMcXG/GZllD9H9BXbn",
+            "HD": "HZ2:irx3kpi4meZH8NTrD25fzxY6f5xuCDfwnIaCxyH0wm6ct/2Rbg8KQPM1ZgT36zy0VTDvwO/siTq4SZNuspvg8FVzHst2qyN7YpiE0k2jUI/Vx19lOi++3zkjipEdxJzD",
+            "FHD": "HZ2:+S9E34ltAaPgpex3Er1KocEH51UuO/kp/SJSENyq8/PTeRho0kiJB+HGrIVlc260SB7zH+15fgmvcucyHtQqwtY0BFmLn8lY1TpuU6hrtQLYY3pHcItO2a7TOsTqkGbL",
+            "4K": "HZ2:WBW6Q9er2Zt1dwVtvg8npol+1jxQIJkyjHhdaxuFBsMMRH4U9czPjLn77oSoW8pPOr2IpjVWBwL3FX9QKrVzdj1zqWMKjcMJ29+RBBaKPhCUlD1iNqSqqmW6lWSaQD0d"
           }
         },
         {
           "name": "beIN SPORTS 4",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
           "streams": {
-            "N": "HZ2:tbKNClhhR12wQUh7XS828fKzojU5ncvwzJx+sF7G0Ue05IKh+61vau6iHCRS02vS0/Qsp/zJTpJ3HT9fXVF5VsdBZkcVfX/o+7OqdhSLqbfanTZNdFSIVbH0oZh77D8E",
-            "SD": "HZ2:4CAsE2a37/Q0QsMsZdMnEzVg+KSNkKsLQbZXqda/c4bxdvKKBDTRyx4LFtLrysAMnZuvhsUgY89fu1T9KyTB9M0oRc+CFK5B4Im+3KtZG2A84IfPOuvsIzYP1Z96Lsk=",
-            "HD": "HZ2:13fQtzGE4pKrjHt8FIIqvL2JbjBFcFSrlGBV+vaHu7gwb1e9HS/AudvUI3RKcgivP5bjzgScRy0LGxkUC2aOfqH3PnT2bNWwivl4zGiqLcwu9CKpeGkXZ6bVqwFuJg==",
-            "FHD": "HZ2:jAm3wnXaBVm/b/BTfXw06HaeMVNbPCWDS9dURaLPPtKDz9XZVHudfs+Ni3jBAzpVsauU7gx2a6xnKXPSw43CRffmJf+WiiGtiIPYQJncspBgUylOIVog/KBJNpHZguLJ",
-            "4K": "HZ2:J25mEBPxqVfNsmcBb66UKX+v1SVWe3vytaNQ7Dy2mhbMPiYNYOkqz98w3abq8I+WObRJLT3T2Q0pR1TDOusC7Vx3+jYTxkcdyPBlNP+gQe/aQLadDGgrB+/oKfuP1kQ="
+            "SD": "HZ2:4VrvYLuN4QIkSR35oSJNutLT0zUlc5HO0PoLLTrSYCJhy3kRaIDbGdQ28h+gAKO3eHjaXfrgY/dZydBpRfUb4jwBkubv50eV1EH8nzBH+iwoARHyvNIn8iC0QHwF588u",
+            "HD": "HZ2:djsN8313MDVo5PiSKRTJila1Go+JyX6EefngDQ7rl4XLnlnUDtVRA1NyjPXuqZMRjD3WRsGcsBH42ijVwaPlqNd0raZwR49KkOA5BN4euQYhX+khaKlztJ2FBfEMA6um",
+            "FHD": "HZ2:C/EoE0QAFumzlDsFkx/dlcSd+eVi0Wcy1SyonGZWpmasVQyoG7omP5VpRF4f7fRFhDN4s34eQGIhaKO5cXv21NobMjnuHikGM/vMlauJtVh8Y5XhRXzWJ/MLuznnouUZ",
+            "4K": "HZ2:wcDOa3nzZ7h9cHC+JsZyj4tQIv1aD+tHt9h5A0dpBEzU5s6fcGPi31oY8+8m0mnWwIIOqj82Yp2VXhMerr1kSPezCW7+I1l7Hy/K82EGY1gcNFjBQU/DtaVbmjwOCWlQ"
           }
         },
         {
           "name": "beIN SPORTS 5",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
           "streams": {
-            "N": "HZ2:SU0aOy8TPLMUjATCgxcJn3BD1CqsvbGQGW2MA3w02wLCO7pKop4+U/gZRD8oxe/oJP4xZViogAHlS/t2KZXCQ8DRCCu71MHPVSSoxcpGCxJJSKbUicJYWFjNOffT7aOO",
-            "SD": "HZ2:f1iXnpFOJzcewdRGfRpppn8mvHGU8tOi4ETYQm1elG70kHI5vBvwaqZ6cbQxVPu79aSV+YphPNYKnqkbZbn7WaRoNaxXKxg8e/Z4uOjqhYLsFmkp+yLvL6ZRC2Tvjsc=",
-            "HD": "HZ2:CCUx0MzSz26r0Ng+6XuUucNRiFxonUb5XaSQMTTR9Xr6EYsUmLqkM9Z23zdjHpuE4VBnLPUFc1qhdlfSu90sfkzgesP0Pg9jUGFJoAudkJuWPsIVrJ7il9EitK+xUrY=",
-            "FHD": "HZ2:X8UTsX9C3CQL6eN6baWuQEI01lGWU6UJ5ImhAbi6eRa1I6ZPujbhYv7uUC870oSnwsHlhdV+GLbHGm/4aB79yvKcsO8HcHMxDSJY29cv2+AOGNFsG68B5VSm0DXHg0Rt",
-            "4K": "HZ2:iyre3knfcc2cxbE7DlSHMXKFMf/UxRRquS4mo5ZIc2J9QnDFEFEpORV503+ufKVy1UXnsx/lwyG0nRMITC1AgjSkIW+wkRCaIY/QQ+1TDmrbfNSwd28Ldb/6wkizYbo="
+            "SD": "HZ2:EieHD99uYuggAMByvCUKtpUbVFsn2/qI+YTpHTjmFIWtXg+ZvoAfagO5lEdVWpXTydwY6SuT3kD3ElQjLJowtYRy1VS7VKu/12RT3oTeHJhunwaVycW/JU85BSGrLKaQ",
+            "HD": "HZ2:vkgQQY3j/lpwQi1QwU76fhs987rqiZBfKpEZriV5eAQrbFOt/nM+ivIOSBh75Dskli4Otu5ys+WHdYizOylbs9Ay3u7ZiPrmpub2QrL/td2dyo1y8jG0lmL7/51utxYK",
+            "FHD": "HZ2:o8MsZQgniFMp6jMKkwQ/CEYVWFqcP/aVv+7e/q9j0WFRs9lBFHqyuoWIxQ5TjBXqgGgNKxWAdjjDTkaUs6vUyLyMTGn2GPy6gcx+9rmOW+co60L1bRbL7CBdUnmRzeS3",
+            "4K": "HZ2:/53xMDV/yjaq1ubGbgcSxrbdvxoBo4uVJ4unIt7iYkr72JKc8OoY+gQX3ms4GIBAwPJtgSIr7fxrhmWLZ/KZc3+dzFlLBjHvfgPtsgd8Q7vRMs7WBsD70pm8j2MfpIcW"
           }
         },
         {
           "name": "beIN SPORTS 6",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
           "streams": {
-            "N": "HZ2:V170IUp1pNQZqdW4xFtcgYo11Kqne1zYwQpqSor0KdHmhnQJby6IoJAQMB5/77JDxz2JZjA03yESABulyqYfSMwnXvkcX5WVc05cG1w1NjOujPPLTmn6R+pq0zmohlDt",
-            "SD": "HZ2:pso6DdWiouc+YeEJ9HThAWGnI5GVp7fCdsGMBCpKM/kImmcn2MaYr99tZzqUdm2kHuCpoa4MKs8AvBpeemzpc50GJRbRzrzG0zeuwDY9x5jSytM7piPf3t3caQQXE2Y=",
-            "HD": "HZ2:dwEi6z1lW9Mpvy+rfdXzhh0WNRTEPoSKBh/BkbtNMEI3k5l9SMQomGqUH2/licceal41Yl81TwMMn2wvnIFhV5T4x5bX1MOltC5pgGq07j50SoElqnYL87s8m4We/0U=",
-            "FHD": "HZ2:O7jGFWkFWno4zw2MOcTX87IURlAsFXFbnDwwm26nCC6YaVSPV6X9Rzu4LNk3tlyjhRARDvYUFipROak7Mip7YpH+BsjexRzPGGW2jE4rJahReeVR7ajyj3qNQKxNWOcD",
-            "4K": "HZ2:0rjG6peKEG+30XNHW5Z2nD/E1KMigSGIyOf2GJkE4uygmkSuXrob00xQojSw6+dXa6RFS5ufaQGDe+CFKGKDqomvdzl0f/Xdtccg51xvvBXCibgRIvHlyiaZRpSYVP8="
+            "SD": "HZ2:jxkvkPjcxxl55h/lKveGDw5dl6lVFET+g+xvct9fRy6Gv5i0APrXFxW+7e6ap3X7QhAybfN5R0aE5kSHziPwmes38mlFHGuo9chAvoeoFlUrX/PKb6G/YL+o7nFwRK3H",
+            "HD": "HZ2:3S6RKWeA13fAcDKcTu7XyszLjl4NRX9kte4ejL6WX809KCGTU+fhODRI5FFo0bqdtHc76W4BSNOV9oBYHVLlFHOh64WTy41+Rzxj/dV0LyynjC7Jr0KSbTlGY0NRv5g8",
+            "FHD": "HZ2:E3kOEmcLmO8d6APi0nmRFE8g3nIxEb0M7C47FROXf6opm6Jup+31EVr2hkx4XE7Vpg5vz3SqxsqmcQXQ/E9fJ+RvIlqq7Ln9rcBlgOY/ZXofkkAAyuUlJglM6tivSvpI",
+            "4K": "HZ2:PJCjdPQnd95bJxiGfer2vcoUp1qWxJXiSAc7qmSm2HXqSJoTg+7YV0E1kgAh/H14PucS+PCbg2OdXre8MN/2aTgY3sf3L4H0YLeGXb/CaWY7MhB2CHpeuwELdg9WV714"
           }
         },
         {
           "name": "beIN SPORTS 7",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
           "streams": {
-            "N": "HZ2:YBhOTkByw7Qq+CI2SR006Gi4RvzZ6Yz7CwvEi6rRGp6KrWpjfYNKbGx0Yfq/YJY67h+7tB0Obxl8lrrJVNH8ykSYgg8C2vM3xR/BkVfrMeHfqijdRhQ/XXL/HjVCNjzx",
-            "SD": "HZ2:geKl7gHPqUPHjpCwS1Yu5MSwQxfsfkigsuWUNplH+62z3eh0RGwD4bJnnCWm5VvZOrJmfYNxWBKFfHq+minVVNVEDkafCgGmBwZIBiJUUK4oYCOMEQZSEieklHWF5sw=",
-            "HD": "HZ2:AMVPxuPNqV4eNSBMcMAP4qEQom/BvfgziGxyWd2YvJTNYJV8EmQQrfKID6WPs0+MYQMryQkAA6oTq4ADRmcyEkd4CvW7NnKT1PCHDRwPIJfKDiZB28KQ6PjoWVnANWQ=",
-            "FHD": "HZ2:kcBUhKvZyZNuIq341ZNCiwtPyc3E61ZQHhFlKgvZLi763BxSvrE2/7vog/gfI3xNj4MAE+8GGeLQevfIAeiMLdMNYl2F+bq8f+jxVwLUJSsU3XRe/bvC16+1ulgJ2eh7",
-            "4K": "HZ2:d5EYIo2AS/F/U1elWXROaWvsDMv0ALTrC/RnWKWTFnGd32D72zoSM5KMtOjsPTX1PJ4Ha4iWmyP84kF0qfjwnuL+o2DZQefsSji2BgJgb4jguJGAr4HHzFLr6YQ+zy8="
+            "SD": "HZ2:f75k14pp5XS7vuBAkURhoO+kVShXsKM+/Lj0nv5aMe1JqLiovRuh7oNzzZltHZw5bHmANjvwgYV6sHrvlfTIR2ViHYpbYyBSfz63nGDXs1VkBw21V3SmGgStcek/l0Pu",
+            "HD": "HZ2:D2tl3yQf1+dJ7xpv9jo6H6OfHXYOQzIzS+L4pg/GM7cSZZdYLfaF7aD19XTMkvfmqFSvddL7skI+YIbztIVD9q7O77IKSm3eDyuf/bafdd8dCxbXSEaUKSm3nVRfNRsN",
+            "FHD": "HZ2:j4lQp2D7k/gFM6rIMLCpY33Rfe5u4EM+ngvaMsM0jzkKx49L7HCEfssU0lOKbN1hF5slw5Rypwn5orxFuI3PUIjMJyMmtHrFR7mRDTENVejDZvA4xf/hEGkE9PW1fIe4",
+            "4K": "HZ2:TS5WZqXrbt3VGEFZHxT51m3C4PEdjY4EOmu7+jKSPtbh6etKXS/h8Eq/QsX2Hkk0L4wz9rlrzJJWzH8aHhmu2jpBoV/g/9N29/S7FBdFohfgIaNOBwXoaNOz/eQdLb4E"
           }
         },
         {
           "name": "beIN SPORTS 8",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
           "streams": {
-            "N": "HZ2:m3llcpqOsG18Y+JrVuS6iNSG67jV/6ljOy3Kb27/2crbuAd6o7uZhcaVBkjRnrSa7mD7pOz4vsWxZXY+VdUQy4MoEwtEWxye3VFbsHHEh44JyX3xHrMYUlaXiSHJ/r2J",
-            "SD": "HZ2:FWKZdwGXRprPnfaUoE/fqjbuVc3G8PocruiDvte1FDbElQfYTos+fbA+N/81FboORS8WlvRPu4ygBNqYUUvT/4jmkJi6rDx1PVlyYQXFX+27wpYgr6RUiEBEfzQI0aM=",
-            "HD": "HZ2:qFRcRdElqJC3IbthaE2dSS9buNxx2DzyBpWZjj8HtC194g+m3VJO+PUwJ0HS0KN/02SmrSmpS2cUzu9380DveLjOvdswHJJlBzR3isfQ+KvxLGXesFQK+0viGTGFwks=",
-            "FHD": "HZ2:cxA9Dh/MLolg0c7dL3fGBh7dMbhrI6v+IAkYPIlpRRfh7z7d1ib7yAtACCtxIii9sddmBgxpAMSTXxES77fr+bGur1DSc61RcfdRiYTp59b/yeGUt+PVyGVREFuxCWyH",
-            "4K": "HZ2:jTOrcHY0IuHsvVhOdI8C5KqEdQ4sTLvzZ0KQyr7SLd4umObg0D9zzbmrPp1l5XNujlvQXYOeL3Ukf3sL1iHTgasphmYl2neIavI6eKj+SZ25wnD9vEcJsSBoSp7iy28="
+            "SD": "HZ2:i4T/ZXqive+A8I+N5xvQfHAaRgNSnyIYmQzQCHg2/EdBgIqC+TcMs4BK1r5xPq0FQO1OOpoXmvwcCyUADMQy3gYwLyrFIBc9gQPRFiBYKFHv7ullYNohGdg5OyeG3YTc",
+            "HD": "HZ2:5FjPKsyfcyMfgS3+xBrlebijw2qWUk4iuk8l4N906PicQ3UWd338PClcJGfNzrQUGfxJu6B/BmcQ4KUMPHCUobYV/w0dAi4VkP1LouK1pGNWw+7mPoUYHxYHaMGdl7MG",
+            "FHD": "HZ2:8PTcLFeB2ElcYxYmjKO8KoOdnSnMC3QV7uitLd6k08NxSV0WdBVOv0OkgK+kQ8AkcMJMbiSVeiZI3KrT1E39EN7hTBm5oDie5JCbW2NtWWvYKjQmAuqaP4LcjVYKGsdL",
+            "4K": "HZ2:KnRq/CUeJpopqBqzZqI1BibNrhTUHVnpTsU2UOpjqFogrkjVnUnk/f5We/k+GfqPd9IqiVYczLUA22lYmUEAkrRAFnCDsfeQOIgu2OWI+ErYufv1fifI6jy6ZASuKU4W"
           }
         },
         {
           "name": "beIN SPORTS 9",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
           "streams": {
-            "N": "HZ2:0kJgw9XcQyd5AFoLu8rTS3kSK+eCNMc8V94z/OTXbd0LmDeNUrBqs5nRMTKlnLk53XUCLeScHB8SWPlxPLSqSaOzMxc3DJaWH5fLblpuMW729UI+VA7sws9ZcxNk58O1",
-            "SD": "HZ2:PpJMrFqm07B7xq/lSkf6eWGJUzyfT1a0YnFqcH/843Q/OitXi2b/gEhxVruIwMV645QwON75FTZ+myzmeqvsO4DzPM/IX7KFqXdgX0MwB0uCmhJsSbmVGCUklMy8Ze4=",
-            "HD": "HZ2:0YnvzlfL5bsmx8/sQ1aikAipSskdIzT+Rh2bB8X1+TLPVJ6Enc3h7PwWGxrgnvpvq29JGFqqWolVnR2vWVS7hquSDDRjlSkHyEvk7pITolxIU8Dvq/vkkxNifqq3bKbo",
-            "FHD": "HZ2:BLSYVfxG5HhAGbKN3xQSkQzeZTnnBu2YEOs5ktzoCAyBlG4YJW8tZVoEChI5ehOAJMHYR2zHvHAJqf9J0bMRSTzjhBDCHfC9zRzIM9GVieUc0Q3LYwMlMWIaNt8ht3W5",
-            "4K": "HZ2:I8ekt9yL+uhogU4POU6Scb9O9tkDCuHSV/F28uns0sSuiYQ+XlkThcKAba9pmgBLGmgkh3owO9Y49qZ0pf5bAYwPk0BK2w7tmmelAU3drCh3XrJik2/cxOg7Mta0Zak"
-          }
-        }
-      ]
-    },
-    {
-      "name": "F",
-      "channels": [
-        {
-          "name": "beIN SPORTS 1",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
-          "streams": {
-            "F": "HZ2:LP1deiBe37yvzsrfPrMoQZR5B7BVP3TBBKYgcEJUKIEt6Dw5jySD0STBnebIEgZTIypBmROmo+pse1QbXXZmIiCQaaUn+ATpjQtU/PTsYhNmyxHd/lSCdJczHitXoZzh",
-            "SD": "HZ2:ASfFdOdEKn1IU3/ZZFO77Qyw1tf5+w5halj2ei/ph2gN8WfLWbm/be5YTni+ot5ezVcCTpnJVHAOAqJupptk0dgYdGQvLUprsfQEWLkCyTeiEajBpmOwZZVw9Mvl4Wk=",
-            "HD": "HZ2:Uy12pJoV1deco0kJ0spQZkuxyGsKvHz9GRCR5hYOIBdlsyLiQcOujG4wvryrpugTHDlna34zs5rv2q9p84PkV72/A5TB3oHwZqf73Y/tk/FjS/zvDQlfwWh7ZKMbkw==",
-            "FHD": "HZ2:x8yigd28Jd8WJ8jT8pXVVqrZLf1bIF1HCEqfYMysyS89/peKsHTNzKtmLfrrCZkr/BQWm6SxeStZilNMV4aKzW34OJm1Uh08zXWZloSiEPlAGA24MwzzRLZY1yGWPyjy",
-            "4K": "HZ2:LPYKv8BmZubk6iw8+RVuIEUHfBEXpJBclRdzfvBMrqG4b56TSVV74/1vW4mQi0XLY5ecqyWLKhYtjOM9TkH6/V4mXhi1zrl3WWkVpmSyjpbzYr31ciBBIO0Sy3R02Z8="
-          }
-        },
-        {
-          "name": "beIN SPORTS 2",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
-          "streams": {
-            "F": "HZ2:q3x0eFF2piaIGZfuHdwkubO59P+O4g+WerLm15ddF4mTuvRFANIhhALEb5P3r8J2IM5jWay131T5BzbqvejvEor+HkkeOQqnyFJkAyPNkqgmi5+0x4m/u+Q7IRsuNqCB",
-            "SD": "HZ2:tSssX7+ZIzLSyysRGq2cZkWmGcbiFJ0o5eDX58mPjPs/+xGS12GXUH5pIUijmyeHCyqoHb1PQYpQu0ZKGZmNY7hwrs00Ea3L44+bFyPrHWk7fFbA/Suvo0DIZkbpIGQ=",
-            "HD": "HZ2:sIXcdpKft/MctHq8monJp21wTSn+C9xQhnyX2+s/CYDiIlJ+Uc/+tn3sTa0jH4k0tvud7qyqBlnz43s3iWaFgDCyPWXw+sQmv0Jx9tPFVX5HQoXJAvziiPrVcqOc0Q==",
-            "FHD": "HZ2:eLTSI7d63Sz02XB6VWP7Fuz/K/wFYbredhvjzGoKPPpiOP/61zmChSEGeLmC9J+QYjF5WNmrOXN6mxL+GfDZ47IcVEYau4gMEJE06/5E/4v9CaFRnbEcSIUKo3V0Ey0n",
-            "4K": "HZ2:D4KdpME8svTuG/wwllTpzcmgUBbQ5L9ayNGKDxAZRxrLpM6omNO7uBdUFmfToh/zCIvhvH+sW8m2bmhgAdbnFbAqIw+LtGVsEJvXdDsQRKRSVat/WOCiJQMxlZVoZXE="
-          }
-        },
-        {
-          "name": "beIN SPORTS 3",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
-          "streams": {
-            "F": "HZ2:WT908C5u56BaknvisiWwFV3CM9UI3qbwHATBaQqVy5UfkR/Pk1o/dB2AlNgjE6pOzP5/o43iezaiBAKxpg64ZsdbNN0gp1aKysMCdl0Fw7abtIS2qkAatSSEgI5WgUE3",
-            "SD": "HZ2:4LpXGQF/3dvAT5WDVwoVvGqexKjgJ3VUGd8h4baq6moA3BuHI/9HSCIcbw5WvhYVTmSAM6izU8n9HEf7UyMaMdQ7EkVQ654CdktP555ZHj45azo7csxW4pCExG+rP/g=",
-            "HD": "HZ2:P990lPbHaSbPdDgn9aRR/7dZHfx9LJ4RlaOAR9IWpREhG20UtExU2Nhscyl6l/qvcrxyqGeBp50zbQcD+e2k3E/TdKY4gtx/myK6m6Z1VPqR0l2t4k8sl2A1b14jNg==",
-            "FHD": "HZ2:IRNYfcLB9tzGbpO0nSiB3USBDkmSCs3IfSNs2BFk7qIzJHpcTRJiPOtiQ1pZHoBckizxvn+a2Iez7XaOQrHMjx+4/+Yck/WjKEBlLM3kwOxKzwYHJIAuV0/SJOzxSHA7",
-            "4K": "HZ2:TUcyCHWl5iJj8BQ83WxRJ8V0LDDcPzd7I0MMT0cFYnZX3UWbo9Qq89Kwm5G2Ic1Xe/baghMjdUCf791CzRmd9sygOd4WDSsR5Am7rUbBrF+v9hre/+J2x/gsMIvrr9E="
-          }
-        },
-        {
-          "name": "beIN SPORTS 4",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
-          "streams": {
-            "F": "HZ2:0b6w4iQQF76Ry+yJYsVQN63utvAqgP39gXCW6z/dMjVJOSr6lRTBaCYxUyBaMepQqZ7L1Sk02uBIta4sutxLuOfHN+annKK1I+m8Hc3ZTFz7dio2AQZQroXLMCMcCNL7",
-            "SD": "HZ2:4CAsE2a37/Q0QsMsZdMnEzVg+KSNkKsLQbZXqda/c4bxdvKKBDTRyx4LFtLrysAMnZuvhsUgY89fu1T9KyTB9M0oRc+CFK5B4Im+3KtZG2A84IfPOuvsIzYP1Z96Lsk=",
-            "HD": "HZ2:13fQtzGE4pKrjHt8FIIqvL2JbjBFcFSrlGBV+vaHu7gwb1e9HS/AudvUI3RKcgivP5bjzgScRy0LGxkUC2aOfqH3PnT2bNWwivl4zGiqLcwu9CKpeGkXZ6bVqwFuJg==",
-            "FHD": "HZ2:jAm3wnXaBVm/b/BTfXw06HaeMVNbPCWDS9dURaLPPtKDz9XZVHudfs+Ni3jBAzpVsauU7gx2a6xnKXPSw43CRffmJf+WiiGtiIPYQJncspBgUylOIVog/KBJNpHZguLJ",
-            "4K": "HZ2:J25mEBPxqVfNsmcBb66UKX+v1SVWe3vytaNQ7Dy2mhbMPiYNYOkqz98w3abq8I+WObRJLT3T2Q0pR1TDOusC7Vx3+jYTxkcdyPBlNP+gQe/aQLadDGgrB+/oKfuP1kQ="
-          }
-        },
-        {
-          "name": "beIN SPORTS 5",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
-          "streams": {
-            "F": "HZ2:6OncxmxG2H73qmsvBfIP4iB/L0NQvPxwCMoJaNQK1sLNUs27/E8NWaEaWyUZSFsjVjkDVZkiXJrQbywxHTDW9dCmwKqc4zEkYKojTQkheWfELQosXsfZdgl4g/et6cIt",
-            "SD": "HZ2:f1iXnpFOJzcewdRGfRpppn8mvHGU8tOi4ETYQm1elG70kHI5vBvwaqZ6cbQxVPu79aSV+YphPNYKnqkbZbn7WaRoNaxXKxg8e/Z4uOjqhYLsFmkp+yLvL6ZRC2Tvjsc=",
-            "HD": "HZ2:CCUx0MzSz26r0Ng+6XuUucNRiFxonUb5XaSQMTTR9Xr6EYsUmLqkM9Z23zdjHpuE4VBnLPUFc1qhdlfSu90sfkzgesP0Pg9jUGFJoAudkJuWPsIVrJ7il9EitK+xUrY=",
-            "FHD": "HZ2:X8UTsX9C3CQL6eN6baWuQEI01lGWU6UJ5ImhAbi6eRa1I6ZPujbhYv7uUC870oSnwsHlhdV+GLbHGm/4aB79yvKcsO8HcHMxDSJY29cv2+AOGNFsG68B5VSm0DXHg0Rt",
-            "4K": "HZ2:iyre3knfcc2cxbE7DlSHMXKFMf/UxRRquS4mo5ZIc2J9QnDFEFEpORV503+ufKVy1UXnsx/lwyG0nRMITC1AgjSkIW+wkRCaIY/QQ+1TDmrbfNSwd28Ldb/6wkizYbo="
-          }
-        },
-        {
-          "name": "beIN SPORTS 6",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
-          "streams": {
-            "F": "HZ2:K1oxoKkFcTy+GQURhvUFGwMGTP+d9WEZ2XVyDO9toXgjbqdr3PvY4W/tKq9q59aZaUhjJYCqFx0guVQOkUcKg7YTvIpWr1hk/RmMFuamuKmKadG0GlzlU7A3ZOeSY8n2",
-            "SD": "HZ2:pso6DdWiouc+YeEJ9HThAWGnI5GVp7fCdsGMBCpKM/kImmcn2MaYr99tZzqUdm2kHuCpoa4MKs8AvBpeemzpc50GJRbRzrzG0zeuwDY9x5jSytM7piPf3t3caQQXE2Y=",
-            "HD": "HZ2:dwEi6z1lW9Mpvy+rfdXzhh0WNRTEPoSKBh/BkbtNMEI3k5l9SMQomGqUH2/licceal41Yl81TwMMn2wvnIFhV5T4x5bX1MOltC5pgGq07j50SoElqnYL87s8m4We/0U=",
-            "FHD": "HZ2:O7jGFWkFWno4zw2MOcTX87IURlAsFXFbnDwwm26nCC6YaVSPV6X9Rzu4LNk3tlyjhRARDvYUFipROak7Mip7YpH+BsjexRzPGGW2jE4rJahReeVR7ajyj3qNQKxNWOcD",
-            "4K": "HZ2:0rjG6peKEG+30XNHW5Z2nD/E1KMigSGIyOf2GJkE4uygmkSuXrob00xQojSw6+dXa6RFS5ufaQGDe+CFKGKDqomvdzl0f/Xdtccg51xvvBXCibgRIvHlyiaZRpSYVP8="
-          }
-        },
-        {
-          "name": "beIN SPORTS 7",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
-          "streams": {
-            "F": "HZ2:MPLX5W/FflD18aE5h14OEfJuapYAGUrP7Msj1Q+KoRiRo09gcsdQwbqO7f2K87sDzD2K2Hdbc13JOpfBiJJ3o47NQc8zXSA6e8iRFaG8GYGkZhkxLlvNgg12I15Y4o6j",
-            "SD": "HZ2:geKl7gHPqUPHjpCwS1Yu5MSwQxfsfkigsuWUNplH+62z3eh0RGwD4bJnnCWm5VvZOrJmfYNxWBKFfHq+minVVNVEDkafCgGmBwZIBiJUUK4oYCOMEQZSEieklHWF5sw=",
-            "HD": "HZ2:AMVPxuPNqV4eNSBMcMAP4qEQom/BvfgziGxyWd2YvJTNYJV8EmQQrfKID6WPs0+MYQMryQkAA6oTq4ADRmcyEkd4CvW7NnKT1PCHDRwPIJfKDiZB28KQ6PjoWVnANWQ=",
-            "FHD": "HZ2:kcBUhKvZyZNuIq341ZNCiwtPyc3E61ZQHhFlKgvZLi763BxSvrE2/7vog/gfI3xNj4MAE+8GGeLQevfIAeiMLdMNYl2F+bq8f+jxVwLUJSsU3XRe/bvC16+1ulgJ2eh7",
-            "4K": "HZ2:d5EYIo2AS/F/U1elWXROaWvsDMv0ALTrC/RnWKWTFnGd32D72zoSM5KMtOjsPTX1PJ4Ha4iWmyP84kF0qfjwnuL+o2DZQefsSji2BgJgb4jguJGAr4HHzFLr6YQ+zy8="
-          }
-        },
-        {
-          "name": "beIN SPORTS 8",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
-          "streams": {
-            "F": "HZ2:pmiviT+hEybp59RDvSUCY/uwbh/mt2IjMZ+zqagy+QQcw8kZQoG4rMQpQyV4S6Y5M9O9Jb4mKKPIBsFOMR+U9Vp4C/7MgRykHh8AW8+e8w4rrz4gBF+iAdQlYvjCZ24c",
-            "SD": "HZ2:FWKZdwGXRprPnfaUoE/fqjbuVc3G8PocruiDvte1FDbElQfYTos+fbA+N/81FboORS8WlvRPu4ygBNqYUUvT/4jmkJi6rDx1PVlyYQXFX+27wpYgr6RUiEBEfzQI0aM=",
-            "HD": "HZ2:qFRcRdElqJC3IbthaE2dSS9buNxx2DzyBpWZjj8HtC194g+m3VJO+PUwJ0HS0KN/02SmrSmpS2cUzu9380DveLjOvdswHJJlBzR3isfQ+KvxLGXesFQK+0viGTGFwks=",
-            "FHD": "HZ2:cxA9Dh/MLolg0c7dL3fGBh7dMbhrI6v+IAkYPIlpRRfh7z7d1ib7yAtACCtxIii9sddmBgxpAMSTXxES77fr+bGur1DSc61RcfdRiYTp59b/yeGUt+PVyGVREFuxCWyH",
-            "4K": "HZ2:jTOrcHY0IuHsvVhOdI8C5KqEdQ4sTLvzZ0KQyr7SLd4umObg0D9zzbmrPp1l5XNujlvQXYOeL3Ukf3sL1iHTgasphmYl2neIavI6eKj+SZ25wnD9vEcJsSBoSp7iy28="
-          }
-        },
-        {
-          "name": "beIN SPORTS 9",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_XZjXHKfr4gMIaBy675HNYjX2tuZBH1OfjISbwu09cLV7Dquea7-GuE3-jUexrIN7fG8rFpFR7yv6Jj1Zx4MBPzzZIwa6DzCZJXwPyphHjCTzRt8xjN3pKGYwWrh8pHDM30-GQmy2sOh9umPnkxgHFvzalLpcYTloJnSV5qxydN-Shwyj_8QjqYVe2Ft/s512/Untitled-1.png",
-          "streams": {
-            "F": "HZ2:Yp770ihuybD6sY+M7A7x/UajMI7oQ6c99YbT8SkaK+K1jlfyzPcjlzmB2AbbBjllbpZJIwic58LLtCrcM9nNoAkAd6/oHndLHMKRrkQQx2M1m6u8VSsKske8WZWqopYx",
-            "SD": "HZ2:PpJMrFqm07B7xq/lSkf6eWGJUzyfT1a0YnFqcH/843Q/OitXi2b/gEhxVruIwMV645QwON75FTZ+myzmeqvsO4DzPM/IX7KFqXdgX0MwB0uCmhJsSbmVGCUklMy8Ze4=",
-            "HD": "HZ2:0YnvzlfL5bsmx8/sQ1aikAipSskdIzT+Rh2bB8X1+TLPVJ6Enc3h7PwWGxrgnvpvq29JGFqqWolVnR2vWVS7hquSDDRjlSkHyEvk7pITolxIU8Dvq/vkkxNifqq3bKbo",
-            "FHD": "HZ2:BLSYVfxG5HhAGbKN3xQSkQzeZTnnBu2YEOs5ktzoCAyBlG4YJW8tZVoEChI5ehOAJMHYR2zHvHAJqf9J0bMRSTzjhBDCHfC9zRzIM9GVieUc0Q3LYwMlMWIaNt8ht3W5",
-            "4K": "HZ2:I8ekt9yL+uhogU4POU6Scb9O9tkDCuHSV/F28uns0sSuiYQ+XlkThcKAba9pmgBLGmgkh3owO9Y49qZ0pf5bAYwPk0BK2w7tmmelAU3drCh3XrJik2/cxOg7Mta0Zak"
-          }
-        },
-        {
-          "name": "beIN SPORTS (F)",
-          "logo": "https://i.imgur.com/txLvrKf.png",
-          "streams": {
-            "HD": "HZ2:nf2wcOdX5vrNzUQECpdCeltCwqKMl47x4CA1vCpDkMGlL7vP55KRFJDhlNQjIVg9JP2MgVhoIQrOWfel6zoVb8i+0m9qJa+9pFZ6OfPCkSiLBqrkf3V8TYtq/7QH"
-          }
-        },
-        {
-          "name": "beIN SPORTS NEWS (F)",
-          "logo": "https://i.imgur.com/ki7Ipeg.png",
-          "streams": {
-            "HD": "HZ2:MLygmJEfWCriceQ1+l9LwIPI/IPeOdKU1SHb0QkwbExldKthsFzcFv4TatMsSTYSlsenk8uK0bA7JJCttuetwoWZA5DSc6u8d1rT2mUZPq+3sNm6wmM4xACyW28V"
+            "SD": "HZ2:qbN7VPMkWQYQcaxt9dOQE44IODG7PkA3XgJz8moZ8a4POt859zhRRsUQHicQ5QulnlIf/zXzGgwGRC75x3G5W5vHvIX3oTCEhP5YxeOppM9sfj6jZtzemVln4XOdUR2L",
+            "HD": "HZ2:UAaQ5vN3ONtpej3GVP+Z1Q+a4oQwNpHsxZ+XEvZckCSxz/f3S/2SUsa7SgtJ64RJgTUkSJyMLqgocnFlQkcz9FquWTCf7Cb8pOk82L/Ckrp65JnjDzApgdIyJ2Hhu41w",
+            "FHD": "HZ2:IEsHhPbfFx25Leh6UrCTG2/6QqhAQZ5Nc3e8VK0Wr8QcT2bghdCgg2HjicY94z0t7776xAKA1gpkZe9Y7DCDNHS2+hyyJ5V6ff1RvQKy/CcvB8BJsU3xierGT5LwJ4qW",
+            "4K": "HZ2:JQsODb4uLXrxrx06nFY0ZMpvKi55v8Dxptls5LFO05Ly4U5hhi219L7u5s86YhWBeoMz3zlMn9/xrznWtZpE4JI/e+s2JQoH3qQdjn12+w9F3n9243x24oo1vBNgw9Ps"
           }
         }
       ]
