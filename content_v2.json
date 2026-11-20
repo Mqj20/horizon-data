@@ -274,7 +274,7 @@
       ]
     },
     {
-      "name": "beIN SPORTS الكيبل ألضؤئي",
+      "name": "beIN SPORTS Family",
       "channels": [
         {
           "name": "beIN SPORTS 1",
@@ -369,7 +369,7 @@
       ]
     },
     {
-      "name": "beIN SPORTS إنترنت أبراج",
+      "name": "beIN SPORTS Abraj",
       "channels": [
         {
           "name": "beIN SPORTS 1",
@@ -672,7 +672,8 @@
           "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
           "streams": {
             "HD": "HZ2:UOiwSjrqm3VLEQ2A+PqkEQ3KbDNL8B1GEL2FlEClyCGRmD7rA5hBiYBxF6IWqPO5t2aWd2Nu8NxOD49JkLuijmOOuTw1HE93Z2wXgDINlPLwezgJUlUj2t0oPymjqAEu",
-            "HD2": "HZ2:dwSYEF6hlez3r3bpIOUaLfvvrafWWx+75YUM04xcfvh0EY13Vsd3tQlrXfxzrhhVdaQgOW1av+VQzp+PwoHiFy/mAIGnEqbhftOLiGXXcyHsPNwfb/klLuZw8AK7kdngcjk="
+            "HD2": "HZ2:vOqjuKrpnhYYsfoCZxUJ6rLEs5ogLO+t47nOTED7A9tRpTj4pFfux3wDHsaIleaAUJwYwmJmrfQJM5yrzoGB06HvqP2JEwuRnCLydE3E2m46bjO3KMM=",
+            "HD3": "HZ2:doOVCEuIPOVqv+WrwyX9IA0y+av81x1ATMaahFR3ICkcJFiktWBa6exdmqwOu62MTVxIN65RELHsmGqIV9sjIDB5HHZZNXSTWFCtkTflvR3l2eZLNYo="
           }
         },
         {
@@ -680,15 +681,15 @@
           "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
           "streams": {
             "HD": "HZ2:nF00MXmiAu4nrVKYhTk0I/vqBg5TtOdQ+DkzRrrg8H4x+0Jq2OUg5dqW2NEasHG9Zihjs4AD0c//3Oaqe8jbwl4HA9ln9+xusqYB4WFrgx5QTsJmEF0hAH/tOsZpa3qQ",
-            "HD2": "HZ2:+xqCkPMWbRC05fWFRp59f87XNNfY5oSI+lFh8uZzxS+MCLeE7BdA8f58OiKKs3MTlACbCzeb5GiPgGtCxOzAWM4bH4V2QGdCUmlVtooDZA4d3U9Fs2WSeNiyLlr+UQQHZAE="
+            "HD2": "HZ2:FBTUM/vvBo5MCl8Q/rBS5jBKD4v+6qesIdlY7L3E2XwYZxHdUUKJ5dWtpDEdN/GwDtepULMhSLyrjANXSZUNtrwMOYMbeX1bQ1ItDLX37iMKOdfDza8=",
+            "HD3": "HZ2:/AkopcHi7zAAqvhS9gEoifNmfh/2CQ6Qk3RKNt1u5cRXgjM0prB41n8EsTG4Kb1MfZSc5LZlB6Gr83Jpof2wPWA5ow0ifr2clF673LVLg03nXOrm+GM="
           }
         },
         {
           "name": "4Sport",
           "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
           "streams": {
-            "HD": "HZ2:Ff9njZGD9/Bh2OiDBJHoq7x379r3+AP7g7ByyblhSvpdc4i+E5DgN+7FBamFI2msrVSnUmGDPa/xaxUSn81dr/2F+zMExusxrTMWBI6imZusFt6FmmcUlkGOARaWx06s",
-            "HD2": "HZ2:TuFQFkTOxezWCnJKRZUzjTweYUpalZYK9ToVLKyElohovN+Q69QlX/rB0/E7VBPbjeJTHRFJKD3R2R4LEbow8nErd3HAkPNb6PUylRQNq83V7xsok5ZQ+OoYBxwUSw4DMFY="
+            "HD": "HZ2:Ff9njZGD9/Bh2OiDBJHoq7x379r3+AP7g7ByyblhSvpdc4i+E5DgN+7FBamFI2msrVSnUmGDPa/xaxUSn81dr/2F+zMExusxrTMWBI6imZusFt6FmmcUlkGOARaWx06s"
           }
         },
         {
@@ -696,7 +697,8 @@
           "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
           "streams": {
             "HD": "HZ2:eK4nbeA0DaWWXeljXCNLKy7POG1C09wW9quzaT0yeHUOdWPuiHVz2w5M3ko7QlZWjHw/CQebj3d0TvQ0/yrDf2qeMs+C00bX8Hkfg00X7B7obTkGwvVsxyhXwdnJuENb",
-            "HD2": "HZ2:hb7KMVZSQ2WmarpCYqRHK3ZrYuPU6KpslXe6wnYPcCgoCSiNtZ0fBgFCYQ0uLk7OKiGTaEAZx8KybkIzf1PkvjdC2m3HA4XxsJPGJnZxFhSgND5J+VEcrzx2z2u7vFDfaqI="
+            "HD2": "HZ2:cZaEFmdNNzmRSibufhX0vYphgByJx0qkZT4guIQtuAidbMWTUsuZwbWDc+5vaxH9c+5bSgyhliuwAs/hf/25MNfJQWnQ9RJTFFMitjiCaoOHRB8PE/0=",
+            "HD3": "HZ2:12hXVcqdM+OLMez8E1wJ3haS5od6KME9+LuYao8Gw1BjQPiXcy8Lk6p3AQ6xPREFGpFUaRt/1tprqTlQJAdOdRYygeXKscmwj+qI7VQrmlY2qMXBj5Q="
           }
         },
         {
@@ -704,7 +706,8 @@
           "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
           "streams": {
             "HD": "HZ2:7sPSiA5XFQVqKwQ2CdgQig19dXfM+SM+N6T/YWiyXTnzshzJ88AqkyzNzLOtL9k/Nfh+FeS3WEsMcYXRllwtjJJycg8Q9wispJU9b1dn4NmxYzT3ukaprHFtkNOuVe0X",
-            "HD2": "HZ2:YUscN+S02N7ObLd5alX1GLzJQf9Y9og9NSdjkGx3CPGDsw2DKSIeG3Y+vh8xyYycYXZ1a+IMyjQdvpP1tXL6XpytHYUJOW43p4+F43zTvNk0TwuDZxA0fhGXlpGfw1wlfqM="
+            "HD2": "HZ2:enpuul3jHTvND6cIoCieoAlrpQrQ+nyfQDFkqgC4G8XNQTWdcA47R5mZxaw+gZACqvAmbQ0S084wEa4zuN8qRlWYjOsvOKlji1kwOvWOoEG/xvDx/7Y=",
+            "HD3": "HZ2:znw5qWK6otvqoWp80oBc4mV563lGsvEKs1AiwK8fZJoZ+fLXNCNXahofPXhCtSkm9NhYb+kMeP0TxueekMGPcy26+vQ7CdLc+avBLCPe4KwotL6oxsw="
           }
         },
         {
@@ -712,7 +715,8 @@
           "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
           "streams": {
             "HD": "HZ2:nff+jjCe8QtgAh+bm/e9plxBSiQJEKVT2phZf8AmC3sFisncqRlZ8hE56IAzNcOMBzUiI/zugeNvlM0U50DHOaCKWRVFvrEGBAiMpqqEzzlrqTOD7e7TXeHK0Pk+qk05",
-            "HD2": "HZ2:yu0js7m38kzq99HQXK3WB7AA1Be0VJjO0fkBmhnpQrXzTh2g0tb6GMZwIvY28TDnQjzTIP1zZy7rpUbqMCSpcWpeouYVkktjP8kl0PrgL6x4ZFkiKW+Smyf4slT9OXp7sN8="
+            "HD2": "HZ2:kCLGmg5uEDBJAUZxSFL6pnnIeMBJY0g3qmXIIxCtvM3zgqf1JTJnt2KLiROFDqkRrD3CFZpgzlTJWUdjC9ruea+hm+hqg5nykgWBxHvze3BF4c8g3dU=",
+            "HD3": "HZ2:DnKRD84kDIIDWFdvkqF7x6JfVIqNiD2TJZcf6YXdwRjisBBXgN5CHpVZTEauoRTXwY3wTqcVKyh9OeeJEza8VabzsEQ9cA9R/5Z7lrJgI857iOsnJbQ="
           }
         },
         {
@@ -720,31 +724,29 @@
           "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
           "streams": {
             "HD": "HZ2:2J6Tc+RVNL8BDvTe4sogTQWOgvtu9zuR4hArMM6sFuhfBX+utgjcWdL55OuvlSZFvBqs4EY+cTfj97eKSdTSy+6Uxf2gMfI7L1xYJSAV1vhgOxLzl1avsOeKYnXc5736",
-            "HD2": "HZ2:9gdJZSpjocRWWNc9uwdT7hYtwnfp1XDvOCIIm0pJUqcO+mPYuYzQxqAFbRy08Pj4ZWmfqRZY4ICEBxxSKQ7LoRqheqGhSeeI8xV8nsjRLqWaQKp6BuIs0uawv5rE8DNXpg4="
+            "HD2": "HZ2:Euvnfskv1XV6NtjueIy5V/2D8EXRfuTGi5hJv5JKWdU4Th22Rhbte74SE7eLmRUpzUP82an6hCNjbHW1BkWRXBPUmyTQfdnjBwVXtkKj42EoxVIN0Bs=",
+            "HD3": "HZ2:dQnxyz2DTJ5qlY5KrKopwuF2CfGzS7sbuSLdor9Xn4h2Aoei/hdfLIG+iaphu+TsX2g09N5GeNzA6RHCCXin6AO3KXkbdAU/E6cQtaxXy1vFebZDJYo="
           }
         },
         {
           "name": "Nubar Sport",
           "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
           "streams": {
-            "HD": "HZ2:zSDYh0DCg91ZArWC0p8cPafZin8iD48RNbB1nrTfsRiXsFPWb7pxZnXtZWJn97DBMSDr5QLLuo7nOG1VgIZsEOkYV3APr33rOhEAuEcw7GtirlSn5S4T5W26hq5sSTfw",
-            "HD2": "HZ2:tPwZi6EAhg/IBWZKpxb6eibgd9pFn6cf8/Rv9gbvoEsOpEW4WdRyA5djHCobZDxJLjuQHOBLuGA+WSQj+gUQ4ORoIlMICT7VNq3BgrFWrFRZDKGBFHWTQvSEBINHhhcFI74="
+            "HD": "HZ2:zSDYh0DCg91ZArWC0p8cPafZin8iD48RNbB1nrTfsRiXsFPWb7pxZnXtZWJn97DBMSDr5QLLuo7nOG1VgIZsEOkYV3APr33rOhEAuEcw7GtirlSn5S4T5W26hq5sSTfw"
           }
         },
         {
           "name": "Motor 1",
           "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
           "streams": {
-            "HD": "HZ2:e5zZcbl0t2fXHgtK4QMEDOiJrrdFfhqSOriWfrFNzxBox0pTuvevnWhpsdrBJiKIxg8dct8AvAfehXlxOCOybohhEiZEvH9ynV9V0tui7Q329yYR4wqGI7ju5gRzNir8",
-            "HD2": "HZ2:x9LryGrDpJbDJEhZaw0a4iRJ4rRNISVcmG5WJEX/BZxtSX29Zn4rkqfEZW24LXnbPTqHtNZkghY9XqDHp8gxX53xQkIU8aNhk1XaLWUbGP75UaMDIBUHJTpTlG+zL8/rV5Q="
+            "HD": "HZ2:e5zZcbl0t2fXHgtK4QMEDOiJrrdFfhqSOriWfrFNzxBox0pTuvevnWhpsdrBJiKIxg8dct8AvAfehXlxOCOybohhEiZEvH9ynV9V0tui7Q329yYR4wqGI7ju5gRzNir8"
           }
         },
         {
           "name": "MMN Sport",
           "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
           "streams": {
-            "HD": "HZ2:clKKw+QwHCQXuNnxQU/fU5OKxTW/S9Q34oWD1VXsyiyZNAFBF5pggFvMoUvfy0qN2jSERCUZW75c5GouMpyCgctg4qA2Tmj3ryN+Pf5/TaDSsY+mIoC3DNPyNUUejoNv",
-            "HD2": "HZ2:fBFLcwHZVWID68ojSJOseUwMPcW2pHOLDh9+Md9aq4p6DOQtSdVPDd1CqIZXBQY1I9MHqThEej6hj3bSM9SDOzdb0SVjZFbDsK4JX0Sl1NlN0ASq08ig3CX1T0Art0kln+Q="
+            "HD": "HZ2:clKKw+QwHCQXuNnxQU/fU5OKxTW/S9Q34oWD1VXsyiyZNAFBF5pggFvMoUvfy0qN2jSERCUZW75c5GouMpyCgctg4qA2Tmj3ryN+Pf5/TaDSsY+mIoC3DNPyNUUejoNv"
           }
         }
       ]
@@ -754,37 +756,42 @@
       "channels": [
         {
           "name": "ALFAJER 1",
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY0_YTplrLJryPfkalpV0KSCASbP-3lWIz4yeM9_QPK-9trF-7I57ldMqWxIk7j00we2SkHMG3xfZa8Ki7DglsAhy7P9WPwnqdUcswhI8vczNAIG0H9SSYX4TY3Gd69ZMcmvsoJMv1UHPL_F8b3UERU6A6N-Z5w7jQZEiNR0PrnFURiZK6DNqhVJQRPRRr/s400/fg.png",
           "streams": {
-            "SD": "HZ2:WmtuCAXrs4Sxg3b2SFZTwWJq3yr0g64m7eRvCNxJ+hoOmbsnDiIarSlDCOFEpM/kWWaF9YpBnaPj0lB/Ni7tIocLJxQgCEJP21lSH/48zRbyAxPKeIMdkLam0IF5YzByUY0=",
-            "HD": "HZ2:QMqWFHMxH3U+xAObfKKFwvOIkEQpouJtR4R/OGNpfyeVmLL85ubvcZGPDnxlFdE4cHpaXxSgFesBpMavl7DZYGuVhzCYGWCtIR1CTmDuGpPvxmvZAPN63J2zU/fP8Go1Q6U="
+            "4K": "HZ2:fLxLaVHNrZiBploaP//LiqH1Xx4n3zttFyFTpEghKODhOiggp2CZNepHKby8hhUixnCM98uFXsupxm1bMTS3n3LEqlqbt8pDfQ5R/2lJsp7jRS0rp/9Z7ppTkIyRH8ao",
+            "HD": "HZ2:dpCvxLno0IaNT9+TqTIVk+LJ1KCdVCKDrJdTok36VNHV+K67tyILbdx6qQaTffNr9btbM3IfSNB0nk3s2i1a8omgO82zFQjh8jr1dDtWEGp+1k/JTowYKTfp73M91obX"
           }
         },
         {
           "name": "ALFAJER 2",
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY0_YTplrLJryPfkalpV0KSCASbP-3lWIz4yeM9_QPK-9trF-7I57ldMqWxIk7j00we2SkHMG3xfZa8Ki7DglsAhy7P9WPwnqdUcswhI8vczNAIG0H9SSYX4TY3Gd69ZMcmvsoJMv1UHPL_F8b3UERU6A6N-Z5w7jQZEiNR0PrnFURiZK6DNqhVJQRPRRr/s400/fg.png",
           "streams": {
-            "SD": "HZ2:0GQ8+HLvS7JspLThIiVkr8r88YyxiSB93ZWUTF9xqftFV5/nFzkUmU2GbsY62JOzrofI+yXW6jZI4G58Ynnw8UL7n2YBdowIywnuaBVDTVmalKiZ4otO/r9HhBBziv98NEw=",
-            "HD": "HZ2:4vf4lTYLhAt9Nh/c7bmjV4g9rRP1YlZ8spvROPldorqWfr/wUo9ybRLGYQ7lbvcXy3BPIsgj0NY4reIpizDXOwysOo5mR2yY73btTqhcW9fLUC710b9SCSvS1Y9B8bE2Xx4="
+            "4K": "HZ2:H4pyZTxQKcrYg5m60ZcZmxWbMLJydMe4vRRqiGLp0ms6u2ui0CI6TMRiccuH16IntYaFg8eVLg3hQNOoXqDfbZRKiTcs3R/AlWaoXqmHVB4nHUFQpGFMWq0VZkmY3Qbk",
+            "HD": "HZ2:qfXejlGOT6MFm392S3HLLIVgomtoT4p6ccioubm7BPfvwgPSfh3OgBEDYRJTmi4O1GDiEta67TaxedZDZ6zxqvtZvYUsZ5dSQ4xHoUmr378igNRdBx89YB84HhZagERN"
           }
         },
         {
           "name": "ALFAJER 3",
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY0_YTplrLJryPfkalpV0KSCASbP-3lWIz4yeM9_QPK-9trF-7I57ldMqWxIk7j00we2SkHMG3xfZa8Ki7DglsAhy7P9WPwnqdUcswhI8vczNAIG0H9SSYX4TY3Gd69ZMcmvsoJMv1UHPL_F8b3UERU6A6N-Z5w7jQZEiNR0PrnFURiZK6DNqhVJQRPRRr/s400/fg.png",
           "streams": {
-            "SD": "HZ2:FYQGgueJhEZdr6SpllVLeeB0DHe7ISYdvvJLrj0GSAXFIXAIppAzwYeGflUBztiGNfIqj6AtQdQ10NcwL86p8wgjhrG75HgDgs8gMctAJzqfUbyytRTdxc3sNZUFNbI7V7M=",
-            "HD": "HZ2:wcvNwKIwYCKAUGUsjxVXvY5VdTgnqO1AQRrjFOPGQjlYq0mU/eL4BWuPfQoDnznvzVeoXaUITenhkz1WoFaUWmeNu9XL84ZqOQI0sZcW8MyCqPCOCLR8u/mIX3et0R/XVVg="
+            "4K": "HZ2:7S7slCBOJFkJ/cM5qFq57otmiEnE07CbSiV+Cl9aEI6vjC547U1KAG2Jxqp2P/6+QpajiseXApgAg5Ka0HrXa/SUCICfseCXaMgSE6fJEzsMK2vNjgmGtkpDl6xnUb/8",
+            "HD": "HZ2:IYHeCPvY91+nHl76+1O+j+scBQcH/frtpyeJgWVBVD6wkgQ2p0XTalIcxlRd+bSsjZgSRH5Du7QCofsJTWA6SVrp1D76eI6v289VYH39VOe882osffzPJPXGjdbjEa+i"
           }
         },
         {
           "name": "ALFAJER 4",
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY0_YTplrLJryPfkalpV0KSCASbP-3lWIz4yeM9_QPK-9trF-7I57ldMqWxIk7j00we2SkHMG3xfZa8Ki7DglsAhy7P9WPwnqdUcswhI8vczNAIG0H9SSYX4TY3Gd69ZMcmvsoJMv1UHPL_F8b3UERU6A6N-Z5w7jQZEiNR0PrnFURiZK6DNqhVJQRPRRr/s400/fg.png",
           "streams": {
-            "SD": "HZ2:pwC3y+2FhaCe4lgQ6WI7dEZQyqgy7a1AtjAUIcye2wVauVC5tLlH6uo/P2Ns/ZEHX0J2rqhpjoy5CSXywfjvSo+zEnhYfmGkP9ZlU2ti93DrkA4wy+5MxWOxyWEzi4aOg6c=",
-            "HD": "HZ2:TBtZFZJmzeWpSL0hvUoCzCJ90fwUqJxbbvbTX600QwMFP0hd2svTaO2604nxbQ0FAPcwPwi2128mjcbESi/m0lYm9LUXpaBc+nl3AyNabt9W3BustWGwogRMRW0Brxu70cE="
+            "4K": "HZ2:4T5DD+YrA7s+J5i3n8/3l2gO5MZT4CMiTF6DcABCi8N4EeXO2DWAUGr+jLyXwuB27nxXzwk3vLEYg2hNNP10WqJJmIMYqYgeyELkUi4CJTCuZ3uIzkbI+LDbWA74oonI",
+            "HD": "HZ2:DNwxpzAb0SoN+z+8RRtROJF2APJCUZdZS5bB2DG5T/M90o0Co7c4ybhHId5tQ+ZuHoIUJxFwSXIt5eRFsE3H4tUZt6NqEAWRA3t9HxBeNpy89+sqShXjKV/kIGSEdJBH"
           }
         },
         {
           "name": "ALFAJER 5",
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY0_YTplrLJryPfkalpV0KSCASbP-3lWIz4yeM9_QPK-9trF-7I57ldMqWxIk7j00we2SkHMG3xfZa8Ki7DglsAhy7P9WPwnqdUcswhI8vczNAIG0H9SSYX4TY3Gd69ZMcmvsoJMv1UHPL_F8b3UERU6A6N-Z5w7jQZEiNR0PrnFURiZK6DNqhVJQRPRRr/s400/fg.png",
           "streams": {
-            "SD": "HZ2:c8dX+HbCj3MsHPDjuNZJwGlTe3Dn6dfcHA3bJR17XjSxtHlN+RFNP0nQJdwgO3glwsciUplpiOkpuwOkbXeNBCAdg9ILl6V+crXYa840ovDQ8BNQgTnOKEzabOo7skcvTTI=",
-            "HD": "HZ2:jwcqEsj1Z06g6vjVfJfnDlXhLShSm7O9c4zrpq0CV3TCsP6RxstkF/XqKqI/QPMKziBOFOwcKeIQ4c5QgKk/OpBIAZtCB9iA00oyq6POhIaFBMdu407QHxFw9cStgIMCIJw="
+            "4K": "HZ2:YaO/kJKJ24zuKv55O2KFPhaE4L4/MR/PdKo+q4n7muHh/E8dvt8JzDZlLtouSWbR9zAKykhCFuchpyrcLFZ5bmm408HyPNGItQMlf6165m8UrrIFlxBhtAHKRVllOE0U",
+            "HD": "HZ2:OWIFLx0nX4ji/OEs4ZImIJgbIoYXB/8IRoWcv8D9jAKDiU2zBWiQNQcc9kXVFd+bZt36wiugJTfGlxLV17pG6fwOYnJikNPMdc6W8uiuANLCk0ZB7cuOfBx0kl7qx+FH"
           }
         }
       ]
