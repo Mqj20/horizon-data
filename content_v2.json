@@ -1606,6 +1606,36 @@
           "streams": {
             "HD": "HZ2:PE3Isu8BKU58WK2jGj6qihCacNXeKpPZdzaNOqPuCAT19ktbo6h1Pa0hUFjuIPeVaUxXF1iIxA2+htLjoHuikPni0O3NjpAwEcR/j+WBJv1uLEhT5A=="
           }
+        },
+        {
+          "name": "بي ان سبورت 1 (اختبار)",
+          "streams": {
+            "HD": "https://www4.manar1.cyou/x1/1_42.json?token=e83a1bed84c494df06312a0922cf60556d00797760f4559720ea8843aa0bb99b&expires=1795238887&exp=1842206296"
+          }
+        },
+        {
+          "name": "بين 2",
+          "streams": {
+            "HD": "https://uruk.optikl.ink/ostora/main.php?id=4129&cat=333"
+          }
+        },
+        {
+          "name": "بين 3",
+          "streams": {
+            "HD": "https://uruk.optikl.ink/ostora/main.php?id=4132&cat=333"
+          }
+        },
+        {
+          "name": "بين 4",
+          "streams": {
+            "HD": "https://uruk.optikl.ink/ostora/main.php?id=4134&cat=333"
+          }
+        },
+        {
+          "name": "بين 5",
+          "streams": {
+            "HD": "https://uruk.optikl.ink/ostora/main.php?id=4136&cat=333"
+          }
         }
       ]
     }
