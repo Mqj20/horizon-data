@@ -189,7 +189,7 @@
       ]
     },
     {
-      "name": "Bein-Ostora_قريباً",
+      "name": "Bein-Ostora",
       "channels": [
         {
           "name": "بي ان سبورت 1",
@@ -268,7 +268,7 @@
         {
           "name": "وقت الحدث 1",
           "logo": "https://ui-avatars.com/api/?name=%D9%88%D9%82%D8%AA%20%D8%A7%D9%84%D8%AD%D8%AF%D8%AB%201&size=256&background=5b2c91&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {"HZ2:hV0wdsKHVrwHzaM27oCwPg/miznHtI/Gf2/TpDYMrwUtME1pIT45wavsXQfXpW88K7d9nIWjGOhK/o2KsVW0yoN9OVMex4a3KwXiXCgFrhVZ8fRdtIYWDA=="}
+          "streams": {}
         },
         {
           "name": "وقت الحدث 2",
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "name": "beIN SPORTS S-Family",
+      "name": "beIN SPORTS Family",
       "channels": [
         {
           "name": "beIN SPORTS 1",
