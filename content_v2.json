@@ -301,88 +301,97 @@
       "channels": []
     },
     {
-      "name": "BEIN SPORTS-أبراج 🗼",
+      "name": "Bein sport أنترنت ألابراج 🗼",
       "channels": [
         {
           "name": "BEIN SPORTS 1",
+          "logo": "asset:hs_logo_{n}.png",
           "streams": {
-            "4K": "HZ2:AkfWKDFBAvxCPgmLJ7fibjrc4LweRA1gkbCSvzhMHgj5q/Ul1RTGhmRPD3bwIy+oR3WMzDDT/tiKmVkrTzHAYEngT1zlp1aAHo70dz+frDvFwoQiWpPR",
-            "HD": "HZ2:SawllmPG55GY8l9jpvsG4YrDygsLszavrRYSMTHBzBfU5ibhRZT+qfQWgkIYGIG9KBhfdqtkCqdtc8sbBrZW4oDBDgmzT4BQfx+Ovq20Wz2C5oLPpzrO",
-            "SD": "HZ2:LlYWJbOvZkmoNkWqaFS0F7/w5lZjzOsfq6Kp6Sb2JZfqYk4LM/9zwzaXNtwBlQYCID1oXwxKIJp+JOL4BfRh3PZGdQb37jiYHRMTrzCf3/Ov47UaKHab"
-          },
-          "logo": ""
+            "4K": "HZ2:c/lQRcpaXoX8QBCc4sLiW2f+x/FtoRr7LqdSDJlci7vF8sOZ1kCIdkGXwo8PHMQF7rTJ7hZEZgTe+AjNxWfhZ4FZGCLbPzbzWP07G1dnTARYxDDS2OixqV/nSIixiEbINzY=",
+            "FHD": "HZ2:hHrTDokHQe0UBOVveQ7xhOueyWHkfnNS80ZA5uPp3F1yOOy7Q0uS4lZlaI84Vf629Jt33CGPcekciX63bguQ/AHjcnKz7CP+5qSQAqFL0va+9AHHlj/u661UAVlGHATFCsQ=",
+            "HD": "HZ2:jQVGkvAAt4UxWuqUFnYAJ6dYFs/n61hnsYShWOp1Nwr+YksbzOGxuSD9jOvR4ifa8T4jpSSEjDLzPeXzEKn0Nv2JYm7UA0wvwhSDN3AYwAyoNVCFwvEImUH6YUFxzgc=",
+            "SD": "HZ2:ltic5QwvM24Kn7overIra5/4p5Gt/mv4soPX7irGxDsZHe3k0r0w5TtBjWmsforFiXJEAywj+9WostJcLljeuH72dg9Ywc6zWcbRVKC95tB/gIZcHjdlhcA3MM5oPYwC0Q=="
+          }
         },
         {
           "name": "BEIN SPORTS 2",
+          "logo": "asset:hs_logo_{n}.png",
           "streams": {
-            "4K": "HZ2:1XbM9V9n+gSLSJcgt6itEbwh3LXNR/qZDlTBrexMrV38TT/qf3feI+ChBZdViYxlENWepYk5su/R598y/5F8UnD8WP6TPCc6ZpNDySoq2VQW16wejiCb",
-            "HD": "HZ2:C8MbyZPg00ZhMBHmPCqdjaBvCIbq7MAZr4kLl1lC441cd4PywVLcf8xFSTEjX82qUEk5qO1f8DGnRjhtGvNLruE8h8Jzq8kwaPuHZANSjoKddV2gQ4LB",
-            "SD": "HZ2:db23ov7Gg8T1Y99aC2bSUfVeA1bQsyLupE4rFOutgLtl6GwynSoiJ6p6xdvLXZeWFG8o7ogGd1o63ujmO/WsxFasoU9Dj6UcrjRKj4ooHwxlQNHtc9Ll"
-          },
-          "logo": ""
+            "4K": "HZ2:4s2NUnLH7OcQj/7Ctn0+HkL8rpA0qpJROIhWoIeoM/0loVbaqvk6izJntFpSgqjcEuNCZgvI4ZGj+bnyaaNNHZnzA+gawH/8MpPCeruEKTvkf/QNRy9q6zCI5LfMVwMBt/o=",
+            "FHD": "HZ2:/O0myl2WqK2ZiQWK6WRia/Mrc+DWvWLTPVePdw4nrKneHG2z2UWn5wzOFb4ee6qdBHoZb4USE9yBaL4slkDtt9O0p9KG48O9sUwXUQPXFlSDiWq969MuPqdzO2GQ9TRLUp8=",
+            "HD": "HZ2:M6M93qGT4CJ+otG+SgxWLkuzxhZhXFgSGBAZbLQ4vpdwk853/ubBoXPdmfNnPh8LJGgvUFyUC6IBvoBWC8wWvQ0QYVyALVYxxcVFoUtIjjGYw5/kYmRnpWI78M4FgbyK",
+            "SD": "HZ2:ZrOGF4qMTdfXKYgIERyXouJEh9l0cbhQa4rFE1wqh+oaIOIQLqWsWFqq2TKOsM5SQH8ved9uRE68Pkv1cbjlz4i+c/eAKkZIGm7iLj9G3d4sOTN9HqZH/jOzlsGgKRk3bg=="
+          }
         },
         {
           "name": "BEIN SPORTS 3",
+          "logo": "asset:hs_logo_{n}.png",
           "streams": {
-            "4K": "HZ2:fXu1qUbhFAFLBRSYkAbgDiCdjhVbiwk5k2LL+dsRMsvfk1V1buF67ZGlcLqcYSXsDXVjDuMkjC9eyiByhKeRuaEnUxHp1hJMEB0MVBSHpICkvrkKKzU7",
-            "HD": "HZ2:nlLWTQMDZt9rvbeTJQ3Q5B9kpixMDUX0f5YeiF5t4KLQ7evwCdgBn6WCNPt7gtP0lVk/1Ttm9sOkPZOoMffPWkKaHfKEKDEwb5szAbBdA0B/IUCL6EtH",
-            "SD": "HZ2:7k6bAVro3zv5jA40Ru8TbytHM1CsBe0kVbJ2VgfmZlg6AIWpyzFauAivEbHuHpNcovqz/XVl043Zvs8B+20QB0t0ZHf0Qj6qVNkU9qAS8WjNZUQ9L9y+"
-          },
-          "logo": ""
+            "4K": "HZ2:HXU+cJIuePv9h/K0BPdky6i+xe1ULPEE2Q7WS2zSYeqQK3O3vqnfKAdLTf+B4yzS9X1wv79sOBUWTyuPocBUZMJ433vGQH+Ohw9yVlI26+Y8SjxgRYeIzAkLb/16hkjbXpM=",
+            "FHD": "HZ2:4EhJHUv79Yinbn35gac71XVax9PQE5S2HWgs8XfNCnXcu0BviCVxrCs77VAN0PxTcPqs52kjPPb39FCr1BWVvCpGph59BI9iYCVGnIjwWLhmUALeSask8IsiTck/dVUb",
+            "HD": "HZ2:kKHY6Z5kM877axLgJeDaJduIwHO1FueGKoA9EQPRvXPkNECSZgsWj7S4JQNiX2F0VoIFurWWiitYLxRMtnBzd21BeiT29ecmsIwp1TqH6ZmyzXb6mXI3NlEZAytEcGCx",
+            "SD": "HZ2:EpyjRo5GH9b6SpoBoIF4gZQnO4H2P+zlvkGbb4yHobKWCkhXYWbIGNNiu/Zjss1ojnXkTLtKMAcb9HmbTaUtD3bKiC0vdOM1PbINHFD7WomNrCE0ibcd3riJorU3YpAKEg=="
+          }
         },
         {
           "name": "BEIN SPORTS 4",
+          "logo": "asset:hs_logo_{n}.png",
           "streams": {
-            "4K": "HZ2:iYDCSUsDNhlDQHphqBTTdgPQCvr5s5p8E4SCxwLvh6UaUyeT6JJj3fvUfJvVEiN1Xhu0n0ICA+xHqd30sMsqFEno+R+3rwq8M6VrlTMThAFVeVGeLZdL",
-            "HD": "HZ2:6Fite/K5lTDgDFK9z9ckTGK5Vev+3v0Ys6T+6Lbj5MDfoblEVDITIZ53oN8Nk8iOn3yMuZC78CJHA4WSxTMDsaIZdw3p2NbqwPf+M75hcxNjCI2+hEVq",
-            "SD": "HZ2:jad2LGehswjFGopwAOnhcPlm5N8vOCrImoNgiynGNMlUXUMY0Nc61xBhdi9FD3X1RWLxyqwBLNPHu1TFpsIBo2XHhxOenARtTfhlmWFMbBz/552wgOaJ"
-          },
-          "logo": ""
+            "4K": "HZ2:N0mKFUk/pczpsWra8fUMnRnSmT9/+bmHju7xyHQuLqiu+yGQEhkuLafDTqzGPz4qKIsAijP9dKSlR88JVIqdgVqDeX9HWO5X/WjkccXU2wdtcscWS13aGVFOLHavVpzRCMs=",
+            "FHD": "HZ2:SVUUMl+bUISnZAAaFWnezym2APpWYT1aZtuGo+HmrzuQXyFk4RoEgqURJlRLnq2X7LHiTNE9QAtewrU1UrGqz6N3AoTY5cEtu0cb5Xac8bdHq8aa37YGLXEd5XSlM0gDjUU=",
+            "HD": "HZ2:Lt42IKgVUt/YpxcpWodtXjMiTmkmHmT1X9nrr5Oa1bmlLd84uX5MwFdPj8aBPMyRftavDro49XEDT1Tp4V96u5qNOBYpp76mGfyMeES+sCZlwUheRV29VGLTOJ9hGj1L",
+            "SD": "HZ2:xu0+SEEpY1s9fxpBPoHG7+rLPzzMrAVeqbr7kDThJCoHk/AOJ+yPaC5jwX7Vso0JLl2RDfCzdLvXPW7wauNmMZHRg+6+vBVmnLzIOKmnmaHYaNvAkJfrAtf2cmy+9ERV6Q=="
+          }
         },
         {
           "name": "BEIN SPORTS 5",
+          "logo": "asset:hs_logo_{n}.png",
           "streams": {
-            "4K": "HZ2:DonQVuXs9iNsLnfzckdpACqMKd7MvuMxh2sSEiBBm5sY+Rz/cRpCcc47mBB6Di99KXVskX5AZlGwaso6ZAM+xuUcaFLyvU36L+gJy4sopiBWmTtQIvxL",
-            "HD": "HZ2:Vyghjr1YpaYjYVBPG124jh2ZjSiZxuPfwkI4WWKDOGGdgtssq1Jcff7hQ+4iVHgT5aJl687QTFJmqTu5Z7qykx2ndytUoDOY7B1hJZFGkCglSKhAinqN",
-            "SD": "HZ2:Hngaldep41IJNNCfcMVr3cMLsT+7SNl0yqBhwbYxA7+Lu/CMo9KsG2eD23Y6v7tCElOWYwM92tKEmUHyxxdv5dfdRqf75vc//GTG19fvWS6ul1TJg7hw"
-          },
-          "logo": ""
+            "4K": "HZ2:khm4JAOteFNltMioQdR/7KruQWItw8Rkm7abZmjPmcg+Ocdj2UiwX3dH4PzD4Vo8AbSvP6TN62hKsaxWYC5UGSFcf1Kp7yxL/kvmAP1DC5bcs1dNBNu/xIE3ZX0OR3mDOq0=",
+            "FHD": "HZ2:HoWqbkOYn89REUNhJm82hAPV3qU2Kxw2f6p0WOkdJKMY/IDSF7ptGL/yxFfteiNssQqeupitTA6our7XIpS89koRYaftQnwYNNKKY5uj1p/ungB+lYAIZzq+Jxqg/Tqy0mQ=",
+            "HD": "HZ2:uZLjQvilauVnnhf9iAm6xellFQ0jCUN2dF+4nOCfe4HOGDapsVQV5dc+QcnDDL77vBpylhmiDpzAAwgnZ98KQ3uFEUzFqEPR7cA/yaSHy4XyoRWFNGLBkIVYlljkxJI3mw==",
+            "SD": "HZ2:eehruID7rduNdmpX41T0g2oXgunzDJp8I0Bpup0h6HVew310QMQih3XdCbXj/AnnMAjlWX9xIRqAejDoqa7GZ74+NfTkU3FRkx/bRNXJ6KQtK/JHMmhDI4ArOm1dysGRBw=="
+          }
         },
         {
           "name": "BEIN SPORTS 6",
+          "logo": "asset:hs_logo_{n}.png",
           "streams": {
-            "4K": "HZ2:/Ou1WjRzQilDSwWasGcl0RaOXnyxg+14AfuAq12rSirVM76NXjBRIwBgZHGp7AZ87M8Adkjbz2p8enue0N1jcEqwFxBvgRhbldoLsscprFP81QV+NfDS",
-            "HD": "HZ2:dTuy2DHTmYGXg9IhGgpWeRgMYLosL8UECG7+4bQpBP4Kf4YPG20LsrXg0NzbC3f9+0O7213x2ND8kW9Z2GjhVSb8HuGo8AJbmjYMpprLDJSv3DX10Fpt",
-            "SD": "HZ2:7ZmZweoIsH18qbbGHV6htGnVDFw0nsKjExqoEJ95P/SvVk9PptCm9zcmDYgN+zBusXSCogigrPd2HqIAMEehNKCZo6WufqwBcEgNksYkNAeGK6c2/Y/T"
-          },
-          "logo": ""
+            "4K": "HZ2:9GubFc6Gfi2mpohyz/DQdpCl9jo2sE5DNUythMposwrFcphftHmF54OYMylEUYqNm1K15U40o1jxfNoi4byRLdiVYMfIzHxAMagMITeA+GCN78quQHzyiBlw4ReBPg2nxiE=",
+            "FHD": "HZ2:Rqj1W0f8RP329N+cDPbqa8pW0cvOKi3Uu+tj5oS9hbVaQdlrpA8E1e2gpUbHQIDTmrJJJwZj/Vk2FamJMo9uBqrpt0tknwSheDTviHSQcUUZTHA+yDJKVGbTOs/XE8fg5MM=",
+            "HD": "HZ2:tNeY9Ah7Tk0Zx3aj9IIwHptzKscNNrotTIO891Kvj9i+clixVtkkiA/YtI8ItPDzwffq0GSmsgnjaR1madAP5lTD4061JWjVH1yvvVnVZJJyjEP7HLzQuwe2ck7eVlRCKw==",
+            "SD": "HZ2:LPtMHUDE+2mrB+yMA1SEF+Je1agLGZb1Z3hkJGt/WYvNJUp291wSxMAzf/2111zhxDVzZvH5Zov/D+1hjS5erNmLGrCnsdQK3cOX8Xhx3VF5swWQKrCTo/xkLkJvF0/9Hg=="
+          }
         },
         {
           "name": "BEIN SPORTS 7",
+          "logo": "asset:hs_logo_{n}.png",
           "streams": {
-            "4K": "HZ2:+eKV8TGb0tzaRw6vjNEDR9a9y/nVxfujie+FIjscwoBoHLQYYjRuf6UFmJOvV665ozXP4BhMpJY52zJ5ULmivAcXNJPdQD2N3mLcfyra4aatrQOnLrLE",
-            "HD": "HZ2:eXhpbTpW6Bfb0r888FSb1k2CzXNfSYDTLtQy+KlN+cSUPhDdV83RSFy4HrAggYam0tzdQN0IWQmrhu21wroK013aoP4bOXQrvKSo07pQE1zolpGCKyrX",
-            "SD": "HZ2:MH0uVtHwSZE8y8WlwOgpdpKmxwSQLpbvzc7F79EOjqubQtrrMqDp4cxg8rnZbT1ZqJUK5H71mcFRClbkyZeuve+dPol5CFcFkXWjEw+dbkrrUp2Fuys+"
-          },
-          "logo": ""
+            "4K": "HZ2:pXZTU97Y9J/HQMvqQWeTLbedy4faFzG1TfbRZOw5t5v9ODcIrGXTBINsYLlpEs/jrAbmBPfuZUlC4VWFycWDxuOslLsur2yYnZQ8WyQUQk8HnU4HmCGIl11FaDcHNiOojfw=",
+            "FHD": "HZ2:9e/2eI4kczhwleJr8QAk4X4Y/z4FHhUepFPI5L/ZS/MeAYOIFFyzOiLSHXQcbiZb4tYxMCwBYVuEjVx+ypjwkoA7Z1CSqrMSWzAXLvlIT5gtVqegiSRKUkM+dmqd5Qz8w+g=",
+            "HD": "HZ2:5ngMPZLmUViHp2CtixsFF0vZ95gh1Bi8DHeH3la1MIyK0Fq2YXSSKT2o3M3pQiCd2lSQPMPxwaEVJlNAwo7WTXzGAUV10VHc6Fn0chdWmZfAzSNxc6iwB/wLWa9RtlDnuA==",
+            "SD": "HZ2:pczOp5f+WkFYqhzJBKro+VPHM0tJsYewbQq5dOnJeNWWyR0tRy+JdgkTvFBfCAC+yGDM408NeFeSkxYtwFgmG8QySw7ZAlHVw67e2viZtjsYZrxvF0R1e1QkdQHB5T6FQQ=="
+          }
         },
         {
           "name": "BEIN SPORTS 8",
+          "logo": "asset:hs_logo_{n}.png",
           "streams": {
-            "4K": "HZ2:hRELGM0VJeH/Q/dhpNpECRhuENkMoG4fJQBIvdrITAhZsVsYd2C2DPyFUkbM3w0Oa5jDUAYS0sx7ril6lFMey7v9vjUkFmMj2qzppmc+C4YBDEsuaJBR",
-            "HD": "HZ2:cBGXFg5pR0WC6LBf13n73YiCOqjsArVRBXlbMXEXlE+3wec05rZcA6H0aLilpPGZmVPcuFzptyIGxRS8MRbqwJKW2wMe13m7e/6IgLMrPXEdterLHkX9",
-            "SD": "HZ2:9YxQVtbya3dxIHVKul0Ox4Ax6eJeg+tPPR6Uc5wtAwZJ3QpyEH1nrozF6pmQ50H6j6JQ6i5cJPsMUdKEGe2M9ACzxhcBbEpLx1yzDzxx4DjmwgvghRj6"
-          },
-          "logo": ""
+            "4K": "HZ2:gzoYCibiEjteuEWJIHdA8sIwGe0KEV+/rxRYQDrQ6Z0yH+7zlWGurXkX4yxBoAbJo8ZvBVPYoCAAChPaWjAbORGj17TQag95kSSXimxulis5qD9h2pAQIWCL27vTBMF5w5k=",
+            "FHD": "HZ2:tE8RKgsJtyYumdAW/vGQpD+4P12KhoPF8bxEp18tdoPfk0XP/H4o+GTqCls3yLBTCJg+1N+Arhpkngi50VeF0MQAZnKNw/q4rbLoGfgUmIiuWTmOx9Ca3TTONxfpT1fmMTE=",
+            "HD": "HZ2:bqOSaeA18M9UTTN63u9CbXXnv/7Jcp5ltsqjf90avTC2gSivg5PIE+fsZlus09ngCowFWPNGwhYByr8LQguTaE7yC5Fg06V1dJF4qqvqtI18L7xwtBDxzOmc82JnCJRZXw==",
+            "SD": "HZ2:lw5wyxxDRZ8GelwTtOSvwMFwzWkxghz/YOlO+6kyEb1pV/yoDGupnTY8zIuKIpBTeZQ9zZtukniYnUFnR+37gJ4Uvf8VvyQs30BNTRo4tfm+z3ghyC7Dr422Mq32J51+aA=="
+          }
         },
         {
           "name": "BEIN SPORTS 9",
+          "logo": "asset:hs_logo_{n}.png",
           "streams": {
-            "4K": "HZ2:7Cw11zF0EFNf3dM8BpB4ziYy+hXg+OehgCMJetGiVzdmY+0Uw3ksdImSj2ataNjN7r5tPpOiFXPFFynxyUJAp/7eVAIL5bK1iCPtLiZOqkWaWUw4m+Ya",
-            "HD": "HZ2:+1PIJyybVWzl7nngH658EznMfS79Dk3H2LLxUAAhnb3MLMbC6lxfHylBi3Tf1WnIODnA/2pwhrAMLw486pAukHxiV1yw/UJEQSgbTUFUcUrrnk294Qit",
-            "SD": "HZ2:oQEOYJaz/jw1Pibfr1NG/sHRuCC96rxic4aZ0IdbucxBLivtqqhcnx9ZM3kz7NinGFXlUYjZqqldYbmS75QrVeiGYRtzRMa7PaTU0KO64jSCUCj9YdXP"
-          },
-          "logo": ""
+            "4K": "HZ2:lfjXjjNMbwDBjiH3e687ca14K5ml9opYbasL+EU/5DZjzvO17yArjV1i4fC6Eec2AkU7lWrik/hZPWsM1jjnZSS4Rz8x+DovnwoCVGA3N0QGIrjyV/C2Zu+P2xqGpdSFK/4=",
+            "FHD": "HZ2:Men/tpEIl1kLuWxgiyNfrtIRn9u2uwnxuA7jr64nJZ5hbdQ6LdiBWv8YlFP5ELW2afZ4DzoMTfEt4h0MAQY7GFlPk2AsNy0KmBQ+YJDWJISbNw69xIESR0D2aodYqLeHEIc=",
+            "HD": "HZ2:qKZyyDovvHXDs+REoc4WE34LUZ7UOVVTZYe1nQy4+fUyaGkv46QuvAFXOiR/fZ9kAuuFUmSW7Hz9tUl0ketDnxBy2RHKy6YqePced1mq+HdIolv8jp+hLcb/Q1wvmu/oyQ==",
+            "SD": "HZ2:uKzWq23MLN1gvjS4DN3hfFPifG7S5PmEl7amZTYOhf1TLxUYu1EL5PRrLk0jhfQlFp+jz5eumafDKBUgBkt67n2/qi3W58YGJKKZLCrn14crSU41UIzBFHYyr5sUtr/x0Q=="
+          }
         }
       ]
     },
