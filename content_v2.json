@@ -305,92 +305,101 @@
       "channels": [
         {
           "name": "BEIN SPORTS 1",
-          "logo": "asset:hs_logo_{n}.png",
+          "logo": "https://i.imgur.com/ylfkzIJ.png",
           "streams": {
-            "4K": "HZ2:c/lQRcpaXoX8QBCc4sLiW2f+x/FtoRr7LqdSDJlci7vF8sOZ1kCIdkGXwo8PHMQF7rTJ7hZEZgTe+AjNxWfhZ4FZGCLbPzbzWP07G1dnTARYxDDS2OixqV/nSIixiEbINzY=",
-            "FHD": "HZ2:hHrTDokHQe0UBOVveQ7xhOueyWHkfnNS80ZA5uPp3F1yOOy7Q0uS4lZlaI84Vf629Jt33CGPcekciX63bguQ/AHjcnKz7CP+5qSQAqFL0va+9AHHlj/u661UAVlGHATFCsQ=",
-            "HD": "HZ2:jQVGkvAAt4UxWuqUFnYAJ6dYFs/n61hnsYShWOp1Nwr+YksbzOGxuSD9jOvR4ifa8T4jpSSEjDLzPeXzEKn0Nv2JYm7UA0wvwhSDN3AYwAyoNVCFwvEImUH6YUFxzgc=",
-            "SD": "HZ2:ltic5QwvM24Kn7overIra5/4p5Gt/mv4soPX7irGxDsZHe3k0r0w5TtBjWmsforFiXJEAywj+9WostJcLljeuH72dg9Ywc6zWcbRVKC95tB/gIZcHjdlhcA3MM5oPYwC0Q=="
+            "4K": "HZ2:7mwV4G0lXK1U5q2AWHEdQZBnHPtiWw2TbmXKDBp2JGeT9e89hveLaJ8LYGV8Rwu+r+6Y3lAEp2zwQfhve2oxwAjrfjxzPebUMYl8LBzUB55EoAzvHzFGd0L3",
+            "FHD": "HZ2:4PcSyaGdtYSTfgATiGXkThT8w8zx3/ynGZAWBHBXmwDvMdvk3jAh4uGTkIcNDGVj5+eLoJTcAGF8jOLxUvWUvL4DiBk/mstwHK4/K4KNAIlhQxsMBYkLSNEu",
+            "HD": "HZ2:UzxTgiLFh8xAUpjqfh8BisAokei0W/pFaFM41C/FcySltQqhiYTSLRHppYVVbPHIeWscS/bQ4xl15mYTVsMdsOnijH6+87zBlHT1HdxOHvApmnIR49RlodBO",
+            "SD": "HZ2:I27RC78D7XpMJ8M+g9B99t37oiP5pDC7MJHEGJgydWywP6MccbkajK0qDRv8TIAVeribQQaJTmTZH8oQalgmEr3phgsr44gaDlt1AZTUSy7mr+BEzyBxgdVH",
+            "LOW": "HZ2:F8kwtBvVaEhyz7ok6HQ0ppBFsYcks3hHCfyl5QXb3I/dpbQ1hNYEZSejVs247fqj1R9IeQeDqgEUbSf2c2fm3TiJPpzwXSGdcgaCQJ8dQ9fJZhWtjusjnMUv"
           }
         },
         {
           "name": "BEIN SPORTS 2",
-          "logo": "asset:hs_logo_{n}.png",
+          "logo": "https://i.imgur.com/eUbyiz1.png",
           "streams": {
-            "4K": "HZ2:4s2NUnLH7OcQj/7Ctn0+HkL8rpA0qpJROIhWoIeoM/0loVbaqvk6izJntFpSgqjcEuNCZgvI4ZGj+bnyaaNNHZnzA+gawH/8MpPCeruEKTvkf/QNRy9q6zCI5LfMVwMBt/o=",
-            "FHD": "HZ2:/O0myl2WqK2ZiQWK6WRia/Mrc+DWvWLTPVePdw4nrKneHG2z2UWn5wzOFb4ee6qdBHoZb4USE9yBaL4slkDtt9O0p9KG48O9sUwXUQPXFlSDiWq969MuPqdzO2GQ9TRLUp8=",
-            "HD": "HZ2:M6M93qGT4CJ+otG+SgxWLkuzxhZhXFgSGBAZbLQ4vpdwk853/ubBoXPdmfNnPh8LJGgvUFyUC6IBvoBWC8wWvQ0QYVyALVYxxcVFoUtIjjGYw5/kYmRnpWI78M4FgbyK",
-            "SD": "HZ2:ZrOGF4qMTdfXKYgIERyXouJEh9l0cbhQa4rFE1wqh+oaIOIQLqWsWFqq2TKOsM5SQH8ved9uRE68Pkv1cbjlz4i+c/eAKkZIGm7iLj9G3d4sOTN9HqZH/jOzlsGgKRk3bg=="
+            "4K": "HZ2:G0uOQYwVjrX1KfCAFgAobY61G4hsvktRER0G7S9uI/rbCJsSfLMjuox/GJVH/jsfpbfwKq/SpaT7UkraE827/J7qACIQw8WAea3npRmYzkBQrbOp+nqRmpEi",
+            "FHD": "HZ2:5Jh1mVEZE5NiNehzjGRR1kZi35OxoNkcbYaCwFBdOthNvsM5weEgF2RbaFwHwR69pkYD/tNXCqdse26rAt8aYMcaeYx2RkDDZziUQXafPei/EcSFzHNYn2/O",
+            "HD": "HZ2:7QQfzz6ybr2avpH6ls7B7YDvVb36hsJx+WUd91/nT4kPxE4YajvJTE2nqk7k/SB0Y7ae7wblvOnV6qATfx3AszKsBDC20JgIyjBA7P2n15P4/Tw2XaXxzZjA",
+            "SD": "HZ2:ayOuzhxi+dylKkEow7rBDt84EiaYrfwtmu2nh3+gxjYrSQZsyxWzoA6JRQmrPohZaZ4fCrtxL73D+O2wY2uWQxAz3HcYdawwCb0mYqBrYi6DJxrWeEgYN5H3",
+            "LOW": "HZ2:ph2DbBcji/ZO3HCmcY/0cQUqDzAhywSlDeFZDp1p58wLkkdlpJvqYDh0agA3XJhgpCxpp4oB6bGlnuJHmtylSP3XcoY1zKxGU5KevE6PwGHKJIXxFt73KrkZ"
           }
         },
         {
           "name": "BEIN SPORTS 3",
-          "logo": "asset:hs_logo_{n}.png",
+          "logo": "https://i.imgur.com/TWRkwT2.png",
           "streams": {
-            "4K": "HZ2:HXU+cJIuePv9h/K0BPdky6i+xe1ULPEE2Q7WS2zSYeqQK3O3vqnfKAdLTf+B4yzS9X1wv79sOBUWTyuPocBUZMJ433vGQH+Ohw9yVlI26+Y8SjxgRYeIzAkLb/16hkjbXpM=",
-            "FHD": "HZ2:4EhJHUv79Yinbn35gac71XVax9PQE5S2HWgs8XfNCnXcu0BviCVxrCs77VAN0PxTcPqs52kjPPb39FCr1BWVvCpGph59BI9iYCVGnIjwWLhmUALeSask8IsiTck/dVUb",
-            "HD": "HZ2:kKHY6Z5kM877axLgJeDaJduIwHO1FueGKoA9EQPRvXPkNECSZgsWj7S4JQNiX2F0VoIFurWWiitYLxRMtnBzd21BeiT29ecmsIwp1TqH6ZmyzXb6mXI3NlEZAytEcGCx",
-            "SD": "HZ2:EpyjRo5GH9b6SpoBoIF4gZQnO4H2P+zlvkGbb4yHobKWCkhXYWbIGNNiu/Zjss1ojnXkTLtKMAcb9HmbTaUtD3bKiC0vdOM1PbINHFD7WomNrCE0ibcd3riJorU3YpAKEg=="
+            "4K": "HZ2:mavdODLq9NFkHH8iRyjAWX7+Hpv+FdKUx8LXlx7GVN1Z6d4/WlcaA7xTbtjJ/SHwaS7CLJxWd0d8USlPvu8jaCBqbV/B1UQ7okBj0Lt5EYMUbGS4KbgwtkGx",
+            "FHD": "HZ2:3Iz3fXORtS15IOOicx0cikXchQ0vEfweX51oc01iO87Lg5+QME+Xb05Fc85FTjRWpC+qAiyifSekY/47T6BKnH5YgHQiyVIWo/n4PJpSNYk2UVzBAQrfybHu",
+            "HD": "HZ2:WWCoNfUkPJnkSRZ6emHVzsRs6qnVNEeoKgzfRXYEW4t19js5OMhkFHp/Z61yw3sskBSulLnmQJagBSx5BEJBV4Bj7tnyDt88unEI9S3TkJ7XWGxpPkb76EnJ",
+            "SD": "HZ2:yh/pIE4QLvQtMwyqe+UlwnSCas/Lyfia5O0cZQK0/woimOdzZS8/8WP6q6ae6Q1mShbQ0+aaYzqO+4STmqwteLYweLwFSbL9uqsFIPOconH93jvkfraLEjNz",
+            "LOW": "HZ2:42yEUAmSa+25D5NuuYpNqHnenByCtz4teEA9VHFtTuB00zw2uTzfXCs/4LXhAMmjX+3qf0Fdeb0Z8R2LDTWNddpwaPfpSTQn7nKXd8Lfh/ateNMj7Q4Nu5bc"
           }
         },
         {
           "name": "BEIN SPORTS 4",
-          "logo": "asset:hs_logo_{n}.png",
+          "logo": "https://i.imgur.com/LOAoZje.png",
           "streams": {
-            "4K": "HZ2:N0mKFUk/pczpsWra8fUMnRnSmT9/+bmHju7xyHQuLqiu+yGQEhkuLafDTqzGPz4qKIsAijP9dKSlR88JVIqdgVqDeX9HWO5X/WjkccXU2wdtcscWS13aGVFOLHavVpzRCMs=",
-            "FHD": "HZ2:SVUUMl+bUISnZAAaFWnezym2APpWYT1aZtuGo+HmrzuQXyFk4RoEgqURJlRLnq2X7LHiTNE9QAtewrU1UrGqz6N3AoTY5cEtu0cb5Xac8bdHq8aa37YGLXEd5XSlM0gDjUU=",
-            "HD": "HZ2:Lt42IKgVUt/YpxcpWodtXjMiTmkmHmT1X9nrr5Oa1bmlLd84uX5MwFdPj8aBPMyRftavDro49XEDT1Tp4V96u5qNOBYpp76mGfyMeES+sCZlwUheRV29VGLTOJ9hGj1L",
-            "SD": "HZ2:xu0+SEEpY1s9fxpBPoHG7+rLPzzMrAVeqbr7kDThJCoHk/AOJ+yPaC5jwX7Vso0JLl2RDfCzdLvXPW7wauNmMZHRg+6+vBVmnLzIOKmnmaHYaNvAkJfrAtf2cmy+9ERV6Q=="
+            "4K": "HZ2:cfH4mwJi4fNgc/Bcow4PIwCEuXSFMJw6J+BVE6eII0hP3cn+hnyISOooU9F0JcUUSU3JS8MpoTZvLtbwUkX7/IPu3qBbZdNAB2XoIaeRby3xqYaDHRFK7zFk",
+            "FHD": "HZ2:iRVJHncJNfmZM74/L1JUAzjyDlFHZA3nYpIoCR6PexwSJaWb9V73nA49JfDVTAKLGHoKxacFvgIsPJEdr91lHY9kMPnEbXaW770Q4JyRsCLY+7Bc2jZzWF80",
+            "HD": "HZ2:lqP/E691pQWU2m6Xauu6gqi6guNqESscmU4VRcDEraTI+OylOmjpgSKnh69hakzL2muZ1uxR5Peo+lDDVvF5+LoOEP+CVEcvoSLqednXVyVmQV/aTuIdQNo2",
+            "SD": "HZ2:FM6Piy3AV7mP02t9jWBkFQdeNGUtQ7CK19yKAQgu+4v0W+IvH0bo82+mqRXEchhY/om4MXlwJHH9iyh8U3nBqqoVAhg7qY0x2A6iMOoCojpM+TN81JI5hu5t",
+            "LOW": "HZ2:P843ajE8fEI3h0TVqUHo8Qekn6FO541Y8JpFxpbOZtlj1NO3JeEfpk0Bp4AKf8qdeVr/AhsVFh/MjW2UFIV2TJsAaCmRPXM1B0w6GU6KPO0u0fxXnG8Jd/Tv"
           }
         },
         {
           "name": "BEIN SPORTS 5",
-          "logo": "asset:hs_logo_{n}.png",
+          "logo": "https://i.imgur.com/fFm0LUH.png",
           "streams": {
-            "4K": "HZ2:khm4JAOteFNltMioQdR/7KruQWItw8Rkm7abZmjPmcg+Ocdj2UiwX3dH4PzD4Vo8AbSvP6TN62hKsaxWYC5UGSFcf1Kp7yxL/kvmAP1DC5bcs1dNBNu/xIE3ZX0OR3mDOq0=",
-            "FHD": "HZ2:HoWqbkOYn89REUNhJm82hAPV3qU2Kxw2f6p0WOkdJKMY/IDSF7ptGL/yxFfteiNssQqeupitTA6our7XIpS89koRYaftQnwYNNKKY5uj1p/ungB+lYAIZzq+Jxqg/Tqy0mQ=",
-            "HD": "HZ2:uZLjQvilauVnnhf9iAm6xellFQ0jCUN2dF+4nOCfe4HOGDapsVQV5dc+QcnDDL77vBpylhmiDpzAAwgnZ98KQ3uFEUzFqEPR7cA/yaSHy4XyoRWFNGLBkIVYlljkxJI3mw==",
-            "SD": "HZ2:eehruID7rduNdmpX41T0g2oXgunzDJp8I0Bpup0h6HVew310QMQih3XdCbXj/AnnMAjlWX9xIRqAejDoqa7GZ74+NfTkU3FRkx/bRNXJ6KQtK/JHMmhDI4ArOm1dysGRBw=="
+            "4K": "HZ2:Sat4FfB4/0JqKV5J+lXbUJkU6rgVIUEeDan5XwTi+/JTIkzIrDzmPK4oIOG1JLyVh0KiQFeHu8rRen2fax+49/m4VS9hZx6FxKwfcbH8ClXXOKcU/BDKKEtN",
+            "FHD": "HZ2:6XgrRN3ZeRFtgptQuD20kjNAN0yRIL9w1rtiSDBJELYkrWjXdA25YiJ4OENoCQcs9Ltj0tLHx0oOIoDw5rZkiUhlTdc5ecdVCUwoK/qM877w5gHEVSEhnc6l",
+            "HD": "HZ2:jOs9MnsunzLSfKM18wIbqpiHzhXnZ+0f/0olreD5r7HNdXaX5a+62Y20CVnPg98P/7zV7uW9t/IQR4anqNEwHTUusA4pRbiRje6W0k+kbj8ERb1V0BQwlbG8",
+            "SD": "HZ2:HmTbD1frBvhPKsE5lzOc990ptWDW7Swy/po34M1lK1y9a+CkcsfsbQXixbKleySPgI69Rio1WpSp/ahF5QCy7Bi6i3yTJPOsyHdps+XA0cyl5FLXb//G00Mn",
+            "LOW": "HZ2:WhKfuQbeOxGi2DvRfYLB2TiyHgjQS/eF1rFgABfdYjYGIdBScaiFCf9/CZ5mfoGFHfyVjBczraC9MPktD+psWZw4cpNb6IdhqHjNc27ONHOEEqgExslXmx/H"
           }
         },
         {
           "name": "BEIN SPORTS 6",
-          "logo": "asset:hs_logo_{n}.png",
+          "logo": "https://i.imgur.com/kVSr7Qe.png",
           "streams": {
-            "4K": "HZ2:9GubFc6Gfi2mpohyz/DQdpCl9jo2sE5DNUythMposwrFcphftHmF54OYMylEUYqNm1K15U40o1jxfNoi4byRLdiVYMfIzHxAMagMITeA+GCN78quQHzyiBlw4ReBPg2nxiE=",
-            "FHD": "HZ2:Rqj1W0f8RP329N+cDPbqa8pW0cvOKi3Uu+tj5oS9hbVaQdlrpA8E1e2gpUbHQIDTmrJJJwZj/Vk2FamJMo9uBqrpt0tknwSheDTviHSQcUUZTHA+yDJKVGbTOs/XE8fg5MM=",
-            "HD": "HZ2:tNeY9Ah7Tk0Zx3aj9IIwHptzKscNNrotTIO891Kvj9i+clixVtkkiA/YtI8ItPDzwffq0GSmsgnjaR1madAP5lTD4061JWjVH1yvvVnVZJJyjEP7HLzQuwe2ck7eVlRCKw==",
-            "SD": "HZ2:LPtMHUDE+2mrB+yMA1SEF+Je1agLGZb1Z3hkJGt/WYvNJUp291wSxMAzf/2111zhxDVzZvH5Zov/D+1hjS5erNmLGrCnsdQK3cOX8Xhx3VF5swWQKrCTo/xkLkJvF0/9Hg=="
+            "4K": "HZ2:jL24mFTPgSuD732go9ZbvUlCUwxgfAQ8T0QTSDcmMYBbDAupZHyMUXWrhaDhUijsWxuLM+hkTvY96kCIZNmB8MMEHLaV/0MviRMUOxjuHaOSrrFc9aix8xFd",
+            "FHD": "HZ2:eqoQ0xsze66fDeFkCoVBUGvR3vEbKCW4ba5RPV34fQxvoEKX/xRLiKF1psnc5rNBjAMo3SNBu3Ny6msPH8Wdp5wXGWa1eYkV4tUu7TOdrNxJMHP+mGMsVRNp",
+            "HD": "HZ2:Y0CBMO78GqerYgc6wzM12LjJ/cOFpEV5PKvxSdFG40M1IBTMw+vHNobfAsGMEQmnA3Sd42ykYDIYTILQGlrWCBx2+To9f8qFlSBabRSG/ohwnNOQCEg3BsWv",
+            "SD": "HZ2:BscVS8KPoKv2dD6REojGAQV6jjlOdWhN0ox0KNRyRBcR3vHRCOiFazDPoWmyBaGTEjyFU9q8WTxe9X0VihZzdIkLevGITKWMhpIkVIFXYWpgiqas11n7aIe8",
+            "LOW": "HZ2:0Z14ddNeQ9RXDzZNrKNqgqpkkOHTwzz3K2kQRFeLCQkNuG7Qmsd7MWu7Igkdt14HDG//wqRS3st4yumUbZtsSq9L5vrfIG3FD3sLzJZ229+XHjsNAuFpUsT/"
           }
         },
         {
           "name": "BEIN SPORTS 7",
-          "logo": "asset:hs_logo_{n}.png",
+          "logo": "https://i.imgur.com/om5SxpE.png",
           "streams": {
-            "4K": "HZ2:pXZTU97Y9J/HQMvqQWeTLbedy4faFzG1TfbRZOw5t5v9ODcIrGXTBINsYLlpEs/jrAbmBPfuZUlC4VWFycWDxuOslLsur2yYnZQ8WyQUQk8HnU4HmCGIl11FaDcHNiOojfw=",
-            "FHD": "HZ2:9e/2eI4kczhwleJr8QAk4X4Y/z4FHhUepFPI5L/ZS/MeAYOIFFyzOiLSHXQcbiZb4tYxMCwBYVuEjVx+ypjwkoA7Z1CSqrMSWzAXLvlIT5gtVqegiSRKUkM+dmqd5Qz8w+g=",
-            "HD": "HZ2:5ngMPZLmUViHp2CtixsFF0vZ95gh1Bi8DHeH3la1MIyK0Fq2YXSSKT2o3M3pQiCd2lSQPMPxwaEVJlNAwo7WTXzGAUV10VHc6Fn0chdWmZfAzSNxc6iwB/wLWa9RtlDnuA==",
-            "SD": "HZ2:pczOp5f+WkFYqhzJBKro+VPHM0tJsYewbQq5dOnJeNWWyR0tRy+JdgkTvFBfCAC+yGDM408NeFeSkxYtwFgmG8QySw7ZAlHVw67e2viZtjsYZrxvF0R1e1QkdQHB5T6FQQ=="
+            "4K": "HZ2:NGeu44UG2M16P6G/K3owfS67UeQxLs7T5nJrcyp1wrHGKFydX/erFyZTf8+398rarAORvnrlI2lWY8RweSdq9KAKL/bbc9LmVGfeovp+rFbhDk6a043FjSVn",
+            "FHD": "HZ2:Sy5i6wDQzD0jCzFfImyvJGSq5YAlG4xI38x7YJs8tY2qK4/YTsbuZPCTtGhHbqAI3FqLI3tkBADc2R0A4jLPxMdInXPpe/DkzZdlQjQ6giVp40EPKozy9omz",
+            "HD": "HZ2:YAICOnEZ8CBFoNoSF1YCj+VOiOeg/ZEXN2AFmSbH0jwA9cXHftOKxorjm3W+HocoEVv5FF4uL3v3RUpSPLH26B7CAhdihLfieEeqHZdJNEfeB4EJL5rVtgRt",
+            "SD": "HZ2:5PUzY8O7uOaFrwvN9qqZ+P3n/Vu+QuCc270AQTsYIDAbNEecAhjgKkjeRmYJtSDwYNjALc1N2lNCVyozchv9YeyVVisg36c0nVgSjVvJ1aiQubMJhHJrcorg",
+            "LOW": "HZ2:Uw/6cBkmRMqp8778wTZPYhMrGAWyp4FJCrw2IWy13BZX8xZDVWAnAvcNK3lyjA95L98Zn0QM8fSkXfjLWkv7nBSN5eqCyDW1Pxz3Mg8cGHX1e+eQGuqUHkDy"
           }
         },
         {
           "name": "BEIN SPORTS 8",
-          "logo": "asset:hs_logo_{n}.png",
+          "logo": "https://i.imgur.com/SJB4nsY.png",
           "streams": {
-            "4K": "HZ2:gzoYCibiEjteuEWJIHdA8sIwGe0KEV+/rxRYQDrQ6Z0yH+7zlWGurXkX4yxBoAbJo8ZvBVPYoCAAChPaWjAbORGj17TQag95kSSXimxulis5qD9h2pAQIWCL27vTBMF5w5k=",
-            "FHD": "HZ2:tE8RKgsJtyYumdAW/vGQpD+4P12KhoPF8bxEp18tdoPfk0XP/H4o+GTqCls3yLBTCJg+1N+Arhpkngi50VeF0MQAZnKNw/q4rbLoGfgUmIiuWTmOx9Ca3TTONxfpT1fmMTE=",
-            "HD": "HZ2:bqOSaeA18M9UTTN63u9CbXXnv/7Jcp5ltsqjf90avTC2gSivg5PIE+fsZlus09ngCowFWPNGwhYByr8LQguTaE7yC5Fg06V1dJF4qqvqtI18L7xwtBDxzOmc82JnCJRZXw==",
-            "SD": "HZ2:lw5wyxxDRZ8GelwTtOSvwMFwzWkxghz/YOlO+6kyEb1pV/yoDGupnTY8zIuKIpBTeZQ9zZtukniYnUFnR+37gJ4Uvf8VvyQs30BNTRo4tfm+z3ghyC7Dr422Mq32J51+aA=="
+            "4K": "HZ2:xWVuVLClP4JsK94jY9KmECGXVTBLfDxT2sZpJjHnDbpBD8l31Nqbsu8ytQQraNK/9NO8xhQJ0luyUoDvz8Li1SgwMzQ48+vum8upszI+axBHBOR+GHfz2y6w",
+            "FHD": "HZ2:aJG1CaDMYv3wsgOvAEhLpr8ZOXwrgx4/LjbduztDFaS38cfd6V+HQYjaaT385OQCel9M2B15Zz8TPTcB1FUdXR/xXTt89H3G+KHa3D5V/nptgMyEQQN3QSA7",
+            "HD": "HZ2:UqWObIRwIUAmtCdsBXUJs0rqXiiK5LqyMWQS4/flJqGvN9hQ0FS898GRKXZWRK6/6BaYWPc4VRNx89ht9XPZWcElS6i0fulUtUt9YEMkFi2CdVsX0uvsRvps",
+            "SD": "HZ2:x2POXv+EKzMMjh6/z4PuPcis5JjTnED0uAQeF4PTp5Z8tu6kFwxqYRWZsI8dUnJ2OCVYrHl3djmOYq6QkMU8DhWj8pUQdTG6EuVIRlwVQwpX8v+lCJIGmZMh",
+            "LOW": "HZ2:TI9K5xTV7xENZGnXZWMw1iPhYdcTFX4R+5zVuCz3FCSxuHQbErmptXyLRUryf93++MMXkXxykUfwtEgJQoT5uUyOttCrb6ZWcLBapJVj5L766JwJD0KJeWl5"
           }
         },
         {
           "name": "BEIN SPORTS 9",
-          "logo": "asset:hs_logo_{n}.png",
+          "logo": "https://i.imgur.com/g2TvLGc.png",
           "streams": {
-            "4K": "HZ2:lfjXjjNMbwDBjiH3e687ca14K5ml9opYbasL+EU/5DZjzvO17yArjV1i4fC6Eec2AkU7lWrik/hZPWsM1jjnZSS4Rz8x+DovnwoCVGA3N0QGIrjyV/C2Zu+P2xqGpdSFK/4=",
-            "FHD": "HZ2:Men/tpEIl1kLuWxgiyNfrtIRn9u2uwnxuA7jr64nJZ5hbdQ6LdiBWv8YlFP5ELW2afZ4DzoMTfEt4h0MAQY7GFlPk2AsNy0KmBQ+YJDWJISbNw69xIESR0D2aodYqLeHEIc=",
-            "HD": "HZ2:qKZyyDovvHXDs+REoc4WE34LUZ7UOVVTZYe1nQy4+fUyaGkv46QuvAFXOiR/fZ9kAuuFUmSW7Hz9tUl0ketDnxBy2RHKy6YqePced1mq+HdIolv8jp+hLcb/Q1wvmu/oyQ==",
-            "SD": "HZ2:uKzWq23MLN1gvjS4DN3hfFPifG7S5PmEl7amZTYOhf1TLxUYu1EL5PRrLk0jhfQlFp+jz5eumafDKBUgBkt67n2/qi3W58YGJKKZLCrn14crSU41UIzBFHYyr5sUtr/x0Q=="
+            "4K": "HZ2:vzDZAkgbOO5M39gslRU8RBb4kxZ83Kkewu3MwEemK8APt0tHvKidkKBlvkQxMKQ6Z9QyaEv8PVdY8VPHzE4ab2nqJasKa32xkdhTdTZTyfk+iVRRkfXSNeyQ",
+            "FHD": "HZ2:NrPLnPp3VWDYMGMJKWQY6yCfXw6NeL9kWFZ0DK338Uq8VmE0JLPX61Erq/4R7/bGE3TfzSuHpRYS5I3a+PznY4N/u3FxHjW+h4if9dt/s3XWS41eaR2CG1hx",
+            "HD": "HZ2:QUsHZz8w9YtqGCmF/EqfU5IkIlrabGZDXuhqfa4ESSNmnb51dx3+QV0OKQ9oXxJPUnnZoLEBtibbFx7NlfkIF9p6hqk++8S7s8qRmzp8+v1HoaXjFnLAfD5x",
+            "SD": "HZ2:yV5obY6RntD87Yy6MzpWK6bd5Fz3ba+ytbxvil0xB+VrZlH5M1mvfVoDGjiQUS8qFTchuuegFIrY7h5skd416BdM4CXHp0nhag2okUK+318zGC6XYGR9v8FM",
+            "LOW": "HZ2:yghWZ5+e3teVYldjW1pZEaOcUnB+cQ75YAa+eabdU9Z4p2XgpI3A4X+8gEdT4AlY1UetqZdq/ZHuV025XEtTt4PEQOFLMtqx7qvViwbsESPtCYQGgKrG6oyt"
           }
         }
       ]
@@ -566,124 +575,124 @@
           "name": "✦ ALWAN | SPORT ✦ 1",
           "logo": "https://i.postimg.cc/3x2FbZg1/8030270b-6538-4a3e-b9b9-952b27fefdcb.png",
           "streams": {
-            "4K": "HZ2:BEkCQ9kYmoRzftzkTVwNhvGEIuhwgYhnOtkT0aE9ppdoiKLlBcVfBlkRc5AAVGA0G5doMIA1U+RYY1jh3B/TMdo7T568KZJFCDxQfq4azs/3RJi/Qu5rTes=",
-            "HD": "HZ2:tHxibbx3u1cURxXE07h5Hj/A15OESSaNM0t7zyfdBA2xhWseG1FWCBm1QF6sRikP/WjSOPnPbwmCJfEfDI06lYWwLlmRrnmuhXXTTDRrTByxjFa3TUtluIg=",
-            "SD": "HZ2:I2cPCd0Hfc+6U0/IMWIPy9fW9ZMoqq/LkjgU0w8N+dcMpzvxM+wBKoLK0UknxTLwRTAS+zd/Xv+NoHBh0pkfO8O21cXMiPJNSgesNMwJcctiZPFiHwzQJGc="
+            "4K": "HZ2:/ndkWXYE9RpJbMkWXSDNSodYkTAqz2M0J0tQZGIe2SLzuS84et1d6rxAnenYexeAjLi46fN38A5sS/5MtT19UVqTQ3L0UFOCxfxS1LyNybjTVPJFZNWRJkK1",
+            "HD": "HZ2:iJH6Lrv/8TSPEYhUzK5JxTHkozXK1hDfU/3udsm0X7VBSV3E+o61Wtgnu5439JngwzpPaHBHeRKiM0DGytGcRGlXlSJiACmHp/10IbkVL7mKUXuCXWMXeCSV",
+            "SD": "HZ2:cbpwKiJPPYLiJ1YVJbf60BTzZUnIOHFZiygqSIvlHUEy7whBU4nzzT99K/7/8V1MRSZM2s41BxDRB3bhdeY2C+9YiNQbqPr7hwUlZUkmtgApXkQBjjVHz3Cb"
           }
         },
         {
           "name": "✦ ALWAN | SPORT ✦ 2",
           "logo": "https://i.postimg.cc/3x2FbZg1/8030270b-6538-4a3e-b9b9-952b27fefdcb.png",
           "streams": {
-            "4K": "HZ2:rDLWYiyXQjBg6IVQaBwls9kkjM7WSAvQ5zWBZo4ivgySQJyUAD1ltyntJ1+RzjImSG7ooLiM7O0GRwiDo+eJUCEhsTSoNUnc1gD55mIbhn9ZXdim2JA/Qxg=",
-            "HD": "HZ2:2w8JVCUTwcx3h7euyMXA8W1ETl3W5G+I2EGl2Qn7J44j/IHV/2ZXZaW8QHI5jsym2GbdBZZ7fZOvR03+rvtfPU907jErTORNIle1ATMJtZyy3wHzJ2oc6lg=",
-            "SD": "HZ2:eAwl8i5+p7q+meHhx6+Y66Mxgz2qvG2V0+nkJgLT6Us8maqdo77di+JdzwPLt6D769OLjRC24lTOwM1e8LtLDFsve1dk6Vdm3FQTTXIW64Q7e1qFM86vpiA="
+            "4K": "HZ2:xfeqj0DRF9eWV4wSYR0d5dFig4zVay/kN+QLT8JzZOx/7ZgLetCC7T3tH7yfoIhY4FwtLs/RvuzTZSwpTIS0M29z7Uqu9kUj4WQB+00GeBR7hfciMzcne0Ie",
+            "HD": "HZ2:O3nzWiqWefzp1l9i5suyE13RfBXF+KJ+3MD8KnySNtygRyk9Te69iCANGHBLvox6ChW0PSxv0qt9d1epyoLpXgzlxfG94neVy4E5snzTUITufuV4CPD1s/0Q",
+            "SD": "HZ2:dtiM9ziEqnSXwqQ409CVKJm1njMl2v7Sx2nt5rsgFDniVInXfBEkYXLdnUh1MlbFyWYEz5Nh1nJKzDrNn28yEzS4VcPQ9EXzSpEVlKokigv50Pbfb72zD8WC"
           }
         },
         {
           "name": "✦ ALWAN | SPORT ✦ 3",
           "logo": "https://i.postimg.cc/3x2FbZg1/8030270b-6538-4a3e-b9b9-952b27fefdcb.png",
           "streams": {
-            "4K": "HZ2:iYNClrIKtVz1NZ6Luihs4s/zFUm7MZtLquyfcv4ow8Sm1ovp8zCE/NgZegJG0v+iacB+p9RIfYwQ64UvFTqHcK7Pn8Y3eYOfgRDGSA3/VuJaAAC+rDkAW64=",
-            "HD": "HZ2:B1KO3HVCRebE3ZMQJ4pjWuJBqr1osSswhDnbIDhAWTZ+dn6AnRifsNM54ucV7CSdLIO0xh3kYwQNey0cWBY0+40ldD5UMwi+c+izIl7PYhxkCvXOoJcRfVE=",
-            "SD": "HZ2:IVXWJ/0P5WdiKW9BBSLBzBrDuLCh6FviRRC1kprUiEQC2G+i4VgY+AKeqQ4H1m25WgI3M0X6GSB7uOkR8P2Agi9DwhQ1Rxx6Ik4kLftYBuMFTyf036iJMNs="
+            "4K": "HZ2:HUstzHpXt6KZli+vVG6ezf8iXUWZypysBJ/qodPSpOT019ojOknfZZdcYwyJq9tE40CUbJ7drShV/eR0wpvrDkugKUyYcin8XeTd7f3x9P7FSkXRyuYC73oc",
+            "HD": "HZ2:+gfsMthBAZ4Jn2keWJBkACmDyvdrQKbZ50RnG+kbRK/S1/B7da031d9ShuPbWhatRm85RxxzpfI/B3Ux03iV/dbt1KwuZOWomJYSfuUdn1e+7VNo0BtCOH4j",
+            "SD": "HZ2:7h/OyjIF+DY52dOBxkqUfaxuFyXui1ie6DvAuFsYg9j/TKU+QJDrvb+Edz8XGUaN1e9O2TPCJLJbVb2Y0THEOcVrTLjgB73a8L0+qpF4zo1lJ1Ez9XPoO8Ff"
           }
         },
         {
           "name": "✦ ALWAN | SPORT ✦ 4",
           "logo": "https://i.postimg.cc/3x2FbZg1/8030270b-6538-4a3e-b9b9-952b27fefdcb.png",
           "streams": {
-            "4K": "HZ2:Nnvk0eR34HcpF1BWMEo2AhHJJjKhJ6aZFaf+Mtepva0iflbyqjCJbVSmKI0DrTmKOtm92g0bzbJLMEkaF7GOLBJ3dOrtW5boC9SDulrsZPvAfJSx/b55MJI=",
-            "HD": "HZ2:FCO/YK7AZC7HMtbhjWx8hEDkBqWXCFUl1PFJ7z/SSFVG0p678+V3Q3vImIxbQfzO4g43gv62fVZoCRqZr9KYHGK+4KpZTBl9Fkabf1aPGu+dce4nzXCSalo=",
-            "SD": "HZ2:lixCL62L86APckgkMql0ZSev3E6Yw4B5/O4I5McnMi2GBA+GrsHfmvxrZ5fBV5Z8aO8Fe2vns8rQ+hVRhTb74LDWIuWjMKSq7uXSAjYAPhaPrPAwLUzI5r8="
+            "4K": "HZ2:RK9v6rWLopBm8MWeI8hAP7G75IbyXEgEMzynKA+nskF0jSp3ckrBc8z2J/UsoHn23i3Ck/qvG08xO0526DpfAMA1vEjFCJsfwgDAwPNLwMAxNORb6mUyDLS2",
+            "HD": "HZ2:416M9Uc+RfcAZWUp4ufxyWzhL2IBHrOTR8ih8nJpy47gqbtexO4T/YQu02iDR/2HQzyKQCYGITK7w3lRKffLn6s0OJ+J7wefYhCgprkxKtTfGvjQFzH2dtFA",
+            "SD": "HZ2:XPNXmaG05x7Z3twAj19WRfI6gcKJ2vQWFaJXcFrbr3B9YY3n0wXmENkvP/TdoTmUXEAsEMV7jzL2NBol6DE5H+Ggu+T8mTEKMVMxSPiY0Coz3/4Wgrb8STXV"
           }
         },
         {
           "name": "✦ ALWAN | SPORT ✦ 5",
           "logo": "https://i.postimg.cc/3x2FbZg1/8030270b-6538-4a3e-b9b9-952b27fefdcb.png",
           "streams": {
-            "4K": "HZ2:ztQYxZEa+PdLGi6+HFJQOfWoGIihUCbCtdbhXfUfwRBcV4e32PaKHSb8aruPlg7DP3nPjuO78rP6OpXyC11p52D7aTxMg+UcuUPRAmZkmiJsXHS8mOTj36U=",
-            "HD": "HZ2:+Bf2eArFDB3scyA6vT66LrEkBiaG8JqfWaCMpnwWS3x1XmlbCr0meHDw1ysYJ62rF8ZDWKknKxNQ9tjGdentQm+2KAjD6DnKAgGe7nn5a5TZEYdv7xw/944=",
-            "SD": "HZ2:qar/BplV5WLbgc74WprDiMcTTgu7jYyyJtgBSwnJ7Z3DaBGc1KTgtl+s+TN0lRM725FlFdnuODixRAa4Xr0dNqdNc9L2m5CAnNL1BD9GIbRScl3xiXXwsYA="
+            "4K": "HZ2:G/QC/5gtKq6bDQQlRxdLQDlN3AI4YQitrWt9edXe8UQnglMcWiqeciwP8eKODZVRH/0GOOmpm8hoDDnhbTQGvnZAuOg8liS4w50FJlhpwhT7+1cGGAExcK7n",
+            "HD": "HZ2:nF3DP10r0kJNVJAGz/8Q66wdjRBwuy2urVihBpIRROTbHy8n0YFuBkqmT6tm3xLogku/4MLefJi87x8wIlP8miufrHcB9cr+wljUKJ36Dmdm/7LglBDK4N0o",
+            "SD": "HZ2:ztu8vJphOvdh8KqJL9UEftW0am6VTIIUUlL9P5WbkvvC/mBHHAuJoQF+yj02f00b719lrlsKJJN9b7U6t1AszfPf34Iq5XxpkIjyBDhEFI1KfPsfGMqXUcyJ"
           }
         },
         {
           "name": "✦ ALWAN | SPORT ✦ 6",
           "logo": "https://i.postimg.cc/3x2FbZg1/8030270b-6538-4a3e-b9b9-952b27fefdcb.png",
           "streams": {
-            "4K": "HZ2:TDMgFgDJdUub0xeXPRoOTWFB8ysNseXPFJSEw1j0XYWPO/abFeZ0YheEUF58ANZ0CJQFKCyFmzsacSljNZnQBv08PwM7WY64VZSDxWDDa8Q2MuZ2OMfesH8=",
-            "HD": "HZ2:pkb6GnM7i5RqXO27qxg9WGtbca6IAP6FsdXGjvtJCGY16QmH1HO40tbHv7riGkOatsMSSCfAACJlH//V8hCBbimlJCR11tkYjP9DTkriPCZ914jlBz08KYA=",
-            "SD": "HZ2:J3yFw5hohk+pKb6ihVPrmZorTc9YwR8c2jfRcz9ti5cT7J0nHvUrgWAgFcSGvLs54XDfC+TkY67zMcDGeRCEFEeiYYtE/27HC0Mf8J8ZuLiwYBvb8Z0gl18="
+            "4K": "HZ2:CcQPc+Q7adqN9piZ+dcbXgtAwvcSkFAYNhyzcE6Ar4XS5EF0w88cR7rRO87wpIXgsgEot4eHnb9EbSiFdRwbobrzcz4oQnMmB5CsshzzIAWsufbmzBGhuRnu",
+            "HD": "HZ2:OF09mQZVfFDLptmJvmeG4yBieieVs2uOsIPI+56zIudKKLYIcrmJvpZ97Z+ZvBmtjOxTd+nm8MbMw1gQKsdWcs8xcnk0qy5YulVtr4ZQQxVGl5nC1ujx66K8",
+            "SD": "HZ2:hJjdBsyHtPXsveAk2wmGcBK2zMqcPst0y5F11jX4DBVdzdYWf4WAGBYUM90BI11VvCw93q3ji5b3PVbX/zH9qLd+M8STLVRwfRU7TYbL5ltjL8N20pfZX307"
           }
         },
         {
           "name": "✦ ALWAN | SPORT ✦ 7",
           "logo": "https://i.postimg.cc/3x2FbZg1/8030270b-6538-4a3e-b9b9-952b27fefdcb.png",
           "streams": {
-            "HD": "HZ2:zOcg8qcCb1GaKkDGmCRGhxEjdI/W1OmkZjVOD/+ytqt5aOEFBkJBSBmnP+Ps5R6Dfwq0rt8JAaYyery1Zpehbo7hRuWTdHFucmnKblkLJsomNiZlXEsOhMY="
+            "HD": "HZ2:cKVk0bIlHHuUSNChaKOJJfs0Q7AVp1XXMIt4fADD2P+tPhZFvZKzbKPukE+9WNd96GjjkthJJ+MoQo1jekHL/qXRW6+ffkoF+hUYe0sw0XskTNvlPlACdshw"
           }
         },
         {
           "name": "✦ ALWAN | SPORT ✦ 8",
           "logo": "https://i.postimg.cc/3x2FbZg1/8030270b-6538-4a3e-b9b9-952b27fefdcb.png",
           "streams": {
-            "HD": "HZ2:pkUT0aisakPoCpRNGeLfYZ5ljPE4932Ztgj6rFyMzchLAX+AxBgSSiWwGEooMVP/zJ3mVSnyTYQGFwy5FP3XwKNG8PPHAEkiGnSecVkZ7hFnKbnpf86qTu8="
+            "HD": "HZ2:aXgEbIGzWTuw9qi+YdXZzwfZJidwZNxBNdTZOJDnsdtiO12sLAs08lr8UqyQRBDDy1q2b80KYRoHmBr0ZYRXgv6CrTN1JF9bQqsQbyO9T/a2ePeJKiqIpVaj"
           }
         },
         {
           "name": "✦ ALWAN | SPORT ✦ 9",
           "logo": "https://i.postimg.cc/3x2FbZg1/8030270b-6538-4a3e-b9b9-952b27fefdcb.png",
           "streams": {
-            "HD": "HZ2:dajW1PZ56CmQRk4oCWv1MynGpdISq5KvK+bX+IrumTU5G8dCOjkAB7v+fZG+0T0X8k/atJXExoDISwJvyVRFzxs75jpkJinhNGSeZhEmE0mpTgrycyLDCsE="
+            "HD": "HZ2:l11M3u/JoWO6+x1C3wC3knV/89caYLsBDTDi6mAOEsl8ouKH7zh3maQ7ujRCJ4e1itpzsCk0G4BY3zQIKbk7NRC+CN5gtRxIsAvaNJtPBpjOycBLzbTNXD3F"
           }
         },
         {
           "name": "✦ ALWAN | SPORT ✦ 10",
           "logo": "https://i.postimg.cc/3x2FbZg1/8030270b-6538-4a3e-b9b9-952b27fefdcb.png",
           "streams": {
-            "HD": "HZ2:cme/x9R2tPu6+IpuGYsAZoAUvIB+6o4grMapOtayx3gCfEClwsWjP9fO23eEX0yAXKAQO+u/TPJKtwvxjHI1Dh5IQxMQhvRTslSXDtNiDx/TB7adk1WL/Aw="
+            "HD": "HZ2:XJ+kc0GpOvJLprfkuiGzDYZ1602Jbu1XkSmj21Hy7kzI43kolE/Dueer2+jxFTHtgHgDDO4C0PgAdDH3yo11JHO1aetiHVemdK5vasMg9pWwkeY3KZcQAS3X"
           }
         },
         {
           "name": "✦ ALWAN | UFC ✦",
           "logo": "https://i.postimg.cc/VvMFQ9xz/668d07bd-8ca2-426a-8a6c-a1bc43931bdf.png",
           "streams": {
-            "HD": "HZ2:+wVZRkfV+M0OTe5rsW018l+2mthwNSTMP77xD/VRgmMQlgxkBvyktEnjCa+eBXRW+GzwSQwvqsU490UydR4CHwpV3vke2tlFBPT8H+XljOPuLwA1a4EEnPI="
+            "HD": "HZ2:/OYG45jAccT4FMx3pQlc8s3vvG/KKqb3hLQGFHK7llxzBktht0ANNPLYKAcWJX24EtEHY0Oh2goxKqfZwakerahzAUHXg3rMfZ0eTvzhsJWuk9dbzz2Nn6SJ"
           }
         },
         {
           "name": "✦ ALWAN | F1 ✦",
           "logo": "https://i.postimg.cc/PJGm4pP9/337480fc-7b0d-4c8e-a917-4a2ece68e79c.png",
           "streams": {
-            "HD": "HZ2:JOljBl2Ltf5hr+FetEms6+ADNmVNlbTNzK7QaLeXZmpOLx2io4rNiLb/7hUezKJetSwKY29qslq7L7Soxb2eWSL2Dmwb+RmvmUaHM33c3zTcJSBSQyfisok="
+            "HD": "HZ2:1SHv1NjOTuLFSB6j+pXGnQNOo1fUbk5LmTW3FSB5g44VypA0eurL7zdQc7FQwXozd3UQw32xhHXHs6vssipGnUj19oLdXqP8uOib5f59CB1fcFuYy5HUAhWv"
           }
         },
         {
           "name": "✦ ALWAN | WWE ✦E",
           "logo": "https://i.postimg.cc/rFNS1pcZ/fee38573-06db-4d14-8344-ee32249b66c0.png",
           "streams": {
-            "HD": "HZ2:2bmTwbuanISMdzWXHa5/wJSCUlzY60CWY7Qfz4PZkcrTH6eqLBpmVSIdhOSg1TEZQGb9vmwT9zdqd/jUZM9xSvh88wV0rGPHGF8uoKv3O3+V7+FP9mTlNzg="
+            "HD": "HZ2:namHY5JyWAonDDT+PcYKsDAseaSa6lR3oe4fa1iaTLtJl/pjVSEv3LUPw+oxP762Dxi277Eqxjw7N7jUKdXjJQ3LZ/k/3g9l+iN1xXgp1FjSJOH9KU8NNYJa"
           }
         },
         {
           "name": "UFC FIGHT PASS ( MATCH TIME ) 1",
           "logo": "https://i.postimg.cc/L4wymtFy/rn2w93-large.png",
           "streams": {
-            "HD": "HZ2:yqO7l0XwhD9Cg4XOjYqNCAPbMpIKQVo5g1pxt4qnAet/ZOau85yhqORme8OZBdfiE+BFfUR/RUIaf9ZTRRX+xnLD0kKyT12Lu+j0txXmoIVT/Ou3Vckr1cQ="
+            "HD": "HZ2:m0/TnkoRLtkCYNQK6SProg66c29+1sXCURBddXWEpWDedEv+kbAnMDojFnZPzEDFysVbLIF/iWOywhauxO1DZWawZC/Y2x8fCqVghWYcA/jHbt+pAHDiKSt1"
           }
         },
         {
           "name": "UFC FIGHT PASS ( MATCH TIME ) 2",
           "logo": "https://i.postimg.cc/L4wymtFy/rn2w93-large.png",
           "streams": {
-            "HD": "HZ2:dnhKsJuRubmGooDX51mULl1rp5KRC/7sQ2hcQt8SfkG7hARpHnsANCjkMdm1+WlQhJnoHhyfPnfJyjQd3Z6FPSVsnuTcQ+Cf5EXnKST+ZR+sIb269h6073I="
+            "HD": "HZ2:LQ0bA4yn3e7edNzjXwC/hOHRemjs2yUrOxTmp+lzFMistf0Du0LuolcfVciNN3a2YUFFIknsgAGQ1CBf5/BQTsfda2nPXHJVpD4ERqNh+Ar6qSAAjXX+mhkd"
           }
         },
         {
           "name": "NETFLIX WWE EVENT \" TIME \"◉",
           "logo": "https://i.postimg.cc/gj0BVhYj/WWE.jpg",
           "streams": {
-            "HD": "HZ2:LPeZzyAiM0xQqYODW3nLt264nLpM5W3HEd5xjGZyhIZOfhpeRVgjMLHm+/WEHRp7ZwfmhTHu+nPbarb7TaxBXu+eFHApz1TvrrfODbJ8Z3JyqOyJv4w4cYE="
+            "HD": "HZ2:W2A/m/7SgLS4rWc47uRfwzIekjdouzuYaRr2zqgRRLZNUEMXg8lwEcgp0Z1yos8xh2tYxDqwZ8vd7SV0wi3llhFXo4Bh0E9KAkOiEs+S0wT0Ozhj8haBgyse"
           }
         }
       ]
@@ -693,206 +702,266 @@
       "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
       "channels": [
         {
-          "name": "DUHOK SPORTS HD ◉",
-          "logo": "https://logo.0964750.xyz/logo/logos/duhoksport.png",
+          "name": "NRT Sport",
           "streams": {
-            "HD": "HZ2:xY4vyWxhvORQs7LbtD45Xi7SFyslSBRpwnqOM3856+H6iDYRwlbeutw8upURJQk/Y2EVya7uQlGZWvlnmdqQQLRuHHqELbb/mc1rBxYv2eWNafeOptAcYUE="
-          }
+            "4K": "HZ2:cZ52d9NpYZk+MRrUPZQlWh88x/5DCHfpgZq8DsGX6gqbNkR3XjfWFXRvJX+Sb8BBq67Gm4LOqRCfV3F8XrlovpdMCsD/SEf89/+RCcUju7VAApejozTLu7xoxo4IbDY7Ig==",
+            "HD": "HZ2:GScp84KqFkhBX4+Q1vOU5mclbDapdX8a1cjq41F1GLoikZRivuCc187fxZ66cc86yDn3ShJyauiK0wgGCiObNY+2gOBekH0qVq4KYVmi/K9cNQXGCfvbo5WRHK5Vp+XQcg=="
+          },
+          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png"
         },
         {
-          "name": "AVA SPORT HD ◉",
-          "logo": "https://logo.0964750.xyz/logo/logos/PicsArt_02-02-01.14.03.png",
+          "name": "AVA Sport",
           "streams": {
-            "HD": "HZ2:998hgoyyw6+s6M8lgBr881KlRlbkiU+ZS/apu8h6HIMjE9zYaLUg9McrasN6URoCgdV0C35eBoMuNv+CGCmMv33a2peuoo45IQx1mqHuSyu0kcGt85uQXN4="
-          }
+            "4K": "HZ2:RCoKblqcLJ6i5tJwyHTtFxXedOMZGCA6RQyZlAG3jLOPjgpIxkHbgyfUPz4Za7pDPTrOavRi1HZbst898bZPYfyU/C9/7ecbWCS61lP7gQkCJorknCNAC9EwhVb264OhgQ==",
+            "HD": "HZ2:1Tye/s0ja91i7+bk/Iu0VyKa+lBhPhzkJeCH+uVMPv4LLOrzBp8XlZ6lW6givwG5yyo9FoapMxe6t3BNSl5KK5BxfOg7auUvynZPoVhJ0RnvzoNhH0YzxSCN4tD9H4z1XA=="
+          },
+          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/AVA_Sport.png"
         },
         {
-          "name": "NRT SPORT HD ◉",
-          "logo": "https://logo.0964750.xyz/logo/logos/nrtsport.png",
+          "name": "Duhok Sport",
           "streams": {
-            "HD": "HZ2:Xmx2LY61Au8L6ptZoF0ZsAwMkygyy+5zOM27cwMK/NsqMHorzcevPPl149YhqCFHOuOa2yy6NTmD5z7457FSjq7jVPB1m9LFeAhavej0c0lBJQjwSN0X8TU="
-          }
+            "4K": "HZ2:VZgNS7573NxRgRUsXPgsj45MwX/ROJYfLGo9WbEXtmRClmwISdYAXHi7mMZ0ahl+qMpG29vjlF2dOVEPAYUcFHqM2A0+3CsQKJjbN9CzsXlKojUwCjdC6dvSlhA8BWMSgQ==",
+            "HD": "HZ2:XdkDlZ4lTgeMQS//21o9likT+I24SrdoxjhmZ+++FHNL+553WoDG4Z2Anzhr+jFLu7FUpqFfKs5MfB0VPwdXWUy5JjHv5ixdeFN+WNljnH8KtOvsWP74nONlhmc6/5w8Aw=="
+          },
+          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/Duhok_Sport.png"
         },
         {
-          "name": "ARO SPORT HD ◉",
-          "logo": "https://logo.0964750.xyz/logo/logos/arosport.png",
+          "name": "Reng Sport",
           "streams": {
-            "HD": "HZ2:MitsxeF7tu9rJm55QguZVRrPrunnPq9xwdCzv3QKFnSPXt3JOH9AOzyxlxF+PON0dWgHpqQX/FxehzzHYmN2Zkqd9Oikshx42K/C6HSK+kFmp2BHZt98Th8="
-          }
+            "4K": "HZ2:vODGSePfKvb4VrQGeqXlaFUFnHqpTDjEnFkXilLpgnBt8nA7QGq8ZLUeyI7PVRBenpe2hhCag6o+IGYb5gny304u1MqMBaQ47T/z8ksgY+lJnrAjtpPB0p1GsqzWTXRv2Q==",
+            "HD": "HZ2:E2+71Te2cf90in9+ug7SDvbQKcRYloImb5/nOg9SfDLiH7D9uta724Cg9oa/vyMG5uBo27DjZUU9j1kzAQb2/8MJSe9R8NtA7bAMXeKTdvI+ySk/5fey1X5KWySq4QaHrw=="
+          },
+          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/Rang_Sport.png"
         },
         {
-          "name": "ASO SPORT HD ◉",
-          "logo": "https://logo.0964750.xyz/logo/logos/asosport.png",
+          "name": "Kurdistan Sport",
           "streams": {
-            "HD": "HZ2:Mj5RImJtixbw/Hh06Vk/wRk6bIW11cy5bUktIhn7yOBzB8KsMcR3h/3/Jeswa5uEYeD8mvvhai8glZvZHU6tz4DISPvo23vXmtrr+u20iL+JnyC0TBRQOnA="
-          }
+            "4K": "HZ2:7AJbQtHF4RrCh/VMJiJt0XwNlC9Z0c06qv6+yNrj8ya3LTlh6P7GcMdP8j3d+364GFwmpTrxrE3PPt2LYdm22t0xfuvnJusohNhi5ZlrXkIvFp8WjdP2S0fcGdal39+J",
+            "HD": "HZ2:65xwM2hCjm5KE3t3WKYr7OHRRvpFZJMNVOPIKPmFNtbfb4WwRuVsohCNm0bbYgWOVzEiA+It/JEbOGxdu+VDVwnGAkuemT+Ud86DDL0d0I49++Ymc11WkETkG542+o8Y/w=="
+          },
+          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/kurdistan_sport.png"
         },
         {
-          "name": "4SPORT HD ◉",
-          "logo": "https://logo.0964750.xyz/logo/logos/4sport.png",
+          "name": "ASO Sport",
           "streams": {
-            "HD": "HZ2:VBMdZl35+/8M3FQ/7oPT4XfnSsr5VmeaipVSP/YA+IC7qzJIqDNAkZP+DrLecnXk/Hz9/pxMLsDgaYlX0UAi8oCOj5jC6R/W4bA492z8J2K0ipH4tn7CFgQ="
-          }
+            "4K": "HZ2:APcJk9yeKtW8FiEHikFVAlKUsAZJ6g1Lr/LZOt7CCAm3oAtQa8KrHUPBl+6QiuO4vWjyc4ztPfsLhkDOKYV5eup6/mcN9byi7MTs8gT/56PsiJJJ07VeAUjAz+OH0BOWeg==",
+            "HD": "HZ2:qYAv1Kc+zjaVQniY0g6xBVO2HXoixVvONGAAGlPoiJAukngf8nCCdkr9co9umE4ROFnMnQPLx8EBTAJJ0gOscnZytnnZhDHIMd9jA0nLPwhn8XpL0CoS7ipznOr9HAeBGA=="
+          },
+          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/Aso_Sport.png"
         },
         {
-          "name": "SEE SPORT 1 ◉",
-          "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3211.png?85306",
+          "name": "MMN Sport",
           "streams": {
-            "HD": "HZ2:NhSU3Vbk/U0sIQ1IUf7i5W03gi//v7Z4dMx3cQsIaqV/sPqez28of6p1MhePyUP0Ld4xqOwtd4kcRmosSOnGpujzntWelmywHXas8G79ELzOhk6Mkwy2TD8="
-          }
+            "HD": "HZ2:RTeReyAzZcyLWkqTNUcKsWmiAyYwTt+a3LrwQ+dbqT0T24Gn9DQCvE2HSeAnRHmNxOlfuvhFJuPttLkWf87eU2rUN2ovhGi6lYI8Yh3ALkwqfVZ/gtd4zoHA/dFJWzpL"
+          },
+          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/MMN.png"
         },
         {
-          "name": "SEE SPORT 2 ◉",
-          "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/7705.png?11944",
+          "name": "MTV Sport",
           "streams": {
-            "HD": "HZ2:UIVFdpvnmQmU1KlmznpnaZQqFl2fyoNZi9eW5ZjbGDxafYFM4X5E25KpNcQs85DOoVJoxOOKGB9e5y3U+qp6HBprAq88X4wRDUOuxzbcZElQ60F1iSeqeIw="
-          }
+            "HD": "HZ2:HrUB61yimTB6xQuXRdqCLGgDeMoMoBKVvAcmj6IO9TQVtBJI1PXmUOQDoulu4rG0LLl4UzBQN3DFeYj/MvRNL6/oQ+CwiLG/Qa6MvOIrF0L9hY8ITx6Pr/67vp0OtPmfbA=="
+          },
+          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/M_Sport.png"
         },
         {
-          "name": "SEE SPORT 3 ◉",
-          "logo": "",
+          "name": "Dasinya Sport",
           "streams": {
-            "HD": "HZ2:3O/xfo6qlXpzwOreMky/JEiDxSAzCSys4JqwTaFr6KJ4Yb1CtoQrZO9I6yiS4V2pOLXj98M8yz1LqiHdVr/7d3EI0CQwA/BTMn2n/FBt2dyi4zCxm61G+xc="
-          }
+            "HD": "HZ2:TuLze3xn552CyV0pTjR0pTim3EGD5t1rtzSo043Dry87QNHq3ueLDSTcRjXpewplq3ek+9jOfpsBmC/kMuwK2NtjfQCiynjtJEh9Rie9lppb8SqEcUlXr4pigCocfEwfLg=="
+          },
+          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/Dasinya_Sport.png"
         },
         {
-          "name": "ASTERA SPORT HD ◉",
-          "logo": "http://logo.0964750.xyz/logo/asterasport.fw.png",
+          "name": "Sima Sport",
           "streams": {
-            "HD": "HZ2:Z4XqUwtZ6uV/Hn48SUYehjVDIXSdoxYQY5kkWnwmFl7A9rruRv14hcwv+Hb17WmIUiNxBxQf4QWe4v3M/0VFl1Fgwpl3j3AadN2wdSC12XRyCiihkc3zA5s="
-          }
+            "HD": "HZ2:Jv7CgiSBL/2Rc+fqRA13dA1N4mE+ryJMP5M3kMOjjlD6dIBQ7hkM3yGlJp9bhfbk/cq28VtmxqnGl/cDf5E/hFSnKgQtI+3Z46L1nGK8ATBPWGOqxa0JXlxFELQRp/7j1Q=="
+          },
+          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/Sima_Sport.png"
         },
         {
-          "name": "DELAL SPORT HD ◉",
-          "logo": "https://i.ibb.co/C3SKdbq4/392625-delal-sport-hd.png",
+          "name": "Zaxo Sport",
           "streams": {
-            "HD": "HZ2:F1STJj6V2qecvfGeVtShaESAJ1TuQswhv4oQ2XNcpEQBIMHerAC8w695Uh75ezy8tvAADrRrMX9DC7KsJPUFjob/CBfIsKxDbrUY6j806mF97ArDPbEUDEU="
-          }
-        },
-        {
-          "name": "LD SPORT 1 HD ◉",
-          "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/8114.jpg?2945",
-          "streams": {
-            "HD": "HZ2:9jNj1RmO2bfkEw/ZRAZh7Bx7X6dO3IDS5AFQOKLwp9t9vL7wCACeqHoqbn2+WJ/KRZ0jKE3cICa7L0PXd7OEQ1N8wg4h82hgxlDwOdfUO4UynCCbDf4IxDY="
-          }
-        },
-        {
-          "name": "MTV SPORT HD ◉",
-          "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/10596.png?5797",
-          "streams": {
-            "HD": "HZ2:dEYBm8+98eM6XWASjrbADAWFXs/rBpvzQ4UUl7NhzYRI1M0M6W6SRX9kNQIK6eGwoMAwm5xUtpNvuXFqclGcEBuAyXFcVfXy6tPyOTFZCzySL5qf6PTeKJU="
-          }
-        },
-        {
-          "name": "LD SPORT CHECK HD ◉",
-          "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/3314.png?73953",
-          "streams": {
-            "HD": "HZ2:o9sFrYdwpStgcWhvFu/gGwJ+t6z0ie+ohPa7sVBG1nVxc3FfU55jbYIQCqauRw859vxQMdwwsrTAo01gjpTCRvNl7WvPp/ux3aE3i95q/b8VOy5gmzMBU1U="
-          }
-        },
-        {
-          "name": "KURDISTAN SPORT HD ◉",
-          "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/971.jpg?19154",
-          "streams": {
-            "HD": "HZ2:jWnD5oPQgThjz9n9tlIwAaYKv0nC09ujZ+U72439dni4oj1qz4dIsNH0G+hODQJyAYONACXJU/g5QvBFUhBtkS52kHUE/blTI4nJP6hVttT1QE9Kfch0RKk="
-          }
-        },
-        {
-          "name": "DASINYA SPORT HD ◉",
-          "logo": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fkurdtvs.net%2Fdasinya-kurdish-kurdish&psig=AOvVaw3DYKnDVNXqzizdxzU6aKBi&ust=1602753834416000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCf0r_hs-wCFQAAAAAdAAAAABAD",
-          "streams": {
-            "HD": "HZ2:57bJoPrbYh+4gvETPlyoG3MtTufUeZ0/qy1AyDTTTU5A5BK6F4LC836mXMv5SzKgmcq2BpIX7XLaUn15pGBXmHBLLpuny2gIBRQagT4tEiNNsR7vilvfzs0="
-          }
-        },
-        {
-          "name": "NEWLINE SPORT HD ◉",
-          "logo": "http://logo.0964750.xyz/logo/newlinesport.fw.png",
-          "streams": {
-            "HD": "HZ2:iM367jyKYvSdBp3R4NPDlEu1mQRdE6jA+qJT4pkxURe64+InESHsd/DnoSXfDdfp+BqSeDtVZ7wjKG40U27Aaggqq6XKyLMi5DytM5Gj3tVgVLsTljt3nJQ="
-          }
-        },
-        {
-          "name": "NUBAR SPORT TV ◉",
-          "logo": "https://logo.0964750.xyz/logo/logos/nubarsport.png",
-          "streams": {
-            "HD": "HZ2:Cc4BosEg3lDpap2VkWrP/qJfKZaMwMzuHFM+xGtS8GepHB3A3CTcySbZrTMk9gSDTbXDwATaWOxvUJM9KaxLGteV73TVSH95BLpFm+lEnTpyhtRl1OhnQ2o="
-          }
-        },
-        {
-          "name": "SIMA SPORTS HD ◉",
-          "logo": "http://photo-tmdb.com/stalker_portal/logos/INDUS-TV.jpg",
-          "streams": {
-            "HD": "HZ2:rZUFf6Q1glrpfE9crCu8RBVJSjq4vAL/KPzBktNL+YYCCALpXRuWdjZvrcS/y7/JfiiL0PTMOt79Hh6mEblz1EK1MQfprO6bCCe+LpcLtOQFdyrw1lK25Hg="
-          }
-        },
-        {
-          "name": "FIFA + ◉",
-          "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13616.jpg?99177",
-          "streams": {
-            "HD": "HZ2:MbyvFtEOa6ilRAGuywUMmwjQAc8tPSmLPM+vjuzSXaq2+Kh7d9a2EjjKlrnhUrlnka3NdwgNaUncQqky0mG70G9yUdxuqlqIRgiqcM6PPGGf+GhegG/9CNE="
-          }
-        },
-        {
-          "name": "ZAXO SPORT TV ◉",
-          "logo": "https://logo.0964750.xyz/logo/logos/zaxosport.png",
-          "streams": {
-            "HD": "HZ2:1L/GjFgs2LlJkoR5/yoCrcqWOzmV+K7cPJ5/3POLtzc0mlvKYj2gOV1x4zzLGrqxIpLb4jG/qu3/BVFGwT9LDhzh7ZSa9eiI3FX/NBcKGXrZzcnVdaUB2Cg="
-          }
-        },
-        {
-          "name": "WWE HD ◉",
-          "logo": "http://photo-tmdb.com/stalker_portal/misc/logos/320/13933.png?ver=51511",
-          "streams": {
-            "HD": "HZ2:JpEzWw5iGmKs7uasSnSe1hJtIAsx1RSjkqtSo05Ydy/lx3VVcXPU+Gzv8Psh188GpLlwKsF8hHGqWe3so0Nx4JPlg/iXHnOLg+pVZdZ0ekKyTly3aPAB3Vw="
-          }
+            "HD": "HZ2:nupa+92XaKzcwPJfxlDV/sd8eao80oLvXTVkIJes58+FO8lzcALzAIqLzdyUF0ompLmK9tp+TOGgV6+zUnLaFl2AYYHxmRsAhl25coM17qFrwWc6rMW745b4a+sBQAdsgw=="
+          },
+          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/ZAXO_Sport.png"
         }
       ]
     },
     {
       "name": "Solo Sport",
-      "channels": []
+      "channels": [
+        {
+          "name": "SOLO HDR (HLG)",
+          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
+          "streams": {
+            "HD": "HZ2:cEJuvaiJg+12osZhCfjQMhS83g8y4efnE9eXOuBTRImdgtlioK3WyhNaMtwxeus9jPYXAKrynu52nTdV+iBGsm6ZbwSyr/9b1jWF7ZOZtImszx92Aw=="
+          }
+        },
+        {
+          "name": "SOLO 1 HEVC",
+          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
+          "streams": {
+            "HEVC": "HZ2:1QpQaWBMqFbEQWCVgZDVBV/uozYgvDlkEThiW66GSAjX3WsOghTuiXqkX1V99PLJb9zZPRMxwfdSrxjPKcHFJ2d8SawiLfMkO+JL99sVjgh9bwHEsg=="
+          }
+        },
+        {
+          "name": "SOLO 1",
+          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
+          "streams": {
+            "HD": "HZ2:8K/MYMaVSxOtCd9TK7Le5469a75fjBE5P2jlckjQuLle7DrCyR4R8D5RL7QfdUgY+2wzpAfjkmX6uuOKWm6U6JOyxldnyiO0AvzuPaHUAvSN1iLt7g==",
+            "HD 2": "HZ2:laaVJm65gEkvdofD/j2/R7hE4IC6bK2X/YTtIH6fwMH8SWpzUMmf5s6EUGPmt8xZkG+HVzOCMuJXTsjsE7HXGVv/mLs8QwNM2aqZJT7cQNdvtPHlRg==",
+            "SD": "HZ2:CI5ddzOOUU8lhIPaTzDvfbK+5mGlTPNjMeUdp0DM+c5HUCVFCIDQItcMayxy78AcmE1+aZ4BlW2V9EjxvkYv7u6/lhWOa8TXVziO354lkirvG+dNcA=="
+          }
+        },
+        {
+          "name": "SOLO 2 HEVC",
+          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
+          "streams": {
+            "HEVC": "HZ2:I9s2AhlojGBAc39wJW6Tpcej4h71VX5Yid54tt67sJYjjsBJQAPY67ACQXUOL36h/YqKT4xcg8SJdfpGgMCuFA3yAsAm/ZM+VQtzLWstibcTdR/Wcw=="
+          }
+        },
+        {
+          "name": "SOLO 2",
+          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
+          "streams": {
+            "HD": "HZ2:NGgkUxVpUY9jcEbwnZOEzNhdACwRXaOJ3LHUcQOm+plwfjMelR/4QT4oyI3mHy71BZA5e8HVUuq1hz+7efyQ6/FNbdZNLS2RhNZ2w3ZV0rkfFSE0oA==",
+            "HD 2": "HZ2:/Jg3pBmxR/auugCZEGCqwSpE2QmvS23x604o8vQ7jLcn2Q3kzpYvCh8HURiYx5WiNPrLzwg97cKEVVrfmOEdlIL/L9On3dCfG4Z65bHxOYLeWHHvtA==",
+            "SD": "HZ2:IhkQaWHBCwHOVMlmNrz7E8pB2f5qotP1sY5UW6W5LVJI42+ZfDocjZ751dfkNosJBkwdnmuDS6QNvvhJuaKn4sN8eK0r6xbxHYXWL+/3f8ZbpfLIIg=="
+          }
+        },
+        {
+          "name": "SOLO 3 HEVC",
+          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
+          "streams": {
+            "HEVC": "HZ2:jG5PXdmK+vNpw89irZYhO2xijV6awPlQ6C+5YNgPbfO1krkOnXqE8M9GUAl+RdRT5XYIHA5W092F/Phjh4tpfGgfTxiMckvpEfX1NEd73YPJ7MXc8A=="
+          }
+        },
+        {
+          "name": "SOLO 3",
+          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
+          "streams": {
+            "HD": "HZ2:nPchVuVngfjQQGyE4Oh5/EGLHk/6ja/aAkUdbYF6N6Tbi1nAg/r58Vr5ZX3rU4902gd5B6cv1wN0BZQ5J11wzvAi5eclr1jtGnnx//yRGkVqVqOMNA==",
+            "HD 2": "HZ2:4gld43bK44VaBPBmU9B6k3QTVuBgUVXZHelOA8Xk5iyPRcSv+ZhoIfpC47HSu1SkRjLLf0O3NeegmsNGagD4XKXy0VERqnLTEu85ZRAwYNhOLQfyuA==",
+            "SD": "HZ2:YgTnYELJMZHx6m/6bkR/a/jgZsbwlgHCVbCgyOavP6XHmLJdsrOWlyZRguSXsAiQw4yL7G54Uimi0FANcqEezwvr9CBy4m+2x458e68v/ZvgXeDR4w=="
+          }
+        },
+        {
+          "name": "SOLO 4 HEVC",
+          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
+          "streams": {
+            "HEVC": "HZ2:c0vN70Y6nfIYqnmrq1zWZbgyEsiPLeht8TtH36lKbtxaGr4il2wDwPtO36t/1sa643IB17ulJtqC0EJcmbmr2QgXTJ0BPuIhGwiTYrq9R7bo/pb+eQ=="
+          }
+        },
+        {
+          "name": "SOLO 4",
+          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
+          "streams": {
+            "HD": "HZ2:aYUE0co5VNOUHczyOJhV0nG3dt1ZhXIgwVdrrEvLvyXhKqwd+D5iC7u1Mlj9g9L2QpchkEdOYg90uUBql8wNtOLyzOfeOLFcXN/XSz11IBNDW2JBKw==",
+            "HD 2": "HZ2:rB2ogm5qgTKJhTMGONFrEpyO7y3OJJ5iNsM+1v8Uh+R47hWQJzWn6+Gg9r4m9BvMSjSYynIhMUvjauUO001sOBq6T5b+0bfY/+O3x42u+3ndV5qqmg==",
+            "SD": "HZ2:SCuWT0kq+KrFieRE3X6cGIFrmzQVMsPcKkXdwkvRJ1/8bFxHfeMnb8H6Dic6FLkfnCMHHpdv8NSVmE/KcKkXcCOcF9gxWk/1sRpNDII/JLHYFLYafg=="
+          }
+        },
+        {
+          "name": "SOLO 5 HEVC",
+          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
+          "streams": {
+            "HEVC": "HZ2:/9CtkLCuCvqMqjHEtxgL4bZaWqa9jQVtqsSRYay9AbMIAc3CSBgSnDTiQ7WZpoOtncl7gRFESmlK3Dp85TUytBP8SULbUbQTvBLbE535uta7SLWv5w=="
+          }
+        },
+        {
+          "name": "SOLO 5",
+          "logo": "https://solosports.store/cdn/shop/files/logo_black_photoshop.png?v=1691152159&width=600",
+          "streams": {
+            "HD": "HZ2:TsjX12RgrOITNTM0KDGdQTAOFoO5IWRFcgonsazs4avxXthLPELiE0jZquvM908WgjqrTWabu4Bz1MYTbAsZ8jcdWmnmQAzWCYOegYRWXbP8IOG1dw==",
+            "HD 2": "HZ2:p23dW5oJ4ljJT40wGgdNDiZHhQl5Mrhlr9xLkxNZPyPB9mnTwWE+OWH02DUtzgON4vaXGcy/xCohGoQH8vNFo9KWiRXjTOvr/F0nIyLCxXYafGK+Cw==",
+            "SD": "HZ2:rqlDOM3o6Br9F7FnZ7nwDIbYeRwjCXUwmT44V3tByDpqlQ5gncQ9YJSPFz685aQ3zutV8AUbZ7oln6u+usHxOZZCNkg2dS3UG+XvwUnI/frvRz7PLA=="
+          }
+        },
+        {
+          "name": "SOLO WWE HEVC",
+          "logo": "https://static.wikia.nocookie.net/prowrestling/images/8/85/Wwe2014.png/revision/latest/scale-to-width/360?cb=20141225161923",
+          "streams": {
+            "HEVC": "HZ2:lDKUgBYQ6mq+YjrXAv5frU/pwCOTOsQyx0GXPGTv38L2gY+PsB8Hs53/kEvuuJwpBwFyIXOBg8cvEj6WVVV/LqTCRJZB+GfVwvJwseWa/7KtE7USDQ=="
+          }
+        },
+        {
+          "name": "SOLO WWE",
+          "logo": "https://static.wikia.nocookie.net/prowrestling/images/8/85/Wwe2014.png/revision/latest/scale-to-width/360?cb=20141225161923",
+          "streams": {
+            "HD": "HZ2:/nTEIJ+sh1rDeQLNVNWJI28ZHtfIDJzsZUc0iql1KZEL2bio9epP/3zTn9Ik0OdqRhP311lszS9B1oDBRc01h6TeLrSPHtZ2dt16XDT7OyHLNqNvgg==",
+            "HD 2": "HZ2:xgHPYO61AQgOnuz+mer9X+hCQrtmWbsJvEKxyFGx1veTFljCdbKv+mKGBUm0y498pXYrYUnhlIRYj2Xo7YYgah7Si8Oronkqv5BxalRyYMvR6LXEfQ==",
+            "SD": "HZ2:5aG3+iRGO7miktrYJ5HiadbyauCaCq/g/9RWLAG8XwGM5aUpQHYB3nCwmll8DxVuq59OqPGcRjQQXLr3A/PV8HMONCOXTXF4EEnD1ZRjUesmU4+tpg=="
+          }
+        },
+        {
+          "name": "SOLO UFC HEVC",
+          "logo": "https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png",
+          "streams": {
+            "HEVC": "HZ2:bZHx7cjgjNVN5UnMef8tQbn+PIhODIM68LIVh2xPs4xSg66+bCCLC+tg68VLc8eYElnB9P9uui3WDaYklBFzjlgjDcIYSbWiKitNJeYNYXd0lYbD7w=="
+          }
+        },
+        {
+          "name": "SOLO UFC",
+          "logo": "https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png",
+          "streams": {
+            "HD": "HZ2:LXU+KBcRjnnyLjjUxdSZxAk6cQep7L+HCkyFRCNfiftCkT4AREHhAKYA5XCzrqLcna4fvyVdmW7i7A0qTgSA66T7exISHRk+Ph/YIuxnxUNdSRIKIA==",
+            "HD 2": "HZ2:B/pImPJnLGM2rYxoGFNCsA4wtNUUwEA1jQ/MZ2QQ10kXgxZzdkmxwzPujxItHev/83LM16gn3tn0AA17ECKSf1eyPobOF4D1iHW6owzh2+yiOpBvAg==",
+            "SD": "HZ2:07DIMb7NTVn4/miatv5r5dmK9zq2pRnihssXwUVftZoTkYbZb4/QD7HwxDUVIJZxO0eETeAuWlGbij2CxoXBLrvGgWoNLJtS0QSxWl+z3zzDuUoM6A=="
+          }
+        },
+        {
+          "name": "SOLO F1 HEVC",
+          "logo": "https://www.edigitalagency.com.au/wp-content/uploads/F1-logo-png-medium-size.png",
+          "streams": {
+            "HEVC": "HZ2:44EApOeUwIaF31CJHl/tdX3R44fN3Vc1NpIEw+nUwXyKmGDTJlTyY6gKDXVrF9X8k+xOJpagiQGkRq095lWil2NQ1TaPzofRD12dYUfsHM1Y9LT/ag=="
+          }
+        },
+        {
+          "name": "SOLO F1",
+          "logo": "https://www.edigitalagency.com.au/wp-content/uploads/F1-logo-png-medium-size.png",
+          "streams": {
+            "HD": "HZ2:bqrCJhstwZYqR8C3uwnSJqSfyd0iGTHccvJ6xUi5fAmGSwlkr1hhwZlBO4X8GaaHAyT2ghilfguRhagXLCjxEI05+BQCX7WvZQIkXB0IdQ7UZqkMAQ==",
+            "HD 2": "HZ2:6OA5UHYhetGoHP3QoBjbmLfHdI8vaqzXRHijMK4igiBbmQzs2/UOztySyh9b6+BjVrnTksBwVHXBinFmv22QKxU8GueyREt0J3NU1XltYrJGUsWhxQ==",
+            "SD": "HZ2:T/12GMq+RCS54M4HyG6QqLIESSjB8RlMWPFdSsmdqNOPT1BdNBhxw3tdXXMXeBiULd23qfUqnn8fAx1f+3uXdM5P0FgZUdHkmibY1oXfx3z8WBWgWA=="
+          }
+        }
+      ]
     },
     {
       "name": "Fajr Channels",
       "channels": [
         {
-          "name": "ALFAJER 1",
+          "name": "Al Fajer TV HD1",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY0_YTplrLJryPfkalpV0KSCASbP-3lWIz4yeM9_QPK-9trF-7I57ldMqWxIk7j00we2SkHMG3xfZa8Ki7DglsAhy7P9WPwnqdUcswhI8vczNAIG0H9SSYX4TY3Gd69ZMcmvsoJMv1UHPL_F8b3UERU6A6N-Z5w7jQZEiNR0PrnFURiZK6DNqhVJQRPRRr/s400/fg.png",
           "streams": {
-            "4K": "HZ2:fLxLaVHNrZiBploaP//LiqH1Xx4n3zttFyFTpEghKODhOiggp2CZNepHKby8hhUixnCM98uFXsupxm1bMTS3n3LEqlqbt8pDfQ5R/2lJsp7jRS0rp/9Z7ppTkIyRH8ao",
-            "HD": "HZ2:dpCvxLno0IaNT9+TqTIVk+LJ1KCdVCKDrJdTok36VNHV+K67tyILbdx6qQaTffNr9btbM3IfSNB0nk3s2i1a8omgO82zFQjh8jr1dDtWEGp+1k/JTowYKTfp73M91obX"
+            "HD": "HZ2:wWkV6R20yA7A7kOl2nR2VEQhdIHDlmmP3VguHk1YCsJz4F7aoinX9n2N4YOqLKnfALJzkJM9+KtGlgb97R+/ARYSZyCa/WKAPEGnominBnqjwNIwJOM="
           }
         },
         {
-          "name": "ALFAJER 2",
+          "name": "Al Fajer TV HD2",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY0_YTplrLJryPfkalpV0KSCASbP-3lWIz4yeM9_QPK-9trF-7I57ldMqWxIk7j00we2SkHMG3xfZa8Ki7DglsAhy7P9WPwnqdUcswhI8vczNAIG0H9SSYX4TY3Gd69ZMcmvsoJMv1UHPL_F8b3UERU6A6N-Z5w7jQZEiNR0PrnFURiZK6DNqhVJQRPRRr/s400/fg.png",
           "streams": {
-            "4K": "HZ2:H4pyZTxQKcrYg5m60ZcZmxWbMLJydMe4vRRqiGLp0ms6u2ui0CI6TMRiccuH16IntYaFg8eVLg3hQNOoXqDfbZRKiTcs3R/AlWaoXqmHVB4nHUFQpGFMWq0VZkmY3Qbk",
-            "HD": "HZ2:qfXejlGOT6MFm392S3HLLIVgomtoT4p6ccioubm7BPfvwgPSfh3OgBEDYRJTmi4O1GDiEta67TaxedZDZ6zxqvtZvYUsZ5dSQ4xHoUmr378igNRdBx89YB84HhZagERN"
+            "HD": "HZ2:GjhGPr886RYPYeXkdLl1LMZsZGFC0wuQTsbPuQ7OHtp8OgZz0yiXXjNMcJMBE7Psk48Kj6K7DqTfRO4OkUBJoo1cGwWTvGGrUHSylfU/YRuqTtmfTaw="
           }
         },
         {
-          "name": "ALFAJER 3",
+          "name": "Al Fajer TV HD3",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY0_YTplrLJryPfkalpV0KSCASbP-3lWIz4yeM9_QPK-9trF-7I57ldMqWxIk7j00we2SkHMG3xfZa8Ki7DglsAhy7P9WPwnqdUcswhI8vczNAIG0H9SSYX4TY3Gd69ZMcmvsoJMv1UHPL_F8b3UERU6A6N-Z5w7jQZEiNR0PrnFURiZK6DNqhVJQRPRRr/s400/fg.png",
           "streams": {
-            "4K": "HZ2:7S7slCBOJFkJ/cM5qFq57otmiEnE07CbSiV+Cl9aEI6vjC547U1KAG2Jxqp2P/6+QpajiseXApgAg5Ka0HrXa/SUCICfseCXaMgSE6fJEzsMK2vNjgmGtkpDl6xnUb/8",
-            "HD": "HZ2:IYHeCPvY91+nHl76+1O+j+scBQcH/frtpyeJgWVBVD6wkgQ2p0XTalIcxlRd+bSsjZgSRH5Du7QCofsJTWA6SVrp1D76eI6v289VYH39VOe882osffzPJPXGjdbjEa+i"
+            "HD": "HZ2:qDBdwBFS4bIi2hLd+Fjp+h7IZYJqxxuL8Pe3O3b8/qj5fwyKgjsaXOhE8FASNmRZgDxuPnoFXZ2izw81mEbYDHXnmX+qRTWEpNyUQ2eXE4kN+HUyt+M="
           }
         },
         {
-          "name": "ALFAJER 4",
+          "name": "Al Fajer TV HD4",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY0_YTplrLJryPfkalpV0KSCASbP-3lWIz4yeM9_QPK-9trF-7I57ldMqWxIk7j00we2SkHMG3xfZa8Ki7DglsAhy7P9WPwnqdUcswhI8vczNAIG0H9SSYX4TY3Gd69ZMcmvsoJMv1UHPL_F8b3UERU6A6N-Z5w7jQZEiNR0PrnFURiZK6DNqhVJQRPRRr/s400/fg.png",
           "streams": {
-            "4K": "HZ2:4T5DD+YrA7s+J5i3n8/3l2gO5MZT4CMiTF6DcABCi8N4EeXO2DWAUGr+jLyXwuB27nxXzwk3vLEYg2hNNP10WqJJmIMYqYgeyELkUi4CJTCuZ3uIzkbI+LDbWA74oonI",
-            "HD": "HZ2:DNwxpzAb0SoN+z+8RRtROJF2APJCUZdZS5bB2DG5T/M90o0Co7c4ybhHId5tQ+ZuHoIUJxFwSXIt5eRFsE3H4tUZt6NqEAWRA3t9HxBeNpy89+sqShXjKV/kIGSEdJBH"
+            "HD": "HZ2:MADwa7YY+HnojOym31E7Nn90G1vX4yBim7YfcajLo+Qjzef7TIvsTE2L3V3b7JNnWX7oODGKzQ3JhpjnE/Qw+TGHzg0CrrFh6eipGzXWXE+AaqIueYA="
           }
         },
         {
-          "name": "ALFAJER 5",
+          "name": "Al Fajer TV HD5",
           "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY0_YTplrLJryPfkalpV0KSCASbP-3lWIz4yeM9_QPK-9trF-7I57ldMqWxIk7j00we2SkHMG3xfZa8Ki7DglsAhy7P9WPwnqdUcswhI8vczNAIG0H9SSYX4TY3Gd69ZMcmvsoJMv1UHPL_F8b3UERU6A6N-Z5w7jQZEiNR0PrnFURiZK6DNqhVJQRPRRr/s400/fg.png",
           "streams": {
-            "4K": "HZ2:YaO/kJKJ24zuKv55O2KFPhaE4L4/MR/PdKo+q4n7muHh/E8dvt8JzDZlLtouSWbR9zAKykhCFuchpyrcLFZ5bmm408HyPNGItQMlf6165m8UrrIFlxBhtAHKRVllOE0U",
-            "HD": "HZ2:OWIFLx0nX4ji/OEs4ZImIJgbIoYXB/8IRoWcv8D9jAKDiU2zBWiQNQcc9kXVFd+bZt36wiugJTfGlxLV17pG6fwOYnJikNPMdc6W8uiuANLCk0ZB7cuOfBx0kl7qx+FH"
+            "HD": "HZ2:wc6e5We0evcqPq8IY7uGhtq3X3DWOooheCN5tzear7CHchWHwwFOQo0sq3s+4GQieFPjLi54u0FbDEKUzABL9u74u4I7q9K0Z6NNiqlVzu/sa8JhhbY="
           }
         }
       ]
