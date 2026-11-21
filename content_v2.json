@@ -284,6 +284,13 @@
           "name": "وقت الحدث 4",
           "logo": "https://ui-avatars.com/api/?name=%D9%88%D9%82%D8%AA%20%D8%A7%D9%84%D8%AD%D8%AF%D8%AB%204&size=256&background=5b2c91&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {}
+        },
+        {
+          "name": "TOD",
+          "logo": "https://ui-avatars.com/api/?name=TOD&size=256&background=5b2c91&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "HD": "https://smarter.majedfiles.site/live/ch1/v1.1795277838.0.de459315f1640c965e9d73f1b063c321.ab79c52234003199/master.css"
+          }
         }
       ]
     },
@@ -482,7 +489,7 @@
       "channels": [
         {
           "logo": "https://i.imgur.com/XBv6GlT.png",
-          "name": "┃AR┃ BEIN SPORTS 1",
+          "name": "┃AR┃ BEIN SPORTS 1 8K",
           "streams": {
             "Server 1": "HZ2:Dd6n0/ms2xgKoObF3hgLpuskgiEtqupw9DymHrzQTU7hxgYGdgqTmqQCusHmsp/mw7/2u2kjMBLxShMCCajiug9AUV5Rs3PBnk1FWr0472NpRI5mzPrw",
             "Server 2": "HZ2:EaDpXe3KfPgEjSS3AZp7Sl/NmgNGc10ojqczn6cbT5aC8wwAk4cnWwjHpk6UzE29DoQWd1UCqv+YcPNIbs2tHoKve6khu45teClMrkUx5znhVa53Dab/"
@@ -490,7 +497,7 @@
         },
         {
           "logo": "https://i.imgur.com/a2rDmyW.png",
-          "name": "┃AR┃ BEIN SPORTS 2",
+          "name": "┃AR┃ BEIN SPORTS 2 8K",
           "streams": {
             "Server 1": "HZ2:hsC1mOzFZOUYzo8t64LS+urssRvn0RwR7oMpOyGhhxRnZTStJCl7PxqmUcFa0Xpidwg1Q5l8KE45FEyMd9egckecyHOFpLvt7bjZo7gcRnu3HbbMfziR",
             "Server 2": "HZ2:F/b4+3jDxxZu2sABtMXdJV2e5GXuSEljedSXarULi205RUSgs+uthHKTEVqjZmi1LSJf9M9S6Oa+iqDX3PF7IgsehH6ov2HD78SQ0rMHtCJR6cQNNCt6"
@@ -498,7 +505,7 @@
         },
         {
           "logo": "https://i.imgur.com/SDphghs.png",
-          "name": "┃AR┃ BEIN SPORTS 3",
+          "name": "┃AR┃ BEIN SPORTS 3 8K",
           "streams": {
             "Server 1": "HZ2:uaVslbdUSFGQpLCQAHZTscWf4WGyO15xiE3LTdcaEmtvceDC69Tw0b4/wclVkpzxwykAW43/sB/C+U+DsmnntuAAEOdmC2W0rpNiXAkPme+YfP78mYs2",
             "Server 2": "HZ2:fbwoQAzWwcoSu8+zMroSAnFlDbsFEppx7KGUj16D9FJnSRhCO9bdbcGgmU6RpumcWS4q57bo5urX3MMgTkrqk08Fn79ww/40a3M4J09IzOID2jP2YsdJ"
@@ -506,7 +513,7 @@
         },
         {
           "logo": "https://i.imgur.com/dPCbI8e.png",
-          "name": "┃AR┃ BEIN SPORTS 4",
+          "name": "┃AR┃ BEIN SPORTS 4 8K",
           "streams": {
             "Server 1": "HZ2:Zu+/KmENfOC29GCOd9So5Wc6ALTpkEhPS+/Wr6LZhkU49NTckeEF8Ka++uMpOHnn1dkcYN8kqj/SE1/OiHt/jJeSaXFyFOd16l5wbo+UIwPwVACCrm2/",
             "Server 2": "HZ2:9rkW+HpfEmKyocp2URtom1JebJXM9lrvClW4LUPuY0p+Nh4GBkPh2aNOrH8w09OtAYIKeM5HDSJn7/4fkqSyHzbmliimSwG5voW8/u/BgONUkGUf+5gJ"
@@ -514,7 +521,7 @@
         },
         {
           "logo": "https://i.imgur.com/TLdSJOZ.png",
-          "name": "┃AR┃ BEIN SPORTS 5",
+          "name": "┃AR┃ BEIN SPORTS 5 8K",
           "streams": {
             "Server 1": "HZ2:v2axr7NYoVn+0zHTPTxxVSPTMvkvVevMZmPy64vmrh9vhZschTFEgPYa4eo4rHlfTwzfnYBgokfAYES6BPG6DuOwZYvViGohxgzRpPFWCJ00hThthQqF",
             "Server 2": "HZ2:01ePOjuBkv7d8HWsiBuxGX7KPtICo2SFb2irsOBMt+S/cT+u+97YCJkCvg0mMdfvL492y4GH0XUpixyR/14oVNsGkmfvf4a89QW+9HnbjGQpAJg4xD/4"
@@ -522,7 +529,7 @@
         },
         {
           "logo": "https://i.imgur.com/8ExoDgb.png",
-          "name": "┃AR┃ BEIN SPORTS 6",
+          "name": "┃AR┃ BEIN SPORTS 6 8K",
           "streams": {
             "Server 1": "HZ2:CEq3ljmHUD534esjmByYnDAQWwHIeJYOHopat8bOwsE0TpCvDCwwXZzz+dkEjnl0oK9mllHUR4gUoMo885eXCZTFf/74tptdd4RKm+ROl2FywXZEEQI/",
             "Server 2": "HZ2:38FexjslWqB9jnI0elsWbin6VfX0UJoYGfFcV460DzvPEjwQKigpdujvY8k1WfnrmxfQZ8sVtClKowgPkM+44UOb5Ou5eUa/kmhV80oebGMcLndodBni"
@@ -530,7 +537,7 @@
         },
         {
           "logo": "https://i.imgur.com/UCGDGO1.png",
-          "name": "┃AR┃ BEIN SPORTS 7",
+          "name": "┃AR┃ BEIN SPORTS 7 8K",
           "streams": {
             "Server 1": "HZ2:OVVpHmH0Ncw8IQMF6pohfY3mUnHrH0IHgURKbH6mInysjndRN54mL9Udcl9a802DDyCHZYqFsl0ahOwP3+ykMWCuz49xEfrWeHOMH8J1dhENP2KX+iYQ",
             "Server 2": "HZ2:Vz2sDtgO6LaWZMqs7s2M83EjzEHCpzEzB6gfnPLn+84olG0ZQ4oR57zGTJMMsyTacigpzQZUcca1rXtmgdoCEsqPF8+B1s8fYptjW4bf6aNKlI/uvkkL"
@@ -538,7 +545,7 @@
         },
         {
           "logo": "https://i.imgur.com/bFVHSk2.png",
-          "name": "┃AR┃ BEIN SPORTS 8",
+          "name": "┃AR┃ BEIN SPORTS 8 8K",
           "streams": {
             "Server 1": "HZ2:aW/77YLWUWN7W6iXIcNgs8V5oO4Ecb0WPdvmK7F2JOfzsOEUtvrK8Px+7CawNG1JV5jtF601O+O8gS9W1JIJXBnnC3mYm8AQEd1+iJ1Al5UdxmTpxj9/",
             "Server 2": "HZ2:0zyaOWcwUPW5GbpH+4MCgwWpmRCiCVaohAcis0RwYoa3kwkGK6Q3Chb4l4FQuV4PwLrfgVfJPYxBjzv7ZuaoOp9h6AZTObj2QRybclvwbumiTO9v/+kl"
@@ -546,7 +553,7 @@
         },
         {
           "logo": "https://i.imgur.com/dZpJskQ.png",
-          "name": "┃AR┃ BEIN SPORTS 9",
+          "name": "┃AR┃ BEIN SPORTS 9 8K",
           "streams": {
             "Server 1": "HZ2:twragQaJklgeQGUE9RFRklWSf+JX/67mLvSxkuB6ew63/5X2Spjwqw9aTemlkvX+8SDqXqJFgfrLoZoaNrkghOmwL1Piyn1fO7P+9xoexXuWdRSwkSNG",
             "Server 2": "HZ2:pgRyEOPrPsXdeOwkEB7A15kNkFBTcC5uqCrsxvRy/OqKoeLNvh3vN+FA6gO5sEOgSVpONBC3p1hyFLqNOgtSvfjOFuyrcwcNYSgXjCvmOThw7gyuOE3T"
