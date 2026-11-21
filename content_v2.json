@@ -380,7 +380,7 @@
       ]
     },
     {
-      "name": "beIN SPORTS Abraj",
+      "name": "Bein sport أنترنت ألابراج 🗼",
       "channels": [
         {
           "name": "beIN SPORTS 1",
@@ -471,6 +471,223 @@
             "FHD": "HZ2:IEsHhPbfFx25Leh6UrCTG2/6QqhAQZ5Nc3e8VK0Wr8QcT2bghdCgg2HjicY94z0t7776xAKA1gpkZe9Y7DCDNHS2+hyyJ5V6ff1RvQKy/CcvB8BJsU3xierGT5LwJ4qW",
             "4K": "HZ2:JQsODb4uLXrxrx06nFY0ZMpvKi55v8Dxptls5LFO05Ly4U5hhi219L7u5s86YhWBeoMz3zlMn9/xrznWtZpE4JI/e+s2JQoH3qQdjn12+w9F3n9243x24oo1vBNgw9Ps"
           }
+        }
+      ]
+    },
+    {
+      "name": "Bein Sport S-8K",
+      "channels": [
+        {
+          "name": "┃AR┃ BEIN SPORTS 1 8K S1",
+          "streams": {
+            "8K": "HZ2:Dd6n0/ms2xgKoObF3hgLpuskgiEtqupw9DymHrzQTU7hxgYGdgqTmqQCusHmsp/mw7/2u2kjMBLxShMCCajiug9AUV5Rs3PBnk1FWr0472NpRI5mzPrw"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS BEIN SPORTS 1.png"
+        },
+        {
+          "name": "┃AR┃ BEIN SPORTS 1 8K S2",
+          "streams": {
+            "8K": "HZ2:EaDpXe3KfPgEjSS3AZp7Sl/NmgNGc10ojqczn6cbT5aC8wwAk4cnWwjHpk6UzE29DoQWd1UCqv+YcPNIbs2tHoKve6khu45teClMrkUx5znhVa53Dab/"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS BEIN SPORTS 1.png"
+        },
+        {
+          "name": "┃AR┃ BEIN SPORTS 2 8K S1",
+          "streams": {
+            "8K": "HZ2:hsC1mOzFZOUYzo8t64LS+urssRvn0RwR7oMpOyGhhxRnZTStJCl7PxqmUcFa0Xpidwg1Q5l8KE45FEyMd9egckecyHOFpLvt7bjZo7gcRnu3HbbMfziR"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS BEIN SPORTS 2.png"
+        },
+        {
+          "name": "┃AR┃ BEIN SPORTS 2 8K S2",
+          "streams": {
+            "8K": "HZ2:F/b4+3jDxxZu2sABtMXdJV2e5GXuSEljedSXarULi205RUSgs+uthHKTEVqjZmi1LSJf9M9S6Oa+iqDX3PF7IgsehH6ov2HD78SQ0rMHtCJR6cQNNCt6"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS BEIN SPORTS 2.png"
+        },
+        {
+          "name": "┃AR┃ BEIN SPORTS 3 8K S1",
+          "streams": {
+            "8K": "HZ2:uaVslbdUSFGQpLCQAHZTscWf4WGyO15xiE3LTdcaEmtvceDC69Tw0b4/wclVkpzxwykAW43/sB/C+U+DsmnntuAAEOdmC2W0rpNiXAkPme+YfP78mYs2"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS BEIN SPORTS 3.png"
+        },
+        {
+          "name": "┃AR┃ BEIN SPORTS 3 8K S2",
+          "streams": {
+            "8K": "HZ2:fbwoQAzWwcoSu8+zMroSAnFlDbsFEppx7KGUj16D9FJnSRhCO9bdbcGgmU6RpumcWS4q57bo5urX3MMgTkrqk08Fn79ww/40a3M4J09IzOID2jP2YsdJ"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS BEIN SPORTS 3.png"
+        },
+        {
+          "name": "┃AR┃ BEIN SPORTS 4 8K S1",
+          "streams": {
+            "8K": "HZ2:Zu+/KmENfOC29GCOd9So5Wc6ALTpkEhPS+/Wr6LZhkU49NTckeEF8Ka++uMpOHnn1dkcYN8kqj/SE1/OiHt/jJeSaXFyFOd16l5wbo+UIwPwVACCrm2/"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS BEIN SPORTS 4.png"
+        },
+        {
+          "name": "┃AR┃ BEIN SPORTS 4 8K S2",
+          "streams": {
+            "8K": "HZ2:9rkW+HpfEmKyocp2URtom1JebJXM9lrvClW4LUPuY0p+Nh4GBkPh2aNOrH8w09OtAYIKeM5HDSJn7/4fkqSyHzbmliimSwG5voW8/u/BgONUkGUf+5gJ"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS BEIN SPORTS 4.png"
+        },
+        {
+          "name": "┃AR┃ BEIN SPORTS 5 8K S1",
+          "streams": {
+            "8K": "HZ2:v2axr7NYoVn+0zHTPTxxVSPTMvkvVevMZmPy64vmrh9vhZschTFEgPYa4eo4rHlfTwzfnYBgokfAYES6BPG6DuOwZYvViGohxgzRpPFWCJ00hThthQqF"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS BEIN SPORTS 5.png"
+        },
+        {
+          "name": "┃AR┃ BEIN SPORTS 5 8K S2",
+          "streams": {
+            "8K": "HZ2:01ePOjuBkv7d8HWsiBuxGX7KPtICo2SFb2irsOBMt+S/cT+u+97YCJkCvg0mMdfvL492y4GH0XUpixyR/14oVNsGkmfvf4a89QW+9HnbjGQpAJg4xD/4"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS BEIN SPORTS 5.png"
+        },
+        {
+          "name": "┃AR┃ BEIN SPORTS 6 8K S1",
+          "streams": {
+            "8K": "HZ2:CEq3ljmHUD534esjmByYnDAQWwHIeJYOHopat8bOwsE0TpCvDCwwXZzz+dkEjnl0oK9mllHUR4gUoMo885eXCZTFf/74tptdd4RKm+ROl2FywXZEEQI/"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS BEIN SPORTS 6.png"
+        },
+        {
+          "name": "┃AR┃ BEIN SPORTS 6 8K S2",
+          "streams": {
+            "8K": "HZ2:38FexjslWqB9jnI0elsWbin6VfX0UJoYGfFcV460DzvPEjwQKigpdujvY8k1WfnrmxfQZ8sVtClKowgPkM+44UOb5Ou5eUa/kmhV80oebGMcLndodBni"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS BEIN SPORTS 6.png"
+        },
+        {
+          "name": "┃AR┃ BEIN SPORTS 7 8K S1",
+          "streams": {
+            "8K": "HZ2:OVVpHmH0Ncw8IQMF6pohfY3mUnHrH0IHgURKbH6mInysjndRN54mL9Udcl9a802DDyCHZYqFsl0ahOwP3+ykMWCuz49xEfrWeHOMH8J1dhENP2KX+iYQ"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS BEIN SPORTS 7.png"
+        },
+        {
+          "name": "┃AR┃ BEIN SPORTS 7 8K S2",
+          "streams": {
+            "8K": "HZ2:Vz2sDtgO6LaWZMqs7s2M83EjzEHCpzEzB6gfnPLn+84olG0ZQ4oR57zGTJMMsyTacigpzQZUcca1rXtmgdoCEsqPF8+B1s8fYptjW4bf6aNKlI/uvkkL"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS BEIN SPORTS 7.png"
+        },
+        {
+          "name": "┃AR┃ BEIN SPORTS 8 8K S1",
+          "streams": {
+            "8K": "HZ2:aW/77YLWUWN7W6iXIcNgs8V5oO4Ecb0WPdvmK7F2JOfzsOEUtvrK8Px+7CawNG1JV5jtF601O+O8gS9W1JIJXBnnC3mYm8AQEd1+iJ1Al5UdxmTpxj9/"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS BEIN SPORTS 8.png"
+        },
+        {
+          "name": "┃AR┃ BEIN SPORTS 8 8K S2",
+          "streams": {
+            "8K": "HZ2:0zyaOWcwUPW5GbpH+4MCgwWpmRCiCVaohAcis0RwYoa3kwkGK6Q3Chb4l4FQuV4PwLrfgVfJPYxBjzv7ZuaoOp9h6AZTObj2QRybclvwbumiTO9v/+kl"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS BEIN SPORTS 8.png"
+        },
+        {
+          "name": "┃AR┃ BEIN SPORTS 9 8K S1",
+          "streams": {
+            "8K": "HZ2:twragQaJklgeQGUE9RFRklWSf+JX/67mLvSxkuB6ew63/5X2Spjwqw9aTemlkvX+8SDqXqJFgfrLoZoaNrkghOmwL1Piyn1fO7P+9xoexXuWdRSwkSNG"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS BEIN SPORTS 9.png"
+        },
+        {
+          "name": "┃AR┃ BEIN SPORTS 9 8K S2",
+          "streams": {
+            "8K": "HZ2:pgRyEOPrPsXdeOwkEB7A15kNkFBTcC5uqCrsxvRy/OqKoeLNvh3vN+FA6gO5sEOgSVpONBC3p1hyFLqNOgtSvfjOFuyrcwcNYSgXjCvmOThw7gyuOE3T"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS BEIN SPORTS 9.png"
+        }
+      ]
+    },
+    {
+      "name": "Bein Sport S-AP",
+      "channels": [
+        {
+          "name": "BEIN SPORTS 1",
+          "streams": {
+            "4K": "HZ2:2bM+88DdZRXCokBck6+aaMnU6kNiKxIYSkWF0yi2KxXURgESz4nkbdWI9y+h9ggdQt48bSN/dQU9g/1YJxkjGA51LPZXWWubyKUjLbx9RSXtRMOxEzts",
+            "HD": "HZ2:JdDx/9e9OgMk3uMBlLnx1AQ5LYh6736IumZRR/AjVYpd8jyMWQcAiPvkRyO6FlqSdDFE8SpMjOIyMtt2vpDmfUnbtf2CHOL7mt0gs4Glsfcc/Lnig7Yo",
+            "SD": "HZ2:DR58BQGpZHRyxp6+VL9hF33td597TDVmGc4n89KyPPpaprQ/A2n4XZsjCclqpy6IzCmUsK5y+gkEjdA+4/iX1R9blXHzFZ5rpJz5Az9izASmZ2f5KtIx"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png"
+        },
+        {
+          "name": "BEIN SPORTS 2",
+          "streams": {
+            "4K": "HZ2:pDWH8Ie77GW1yxpHWVqxene0AtOpGpEPTHcbWrkKqC/wksWmfJToG229G9fPZtkA7/5Y2KO9rpprNr/RpMuxzpIAlLRkXpgMzNOp6wnsHReJo3lGh/+M",
+            "HD": "HZ2:osLrbqcRzanO6C+ggbq4wXFaI/xyrTQD6DYbbXMNkAB/2rYUK8LBqpY9fTnSTjYW3CwN58pWMH+gRphYWxyJ+HaqGAOlfnIRqLHyMtnn7ofmqsnJ+RxB",
+            "SD": "HZ2:XeCM/tJfhSA7IzmJoLWDUMujJClUWKaE65vbH5skc0FA48Uopj0OEBaGPvxwrFjvlvFb79L7kOCktvDvFaEIpd7OMTW8lAJEFd27W12NnrfqTW2cLBOj"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png"
+        },
+        {
+          "name": "BEIN SPORTS 3",
+          "streams": {
+            "4K": "HZ2:gN0y6Hu/ZgIG3KsH5IgvfJ6LctLwk59uVu1Hc2KJTGDNiCQc12oIDi4+QbuY7l5aFTDRXbjnCPGdmLJBDX9eoNR81z1iD8z+9LIqliYTqdxi/I3Exu1v",
+            "HD": "HZ2:edM4mJPIVDWGOlWD3N+PVepcoQPu949jb0kyS7hb6D16CgQWgRGZN12XeKlDu+wFGfY9uYqIj/++JAydVEtKigRjpDMpf+5bDsu6ByDR/yCNjiQPaehO",
+            "SD": "HZ2:o1CX8ENuG+lI1LtFh6OD4Xp1wpAuBMnHBWtS0ud9WMRVymTy/bvptotXY7pd+XZQj2Xmaf9EcAp5L5ydplHRr/1rxkxHcW6t5DSGJUAY7Uyvf9/F6e6B"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png"
+        },
+        {
+          "name": "BEIN SPORTS 4",
+          "streams": {
+            "4K": "HZ2:3ZrqQAekADBjlFJkbLWijDjnseD2MHo9yXvc7OzB8cNU8IkoxjKe3xqzrCd3jXMN+FPY3l+XK6EOqyxUonVpa5CfhdTpuivnL0lTcC4lzEwS7w9hxUun",
+            "HD": "HZ2:vC26IdPbmnYRYyBPjc0l1+2+j2/0lxX62nr0zWUrtBAy3RQ3pWURqetOKBKIfI/8l9hJs9pnb4svsoeZCvjW/APYcMXsdrEEvfHOOO9yRlyZoKgcNNUK",
+            "SD": "HZ2:RfP/E91GWzoNXcr7hVsKVz+rfDIJBnkqlggQaDH6rdgS36Qm31KpSojwiPSRirqM0Ohu7rS5hfdRc+VKunhIknOnvk9mWtRkZXcJZGnTsF5ZWaMXqaXZ"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png"
+        },
+        {
+          "name": "BEIN SPORTS 5",
+          "streams": {
+            "4K": "HZ2:y385HQH61fDm8I+YPqoAH5lruQ/CTlGJM9MpOKLhW4/D/bRw2d91HBHqzN0qcjDUIh3yNH9WFuG/iWKv6veNkjzaKD6TseIS8oDuLJK/amupFw524K9M",
+            "HD": "HZ2:nH69Yn7X4LC4+OXgY/Ou2pJqNM+xYKbsgBYk1Ocqe7X7zWAHZUD7qeMiULTQDQV/zj+qnNdfrnWBwcBZnVA+o+FXPW/IxvISqiZTza4Sr1s3+DHcCB81",
+            "SD": "HZ2:aGl5kyG80z1Qu3V4zeHvEGED4JEMS4HoIsfi69afNDGMesVRBv2DJOIwM158JD2ubrJly0+yR87lDUfQoFfKQ4EQ/+E56b/D0gOH2oL/vOnnWOkCNOpW"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png"
+        },
+        {
+          "name": "BEIN SPORTS 6",
+          "streams": {
+            "4K": "HZ2:M0wNYwHCffjuCJCu8dn1SkEmcvT5Bpk9fiKxcNmm8YVUrdGZ5JfX0EBjB3KsZchtKFfUqapYj/+Hr9mu/r/vQs9L6SseRv7R0USs8Uasl9ZsptrVqDxq",
+            "HD": "HZ2:l45nAHGb3X5LrrwprhbAGD8BJFkZC+KfmSThWe72ZQVYTzfB/cgByLIlCnnAB4mwONlesOPdGUSd1eDC94SuaKyuyA4VZUacKmO94TkwQuODpT/heKao",
+            "SD": "HZ2:HE7qSEdEuZYBvqTK4FyXeHMWQK4mh2Vkw89ZrmjivR6xyZQYvIxiNrBDV3YmN89DiD2AS/uB94q1x/AvAI+0b9pPjx8F7OxMeInnuScORM2fkui5g3Ir"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png"
+        },
+        {
+          "name": "BEIN SPORTS 7",
+          "streams": {
+            "4K": "HZ2:qPPAerO2sn3rWe01K2Ocw1UdmOf3AhP+kfj/ZNg4K6GRepB5SYe5iya79YtWBj3zifE/ZxBK7+Lcc/3uOFm9IvcQ6SdNsGE5KKuAsoJgQ74Q4gYNjZmq",
+            "HD": "HZ2:D1EkNQIVAS4Aom/CQLQM3txC0blqnjp8PGvZJti/GyFcctwo4sROfBofvrA7nCH6fuwG6cBPPNVhyWgjFsaGuFfeU9tFVilQZ9E8uoMvrKAJIUyYJ2wV",
+            "SD": "HZ2:MDf3n4tKD75N1cSkDzZ85t4tJysETvSiD8wZ5m81NTIXx2vT/FC3FX3iuBntrXNWwytbUpVpmW6eRc3WY+fS7RNkz6wk12xeWTvL+6zmuEfbZxJi8vCE"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png"
+        },
+        {
+          "name": "BEIN SPORTS 8",
+          "streams": {
+            "4K": "HZ2:lvqMAyTIpJEF5un7xJ2YPacgRRDnQxNJ3qD7+8uGyHcXu5m30xlTDnmFl3HjBCr7s7r2AQj4PP6VhqGmy/0HHvbFyZQWQVFYLUOy3joEOmJeIt1vFBo0",
+            "HD": "HZ2:bWgjbPUAK9rhe0zKY+ViLouiyGT7+YYva+U0dXWu+/UXslqlkwzgoivSqTRjUALNk545l4gboQkHBy6lm/rl+fn+XLnyHRQTw4F1e+r1JhTPyaMGuvHL",
+            "SD": "HZ2:HVEGwGt6u+3JO/ZZqmGCk+YpBlWnswq19jrKxklco3OuRlno5s6zNGqG3PeYfcjJVLMeJyEExxTbqJzlqqR4aNqk4zQNBmqGJ0V8cE6rceRwqwoWVDuD"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png"
+        },
+        {
+          "name": "BEIN SPORTS 9",
+          "streams": {
+            "4K": "HZ2:hASb8GRXiVhzv2nJwH2S5iOrNKfAfV2aJQEMIGmFs9IxK/v6FSm3vGM2jag8eWQNUvOWTdKCI3/IFyLpXWSf3x2To/kwvp5UL2MLjrJCY0+ExSrWdXw3",
+            "HD": "HZ2:WSXlxQlXa0kvWYcxDtFMoIFVCsMx5CDN4+et7eGinmX9XxcXh6EJ2qSjIglEMibK3Hx7c/0Dup6rZEJndTFse+5SFh04rYBvNEeoVQZXOho0J0Spk5m0",
+            "SD": "HZ2:y86EaV4ZIwWxieANQlS7hjENXCsUXJBXA7wMM3oq9stmL89sD/M1jHUhS5Y5OdRQOw1j+V6b1lN+omBAR8ka+vqwZRQIQ7bwJiWZey9Mt0tLNHJkLRX/"
+          },
+          "logo": "http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png"
         }
       ]
     },
