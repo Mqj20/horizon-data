@@ -266,30 +266,17 @@
       "name": "TOD",
       "channels": [
         {
-          "name": "وقت الحدث 1",
-          "logo": "https://ui-avatars.com/api/?name=%D9%88%D9%82%D8%AA%20%D8%A7%D9%84%D8%AD%D8%AF%D8%AB%201&size=256&background=5b2c91&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {}
-        },
-        {
-          "name": "وقت الحدث 2",
-          "logo": "https://ui-avatars.com/api/?name=%D9%88%D9%82%D8%AA%20%D8%A7%D9%84%D8%AD%D8%AF%D8%AB%202&size=256&background=5b2c91&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {}
-        },
-        {
-          "name": "وقت الحدث 3",
-          "logo": "https://ui-avatars.com/api/?name=%D9%88%D9%82%D8%AA%20%D8%A7%D9%84%D8%AD%D8%AF%D8%AB%203&size=256&background=5b2c91&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {}
-        },
-        {
-          "name": "وقت الحدث 4",
-          "logo": "https://ui-avatars.com/api/?name=%D9%88%D9%82%D8%AA%20%D8%A7%D9%84%D8%AD%D8%AF%D8%AB%204&size=256&background=5b2c91&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {}
-        },
-        {
-          "name": "TOD",
-          "logo": "https://ui-avatars.com/api/?name=TOD&size=256&background=5b2c91&color=ffffff&bold=true&rounded=true&format=png",
+          "name": "TOD 1",
+          "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
-            "HD": "https://smarter.majedfiles.site/live/ch1/v1.1795277838.0.de459315f1640c965e9d73f1b063c321.ab79c52234003199/master.css"
+            "HD": "HZ2:kGRtrFRhJuwfQbDNNpcVEUSmo5482tR5WAhWUVaAjCJknx9LBpdSPy/9utPiUQvKH2E3lOBK/rZtgYcDS2PobBD17sdsB1s2boKJ5SBOKHsX+FyYzI4="
+          }
+        },
+        {
+          "name": "TOD 1-S2",
+          "logo": "https://i.imgur.com/J9JKIxK.png",
+          "streams": {
+            "HD": "HZ2:nltiImDf8PAC3RbzsvAQsohxq/AItllccf9ofUAZJO8u3cJWk5HVQjRgR4wiV5AhbCUBobQC2ns59owt9lUZ/V51bvsMOMBIcgFS3E5sE8tF5qk14GI="
           }
         }
       ]
