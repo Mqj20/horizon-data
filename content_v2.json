@@ -266,17 +266,17 @@
       "name": "TOD",
       "channels": [
         {
-          "name": "TOD 1",
+          "name": "TOD-أرسنال",
           "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
-            "HD": "ضع رابط البث هنا"
+            "HD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/1744953.ts"
           }
         },
         {
-          "name": "TOD 2",
+          "name": "TOD-أرسنال",
           "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
-            "HD": "ضع رابط البث هنا"
+            "HD": "http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/482706.ts"
           }
         },
         {
