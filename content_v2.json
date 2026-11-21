@@ -298,7 +298,107 @@
     },
     {
       "name": "beIN SPORTS Family",
-      "channels": []
+      "channels": [
+        {
+          "name": "BeIN Sports 1",
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png",
+          "streams": {
+            "4K": "HZ2:T0cBUtZJzeBmeSCvfB5QYPYNAMmdqaQzJOas1ZjC07LGzVipiaHuzPPM7T+LyfFLwyLvMdqR+XCWIbzlyWuPATh6jNGMM1yJXHYzLM4435+RwO5Vq1yBfK/83tIBBJB6+ZM=",
+            "FHD": "HZ2:zeVr2ignwguhKN6FcEO2aODbgznIQTokCESW8TYW5dPDqqGvRR7FqKSMUI51T10FwiSE4LosvSplKTC/f3GURbpgF8JwIoPLKRJ7ccv8UVCs6KnoFohb2wtMA2qg6jMZTt8=",
+            "HD": "HZ2:TIMlVdZjDetSonkfuE+YhP3w+wVV5I1m/S9/LbLy5VHOt4+xoDAUUOhSFyux3t/Y+5TF5xE5XgBkusShHEkm7P+hppNTS/5PdrpCkVtXqrfqP+wuNHXEwGIXpIyUwC9NWU0=",
+            "SD": "HZ2:+gORTUrLUlYlWLVW3X8wxacYtisZHvMm1nKN3dfJR24NqgVZypUImS8XGRGdhl2tIee+VXhw0MBTPiuvasRcHi8vuT7b4aEdfr53vVZWvfFWF3mfZ7jFfn978Fg7Ig+239I=",
+            "Low": "HZ2:2iWIOp4lW4G6luMSfEHB7xN2cx8Ym+QpfhrhIVB4KPDcaprK+NY6GkuJS81kUnQuHOajyrbVnBwWFgIkcl3idPGGgi1jvTc2vdMcz0f5kjNsNFXBXMC4lPuwSvFjh5bomRw="
+          }
+        },
+        {
+          "name": "BeIN Sports 2",
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_2.png",
+          "streams": {
+            "4K": "HZ2:/6+G0IWygdV89tDLjmz3u2M+uKUrCOQ5Tdby4z8JPKmKh5RXCHuwE8LFI7easDW6sPw3v+P4ArhQyhrXZFQ00NR7QjKyd5BCgD0QAe6Xiy7M8fLsc0lJQU3Uf2p1sCxv774=",
+            "FHD": "HZ2:UnHxhfMg/OUO0jXgOkVhiy6/zuYaTpdgN/D7W01vQ171gb8rPCz01KLAGnu7HpCxeHmIiDiOQX6YnXKrxw0iDlCrCm3B0oSIIWDPOgcKTlIbcV3+9/Q+jDzcHY74Rq6rFQU=",
+            "HD": "HZ2:5jj7q5OX38i73oqUs4b9BQUqQ2pjFVeEXnRNZb7/k0LiZHTvAy266rmdKMJpcXRavtqwCUzLnoWYOcJs7166vodfmV+5TdMszGmm2PhWuD42ZuF5r8XxQWtMyctKdknndKE=",
+            "SD": "HZ2:Vk0qwN8C08G8OlyiXgIxL8u8uNfTDCjFqrzXnXgSgRT59qw/vUJ/HfgjF0lH8fwDDTUEoDn0ABMbVBkLTwsxfo0MSFKN3FiwpGjbwBVSz3xefBxn31iPS0Nm6bUYxxvDxDY=",
+            "Low": "HZ2:paHBg3lkcpUNELafnjyaHyysCpH+o6qHgEpyaDfF9Zrpteq3eJo0HI90xqcBIfaxGjc2QSOXMffnU8jMJNg06rtdioGVxndey2W4HyUMWpRFeTU+epMeRfzgBkLAHbJWvBo="
+          }
+        },
+        {
+          "name": "BeIN Sports 3",
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_3.png",
+          "streams": {
+            "4K": "HZ2:dVweQuEFR6qxotZOd2CP8F0D9UD7dM7xbxQI2omOLg3H3NdQW4cLCZJCTjEM44FrbEmR0vfvBMrw2Hfr13rx3Anm17zyAcue3ZAsEuj3rvjXhhKXsbKXIp1ng/HqZbVgYaQ=",
+            "FHD": "HZ2:b3WJ0yK9lzgi4hSqe1vJuG5p0tHoMmSWq8o2pwg3xfXYAW4/0GCARxgKlDOaHrnL4i1d1Y8mAYvj2OtkArhfy+E5Po3nWSsPugvDm5A/TDHko/I4dx9cDcSZA+aKo07S9SY=",
+            "HD": "HZ2:GYRPK8cPd47V31obZAalxlQA05+7dPfFMNn8zzrWqMrwSjGL6ykanv31H0dh6bjpAxbanJsK5NR2s7447oCemxzZ4SaAo+y8rBN+nJF80UjLVRBal8lnlO59mo36Jwzf2mU=",
+            "SD": "HZ2:6rIuOSI6E31x38m/YHsw2de9o2k11z6wLCsHNq+jKyRkw/iuwXpv3Tn8lbX2onyWUQCdBmC6QvO4+u35ybGdQC3q7Lz2/ibu/l1QnK8hYP2H8KVgOeRtQd5+/G35P/lW4zE=",
+            "Low": "HZ2:IvfDb121vI9cHVrMsz+UaLkUQ3jStQK5PcNo+AQGSyzYBkS0lNahDyVQGrpz96AMCxpuFOiCB9FbQTmsN/zfzmRu5Y9vnYPmqNHkpwl7pIvHCZr4XoApkEbTLY6giWkSQEU="
+          }
+        },
+        {
+          "name": "BeIN Sports 4",
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_4.png",
+          "streams": {
+            "4K": "HZ2:1SKq31h8LDAmfJxpdzJ0A2nSb7Oa4vcVztIBi0PPNeTiRiHga+d89S1EGQrKg0yhD6q8E/5S2sb2STNySUhFVpil/lQgJffY7YOCb/POa72G6pLQcvjajAwc2LaTfvaCrfw=",
+            "FHD": "HZ2:jDQEc+Ny0/uqrGFLGvSOFDMiAD/T8OWIoJ5Wpry8zuggSXPrg8OsDaaeAdNcL90GdijZjZNZxOjDEByCKfYfcrTcHpG+KGZg91Nxc6GLxBf/aR0SRM+OungcokPHaDptB+4=",
+            "HD": "HZ2:Y67LVbAY0ivZK1jq9JyOP1coc6Fu4xwXSag2LzA5jjAityoZ925xKaSOwOg5iYQrH2+CCOA1mtxzr99a/TOQRXo8oO1W0BnFOK/Ye67AApU0nIR+oTeuTJqyVLLWKwyrIUw=",
+            "SD": "HZ2:lVgQOUK5VpewjLlqHAwwUnc+T8XkeUeV2421RMOspw+x0ckkf+pKX9bjLWp5P47R+W2HIOqTyqISBK+5adtUr3k7RphOgymlIyTwevnOZRdILi0blEtqLRg3g1/xO/9BfsQ=",
+            "Low": "HZ2:oujNu7jBaN6kI3J+J8ep++2QNyeVQwTSkv6Rbg9oPgmD2jscfZGajCtsb49Cx3OZJK1/gzGOoFeqaWiNo20hM8MJw+DOlXOXY+3OJ7NXGFLo7WR41YArMULuk4h5ulytVfc="
+          }
+        },
+        {
+          "name": "BeIN Sports 5",
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_5.png",
+          "streams": {
+            "4K": "HZ2:iGkp4s6ox5bxy4ftpWT7BC4ptT070VNVTeSaMlC+NvPlP67ljtSkDxQJfE+yAudFh4UctUjAZvkBe36FAqGX2oef1EjNWOg/mNhopmKqPB5UVSUJk1BU0AAswOdKU9udwnk=",
+            "FHD": "HZ2:9aP4wT4/WNkZioGFJ1uC4uR6fFozs7iiQ1pYnMR8ACIhOeai0jG1R4a26MpRly5UHKIjMoXQcWJOicd1xZbcyl+WxOv0coJ6VZ690h9wpcUCP3hqO7EgNDkFHHlqPMGBNTQ=",
+            "HD": "HZ2:d+s2mOJUKVI5ZQwwagHKtZMOSgRkSYNDTPa2IpBuNF6sb0O3EOITY0Ej0bmNxKKwoABUAuHr4xlWYjbEFzNCa1CQgt61j9Bv7p6KEwI1T/8OvB0N/M4DZzdQcerTW/goo1w=",
+            "SD": "HZ2:FDAzCy+iPuvsK6ei0wGoOJQrDNwMRogRjfqpjKH6ZThvyfDt84CEP3L9MDjdY+kTA+xDoFq4JZVO3uhj+6euRrMqYV3HRGiQiRmtaaG7ZbfWbRijgSRe+p+FIK/w6NF3I8E=",
+            "Low": "HZ2:5wXXh+jRugkbjq83qYr2lkrMvvhrBoojWeWmMPnRUs72yfb/PmF/lP1AnEH5lsRAposMMTqLrhqDRk5EEiJCZGd2H2x7yCPZxCU2O758xpCfRsSyJBH5tHw+3O7rgE4w8tY="
+          }
+        },
+        {
+          "name": "BeIN Sports 6",
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png",
+          "streams": {
+            "4K": "HZ2:hzhwp7obKd/lpQZlaZ91+rDeVCje9ZTFlVqXkXGbHEvO5jgR1tJwhRvNhX5polAoLDkUz8k4qlI8V9SPv/OmRTiRN6v9hhWiEpFnAMGhuCg2x5G6ejAcBSq1OwLv+JUXfbM=",
+            "FHD": "HZ2:VDV9M9BckpRtuOBxIGj9aejyoUkSgnwJOoG3jXLOqwYR9owOENj3rQQnjBkV3Z4Hk2XAfsy7waPqLoj3ajDUfG9HUDsEYaPbVNwA3Z8GU90ZmNXKKUCYfHZe7QnDLu8AgC8=",
+            "HD": "HZ2:4bAsrwVPM+ehEJt9hcOGZsYBsNIjweuvaLYT2b63H0ThRmWxvFtwkizGZoyqLJ5TrbFHsQe7Yg3knd5k+64PjiJMhb9l4da8p1whcbJ6eCeb4BXgFJoZ1yuxr2pqx9reiVI=",
+            "SD": "HZ2:teCjy60Chps3psS662u0hTCqn1ujSy96hgLebyQFmLWVb0AXbhSWcarROQ3zKFgihKI7wJFEsCBZP0F8CKvbVNObrN6EeCKDMsakMjPituP929CWXE2rXaDuHf1J+amQ75Q=",
+            "Low": "HZ2:xt9cALprEQCHuHa7KgY7wjZKs9d9XlCrldudglQtAWW7PAQxGAwykwr2rEU3po9MMjMgvJXAJstb1Cp3HFVZsFD+5T+1OiggfavdogSn3vYgEmHPo4Idr9RBh+RVmMTv3ik="
+          }
+        },
+        {
+          "name": "BeIN Sports 7",
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_7.png",
+          "streams": {
+            "4K": "HZ2:Zp9is5X9Dt5mfTZm5x7Fi/a/HNcqoT8uRDuPDEzUc8+P0W4Db0NC1sBdXx7pRKGNh/q3SytiAnCZHW8SoELWA25TDQxBp7xzQi6QXPFe34S0ezFjyiDZ5EsER/71vl5QI90=",
+            "FHD": "HZ2:fZejQAG2pGKgjmF1GRYuebarQ5APYrRjO7+xhI9GoQKV7KwKuh1sTe40zMrCgTBawfI/Glo2k9OFN1KotqeqYdS5xzbseXkQThtUS8Gs0L+3RfqaC7fWRVNLEsy6LTiPotw=",
+            "HD": "HZ2:Jp1GSEvqzPfIoc5eaRejA6BENn8519JJydJH5kjHIc+2K0AHvQ6o6OhzeZ9q6Vaosf7SA+WkhH/pkLB7R1CMgYfJ5PzUb5zWvtXjAzg3I3h9FAY7qU2e0j9QuHeyJdz+6Bo=",
+            "SD": "HZ2:CsRmd3bENaF3DLQVfYJiie+O28cA3Jc5KhvBJfq+uGGX+zN+jN5zCm6rMsn2qORsVYPSy1Rs+iOa1Qf+LUrM4cmF0UBSU6N5KoZcIuGvxWz47eSNIwnxqRZVF8J9IRq0Y/s=",
+            "Low": "HZ2:/RUu+9i3qtb7JlIGIemrMsHGyhgZeH77R9AGX6wcs6b4nnPzP0n0YtpW3rX9F5ltmhdA4hHoTvXoaSbKcPFplLu3v0sbmv/w+DETbpkiGsn9cniGbKztbcCyh4f03nExk2o="
+          }
+        },
+        {
+          "name": "BeIN Sports 8",
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_8.png",
+          "streams": {
+            "4K": "HZ2:acLH4MG1k7pCKoZkhIeFDSzdlqzL7bI67ezT1CAy44/30jGuYgXIsr9W+GoCIoYqiUBIngxhmQWQE9Co02qSb4YkK4GdSTjUYz9gXKkkNAwbvx3YzX/XVl+n6b6KpzE26uc=",
+            "FHD": "HZ2:oSCUzi/9W8+BjFV2kqJ9TDS2+gSFVWoHY0ANMRd+Ts3b23HOIfsklEeC0MIrgyMN0ksK7UUGBHzZaExkBasvGtcwuc/dik0pDJHtMncrsL5Aj3XEayvhqIJSyHzDyrlm/zA=",
+            "HD": "HZ2:MihcPydffXUnGGFW0EaCe18QlyzU69oUmIRdDDfeXK9AcEXuxfO4o0QbFVbqhCkFk65ENmM/DHMPKHTvAKsSbZUhLQrogt/w+9BlcLxPGYg6QiLblvDsms+16i8RLZyd70s=",
+            "SD": "HZ2:q6m2UJ/z0+kBAwYI9SXRUI7L5FOQ+leNjswQeREQRdMUde1ycTVuPi0m3yybPQMTO6foMdSA44HU0836WBFNKeRDBgqHPzjIUR38ca8mH5W5jicLmhicb/CWTGsmUljzaRE=",
+            "Low": "HZ2:mZKyRI822SeZ7LgjvaFd7/Jg7CvpMPE++Tdq3E2GosP3JjcLXcDap81yCCFfP1hphYmsfeb8tfLSy5j3iQ216DiVCbIVtKm1K/CB+O4j6xiN6dCVsl5Jdu+ZAsZBZwx7iwk="
+          }
+        },
+        {
+          "name": "BeIN Sports 9",
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_9.png",
+          "streams": {
+            "4K": "HZ2:4ML3B8gsTOfv8irj5z5aUyKNwHG4IQFEtCxZlsCQuEW/DhyRI0oTtW87Vor0JNLIRhpCJzPC7eVaV3mh0Xgod+4pMiVoMH5X/GC0Fw0q9OcpP4BcGXNKYcKS2DcUfFRchqM=",
+            "FHD": "HZ2:TRXR9uFet0wwEGunGen4SzjboRl6Z0enU1UxaJf9FPasRgQcGlO/5ihScp8nHq4h7+IlCPPLdlsW3MQY/JtJSeSaPVmNrn6BtAyr78JskR77Ci/CbJNFX2V7yx4nCagzY0w=",
+            "HD": "HZ2:sbs9C3mllYNgRqrWXssR8MNlbR97waog7ug2WLoQ3BEp124xdzTs5s3u/elmaZaUAfDWVRRP/UEqo04+0lvcovsJdctzrkgfzA/mWYt26/juBYqT7WT2OCERGA4NsjeZO54=",
+            "SD": "HZ2:sk50YEQZGZgLciqBHo6CvIA85CTIhzD7xJm3+0J6YbVLXeQEJK9xFyRKcY6GPZPh3I5bAzJx4/m9cvj/C318YRuC7cVWefth0bFruErYxx4fhAN2EZ7MUSCO3Jw2arSCOwE=",
+            "Low": "HZ2:30JlbQc3HBXV+PM1/en4hagKbBGXz8MtcQXtC5dFHyV34FNPb8Tte9to3VLDTqtszM8L2am7xKSKade3jurwbvzzuCVD8FUd+plW5wksw1A5Y8oyxEEN1S+8ZGHND8De+uQ="
+          }
+        }
+      ]
     },
     {
       "name": "Bein sport أنترنت ألابراج 🗼",
