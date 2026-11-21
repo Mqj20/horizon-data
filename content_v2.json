@@ -266,32 +266,32 @@
       "name": "TOD",
       "channels": [
         {
-          "name": "TOD-أرسنال",
+          "name": "ريال مدريد",
           "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
-            "HD": "https://smarter.majedfiles.site/live/ch1/c240cb857a694e2f88cb006d7234bc03.1795261633.1797853633.2.4aef00e8e409e230be4374729f9cba6e6349d6a64214c428ff5ae2039121cc00/master.css",
+            "HD": "http://dana8kone.com:8080/live/dilarsx1/cd679c264/451960.m3u8",
             "Player": "https://player.majedfiles.site"
           }
         },
         {
-          "name": "TOD-أرسنال",
+          "name": "ريال مدريد",
           "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
-            "HD": "http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/482706.m3u8"
+            "HD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/1744974.m3u8"
           }
         },
         {
-          "name": "TOD 3",
+          "name": "ريال مدريد",
           "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
-            "HD": "ضع رابط البث هنا"
+            "HD": "https://customer-8yewdk728ckzhpcf.cloudflarestream.com/ed0636759102610b32fbce795792648e/manifest/video.m3u8"
           }
         },
         {
-          "name": "TOD 4",
+          "name": "ريال مدريد",
           "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
-            "HD": "ضع رابط البث هنا"
+            "HD": "http://cl4512.life:80/live/146768572233/522521762678/229002.m3u8"
           }
         }
       ]
