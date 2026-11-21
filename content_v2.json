@@ -269,14 +269,28 @@
           "name": "TOD 1",
           "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
-            "HD": "HZ2:kGRtrFRhJuwfQbDNNpcVEUSmo5482tR5WAhWUVaAjCJknx9LBpdSPy/9utPiUQvKH2E3lOBK/rZtgYcDS2PobBD17sdsB1s2boKJ5SBOKHsX+FyYzI4="
+            "HD": "ضع رابط البث هنا"
           }
         },
         {
-          "name": "TOD 1-S2",
+          "name": "TOD 2",
           "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
-            "HD": "HZ2:nltiImDf8PAC3RbzsvAQsohxq/AItllccf9ofUAZJO8u3cJWk5HVQjRgR4wiV5AhbCUBobQC2ns59owt9lUZ/V51bvsMOMBIcgFS3E5sE8tF5qk14GI="
+            "HD": "ضع رابط البث هنا"
+          }
+        },
+        {
+          "name": "TOD 3",
+          "logo": "https://i.imgur.com/J9JKIxK.png",
+          "streams": {
+            "HD": "ضع رابط البث هنا"
+          }
+        },
+        {
+          "name": "TOD 4",
+          "logo": "https://i.imgur.com/J9JKIxK.png",
+          "streams": {
+            "HD": "ضع رابط البث هنا"
           }
         }
       ]
