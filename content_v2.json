@@ -34,69 +34,80 @@
         {
           "name": "Horizon Sport 1",
           "streams": {
-            "4K": "HZ2:nUNrWT+hHkMT4mhRqI6FKxcFWGDh0ku7ftXg+VpfiJ0XmHNQWQQChj3NrGdb7vISxhQSMlzyiIx/484rqclC5kylChmzcFowrAC46s2gL7jUZP3gJU3y",
-            "HD": "HZ2:apuQ3+xwV9kvZn87wAOzK6jZYrMMoVSFfnPkb9Q+tQ6T6kvAz37WFsRxIV3MxCXWE8TtJ8yax6MsTCqy610FYm8OqePIMUDhpxlzZBHS80vm+wKfOelP",
-            "SD": "HZ2:GoI//uulKSF0OXTURJN6tEre3ac5UNsoDxN1JDm0wu2fjJ7ZZQe+ZomCb9+g3vm277mPVC68+zkm+s72NTUOTXgglT6iAiozGdkJnuRyP1/s9C5tfxSM"
+            "HEVC": "HZ2:oVmoKo+Xjh/4BOVaGaZ8YRMy8HzXzoS3vJ8EGqCGcgFJAlIEeHcOFvFcNkef3bBggpzdzQnv8R5AQZw+87WlLgku+TrdaLc4u5Qy5k9iyq9xYnuHg6R/CEY=",
+            "1080": "HZ2:g7qxbz2/+7BatLQZiR1v8SCGL3zr/qVcU3AnewvUZ7rUw6Ou+biT1c1GyymttxxzL1EYd0cZ4aDt3t1EMWnXerLZZYIK+1tP7tDflwUvoBovL+H1SX3my7k=",
+            "720": "HZ2:kj7R+dKOMZZy4fy/D6OFgYuqDcFYC//UCSelRuUkWpYyV6BrvWyh1naLqFKTx1Wdbqi0X16d8klvf+PgEkLZnKsxYo7V7I771oaUYvktR0yH0RHRvKG+PsA=",
+            "540": "HZ2:bVmpDFR24i1d1iDdRd//ADHE5pVlSRy18WbAe8bR2D+6JNbcX1bfNf0dgmA5crhq0K594ZH6TOBfxmLSbLMYJ2oKzQaKaeq0uFS83mFzwOOlAjG8ICw73xM="
           }
         },
         {
           "name": "Horizon Sport 2",
           "streams": {
-            "4K": "HZ2:+yQLr90pTcNgdcnBUngdUx2tZDR2U3Fd+gTk4O75RRZSLoQgQNPhtrar6WVHs63frQuL02GmJaz1WLorecSI4AbC4uPB6aGKT556ps6L/AJccUDq7kUL",
-            "HD": "HZ2:RlohSl7g8ocrYu+rc+M4lBqq1iNhWCeTyVO3xyI9i2G3oceb6w/d9NiKOm9la6DX5Um8jL0buoYNRScOwgQe7/G0TfOj0jXkJ5g7mX+NiMAmx7P8zcrF",
-            "SD": "HZ2:dPpiGOwxtYtqrmB4TYqSgDX5zy7yEJEHMcjqA5aeqIH4HbtsfiVN5lItJbykE50oPxhIfzLEO5UPHp5RMhbyFcpQZYp1J3gZk5OxBxnprc6RZPFU5CX/"
+            "HEVC": "HZ2:D6DPLhSNw3pUDa5+fDC4VAUK3hGxXmhVZI+NRrAXOSp119LnSOUDI7EFoVgNyxmeRV2X+OvvBUNhS1ej3fGDn8/dMWLts/1nEPWO4mAPcz3d8dhL+31n798=",
+            "1080": "HZ2:nL0O5igH48Ion+ijbGtYKQma1cSEXYlW5VkSo7HA0mTYWNZuwz9nnGTYA9TDaJoCvLowfBV0RJAb+kBP6hkFuKkXNSKnWhH8WViu1HUUIno34KfRwcG0L84=",
+            "720": "HZ2:vTNVUdoJhSZQd3vEHmsvBrkFVA78GMjlE+MwbhWQw+RvD9N3Q/2kFKBN1m6BEdjwjDLkHicCU5okmtRwiCwCPV0e+1jXNjrvw7QkgE57PsU2fJnZxThX7M0=",
+            "540": "HZ2:2op73+NsdxMiB6ZrWSDNMkR0tif9Fr211zXxNfbCNrD8HivFQw9tef0734yOcrqF9mFcp/1/CvdRiFmX68ri6BNiv3ucV/ty93Gome/HQOqFfgKWxxoVwEw="
           }
         },
         {
           "name": "Horizon Sport 3",
           "streams": {
-            "4K": "HZ2:3MS9QNWKts7dAnbc7mMSnpZbIPuwiksII8ZMotW1fcfJBfutCKjn29frxM1Ywc6McsHlyVw+obMnkwF1OqLJc3yDmRAOAQJHbG1NN4yxj5DsQnVkHvte",
-            "HD": "HZ2:x8jltrMiW5MZ9bixE+ezWwQ7+1dsPq9ToU867vxPTyF/FoP+h3A5VTdWaDVc9UcnsyQQU8YMBHEh2RPX9Ym7UAMRaJn7+XJAL/78M/Vwv7palZJfO/tN",
-            "SD": "HZ2:/EZfecphnv4C3C9XXnMRGqF1/4SxVEOBN21/QVuYaKRsRcChDr4LMs49eLOh4ApJ+XJhYav8Uv70A/WFwzUOtkOqEP92tlka6sQ3UK/ym+atiXbxz4GZ"
+            "HEVC": "HZ2:iQmpL6fZ2aJ0CaTzBVXNwSy2tbY5lwmGasQfZByv6IulWEk/Y5aSrrx5zplp/THOSvlPneSLhKv5A2KHgCxcAhK0d/lTRp2+aCIDPiQnaI/aM3EBqOoLhMg=",
+            "1080": "HZ2:PzzHW7y3n3GY+xoHCwXHQNTKGoGsBySsN1+JBps80eAYruWQJBsHowC8Rb7Uo/mE/6qZfrC64fWaHCAzggVNL5yqtUSEHQBTdkjVPucSyml3gQuFiXyEbxY=",
+            "720": "HZ2:6nYpFfYwROde53JZn5S7VMG+pY15fBFL32lwALbzYR9rUvxLTY64stICLOb5fy0ITx3td+3yxtn+NANcB6/P7JHnVCOwyN5Z4YAuNrZp/6hd73rfoSlfknw=",
+            "540": "HZ2:yr3v9nmAdrXndUXsGB4sIlygFrgvok/I+/Z1u/hfQ/JtTkKR9bOPh69ZB4wlDaFleiE5KGuDtWLiuRRCAapQGuWTObosknjtFhzfnKuQT55C8pKPbrIux+0="
           }
         },
         {
           "name": "Horizon Sport 4",
           "streams": {
-            "4K": "HZ2:9pIuifwxN+fN8vIslamKYJKR1z+reTFO7/sLEvwa/vZ2ihVDligOLXaDvWldGbKQedlF71RfX80UDvPMbIpp9ZhbFBJOG4wbUtkRRjciV53CnJam+R/e",
-            "HD": "HZ2:mQlDtnRpfyEH6f8Ee3j5QchzcRRCXHj23fj5MkG4ipRrhNT/7pRmYs99qz9dJ+/qM3r9wzMCB6r7m5VdAPFhsi4gW4xUaZrimoD/xsCKwaZdsp1n8cuX",
-            "SD": "HZ2:Ukvdawlrts8/Sh6KfxrmwQkQswOWUO4prptkv7JOq4HE7ti4a7+Wd1IS3bKiazduk3bOn1PD/ZZwpgr3UJPZlNh4XplJzZiyKo0vQeIxZXZayzjGaw/b"
+            "HEVC": "HZ2:aXvggemXyYTUSN9lSarqyZX6C5mMabFk1rh2XstkTGo97acQtzWOM+qo9rlZUG5AlBd6KXyiKMxiLiUs7NX4uyBaIkiPrvZdn5UbQZHYNzFAOGmgb4LfuZ8=",
+            "1080": "HZ2:bW49Gjdt1MkmUGfpAof899dD6zzZrgdXlpVmD/E4rwXD5VgLRY2PilDPgPOt8VtSzhScAQVfrck86GsYGsqeU96cd/BfK24xv6gSGV1BhUQm/Ew7Ip+sdXA=",
+            "720": "HZ2:CMxtmo1bRa0QB9qrZQqYbXfLtGPFpciLBSUHqNbbkl/4YgC4nFFujBUahxSlTjRMtz2taxeBdIQUiMAnwytL5IC6owPUYQK/sGZyCKOm9Cpv3p6CMQoXBZ8=",
+            "540": "HZ2:fQvuV5H2YEnZwagduuFRQP1qI8tMU5t6icJ8bz3gPoVcGTvZXR5IeUyh5XDh3CbcR3tlCVws/eyjcNgA3hq7AKT2q3Oa3Yc1Og0/V+m7NvK7oFRSOGnAgc0="
           }
         },
         {
           "name": "Horizon Sport 5",
           "streams": {
-            "4K": "HZ2:rGkP8M+ZWO683+14faxQNQ7J/uuqPNJvAIxkTPU97hI3ijF56w2HRF0sc7sbo9jcNQVfhUdPL5I9Oqm3co28S+8te0JA/mFBXVv+E2UPNxTL54nQIYPX",
-            "HD": "HZ2:j5uUqnJdb2LBzAr52YY9c0dfJgcKXcqIx7f2f3PHtzmzHiBoczoyZeEIuViLZWeXlPcH7/gyhbOz64gBadMQNpcZ04J/Ts4pHU3axxtitanFUgQNmIdX",
-            "SD": "HZ2:EvOsAUFMUICqBo35/UNBKwAqWAgCcAy9d5m7SBteIfJxUc9uT0rs5lJuavvDV3++BMcpRaQasK1LyLhcMzXOEMXEQ2DY0tbz1XxZo0Pj53Oro5ovskaA"
+            "HEVC": "HZ2:o4MaOYWWn1c2ONyKQjUiXyH44fK/OH4Mrb1+b+49/QdgTsaVYC/eJTvJ/LBkDfOExju8wIr/vw6VDdf3oxcToBMdrj70QUNRK5iZfr4sOrjX64II5ziJg8M=",
+            "1080": "HZ2:GnDT6IBZka6OHIIML+HA5+qSC1SyaWdq6Yd4FtP9AcAqw28hP2SXP/Y5pgtWdhDtUdn+CePzso+AGBYMBU5RnQw1+wsnquz9ac0YlCta0LpK2qMIQjP8Rsw=",
+            "720": "HZ2:e51WkngXbCRRuANPf/p319j+w/N6wRspnraq1xqjbRJ2vdxGlslnloVe1qTua+tZlLqun5jXK6rISZYbS/lJjuc4UE/K01G1kOxsJBFQTIP14649gcJmL7o=",
+            "540": "HZ2:EWa/ljvfbbYGbRD7ZQAjuZqzEPOrVMjs/daXxj5kftzhdEEmZaekhamIH0c2CLUmT6PuSUsiOr9Ox2uMxkmVbndSLF3S3V0s9vWpyf+7IAO4F+/POlB3rOw="
           }
         },
         {
           "name": "Horizon Sport 6",
           "streams": {
-            "4K": "HZ2:KMYBRRZFKaaNlzHvDI/sruNhno53Pn8xpQM9Awgkx7MYe9lDvpBuVufACZy/+PVKoB1LXNQZ+JLz0yd3wYv6VGPsuJNDf6WwgH0paZdhvOQarPCa/lm7",
-            "HD": "HZ2:O5IUweCFfPKH43tNAkp+RjrF3PwWr4dtdsuiLEqk8TCQgJT6vc2IgFMJyj0JlmZ9LTr0H052j0M8ffLMEAoh72BCPDXblJ2T/0aehUlxImiV12dKtaS2",
-            "SD": "HZ2:Nj92KUoe3FJEj4prdOcvJM2wHsbhPO1zzONo7aPZPn71cyn/2YOXNPBO6XyhqFIyQFPga/lOrYSSPJlQG+1V1/Tv7TXg5vKMQOuwuAHPyU9A67gIIu84"
+            "HEVC": "HZ2:aS2Bpqz+typzPz61hYDxbFedZxm1YQmGHi24+4D+Ft+1DFE+lLwX5Qaludj0HkXly4K8bZJVANseUcSyqZzOR1lcBvXCi8jy4rxQnLkSuKjALMoOsKCPcys=",
+            "1080": "HZ2:gaMin4kMTPPQ5LpvMWTmppKg5Y8xuoSOl6ZCUBKQYPKbP5xPJRNHkDGIw7vIC0S+Njip1pvi93xLByam72kUMrVZNPG/uvR7+njDiVDS0YSnyOlHGLLIMOo=",
+            "720": "HZ2:T3ekGfArIAi8HyMfCyuhRAZ+dDZa2buNbasUGOazIiNNAQhaHkzdlw4s1IqUqTxlBCAA3qaCckHzVHyCoRvVo+654C7grTj4Sgxg8FY1QTAWLVIVB0n3VAo=",
+            "540": "HZ2:M4XvrxakGZ5L+kdfsiZIkx7S7qYAgTUcTtupm212oCO40h35d/Bnfu5mCqpiINY0bYuRaDboB9O56OfnBGAFII69vwah8IqRFeCzsmHlnBgUkYPdywJyKWc="
           }
         },
         {
           "name": "Horizon Sport 7",
           "streams": {
-            "4K": "HZ2:AR12xyw+hZYmSZmzaQ5w59VuWOn05s7uora62nLEcnGlnWB4A7/shyZdEzXVAXRTgutmW4JkIaDF/SSJ+WKPVtqy1QyGKxnjAjwQ6oQJzdY9NYB+iOoP",
-            "HD": "HZ2:lN6r+tx0wAgdDoEMI3T33Af6Ham0DIhNrUqy0nyWQkAwY9/Yv0Jj/T0H5tFAms/ex95ot5gp02Xy2HUgT2dp2C6f6UuhWNyIn+AXNlrq8u6OsZrRSNly",
-            "SD": "HZ2:ub6LieGzRaQOQdKxcOAh/IKd5UElr2sAI9zMoYeEk89B3x4dpTjUrP8I9O6l4z8wUhIj7lJyKQWDZ0gCvKBgHLwfHzrB/1jjKJNpFZtI1ivlXD4XaQVb"
+            "HEVC": "HZ2:9ujNprdZ8pv9qfC6u5SR46ePSShS0RU2SZMIvPKVfqSFcwqtd43jEMKxT5XrtrzwkrUZScuapNUK4m1VRWTfeQ8XdtqHe2fbkLORGv4jYcxuFOAp1Ww90EQ=",
+            "1080": "HZ2:GqAsB8/ueHGDvVVQ2D6R8xBfevAEQjgM8xVHM8BfI0JdGpe4ROuxLOLoCnUZqB6EuSsAHeGqAXTHCrX9KZRlhJyuxHscTeE9Sk3Y0oSGDo9euQ/dJhql+OY=",
+            "720": "HZ2:ROh50jGvI3k22eGj3zCGetb15w7PY84YwBDmrlT6TXXL/M2xQga9BBT1wxp8TI/ujbpW14Xf5yb2tAgKMYNF9pTJG4VSjW+C4oI9d9NP3+88yykCUYJss/g=",
+            "540": "HZ2:j4+NQNk4lnJKMuy4mFg80ml0g0Pt4L+uyP20JMXKF4JbNbUAHRNd0E8OcjoEAGuK8hUK8QDHUra4oSFMTrMiV96DD+GNjZEeTZNqocOZNVzuXGnkJ9erCCk="
           }
         },
         {
           "name": "Horizon Sport 8",
           "streams": {
-            "HD": "HZ2:wstrPLYMff+Q7+vmmN4UmKAHjUsZgjXXVuOk5HlP6ffrhKqnz8UeD2X4//KIvZI5psp8COyrlcdllf17Odx6N7CQSyHe9sH1EzwaZL7vSAuq5HnC1Voq"
+            "HEVC": "HZ2:+xzoSLaShR+W3Efj6tyWqY6B+pEkWkT+6xYYF0HwfFqedZ88zRvLoh5vNXFYp4s9hu31pO1j7n1zOlbaMKGq2/oM7OMNU6C4mPpF8JcnWrRya2Rx9pKJMTg=",
+            "1080": "HZ2:LX1939vXEdlmd5OR+8a4AbJbro1eYtgiwbLwqPeFl2uRkp0t6szlQjpLBOdihu2XvAsFjvmVe4oBRFHODT/laNnCBEWeKkYw1txiN2ZLzqEHy6KEBk8QDCk=",
+            "720": "HZ2:UdBQXf7+9BFpSjlnZIJn8bWFUdotxVsmyE/DHoGn9pBCgaQuZTGKCsc162QohB9SQCLeYRVQFik9dr98QSxzYPc/YZJH5cYTvXJoAdccWZazIXQXAhM79aI="
           }
         },
         {
           "name": "Horizon Sport 9",
           "streams": {
-            "HD": "HZ2:nFqzlUg7yya5qUa63l4067iP/AwYK3zby4BMQT7Vd9cKWyljd0YtCrG1HPh/p9kNlPX5hDFF+bqi3paq1KUjdkdOBPOYOpOxQmS4XeyPuHD1yRi/uvHP"
+            "HEVC": "HZ2:ROJIa8FZ2gdVzdCzMgKpzand4SlvOucNNygkn54xVSyCbbGhftdbZHD/LJnSND/6ItG94HAcc6L9Z/T6TlZ3DElOWQDi4X315IuP6OEsVUbtnzh5v9kFMHw=",
+            "1080": "HZ2:cYxIgyOfzPnB4zo4H3pX0TvinH74o/E9iMrkcourwNat6SFVxsZD9kGWVNSXyz3knzQDTFcjtmCPjvSUk9vZaL3nsvYl0aazr9lc+OwdlZHeAQVwyeHirTE=",
+            "720": "HZ2:67EHFBinYQ30D1sCXpZRxAfVX4DpK49RnSRM1wtHHH2GFU4RiAPv5S8B4iq2ye7Q4/ATeFvm/UaC9p2eYaZth6uR9+kkL5z9D0mWoQPrvfwHD6Ja6GXgiO4="
           }
         }
       ]
@@ -1592,7 +1603,7 @@
         {
           "name": "Falcon Eye 1",
           "streams": {
-            "HD": "https://uruk.optikl.ink/ostora/main.php?id=81689&cat=4192"
+            "HD": "HZ2:eZNXyylyKgBT10ZTobi9gugB10JIYyhrPUjR/I0nUco6SGnTxVD/P1JcfPRKzxN5KemGVvBKyuKih9kRm2hCQPJbowetvLcfN/w3sglQ05Y0ML7RaQ=="
           }
         },
         {
@@ -1606,40 +1617,8 @@
           "streams": {
             "HD": "HZ2:PE3Isu8BKU58WK2jGj6qihCacNXeKpPZdzaNOqPuCAT19ktbo6h1Pa0hUFjuIPeVaUxXF1iIxA2+htLjoHuikPni0O3NjpAwEcR/j+WBJv1uLEhT5A=="
           }
-        },
-        {
-          "name": "بي ان سبورت 1 (اختبار)",
-          "streams": {
-            "HD": "https://www4.manar1.cyou/x1/1_42.json?token=e83a1bed84c494df06312a0922cf60556d00797760f4559720ea8843aa0bb99b&expires=1795238887&exp=1842206296"
-          }
-        },
-        {
-          "name": "بين 2",
-          "streams": {
-            "HD": "https://uruk.optikl.ink/ostora/main.php?id=4129&cat=333"
-          }
-        },
-        {
-          "name": "بين 3",
-          "streams": {
-            "HD": "https://uruk.optikl.ink/ostora/main.php?id=4132&cat=333"
-          }
-        },
-        {
-          "name": "بين 4",
-          "streams": {
-            "HD": "https://uruk.optikl.ink/ostora/main.php?id=4134&cat=333"
-          }
-        },
-        {
-          "name": "بين 5",
-          "streams": {
-            "HD": "https://uruk.optikl.ink/ostora/main.php?id=4136&cat=333"
-          }
         }
-      ],
-      "password": "555",
-      "locked": true
+      ]
     }
   ],
   "movies": [],
