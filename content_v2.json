@@ -266,32 +266,75 @@
       "name": "TOD-البث-الخاص",
       "channels": [
         {
-          "name": "برشلونة",
-          "logo": "https://i.imgur.com/J9JKIxK.png",
+          "name": "TOD 1",
+          "logo": "https://lo1.in/bss/bsS1.png",
           "streams": {
-            "HD": "https://mxaplus1.de5.net/live/MAX_Plus_b1/index.m3u8",
-            "Player": "https://player.majedfiles.site"
+            "S1": "HZ2:29a7LeEQo8Gs2+4+YCj/wZciizztxir8YsmlnoRb4+oQ6+F9/7tLHRMmhXHaejVw9RnUzjPyDXc5vxWGGJ+gf9n1y621lcp+56M43tEK+8cKUNNQnKhY+QabYzQ=",
+            "S2": "HZ2:bDQsDyD3lC/gIfyJXEBz2jJxA33V6LzdRwfUlWSgHH14jH5NNwNmVEs0Nvc6dolHvwGcruafwV3fyyxwLH1Jhi3brSUpuGpZ09BKY9gLTZhdTipfZlnZ/eN9+y8="
           }
         },
         {
-          "name": "برشلونة",
-          "logo": "https://i.imgur.com/J9JKIxK.png",
+          "name": "TOD 2",
+          "logo": "https://lo1.in/bss/bsS2.png",
           "streams": {
-            "HD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/1744974.m3u8"
+            "S1": "HZ2:rXiSJYk+Ii9tLzUEBdao37SueAYrkWwN4qCFGJVDFTtB/q0qKCXtLkgKg0PticuOcK/7zei7zAJ+B3ksZrxd7QbuIgwxWuVkPpsBIHXg3ZTpc2g8K8lczz5XUQY=",
+            "S2": "HZ2:Qim0LnVMpeqs7viWtIbLSfGplVEP5rNd1DkMPbKIuZsSHmBTm5Z/NctkFfJXEZWVEltDhELl+xTyFbVYumIjt2QSFbmGfj17yE5D+LvNA7skZC70tYfAiy0nPKk="
           }
         },
         {
-          "name": "برشلونة",
-          "logo": "https://i.imgur.com/J9JKIxK.png",
+          "name": "TOD 3",
+          "logo": "https://lo1.in/bss/bs3.png",
           "streams": {
-            "HD": "https://customer-8yewdk728ckzhpcf.cloudflarestream.com/ed0636759102610b32fbce795792648e/manifest/video.m3u8"
+            "S1": "HZ2:z/KO6O8p4pf8B02aJ0aha6vEJwPZ0NQm12Q2cUJ6j3sIAnT3SaUJolyTFAeql3I0VW/d0eBoN4VfbtiuBHtyCkzr3ikcwn0LB1xNjqstWZUqETfKhEfwrVtF44k=",
+            "S2": "HZ2:qDz+ecthwaYY2qA8in5stPHdcP35DkF7Ts8GzHr/pOpOOSfOYPHkZ7XJ8EPooS5ad3b+EXPoq67RZ03DNhgV9EWxr7lf/4oVta6YcczYjD4NRtkKKr9mW5VB3AQ="
           }
         },
         {
-          "name": "برشلونة",
-          "logo": "https://i.imgur.com/J9JKIxK.png",
+          "name": "TOD 4",
+          "logo": "https://lo1.in/bss/bs4.png",
           "streams": {
-            "HD": "http://cl4512.life:80/live/146768572233/522521762678/229002.m3u8"
+            "S1": "HZ2:8j7NZ3p+cDd4roUMcvjxlPTPzLZHemGOr8ZxQ971U4/DuBklalily0yEagdaRWMxzoSTsSF3YcV4mnuTilA2wU8blI/LXOMmyHQYCzaozVwflnx2Dmbt/2a6b8I=",
+            "S2": "HZ2:CEAcVKV2IW3ESEodtnPnV2d/O7PawZIsZ4M04dpeBa1OsEhDeCP/+aRSHdHul4b2CSB1XWvCM1J/rXulXsNhHYexm0oLk2GayZGjmFFX9tfVOd0s8X9SrUZmk+8="
+          }
+        },
+        {
+          "name": "TOD 5",
+          "logo": "https://lo1.in/bein/beinn5.png",
+          "streams": {
+            "S1": "HZ2:c+cZFjCpMdcRHa3p3UhyldlfaMrJOX0FZOabthEn03+Nm/bjbARhjFIjX+GO56Fn7hyROk6MfInv9Z0zzMihXqvSdNWbft3c/3OtUATYAR4h4fWXuJtc+lfOjYo=",
+            "S2": "HZ2:QDKE0WAZHkFlZnYLdQs5Z3JSsYGMrfvQIaq7tV3kSjn3sS+NE/A8LgfAEtlDXIxXJCQFnCaUI5BUGjLDdHYZE8MgiigwGXLKwkL2wbW7AjwvzI/9xk7g/GzRZWg="
+          }
+        },
+        {
+          "name": "TOD 6",
+          "logo": "https://lo1.in/bein/beinn6.png",
+          "streams": {
+            "S1": "HZ2:tfukcTSNXzphhidyruGJAvr+uXq43n3enw7hO6xKgCMj65TvNmjrSmE0+isZ4Upr+T28kKaQemLrdNOExdyv2uLCknOXEA1vPCyQbp/VANmjNR0K3HptCM9lruU=",
+            "S2": "HZ2:x92czaPr6HR6klTNN0VWl89GFbWJ+CoZn0hXZyGZ5Dq/mAibKn1DU/JAhBAxSx5a3Dbi8NcfNPC94ltaUNLz+VsFpcvegg/7ZnDmVLCpuzLD0pRtjHgc6gGsyVI="
+          }
+        },
+        {
+          "name": "TOD 7",
+          "logo": "https://lo1.in/bss/BEIN%20SPORTS%2007.png",
+          "streams": {
+            "S1": "HZ2:PppomjsrYXwLipDJ0fdHUnR9ySuujxozjbOMTMkqyUjYvNz43YddtT45b+ZIbV9GZyAhJ0FaDMlBGWVHGFspFIWnJjpPLHcf2clq9QFB7JRiSdaLiHgHwD5SCRM=",
+            "S2": "HZ2:N1xCwcTk7cLGZJXd6+aJt+5aMVD9iaNhAfAGB6jIvbZr4JL0xnkYMU+UbClhyXcYEeL5utx020S56fli9S/R8QHAWjR51NCuGwTu7HHRiv95NTkgF9OtqBQCwV4="
+          }
+        },
+        {
+          "name": "TOD 8",
+          "logo": "https://lo1.in/bss/bss8.png",
+          "streams": {
+            "S1": "HZ2:pmtF+NYfsdoMq/Vkf/eNRbScTrhgCWoWviG0u+xsWsm+2wJ/BGT/cAQ+LwAnzIhtld8hP+nfzLotoZWcJkL+o+cSEooWKRn/KLR7FykxEDwJRSQy90B4W2nB2co=",
+            "S2": "HZ2:te1O+UR3Gpc190akNDGaai2Mc4M8lGy3ykTLOmxSIeIridLnfNHqFV6uiS9ZuEGt+x60CSHVpRr9/UhAVRTFXHBM9MUPoQFG4bgYMHaAAbmcAgVUpxDXvB7xZAk="
+          }
+        },
+        {
+          "name": "TOD 9",
+          "logo": "https://lo1.in/bss/BEIN09.png",
+          "streams": {
+            "S1": "HZ2:ozyVqvmOE/7qiGOMmJ/AOCJElvhIIEV/HS42EOxcKkoKjOrrBIecEoYGRVtWugLfhFu5XT5NT/ERUyTIIh7uo4plq6qdkECYeTvawFsbeNx6v8cR1RePeivre78=",
+            "S2": "HZ2:vvt1/+kP/yBer8S8NgF3hpJKUIlXcX/KLqOBIxcxHp90dZ1uJei9B7Zq4+dPHMwDczd9LiwbVjH6ia2nL/0KuH9XM8jtJLOulBE6uFyByqJ+0pyGS1QeUcxLpEU="
           }
         }
       ]
@@ -971,9 +1014,9 @@
           "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png",
           "streams": {
             "HD": "HZ2:+9yPGZyzC2h388cb51gdh/dLFv9EB9KY66K4BH5BIZQ2dxdDclwcH6WNUmtiVqK8G07OseAWgHICaKzpkoV6m8UPIMB2t2xs/5yxWiAY4PMoAdJFfHvpFOFHg//F/GuyboBnEx4=",
-            "FHD": "HZ2:dh+sIuSvafpmRStymZrdm1HErjdInX77k0c6LTzKX0W9dWRZWJnN+N82RBCGK1SuG8j8voVv9LH8+e8m+97Z7HpOyhs3OGFt7jLKxQRgX9X3LNx9XnKVa7TjZe6vtIg1UMQ0Htg=",
+            "HD 2": "HZ2:dh+sIuSvafpmRStymZrdm1HErjdInX77k0c6LTzKX0W9dWRZWJnN+N82RBCGK1SuG8j8voVv9LH8+e8m+97Z7HpOyhs3OGFt7jLKxQRgX9X3LNx9XnKVa7TjZe6vtIg1UMQ0Htg=",
             "SD": "HZ2:i//cXY5uOSj4B7kBBF6kvagLRZmhvJSuMyfGFyr/HZPaMngJjhsdKXFPK/+pmHdPPmKFg17DSSLLkB1ubbJC39LJhCW/XRPKLZ6Cb0wtq7WNksBdTUxW2PMoaU71zm+IqAvUT/Q=",
-            "HEVC": "HZ2:zp4IKmnXj0giBvBsg9gS0dwatE6QXrFznezMi4/N7nMzLqR5AllKnTcYQ3ovsgCQ+md+jgQzgFCy/NEezvx/gkSd3s9v3LOKXex1bpRfhVIgeGuM3n6NsypJrF4T/6krUt39Rcg="
+            "HD HEVC": "HZ2:zp4IKmnXj0giBvBsg9gS0dwatE6QXrFznezMi4/N7nMzLqR5AllKnTcYQ3ovsgCQ+md+jgQzgFCy/NEezvx/gkSd3s9v3LOKXex1bpRfhVIgeGuM3n6NsypJrF4T/6krUt39Rcg="
           }
         },
         {
@@ -981,9 +1024,9 @@
           "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png",
           "streams": {
             "HD": "HZ2:nRDfLTi/3F4ZCZnJY86YjSCJZGSNqWOG6tfwBDUA+oHKv4uEHmrybPyeLLUqEJ529tnoBSZkuhEEwCZ4+T2Dokhou1xtmL06oJtXsKOIGmne825On36SPzWmwBFAvjWwzSnfnIY=",
-            "FHD": "HZ2:7KTjtEvTUHWitCF7c7RhtjkSf6xYMFxr7W95FasQZ1KI8w/ddhBU1TAmIrkK03CE2ddyQm2ryk//1NGgV2eA2YEKaP5I6CVlJ6H3bZozh9L9n8iUetmhN56smNO4LFwyCW31dys=",
+            "HD 2": "HZ2:7KTjtEvTUHWitCF7c7RhtjkSf6xYMFxr7W95FasQZ1KI8w/ddhBU1TAmIrkK03CE2ddyQm2ryk//1NGgV2eA2YEKaP5I6CVlJ6H3bZozh9L9n8iUetmhN56smNO4LFwyCW31dys=",
             "SD": "HZ2:9kduYupXEj/0httOoumi75joiWbTjdTqLPpw7IWpVyKOOm64QskviIY+VgHCrqID2lfNsYMmQ3tEXQ1NFeyiERZe36sRaLt6NJqM9Pu0RHoKa1cKBY7Duam5naeKKoD++KRcDFs=",
-            "HEVC": "HZ2:Q48hgfjvk6EgM5sjm3mUblz/iChMOtsIL+NGTwm09kSpljSiXpcwBOPsVWWobKyo1geqCkHnsE9SLl6wRf1leD1P9PDuU41K2yciyRFBFSTa+8UT3eMVJMSb5CLDEsJSsA/Xv7M="
+            "HD HEVC": "HZ2:Q48hgfjvk6EgM5sjm3mUblz/iChMOtsIL+NGTwm09kSpljSiXpcwBOPsVWWobKyo1geqCkHnsE9SLl6wRf1leD1P9PDuU41K2yciyRFBFSTa+8UT3eMVJMSb5CLDEsJSsA/Xv7M="
           }
         },
         {
@@ -991,9 +1034,9 @@
           "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png",
           "streams": {
             "HD": "HZ2:+ViCIfzwzDTg3hhxubjLUzGhMfdXIPzI9sKDf8cU6HglaYhP03vsueYQwFn9P+YTL4DyhRx000t8NTBQgtaYWSCT6AR61y+A01KqreaUGdcE2ru+7ppXoA/Jiwj4mEevfSLVc1Y=",
-            "FHD": "HZ2:R0iiBH3j68m+kLapukiA9rKMk/50SaT08r4XF/UTWrpp/ZwxZ5SB6lfn44H6GtAxmhDH8jZqArCe+D87ShgYGUvh2vZVt8q9pzI2cq9QZ07fi8yqCwYmzZQPFuOXm45l0xIyGGc=",
+            "HD 2": "HZ2:R0iiBH3j68m+kLapukiA9rKMk/50SaT08r4XF/UTWrpp/ZwxZ5SB6lfn44H6GtAxmhDH8jZqArCe+D87ShgYGUvh2vZVt8q9pzI2cq9QZ07fi8yqCwYmzZQPFuOXm45l0xIyGGc=",
             "SD": "HZ2:aJvuXMyYPPSjHs/VZm26Z8Oejq7xY7VtLV7EvxjZ4iUL8LS6zffrVlKVP//pAkDJUG/tqOjNUA8tN6pUfG2r6l1qxOST0yzdVvVHcTi3bhYIx2jP+gPZKlWDEF5JyZLwhFFyB08=",
-            "HEVC": "HZ2:Pm024g1ML/y5HlbXjjrYe+m8ecC6ivarn/ZIwF1370k5oi6YRYp1oonfdMBIhprAR8cVcbRU6rV3BBWEUCTt0no5FHQod9xtxhG9Y9fGqNmvQR4PGEz9CE3aFs49A9nPqf+6EAM="
+            "HD HEVC": "HZ2:Pm024g1ML/y5HlbXjjrYe+m8ecC6ivarn/ZIwF1370k5oi6YRYp1oonfdMBIhprAR8cVcbRU6rV3BBWEUCTt0no5FHQod9xtxhG9Y9fGqNmvQR4PGEz9CE3aFs49A9nPqf+6EAM="
           }
         },
         {
@@ -1001,9 +1044,9 @@
           "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png",
           "streams": {
             "HD": "HZ2:NzjAQeT0Od91vT0ms9qk14ITvwOkWcGBsAIwjZj+mMO8hvb5UnYbbkwqOF03ExSgqjunWLA2GUuSEIDfaQmcYsN91xO5ClwxL3UZOnyIgjt+Itic9V1rD83S0yHb26gjwWmrddw=",
-            "FHD": "HZ2:ftqMWpFOM/29hMPeq3DI6XDOa9ky6pdq1mzqE47K2GZpE/y07f3/10OnUisdaaprF1p6rr+CU7hdfH3fmyTdL5gjNi8JWoEmzBxvOBL0wk3ocFrmROsffVsRn4Twds69yBmwuo8=",
+            "HD 2": "HZ2:ftqMWpFOM/29hMPeq3DI6XDOa9ky6pdq1mzqE47K2GZpE/y07f3/10OnUisdaaprF1p6rr+CU7hdfH3fmyTdL5gjNi8JWoEmzBxvOBL0wk3ocFrmROsffVsRn4Twds69yBmwuo8=",
             "SD": "HZ2:O35euINiB9lxNt6baXMemysBVwJWYPZrVgvYseBHXrgHP+oMjM5O+Hytk+omh1GOUr5IWZrLPbPiWgWm95zey0sGIL2Qekm9ciMPb7r7ln3OJwuqrOyIT/x516WAWwPGzYTK06U=",
-            "HEVC": "HZ2:jaQkUafyqnJWpjGNkKVfg+K+MjBEmts5YWOsd8A3Y2MWToPD+ClDmzvc3iHF0EtKZ+GTucjGRsyPuNc+j5WPoCVQCPQblpEVcmRq7jpGqMnuZ34pa6uNqCBOt43XiYpcqFg+jwU="
+            "HD HEVC": "HZ2:jaQkUafyqnJWpjGNkKVfg+K+MjBEmts5YWOsd8A3Y2MWToPD+ClDmzvc3iHF0EtKZ+GTucjGRsyPuNc+j5WPoCVQCPQblpEVcmRq7jpGqMnuZ34pa6uNqCBOt43XiYpcqFg+jwU="
           }
         },
         {
@@ -1011,9 +1054,9 @@
           "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png",
           "streams": {
             "HD": "HZ2:1zEMzKVgEiKRaH6j4REH0/bGuq5+tfSYdsxmjqnVm5WN60IiiM0G+I1y5KiMs0WCuAvof/8IoCuh7CfST89v2LfVqye2ZOU0Xth/UtGA6k28DqrRIglZw70/6EbwH6egnqZQwlg=",
-            "FHD": "HZ2:GUy6UkIISI5sqc8dtz+oYE5CNPyu/5XB/EW1+qHtu3ZZQxBhPICi4s5EPfNROjkKed7uZUMmJRk4azEkb+6o4GLB7amCr2SdHyrX5Oebo6ZR7G6x8QbypXPGrEXeftOByIHQrxY=",
+            "HD 2": "HZ2:GUy6UkIISI5sqc8dtz+oYE5CNPyu/5XB/EW1+qHtu3ZZQxBhPICi4s5EPfNROjkKed7uZUMmJRk4azEkb+6o4GLB7amCr2SdHyrX5Oebo6ZR7G6x8QbypXPGrEXeftOByIHQrxY=",
             "SD": "HZ2:qFyitRzgCn3wQ7zcX9wlwYSnnQOd0B159FiRvfFCPonxGDEZzF8r9Sag2Z6gXf3Bvreh1+bwTHU4HZcHCokRuj+uo/pi4L7Md0qF3bgn0esMd5j7f3gzqjW21w6rfy6Ef2vOyCE=",
-            "HEVC": "HZ2:eBICMPAAOcbUb9/neqCxMH7a/DCD3CdmelkOT7ffcmGlT7/i0ws8ARqbZlAu0UqDZm34AZhN+wQSmsocamo3voXxBDchZ3zVxEEEi1aQ+ZNWp21Nm0NmPCWH7fW2N2629ShBYQ0="
+            "HD HEVC": "HZ2:eBICMPAAOcbUb9/neqCxMH7a/DCD3CdmelkOT7ffcmGlT7/i0ws8ARqbZlAu0UqDZm34AZhN+wQSmsocamo3voXxBDchZ3zVxEEEi1aQ+ZNWp21Nm0NmPCWH7fW2N2629ShBYQ0="
           }
         },
         {
@@ -1021,7 +1064,7 @@
           "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png",
           "streams": {
             "HD": "HZ2:wkaheS7KL2K/MMeXQgbgYtZEsSTzkVLK0cjllCE7vOr3v5qnH3CHSb9AL5IAYg3WuIiK00rpfV4GoIXbtYStDStagmjXZroEgEIRyLqP7axu2s0qrUBAHwu80IXhosMnBvDQkus=",
-            "HEVC": "HZ2:Tx9VoA75EyjS2CW0pv16wxZP+q68CovlHara1Rzxx+ZfESqgKQOzkFDEaEU05ARFWXy04QDKpu82LFbtQfysjv1EE3B21BahadznWqBPgi6nM5XnGpMV0rOEkUkfGSW6KobkM7M="
+            "HD HEVC": "HZ2:Tx9VoA75EyjS2CW0pv16wxZP+q68CovlHara1Rzxx+ZfESqgKQOzkFDEaEU05ARFWXy04QDKpu82LFbtQfysjv1EE3B21BahadznWqBPgi6nM5XnGpMV0rOEkUkfGSW6KobkM7M="
           }
         },
         {
@@ -1029,7 +1072,7 @@
           "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png",
           "streams": {
             "HD": "HZ2:6dS1MdXBOs9JLf4pjDP+mpNmZsYnnVe5neklWfa3nyUBokVtVyIJ8tmVYsYhYHHRQncRM96ETRHFMrW+umbHRJ7Ibvfou4Vmm7KW3gohI1omCmXXDnnc3/6FgRutQNRbAyurlFU=",
-            "HEVC": "HZ2:yUqp2R1PmhW2brzneuCwbUqYDXWm0+HcEJr4FNBty2lEq2hr4T/qJY4ZXoKTpRsXVQAphxGllRfsXxdgZYHliZDwfVusc93Y7iLi2gGgiqsbQ407fVehoIPWWg2nao1EkUedcIA="
+            "HD HEVC": "HZ2:yUqp2R1PmhW2brzneuCwbUqYDXWm0+HcEJr4FNBty2lEq2hr4T/qJY4ZXoKTpRsXVQAphxGllRfsXxdgZYHliZDwfVusc93Y7iLi2gGgiqsbQ407fVehoIPWWg2nao1EkUedcIA="
           }
         },
         {
@@ -1037,7 +1080,7 @@
           "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png",
           "streams": {
             "HD": "HZ2:DPwP5rnpOYAqFV6EnXJ5KnjlnbwwmS8b++7ikWjwMHIzpAYB9Yg8Up0FWjQhuQtn852BRjCVlPQXpAo0JPA1WjYNpawDgh31adKsks4TEGBtM6nTzy22uGJW/t0dHBBbsqzq31M=",
-            "HEVC": "HZ2:2TtvWG29lG3o7mmljGUNjiOE3EddyfWDdGUk69kRETxiAuY+3o3HetQFGzRyfN2k68a3xPbR2l/FctejSXYNrfMfqvCIPYBVZ41KUsaHn2NGWFCHUfpIPD1OIa9ljoqdsmdNgqs="
+            "HD HEVC": "HZ2:2TtvWG29lG3o7mmljGUNjiOE3EddyfWDdGUk69kRETxiAuY+3o3HetQFGzRyfN2k68a3xPbR2l/FctejSXYNrfMfqvCIPYBVZ41KUsaHn2NGWFCHUfpIPD1OIa9ljoqdsmdNgqs="
           }
         },
         {
