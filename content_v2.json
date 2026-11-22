@@ -715,204 +715,206 @@
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png",
       "channels": [
         {
-          "name": "Alwan Sport 1",
-          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s",
+          "name": "AR| ALWAN F1",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "4K": "HZ2:H1ZUGKEfMhxrfe6Nzteb5/IYRru8tQJSZ33KF0Zjqk+BZQ9dUag2t1JvIZdPtZp0ObBu5ZwBLrLXGjO0fVLXgwcRPFdWMzViuERA4sybeUvRxY5DPhPIXM9mJy4=",
-            "HD": "HZ2:IMYGO16htjow1cmbxERqW6N9SA004R8116IuMTRL9LcUCmSGY/WbLfTlLnA8Tnq5uvCqKUXJnScxIgeMg8iDOPvzVT0xkd2VPEx6ke1RgLfEGVP9bifEl2Pegvg=",
-            "SD": "HZ2:eZHEol1AoNSl121CQsdJHlBs4Il1MOV9C9aANxyzFYEj47QxvnGzMMhH+fz8+kNz8o32lmTLnIxIu2hW7/1V1duTVeMvoFU5qfSNrgDNXe6ERHCnmPCuVrdY/1w="
+            "HEVC": "HZ2:/yHTM9lyhCypi14MoXq7zI3u3UERoSjIO4gYzuzIb+8TPL78uoAml5Y5Qhfg1s+OY/BuNQ6o7kntiJKmBiMpAbuMj45AX+hfPhbQ15wr4mCfTpqVgWEsHLDvAgE=",
+            "HD": "HZ2:o9/2WWheLf8nuFlni3M23fBFOvxOcBkEI7Evob66N9PKOxY6PqUMdWVSHHp+0BFkYzkZKB0buAonK28/wkWOiyUJeGyl95dgEmDl93aF2R7u9Tiy8bSLlK+7wfw="
           }
         },
         {
-          "name": "Alwan Sport 2",
-          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s",
+          "name": "AR| ALWAN UFC",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "4K": "HZ2:M7TOxMcF64q1OHFG2Tdd+Xr418SPJYcKCoRkcOAvvqBUe7Qd8E1N5+FdF04Cfk6NOOHbL4tPsMtNbpSpbAzwNCwXMzifjsGOV8q5bT0kZHcrBjMm+WWmASKJm+o=",
-            "HD": "HZ2:ECgYfefjWI8meovbDfI3QgfT2NQFACK57AvE2WAymVcuC+cBggfgtAmaTx8YcpXMz6R/ueKzgObSrJo0c7ZStHwD8K79tQeWxrb3bl0dnBGPVtxWl+3j9Aak+wU=",
-            "SD": "HZ2:iXznTMyDuDm9oddYWFrlrJFRatXXyHNFie3vX9wjJjYfAYLG8+2VBGRvJqEweI9sWd7JUWshCD06geuKJ67IXAc84xLq4gz48yXDE8F0hd3B5kw+3QKUcluFfbw="
+            "Auto": "HZ2:ZAvfGbsG7Qi7nPIgDfQSgqxeH5HHMqDjwth+Lifzo3luzWEn5Wv1BhVKiQOKctxnkRc/wv+HgkigbZ0nPg9+1hwihKz9hXjmA/LsqGqSG+o8quqiHDrdUqawiFQ="
           }
         },
         {
-          "name": "Alwan Sport 3",
-          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s",
+          "name": "AR| ALWAN WWE",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "4K": "HZ2:mLHygEG5gKbdEtAJyeOrOLBSuN7NPpKPWpa/IkhmEuNc1lHNPi23xbfp9waIKutiOoRCjZZ4esmT6H72HPvMPr092JN6xn0tZWszwdNvqz7wHPlrpSdlUODOZ6U=",
-            "HD": "HZ2:RxXg9gO8FPkKDzyAhhU8En2JBGdQPqYW9+nTEVwsKUaKEOMSmuACT4xnOpe26iv9r2gFCpxbumdfhRmfoDIfH/zg4ZyLt5/4bAk6HItUL58i6BRx65HS7UvG/e0=",
-            "SD": "HZ2:Wx+vGi8aOVrlBfpGsSUCcjGUupf4ABTd+YVGRHDpf+j5OD45GKf5Ued4zQqqxtDd5r79zXK9HAjS2A6yxBYJylDApdPDXj03yEcpAFovTYYHNFazunKJM08dQLQ="
+            "Auto": "HZ2:kSTH7K8L+KkUdHXQprvJJ189bL5nqs3W5a0y8cw0khTfDsKX6c60Ygaof4/Q7ywGC5cswCosIXmnbXriRNPT7v78yQaiHnxm6uhExb0149OEy3O1VV7mrMt0T40="
           }
         },
         {
-          "name": "Alwan Sport 4",
-          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s",
+          "name": "AR| ALWAN SPORT 1",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "4K": "HZ2:93SKSRMA9lpeftpL5ZNObfHUHoHs3neT9ppw0tw80rzvdEjiuyttvDV65J3pcv0Wm0SAYYDOGr4cEAsHl1yIa5PhYsV77aPP1KrrO3ugfqhd2BLYdRqeG0NDTjE=",
-            "HD": "HZ2:ztX2diRigb2YI1+hrn1Dw+FlZUcWYNhSF1Al9dToRIsM7FDIjQenshmSVKL7mP85LvIGpSb617yNwUNd+a1yicIrfwiWH4OxOaGokjbMEQS9hx+fV3C+v9jLx9s=",
-            "SD": "HZ2:AdjeIkA7deyGgKPgi6DGet6odgRVuDnC0OFBrCjyfosqVXopKahehfr66t0ddsypPd6APM7jzI9v4Wt8cpFrlAxzHo/sC2Kt8J40vqO2rv5Smj0QU24KOdNshXw="
+            "HEVC": "HZ2:XAGQV3+U8ZBTGZYbndXegdhYciMuh93Bh+0Ue8QXTtD46wiKHa3fFOYDqeWxd5q1mNGftO+eCqatgEfxSYAWgEn0wRxDaLFXLiX4rXfrZ3pUSP6WN7i4mZ4I7PQ=",
+            "HD1": "HZ2:NK5vpNkXl5NVGrxOgjPZIYoaK0RFA55LjHS4d+h9ZbGWCRu7PKHhWEEiISRKwAlfl2rAgl7YTZX72dlbDJsbOwL22Ljcc1CVBk/IbDUuW/256QPk/xlaNa1dRlc=",
+            "HD2": "HZ2:BCFv2BCawF1aiQhmlmvi8LTiZ88bxT41j0Vq+YRCIjdG3jxEFsjl+no+RGOjOOUbBnrI0W+SM/gZ5TADM+bgsbB0F0+RaBMI2hX3vut4K59IVu6u9K+THQj2D8c=",
+            "SD": "HZ2:RmazHUw6NMn1VX6wLTmj7bfW6d0ArxtXTSelrY9oO9TRrrVBqllOfdsdat7ldF8mbYBOwXE8Clu8QixjSS31MVdebcvdF2/Vu12f3oPceyQR6TncKhqk1e2k+80="
           }
         },
         {
-          "name": "Alwan Sport 5",
-          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s",
+          "name": "AR| ALWAN SPORT 2",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "4K": "HZ2:W2ANo5ycySqOHjrCSqPzrFnqGEcQjsct3tlw9V15MZBqsUC2TTf4Rg09iydrXsKy0IF8zpSfFKD8uJ6mWJRvw5CjOky6BzD2eUiSnZwKAoiooSAJJIeVmCKnnRo=",
-            "HD": "HZ2:k57IkJCc3Q4bW3CuhgwhsusE2F4zRqhmvQBL3GfYPByuUI6Vqpd6V/WZMTiHzRjR7Oe/TspNbIntXKfRR7dwTPxcYChFWjkwQl0eTG1Cdl7N3LBQ/M4Z375C3X4=",
-            "SD": "HZ2:tHllByr44N53EGkAToAAh0i8xxGX8JcXYZgUgkQFB/N0bhBCGybacUcrnJ8OuWyuiSR6If/oEsif8PAVSJvKeoZ+jNZBc3Ya33Sr5UCyfmkdB6MYgRZsARdPYoo="
+            "HD1": "HZ2:QsAEmX8bidR0p3vFXcxOnuTxjH5l8qdrSpesNhxFIrCMEDfU0xpzuMXbxbwtmxzhN5hcP0otZSoU8funIqwutdVOW4hXhbf+i/qgsSO+reEWXHIuL9mplHinjCw=",
+            "HD2": "HZ2:G71KUKir8FJ8yIp14YupO2EGrfYYyff8ojwG8dLlt1jNiHc83qSAa2umxLo0HJ59sLAv51TDfJCC2Lj4jUPQ8GyaKeShMnEk+03HafO2QGrPpf4NwafMUkSH5Jg=",
+            "SD": "HZ2:a5xAepVOoBSgMojb2jmZGrY/iYC9UA0fOK3ij7tMw/xeYavyBjyL+uHTh2/7JAEwl+TrJOPU2ss28DtTaF0N/3oVOW3f1Z9TReMFvZd86UZnOk/gb1ii70OOd+c="
           }
         },
         {
-          "name": "Alwan Sport 6",
-          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s",
+          "name": "AR| ALWAN SPORT 3",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "4K": "HZ2:9cNK+V95LvukKs5Ckrc54E7eKPh7aI75+zbtzaK9tmUNsPZPkhPrdnyLeqHNV7lsJtjSYAL6ATH93qt1DxN/1ye+EU+MWvp5NmEX8O6nh9+G0Vhepc9I3jQecZo=",
-            "HD": "HZ2:nsYVrsWwLNcPJGBjZsmPHQmi9cfZftCL2azcFunPLYZE6zIxJ8l71bV85Z2uFQ5GrjkDU8UzwJKcKap+qTfW2Phf/4q1H4IkLgk04UKEpAhoJriPJaJLz5K8dqw=",
-            "SD": "HZ2:Vu0LVs+CcFxdUpBQnh3+UNdTtGLH4K1ZTDto89YySDEI4GBNA5lxpdEHMXKBsXRaY/gjm4NyoRMX56lR5acEoi9XKu3ZOADefORYqY2O/7tb5M5CZXciCLE7vpQ="
+            "HD1": "HZ2:2wfgfiAizliVAnEKM1J4BLPHwSwEWI5Co/fcHTum90V50vDxO5gIZhXAkBbw/baM6Re44M5Rgqfwt+wtKbJujNBxtv5wLGlmNzbsJ5VMIWXAEBWK7hoTQG0B60M=",
+            "HD2": "HZ2:JaxelXAzC0A1cHJqq2bsLbhAC2YFRiJPQs0KoXDqCRimF8wjhJzzBceE+HlQrwFT4EsANonR4JB1sGE7GAnijOQLqd00esSWkBuwYm3JAW3nRwCffiNDPBpKjmc=",
+            "SD": "HZ2:9jRlDZmrdjo1Abyyts3UCfDcwTnLrmI8MVcgg62wk5zm5pV5tE2qZPeS0GBDnobRAMKSXertTpiEkXc4eAuGIz9SuJr5jFn8nFpqRLWKvdqWf2XLP17xxQug1C0="
           }
         },
         {
-          "name": "Alwan Sport 7",
-          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s",
+          "name": "AR| ALWAN SPORT 4",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "Auto": "HZ2:X9yvt6QIYhnz3v8liIOFHAc+RV7qRhEAT/D0ezqlzBDylhUutswbSpA4kaAj13rUa+pcUSPZ8EDWnNEonjm9JZOHdHycrXTKNTh3qfx7ExEeCY/vDdsOcTZcO10="
+            "HD1": "HZ2:GATkHmLFStddHPBb9cSYGY7Vj0OTSJBlBQjKHCoVwrqHnUteYmd3I57zEQCfj0XuE5DW6hX8wwkvcc3caJ3JEIfjeASdSGCYgyPPrlLKkSu/f9iq+IPoP+av5TU=",
+            "HD2": "HZ2:g2L2vEBZhOvIRyttvYAJQDJ/LsyPFrmW11VenrqAdlF5vWBbAS50TSVRn6OuVqrnJTtzbj+8YHV0reM6lyW3Dh+1IDzWbFNcZxBnJDOCAU2WF4SCEn/CpX8FnCE=",
+            "SD": "HZ2:AQaw5KDcCbDFjXRBK1aAST1iy1FhIPIew5pG5xtV3EQKH0u0sjJJAZPoAD75tMKLzgUOS1t54AkhtXBiOOyAjheABU5vFKwZ4fvyt2V31g1oGACZrqV/PZm6W3g="
           }
         },
         {
-          "name": "Alwan Sport 8",
-          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s",
+          "name": "AR| ALWAN SPORT 5",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "Auto": "HZ2:sVAM2ya61SG29K7M0t70+qVEstLFbw6H983VqAPDSqVR3g6LXOV6m7gP+sbqI8HsXOTm5TbgYoR/sP/DHUmgTw1Cgj99Lw8Rk1+6w7aDRcmd55W4MBsle8n/4j0="
+            "HD1": "HZ2:TAK4r56ReFWCNEblLGhxUq7gbWAktrizF1RTmG+vW9QlEtamWZAk0U04SQfFvbV91mceegBWhBnTgpRkmefWBYq2Q7OPrTgSVztIeogGmtsOO5xCHJlfWIyc/Vo=",
+            "HD2": "HZ2:QEBSAP+9ViQZtl23wXmBDHxcwcom+g5pb6eaOjN8SZWHw3LbW0/kTye1CBNCHpuJfRkd0jLoIGzBoTInb5SYfGOfGHLU0Wtz88VQpT7/vjLslUcGwamqMdX0t8c=",
+            "SD": "HZ2:Ju5E/+E390VoiJZk0iVcw4vhlFBosduYShCfsigMOmejSkUx+llCRAQKPMIaUDHdRt+l++8BTmxYkhU7zXm7Ewf8NbiGcQDdJJfU9TC1ilp59uMoFOPXRI16Zrc="
           }
         },
         {
-          "name": "Alwan Sport 9",
-          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s",
+          "name": "AR| ALWAN SPORT 6",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "Auto": "HZ2:uV2iXtx77peH6zK9qRkBSnW7EOEUZlWqdFcl8+4eguKnRB41lSwlS2vV85rc65Off8mejmbha+LZ+v4k6p0usLASTSC7nDZeDxdL0G8zB3ki3GbsLSI8JIfv8XE="
+            "HD1": "HZ2:4/egfRWJJIXfcgmHV+oHQUfm7b6TFYxgIwOrGP3CBboRbyyriHwtqPJXihMRzqhlcGVkCPYMOs3MKjCaYbScwAe50D4X2toD0tUPHJFFpdCgBYUihaqTqfGysn8=",
+            "HD2": "HZ2:QWf34t2rAUu/aPtLXVd8lVy2xAgMQDjDObabY4hY4UuIyqBB1T7ACAGSDJYo7PkeDl7shidme2D6NcYJnUFwp+k3g82k0Gzb1qdUMOwFD/6275aDriOF++I1Upc=",
+            "SD": "HZ2:Y0kKEjx9jJFJw/RiW//5LDYKLgyVh0sF3GmcnXKneP/eSXUM58HYDEg/vw9rpQBMbWoDynefebhjmd/voBepeldzR1ayAAxEjv1XsZ8/7QfxcHYEzIpMwaRm30A="
           }
         },
         {
-          "name": "Alwan Sport 10",
-          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s",
+          "name": "AR| ALWAN SPORT 7",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "Auto": "HZ2:N0D1+XSjkyzLplxRlOIOrcuP3Tr28mzPctBh56eQD9ZzZJBhWAGzP8jLTB3vrdor2NdT2wltpUQ+0BLNP1dm/vppHQNLx+t3p3gcchy5W+uqZMPvq4tuDwAAf6A="
+            "Auto": "HZ2:fVA8l58SQQs9gFd6r/Eq7mTLoFSLooKWAOUzFKJfugbzI4ACQTJpQEFzIlLTZwKi0G/JgAZ7ui4h7YRf7mK3hMesgv3a7WSK0Om9n+uZQ0f2YrkqntbK0hVM4Cc="
           }
         },
         {
-          "name": "Alwan UFC",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png",
+          "name": "AR| ALWAN SPORT 8",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "Auto": "HZ2:vHHUAUHRbhEPG0lHOLyb2YwprirmDEyCKpctVV4Z2omNjg/HOQ3zxltZL5SLPz5vZrFfp4VMAm/PKm4MT7EeMrZyXxUXTE9t1LAwiZWEQf/DgMcEPoZxYSnewIk="
+            "Auto": "HZ2:ffT8T+dasg7SXXSNSsziNEBU7owH7MnRJ8vsojBjyCE0bm5GHraNwIIItIputLB+7KnffFVl3g9ZxkNNlVTWFVto4UIRpNFt9OgdeAhBP0pATIWaE5xt/rAmTb4="
           }
         },
         {
-          "name": "Alwan F1",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png",
+          "name": "AR| ALWAN SPORT 9",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "Auto": "HZ2:6Tjw33YbmiAJt3IqiyGRSkwVt5UGz6NtJ4Bh2FqkILzN7h+WVM9lzmkhPxaUoovZrnGrdIIhhc+3wbt6/n9hXJxJrlNsqXKzk/2DD5NN+zyTZN4AjHbB2ljXppw="
+            "Auto": "HZ2:ee+t17/QhXui4HbnqbmlhGSqOLBM87rxHZrjHtPtljnO5YJ4YVetfxDtJXHGEtaKOakHZGHbT6YkyN2V31VQ7CQSp+nnS7KduM9cm6XfKpyj8utT4p+P0dtygFI="
           }
         },
         {
-          "name": "Alwan WWE",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png",
+          "name": "AR| ALWAN SPORT 10",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "Auto": "HZ2:ORft88XtPW4FVzMhxu0mvjhsaNoqvfEDxZj28E84p3MZRt1QyUgighpvK3hOtPhTILTPMJsLi+w+smUxvJzdfAeA2hbpsaLg4gtLzrbEOBOtBI9EOV5NWZJzmvg="
+            "Auto": "HZ2:AOqrkb3Dvw/6tRhSkuTqqJN8ryaQgfoWef8b5HMdGPJQ2XBhSiqh2a9d7BIbAuDzhjqNTPS2MZSiW/viaJTyPeUWMw/8KMrbFqd3IWCfnjhCzB2UFN6l/+U4+Wc="
           }
         },
         {
-          "name": "Alwan Aflam 1",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png",
+          "name": "AR| ALWAN QURAN",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "Auto": "HZ2:l0gKNTsCQGWTXAuehxX1TkkCZ4qX8YhDZtUAT3ZSJN7pvWtUaEDe3+zBfIkkscKDx/kxy/30quuT75Q3lQ1v0rJVHzweQKtx2UsY9UvmDYR34dBUV/yEbMzXmkw="
+            "Auto": "HZ2:JiLu6xeou6dbXB2QaGi4tXIJb54h2sPAWkxETqpf4Y5948YuROfKjVVSMMynh3KhTxjxC7uujaFY5c2d99+GGqDWn9IxJlb4hZ28CilUSLihwuG/0SVoXNk6Hqs="
           }
         },
         {
-          "name": "Alwan Aflam 2",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png",
+          "name": "AR| ALWAN AFLAM 1",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "Auto": "HZ2:rmEwWR9mxZdcnO5OQ0u8971RIHZFLPudYX12u6x3juLRSi6bJYeFfXVv8Svav6wFFM+YKyfY8PTZkJLjCp7kVNwvAnENzdnemL+K5+axt7JMDa544ONgAkO5JHM="
+            "Auto": "HZ2:yy15cAUgUBjfaFveFGktwT+bb+t24t353iuYzUqyYHsWHoKC+eJL6VawPZ0fATlr8E+hgcI6LRUIQjNZrKanFMrTcvLQ/Ukl3L7X8R4xIgtQw4ZuU3WKwQBFPwI="
           }
         },
         {
-          "name": "Alwan Aflam 3",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png",
+          "name": "AR| ALWAN AFLAM 2",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "Auto": "HZ2:N3iRC5ggqxUo0w9MIsU0aGh5tX3BwHcFMiA9gK+SNLGZP1xiCQUutQsVtgNi/hl4fb5OV63W8/DZos99d492LPJlwHDynwbGmNv88AIPkUhbx8T9xMvsA9H7Pqg="
+            "Auto": "HZ2:joKvYQFpkiDRXy4AIIN7Czz0gFWFc95sHQuBt14wJp0yjvAlMYC7zHi8ySUNRZE6XNeJXigbq7GPWbOgUKVb+TjR5RnO0O2ohnZhFurGT+MuYe1BsxQYQm243QU="
           }
         },
         {
-          "name": "Alwan Aflam 4",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png",
+          "name": "AR| ALWAN AFLAM 3",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "Auto": "HZ2:3iFgq6vsWdLVT3GHlQVWzmGiocI9LBuFgnRn04GZO4HmchXEvi6kriJoeQHrFLpslQsmUYZ6FGTG7APhaeCDugdu2xYRDAiXTBokVsM7Nl4rT8sE+fDF/AaDdgE="
+            "Auto": "HZ2:cvGpoOvgfUBinneiULb7MYsX7RWggJcrd4/vJeLsxrBvhiK9ViwZv1Dlithi5kz3taXlzuWKQDApqScJ7rXA3BT/rUg2tR1LAGK/7caVwaYJYo4ReSLOyk8KuzE="
           }
         },
         {
-          "name": "Alwan Aghani",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png",
+          "name": "AR| ALWAN AFLAM 4",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "Auto": "HZ2:V9hAGq7fnbLW37WvuDwWaVAoTD0x/9reMCbSvE/qCS9cEBr+CWzKAbGKK+hzUR9t4olbRiL08VJyXdtIysTmoJ1NG0BTsejlaPL2USYTFm2H7pRzYcoj7LkPN6w="
+            "Auto": "HZ2:0P+kc6bNSejkxh/lolV0RVPRplwP0BXUIx7WH8WZWSEvYPVItBoNaq4q5FRgviegkYHFTXEa2uWr2+B+pYKZ2xDcLKOzyaeQkMwIy2Z75R/BA9kolgMUzQfIS7g="
           }
         },
         {
-          "name": "Alwan Alwathaeqye",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png",
+          "name": "AR| ALWAN KOREA",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "Auto": "HZ2:N8JCfom2SoMuci6/bqDZFgBsA3ugCPh20QLjsvwgik01jj+fOaXytwBVuMhIyuAaZnUYuGvz7BsN8bhu0+OQ+S7JtT1YzqPkzf1GYkgbYojRd3DbQXo0DZ8v4X8="
+            "Auto": "HZ2:5oT1Vivx+jM0UT6N882MHvn+3GksYtkgRrsT5vnrHLy7K640fBeEcK+WKoSb4PJnWc04Prop+PzIK9SDTPT1qbipiV4vD7GQK/cCnLm6IdjPnoMN12fQwOGJdB0="
           }
         },
         {
-          "name": "Alwan Anime",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png",
+          "name": "AR| ALWAN BOLLYWOOD",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "Auto": "HZ2:tqyEIyZmWl2JicNtvPu0JsTuYEsd/9OncAB0sjWt3Mlj3Y3iROQY0q3BNFE1dyukMEmgVPcd+aGC7LaR1Mb00ALsbVu5N5GEDsflpWilCKyxFnczgXz1dDS1LDk="
+            "Auto": "HZ2:3A90vNUHk0NYBFvv45pYxfrPnQasDhLrIyquDUimZ+YS8Xh3zjF/dMjStqwWXz0wUr66qotfi42wMUfFbh4tmZW/c/nK/l+1EI8GWAHteDTPHKjEImjZuLlKp8Y="
           }
         },
         {
-          "name": "Alwan Atfal",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png",
+          "name": "AR| ALWAN MOSALSALAT",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "Auto": "HZ2:+s4c/Iqr+FYgdntQpFnTuaNEX0vzMWoeth1dt8m/OyN1S0ed+2LEMUgN7ZCyy82i3ANxhZE0iXPP/nhtMcVKt6TcIFnt3JxZrkI+wMXL+f8seZBCId58i0Vo79U="
+            "Auto": "HZ2:uxGXi0BYnkZuZ1RthRcMJg5r+RuBGXPIkD/LF8OpMw0nKarkBjLIwawyJ9P+4cSml9KXIbRDz+CKEoG82ImzW5n0lQWT39qHPdnH9Me8g4il101XF8LGoSsjgTY="
           }
         },
         {
-          "name": "Alwan Bollywood",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png",
+          "name": "AR| ALWAN MOSALSALAT+",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "Auto": "HZ2:vWtZm58xhvhHfXI/k9OoBqr5HVMZHP+dinzl9fK87FKwimkI+rAFI/K2Y16/Efh8Q4ZS+1GSNRhAjsUNiceneIfcMQXA9LQ7XA7rXNksSJCacG6J+KV6+h+LscA="
+            "Auto": "HZ2:UCxEFeqmdht9fjyDcgx8OmM9YuwubP7zaQ/8CFsdw/vJYSkit7p7aI7qWnJ9fjsQol3jtqqUy78PviOvrGWSz9ezQ83BF9jtYs8BHY5gRWU+QQa1uGKFAv3Ephs="
           }
         },
         {
-          "name": "Alwan Korea",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png",
+          "name": "AR| ALWAN TURKEY",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "Auto": "HZ2:MglqTKvWvmLBV6ZTSfywK+bDWmTVKSHyt08XEG4+k4aHDwbMInCYYYSwJD1nux7GuHY48CQ0OUUsbEtNUQgnxFyr/Tik/yXqtxfRC6iAezvesqRSsF4lKddG1IA="
+            "Auto": "HZ2:GD8VLHhPyiCMFzk9Rl+CJgMOXNlroEdZZkn1Lcc4ZD8DTolh+z/IFVSH3TG++0Bh5mIWU6+D+TeFsLceDqDshHmd2PjJPdhxM/G9nzsLKBNCAHm5tg09uytmd4g="
           }
         },
         {
-          "name": "Alwan Mosalsalat",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png",
+          "name": "AR| ALWAN ANIME",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "Auto": "HZ2:D3Zzu9VFT7K73rDK92NyfuNG5qW4XqrGvbf0l37M//t2fcpC5jVPaiUHdEkIezUyTUcq/QdEmTEneNy13i/QitMp29Rtj2nlB5qpSQXVo1H2rRzhviElmtoYHQA="
+            "Auto": "HZ2:KR8j429P/cMKB5ZcISwTXFPe2vjK9lq1UTf6Eazhi3NqGBqwpWOzw0+1U5nCYWuFs4v37RN4XvGfnXUcrfxPzYkb0IeT5EiHFw1wmX1FzX44uqHQSrkPA5d9IMU="
           }
         },
         {
-          "name": "Alwan Mosalsalat+",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png",
+          "name": "AR| ALWAN ATFAL",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "Auto": "HZ2:rXi/E6X5/fnnG+ung7OEy97pvcLlRbUnBbetBjsT9cv2w9FsCxvBEgoZtBjWzbPMWUoj5UVOyp1ryc3BFcWA/pv4e0Wb5AxeT91GF2mv0pqPzvb33T3QtNrXK2E="
+            "Auto": "HZ2:dI9OJa1gOZk2FS7sHFLM0ykasBjWJ3FJYoaItu2qAk1oPhWVguiqiaSjuqyRl+L5zGDeV0h+SuX86dVzh01N8iB9AVZQcrm4DwNfAXnLAU/w3OpATTh7FVVuvF8="
           }
         },
         {
-          "name": "Alwan Quran",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png",
+          "name": "AR| ALWAN ALWATHAEQYE",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "Auto": "HZ2:UenVZnz1stXuynhhQvTnBLgHFMZJDermR+0zb3V5txmkLmI2rKn2XktrCGXtY3hvDnTfHZfyDTJhL4Ym31zkHAMfwmWhQIC/HuETwzKtw+parEHrfQPlcQIEwfI="
+            "Auto": "HZ2:3Eapk4pP4km9dj0PHcFFboqvGPjz41aZE1XyWdtmFwARsWJ6Nb+HJMwbyaOCrbiD6WSz7NH/ZXBwUBESop0W/61zFna5fgBCuHUnIuGPFJywDZn8Z9clt9iLDos="
           }
         },
         {
-          "name": "Alwan Turkey",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png",
+          "name": "AR| ALWAN AGHANI",
+          "logo": "https://lo1.in/fwc/ALWANS.png",
           "streams": {
-            "Auto": "HZ2:imTcxrrWhNrWG+HvQ5YCKBgfZHs0xHrTpyVCtLRuDMTaQQCBxjNfvxhJ4dmDycSkljHwq7RljhE846yDpRFHei2EKiM4dOgwuhRvlAxEFdr0/vfUYdguYBaeGzo="
+            "Auto": "HZ2:Oqz/VMrp9RoPjtDy2hJmJYBPufzMnYTLbETtLo9YZ/zdDEIy/ZTvvg4L80s8eh6ERnzKUSs0QpPTSyqamcU72UOYbS1fc7+EGAZXFERu2spPyJyj4m/3Js1jtfU="
           }
         }
       ]
