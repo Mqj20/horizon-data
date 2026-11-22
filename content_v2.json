@@ -1831,15 +1831,48 @@
     }
   ],
   "matches": [],
-  "mediaSource": {
-    "name": "أكوام للأفلام والمسلسلات",
-    "host": "https://snewflash.mandooosports.workers.dev",
-    "url": "https://snewflash.mandooosports.workers.dev",
+  "xtream": {
+    "name": "Xtream 1",
     "enabled": true,
-    "primary": true,
-    "content": [
-      "movies",
-      "series"
-    ]
-  }
+    "url": "http://mag.tiger-ott.net",
+    "username": "KEBD2U",
+    "password": "7F8W2T"
+  },
+  "xtreams": [
+    {
+      "name": "Xtream 1",
+      "enabled": true,
+      "url": "http://mag.tiger-ott.net",
+      "username": "KEBD2U",
+      "password": "7F8W2T"
+    },
+    {
+      "name": "Xtream 2",
+      "enabled": true,
+      "url": "http://hqtvspark.com:80",
+      "username": "129556126278",
+      "password": "20075393039"
+    },
+    {
+      "name": "Xtream 3",
+      "enabled": true,
+      "url": "http://octopustv.xyz",
+      "username": "1886727672",
+      "password": "9698357522"
+    },
+    {
+      "name": "Xtream 4",
+      "enabled": true,
+      "url": "http://line.playtangerott.cc:80",
+      "username": "AC116D",
+      "password": "8229A4"
+    },
+    {
+      "name": "Xtream 2",
+      "enabled": true,
+      "url": "http://mysql360.life:2095",
+      "username": "w2372",
+      "password": "507916199"
+    }
+  ]
 }
