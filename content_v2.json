@@ -266,7 +266,7 @@
       "name": "TOD-البث-الخاص",
       "channels": [
         {
-          "name": "ريال مدريد",
+          "name": "برشلونة",
           "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
             "HD": "https://mxaplus1.de5.net/live/MAX_Plus_b1/index.m3u8",
@@ -274,21 +274,21 @@
           }
         },
         {
-          "name": "ريال مدريد",
+          "name": "برشلونة",
           "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
             "HD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/1744974.m3u8"
           }
         },
         {
-          "name": "ريال مدريد",
+          "name": "برشلونة",
           "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
             "HD": "https://customer-8yewdk728ckzhpcf.cloudflarestream.com/ed0636759102610b32fbce795792648e/manifest/video.m3u8"
           }
         },
         {
-          "name": "ريال مدريد",
+          "name": "برشلونة",
           "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
             "HD": "http://cl4512.life:80/live/146768572233/522521762678/229002.m3u8"
