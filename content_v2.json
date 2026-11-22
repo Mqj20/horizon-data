@@ -7,14 +7,14 @@
     "apkUrl": "",
     "notes": "",
     "com.horizon.tv": {
-      "version": 29922699,
-      "minVersion": 29922699,
+      "version": 29918701,
+      "minVersion": 29918701,
       "apkUrl": "https://github.com/Mqj20/horizon-releases/releases/download/latest/HorizonTV.apk",
       "notes": "نسخة جديدة جاهزة، ثبّتها للمتابعة."
     },
     "com.horizon.gt": {
-      "version": 29922697,
-      "minVersion": 29922697,
+      "version": 29918702,
+      "minVersion": 29918702,
       "apkUrl": "https://github.com/Mqj20/horizon-releases/releases/download/latest/HorizonGT.apk",
       "notes": "نسخة جديدة جاهزة، ثبّتها للمتابعة."
     }
@@ -269,72 +269,11 @@
           "name": "TOD 1",
           "logo": "https://lo1.in/bss/bsS1.png",
           "streams": {
-            "S1": "HZ2:29a7LeEQo8Gs2+4+YCj/wZciizztxir8YsmlnoRb4+oQ6+F9/7tLHRMmhXHaejVw9RnUzjPyDXc5vxWGGJ+gf9n1y621lcp+56M43tEK+8cKUNNQnKhY+QabYzQ=",
-            "S2": "HZ2:bDQsDyD3lC/gIfyJXEBz2jJxA33V6LzdRwfUlWSgHH14jH5NNwNmVEs0Nvc6dolHvwGcruafwV3fyyxwLH1Jhi3brSUpuGpZ09BKY9gLTZhdTipfZlnZ/eN9+y8="
-          }
-        },
-        {
-          "name": "TOD 2",
-          "logo": "https://lo1.in/bss/bsS2.png",
-          "streams": {
-            "S1": "HZ2:rXiSJYk+Ii9tLzUEBdao37SueAYrkWwN4qCFGJVDFTtB/q0qKCXtLkgKg0PticuOcK/7zei7zAJ+B3ksZrxd7QbuIgwxWuVkPpsBIHXg3ZTpc2g8K8lczz5XUQY=",
-            "S2": "HZ2:Qim0LnVMpeqs7viWtIbLSfGplVEP5rNd1DkMPbKIuZsSHmBTm5Z/NctkFfJXEZWVEltDhELl+xTyFbVYumIjt2QSFbmGfj17yE5D+LvNA7skZC70tYfAiy0nPKk="
-          }
-        },
-        {
-          "name": "TOD 3",
-          "logo": "https://lo1.in/bss/bs3.png",
-          "streams": {
-            "S1": "HZ2:z/KO6O8p4pf8B02aJ0aha6vEJwPZ0NQm12Q2cUJ6j3sIAnT3SaUJolyTFAeql3I0VW/d0eBoN4VfbtiuBHtyCkzr3ikcwn0LB1xNjqstWZUqETfKhEfwrVtF44k=",
-            "S2": "HZ2:qDz+ecthwaYY2qA8in5stPHdcP35DkF7Ts8GzHr/pOpOOSfOYPHkZ7XJ8EPooS5ad3b+EXPoq67RZ03DNhgV9EWxr7lf/4oVta6YcczYjD4NRtkKKr9mW5VB3AQ="
-          }
-        },
-        {
-          "name": "TOD 4",
-          "logo": "https://lo1.in/bss/bs4.png",
-          "streams": {
-            "S1": "HZ2:8j7NZ3p+cDd4roUMcvjxlPTPzLZHemGOr8ZxQ971U4/DuBklalily0yEagdaRWMxzoSTsSF3YcV4mnuTilA2wU8blI/LXOMmyHQYCzaozVwflnx2Dmbt/2a6b8I=",
-            "S2": "HZ2:CEAcVKV2IW3ESEodtnPnV2d/O7PawZIsZ4M04dpeBa1OsEhDeCP/+aRSHdHul4b2CSB1XWvCM1J/rXulXsNhHYexm0oLk2GayZGjmFFX9tfVOd0s8X9SrUZmk+8="
-          }
-        },
-        {
-          "name": "TOD 5",
-          "logo": "https://lo1.in/bein/beinn5.png",
-          "streams": {
-            "S1": "HZ2:c+cZFjCpMdcRHa3p3UhyldlfaMrJOX0FZOabthEn03+Nm/bjbARhjFIjX+GO56Fn7hyROk6MfInv9Z0zzMihXqvSdNWbft3c/3OtUATYAR4h4fWXuJtc+lfOjYo=",
-            "S2": "HZ2:QDKE0WAZHkFlZnYLdQs5Z3JSsYGMrfvQIaq7tV3kSjn3sS+NE/A8LgfAEtlDXIxXJCQFnCaUI5BUGjLDdHYZE8MgiigwGXLKwkL2wbW7AjwvzI/9xk7g/GzRZWg="
-          }
-        },
-        {
-          "name": "TOD 6",
-          "logo": "https://lo1.in/bein/beinn6.png",
-          "streams": {
-            "S1": "HZ2:tfukcTSNXzphhidyruGJAvr+uXq43n3enw7hO6xKgCMj65TvNmjrSmE0+isZ4Upr+T28kKaQemLrdNOExdyv2uLCknOXEA1vPCyQbp/VANmjNR0K3HptCM9lruU=",
-            "S2": "HZ2:x92czaPr6HR6klTNN0VWl89GFbWJ+CoZn0hXZyGZ5Dq/mAibKn1DU/JAhBAxSx5a3Dbi8NcfNPC94ltaUNLz+VsFpcvegg/7ZnDmVLCpuzLD0pRtjHgc6gGsyVI="
-          }
-        },
-        {
-          "name": "TOD 7",
-          "logo": "https://lo1.in/bss/BEIN%20SPORTS%2007.png",
-          "streams": {
-            "S1": "HZ2:PppomjsrYXwLipDJ0fdHUnR9ySuujxozjbOMTMkqyUjYvNz43YddtT45b+ZIbV9GZyAhJ0FaDMlBGWVHGFspFIWnJjpPLHcf2clq9QFB7JRiSdaLiHgHwD5SCRM=",
-            "S2": "HZ2:N1xCwcTk7cLGZJXd6+aJt+5aMVD9iaNhAfAGB6jIvbZr4JL0xnkYMU+UbClhyXcYEeL5utx020S56fli9S/R8QHAWjR51NCuGwTu7HHRiv95NTkgF9OtqBQCwV4="
-          }
-        },
-        {
-          "name": "TOD 8",
-          "logo": "https://lo1.in/bss/bss8.png",
-          "streams": {
-            "S1": "HZ2:pmtF+NYfsdoMq/Vkf/eNRbScTrhgCWoWviG0u+xsWsm+2wJ/BGT/cAQ+LwAnzIhtld8hP+nfzLotoZWcJkL+o+cSEooWKRn/KLR7FykxEDwJRSQy90B4W2nB2co=",
-            "S2": "HZ2:te1O+UR3Gpc190akNDGaai2Mc4M8lGy3ykTLOmxSIeIridLnfNHqFV6uiS9ZuEGt+x60CSHVpRr9/UhAVRTFXHBM9MUPoQFG4bgYMHaAAbmcAgVUpxDXvB7xZAk="
-          }
-        },
-        {
-          "name": "TOD 9",
-          "logo": "https://lo1.in/bss/BEIN09.png",
-          "streams": {
-            "S1": "HZ2:ozyVqvmOE/7qiGOMmJ/AOCJElvhIIEV/HS42EOxcKkoKjOrrBIecEoYGRVtWugLfhFu5XT5NT/ERUyTIIh7uo4plq6qdkECYeTvawFsbeNx6v8cR1RePeivre78=",
-            "S2": "HZ2:vvt1/+kP/yBer8S8NgF3hpJKUIlXcX/KLqOBIxcxHp90dZ1uJei9B7Zq4+dPHMwDczd9LiwbVjH6ia2nL/0KuH9XM8jtJLOulBE6uFyByqJ+0pyGS1QeUcxLpEU="
+            "HD": "https://mejarhosting.store/hdntl=exp=1795373502~acl=%2Fr2s%2Ff4aeac12ef40af905250ceb5972aff2f8f5cb600e0a7328716ce2fe28713e20e87f9e92ea14e4b5e00952f3a51579d4890e6190c671efc5b4201db4702b5ba48%2F*~id=ca863cff-15da-4802-bae8-c562d6ef1664~data=hdntl,aXA9MTU2LjIwMS4xNS4xNTYsY2M9RUcsYXVkPWdvbGQsdWlkPXUyNTMyLG1heD0xLGRldj1hMDNkOWZkN2ZlOTcsdWE9NDJkYzRhMzZmYTI2LHBrZz1wNA~hmac=42a8778e2c9b4607e013eac3967cb3f63edcd3ccf6e15bb25f3f3a12c147d11d/r2s/f4aeac12ef40af905250ceb5972aff2f8f5cb600e0a7328716ce2fe28713e20e87f9e92ea14e4b5e00952f3a51579d4890e6190c671efc5b4201db4702b5ba48/master.m3u8"
+          },
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:160.0) Gecko/20100101 Firefox/160.0",
+            "Referer": "https://milanotv.cfd/"
           }
         }
       ]
