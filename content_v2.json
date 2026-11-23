@@ -1811,6 +1811,116 @@
           "logo": "http://vodkom.com/Logo/ARABICHD/mbcfm.png"
         }
       ]
+    },
+    {
+      "name": "تجارب",
+      "channels": [
+        {
+          "name": "Shaid SPORT 1",
+          "logo": "https://i.servimg.com/u/f17/20/28/55/99/images29.png",
+          "streams": {
+            "HD": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd&keys=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9"
+          }
+        },
+        {
+          "name": "Shaid SPORT 2",
+          "logo": "https://i.servimg.com/u/f17/20/28/55/99/images29.png",
+          "streams": {
+            "HD": "https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd&keys=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714"
+          }
+        },
+        {
+          "name": "Shaid SPORT 3",
+          "logo": "https://i.servimg.com/u/f17/20/28/55/99/images29.png",
+          "streams": {
+            "HD": "https://shahid-sports-3-enc.edgenextcdn.net/out/v1/2658c96bbfa54f339e357fe36361587e/index.mpd&keys=2b6f6b340aa8467785e4e82f9320fb5a:8889701d704078c4d910ed1409413d9b"
+          }
+        },
+        {
+          "name": "Shaid SPORT 4",
+          "logo": "https://i.servimg.com/u/f17/20/28/55/99/images29.png",
+          "streams": {
+            "HD": "https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd&keys=6477160076644679af1028534f03f67e:1267f99705113a62c7782c4d5281a7eb"
+          }
+        },
+        {
+          "name": "Shaid SPORT 5",
+          "logo": "https://i.servimg.com/u/f17/20/28/55/99/images29.png",
+          "streams": {
+            "HD": "https://shahid-sports-5-enc.edgenextcdn.net/out/v1/ae00715d1c2c4432852b44a254c04a3d/index.mpd&keys=e2df3c205b674360bc6f364ba1090e70:93da2c77bc812bc05a6e20ad8d35ea78"
+          }
+        },
+        {
+          "name": "AD Sports 1",
+          "logo": "https://i.servimg.com/u/f17/20/28/55/99/images30.png",
+          "streams": {
+            "HD": "https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Abu_Dhabi_Sports_1_HD/DASH/Abu_Dhabi_Sports_1_HD.mpd&keys=1bec6ac7cd9a02dd75da2278ba3183ef:029edcf6b6c737595445a1a3a390edb3"
+          }
+        },
+        {
+          "name": "AD Sports 2",
+          "logo": "https://i.servimg.com/u/f17/20/28/55/99/images30.png",
+          "streams": {
+            "HD": "https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Abu_Dhabi_Sports_2_HD/DASH/Abu_Dhabi_Sports_2_HD.mpd&keys=528afb1be8ef0e74a8fe703e37e493de:1f58c055fe8028ca00226301d6161729"
+          }
+        },
+        {
+          "name": "Thmanyah 1",
+          "logo": "https://i.servimg.com/u/f17/20/28/55/99/138.png",
+          "streams": {
+            "HD": "https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd&keys=714c789c76686632652eefc19f18c3db:962cee49ee9422b44a6c60a7999854ad"
+          }
+        },
+        {
+          "name": "Thmanyah 2",
+          "logo": "https://i.servimg.com/u/f17/20/28/55/99/138.png",
+          "streams": {
+            "HD": "https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCT2/wv-pr/manifest.mpd&keys=97e293d59ed72db87f12fe7075d8bb4c:c633955e4477ed5acbae68a2b0f1d216"
+          }
+        },
+        {
+          "name": "Thmanyah 3",
+          "logo": "https://i.servimg.com/u/f17/20/28/55/99/138.png",
+          "streams": {
+            "HD": "https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCT3/wv-pr/manifest.mpd&keys=4bc8e4e871589a45e7c0c7d245c243c6:4c5e8108e0f3cea4b588f5727d3de482"
+          }
+        },
+        {
+          "name": "StarzPlay SPORTS 1",
+          "logo": "https://i.servimg.com/u/f17/20/28/55/99/invent10.jpg",
+          "streams": {
+            "HD": "https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC/wv-pr/manifest.mpd&keys=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74"
+          }
+        },
+        {
+          "name": "StarzPlay SPORTS 2",
+          "logo": "https://i.servimg.com/u/f17/20/28/55/99/invent10.jpg",
+          "streams": {
+            "HD": "https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/JAW1/wv-pr/manifest.mpd&keys=e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b"
+          }
+        },
+        {
+          "name": "StarzPlay SPORTS 3",
+          "logo": "https://i.servimg.com/u/f17/20/28/55/99/invent10.jpg",
+          "streams": {
+            "HD": "https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC3/wv-pr/manifest.mpd&keys=1fd615ca2c5353fc5393da466ce31cbc:942822c6e7d3b01dd71bffded7ac0aa8"
+          }
+        },
+        {
+          "name": "StarzPlay Movies",
+          "logo": "https://i.servimg.com/u/f62/20/15/89/97/starz_14.png",
+          "streams": {
+            "HD": "https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Starzplay_Movies/DASH/Starzplay_Movies.mpd&keys=4b59fc6829905f9875d7359cdf6a083b:81474bc4d05be9cb5a6a5bce74da9771"
+          }
+        },
+        {
+          "name": "StarzPlay Series",
+          "logo": "https://i.servimg.com/u/f62/20/15/89/97/strazp10.png",
+          "streams": {
+            "HD": "https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/StarzPlay_Series/DASH/StarzPlay_Series.mpd&keys=f9fd1dd7d0716e37456c3e17f27ee7ba:3a00049c27da50ba56f081aef1b2d0b1"
+          }
+        }
+      ]
     }
   ],
   "movies": [],
