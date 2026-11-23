@@ -279,6 +279,121 @@
       ]
     },
     {
+      "name": "bein sport - VIP",
+      "channels": [
+        {
+          "name": "BEIN SPORT 1",
+          "streams": {
+            "AUTO": "https://balance.footballii.ir/hls2/bein1.m3u8",
+            "AUTO SA": "https://foxtv.sevenlive.shop/watch/FOXTV_CH7/stream.m3u8?sig=bd5f899407b45c1d9c75ab190d673b075397afa04c67396915205f19e60289a5",
+            "240": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1427.css|User-Agent=OSCARTV2021&Referer=",
+            "360": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1313.css|User-Agent=OSCARTV2021&Referer=",
+            "480": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1529.css|User-Agent=OSCARTV2021&Referer=",
+            "720": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1316.css|User-Agent=OSCARTV2021&Referer=",
+            "1080": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1319.css|User-Agent=OSCARTV2021&Referer=",
+            "LOW": "http://startseven.tn:2052/live/09746171/15445345/179.ts",
+            "SD": "http://startseven.tn:2052/live/09746171/15445345/177.ts",
+            "HD": "http://startseven.tn:2052/live/09746171/15445345/178.ts",
+            "FHD": "http://startseven.tn:2052/live/09746171/15445345/265.ts",
+            "SD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash1sd.m3u8|User-Agent=flash Player&Referer=flash tv1",
+            "HD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash1hd.m3u8|User-Agent=flash Player&Referer=flash tv1",
+            "FHD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash1fhd.m3u8|User-Agent=flash Player&Referer=flash tv1"
+          },
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png"
+        },
+        {
+          "name": "BEIN SPORT 2",
+          "streams": {
+            "240": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1430.css|User-Agent=OSCARTV2021&Referer=",
+            "360": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1430.css|User-Agent=OSCARTV2021&Referer=",
+            "480": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1538.css|User-Agent=OSCARTV2021&Referer=",
+            "720": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1325.css|User-Agent=OSCARTV2021&Referer=",
+            "1080": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1328.css|User-Agent=OSCARTV2021&Referer=",
+            "LOW": "http://startseven.tn:2052/live/09746171/15445345/184.ts",
+            "SD": "http://startseven.tn:2052/live/09746171/15445345/180.ts",
+            "HD": "http://startseven.tn:2052/live/09746171/15445345/181.ts",
+            "FHD": "http://startseven.tn:2052/live/09746171/15445345/266.ts",
+            "SD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash2sd.m3u8|User-Agent=flash Player&Referer=flash tv1",
+            "HD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash2hd.m3u8|User-Agent=flash Player&Referer=flash tv1",
+            "FHD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash2fhd.m3u8|User-Agent=flash Player&Referer=flash tv1",
+            "SD-FLASH-3": "https://wideiptv.mandoosports.workers.dev/liveflash3sd.m3u8|User-Agent=flash Player&Referer=flash tv1",
+            "HD-FLASH-3": "https://wideiptv.mandoosports.workers.dev/liveflash3hd.m3u8|User-Agent=flash Player&Referer=flash tv1",
+            "FHD-FLASH-3": "https://wideiptv.mandoosports.workers.dev/liveflash3fhd.m3u8|User-Agent=flash Player&Referer=flash tv1"
+          },
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_2.png"
+        },
+        {
+          "name": "BEIN SPORT 3",
+          "streams": {
+            "240": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1433.css|User-Agent=OSCARTV2021&Referer=",
+            "360": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1331.css|User-Agent=OSCARTV2021&Referer=",
+            "480": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1541.css|User-Agent=OSCARTV2021&Referer=",
+            "720": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1334.css|User-Agent=OSCARTV2021&Referer=",
+            "1080": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1337.css|User-Agent=OSCARTV2021&Referer=",
+            "LOW": "http://startseven.tn:2052/live/09746171/15445345/187.ts",
+            "SD": "http://startseven.tn:2052/live/09746171/15445345/185.ts",
+            "HD": "http://startseven.tn:2052/live/09746171/15445345/186.ts",
+            "FHD": "http://startseven.tn:2052/live/09746171/15445345/267.ts"
+          },
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_3.png"
+        },
+        {
+          "name": "BEIN SPORT 4",
+          "streams": {
+            "240": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1448.css|User-Agent=OSCARTV2021&Referer=",
+            "360": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1340.css|User-Agent=OSCARTV2021&Referer=",
+            "480": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1544.css|User-Agent=OSCARTV2021&Referer=",
+            "720": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1343.css|User-Agent=OSCARTV2021&Referer=",
+            "1080": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1346.css|User-Agent=OSCARTV2021&Referer=",
+            "LOW": "http://startseven.tn:2052/live/09746171/15445345/191.ts",
+            "SD": "http://startseven.tn:2052/live/09746171/15445345/189.ts",
+            "HD": "http://startseven.tn:2052/live/09746171/15445345/190.ts",
+            "FHD": "http://startseven.tn:2052/live/09746171/15445345/268.ts",
+            "SD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash4sd.m3u8|User-Agent=flash Player&Referer=flash tv1",
+            "HD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash4hd.m3u8|User-Agent=flash Player&Referer=flash tv1",
+            "FHD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash4fhd.m3u8|User-Agent=flash Player&Referer=flash tv1"
+          },
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_4.png"
+        },
+        {
+          "name": "BEIN SPORT 5",
+          "streams": {
+            "240": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1451.css|User-Agent=OSCARTV2021&Referer=",
+            "360": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1349.css|User-Agent=OSCARTV2021&Referer=",
+            "480": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1547.css|User-Agent=OSCARTV2021&Referer=",
+            "720": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1571.css|User-Agent=OSCARTV2021&Referer=",
+            "1080": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1355.css|User-Agent=OSCARTV2021&Referer=",
+            "LOW": "http://startseven.tn:2052/live/09746171/15445345/202.ts",
+            "SD": "http://startseven.tn:2052/live/09746171/15445345/200.ts",
+            "HD": "http://startseven.tn:2052/live/09746171/15445345/201.ts",
+            "FHD": "http://startseven.tn:2052/live/09746171/15445345/269.ts",
+            "SD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash5sd.m3u8|User-Agent=flash Player&Referer=flash tv1",
+            "HD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash5hd.m3u8|User-Agent=flash Player&Referer=flash tv1",
+            "FHD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash5fhd.m3u8|User-Agent=flash Player&Referer=flash tv1"
+          },
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_5.png"
+        },
+        {
+          "name": "BEIN SPORT 6",
+          "streams": {
+            "240": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1556.css|User-Agent=OSCARTV2021&Referer=",
+            "360": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1556.css|User-Agent=OSCARTV2021&Referer=",
+            "480": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1358.css|User-Agent=OSCARTV2021&Referer=",
+            "720": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1361.css|User-Agent=OSCARTV2021&Referer=",
+            "1080": "http://8fej388moht5ozissddghzdmmmf4co.quenzomarti.shop:8080/assets/res2/java2/1364.css|User-Agent=OSCARTV2021&Referer=",
+            "LOW": "http://startseven.tn:2052/live/09746171/15445345/211.ts",
+            "SD": "http://startseven.tn:2052/live/09746171/15445345/203.ts",
+            "HD": "http://startseven.tn:2052/live/09746171/15445345/209.ts",
+            "FHD": "http://startseven.tn:2052/live/09746171/15445345/270.ts",
+            "SD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash6sd.m3u8|User-Agent=flash Player&Referer=flash tv1",
+            "HD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash6hd.m3u8|User-Agent=flash Player&Referer=flash tv1",
+            "FHD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash56hd.m3u8|User-Agent=flash Player&Referer=flash tv1"
+          },
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png"
+        }
+      ]
+    },
+    {
       "name": "beIN SPORTS Family",
       "channels": [
         {
@@ -1694,29 +1809,6 @@
             "AR": "HZ2:JR0kebm2uAdrg2sZHvEFVxkpMwpFBOYnGXRY/X1sufOeiLHV8JPewP6ry+DBPq4ooVfV7iMlpifdOYAUCZnMKjHSuwXuScKo5N4qQoTid/g/hBfjJXvP07daAOic7Es="
           },
           "logo": "http://vodkom.com/Logo/ARABICHD/mbcfm.png"
-        }
-      ]
-    },
-    {
-      "name": "Falcon",
-      "channels": [
-        {
-          "name": "Falcon Eye 1",
-          "streams": {
-            "HD": "https://uruk.optikl.ink/ostora/main.php?id=4128&cat=333"
-          }
-        },
-        {
-          "name": "Falcon Eye 2",
-          "streams": {
-            "HD": "HZ2:oA6AlaH1tunwxZO33iIVWCrlynituTNw-ooRBtGAGZ0ZY8eDROJ0WrLOOuj67u9mE03WYTHOvHxnTHFgSsTWO8i-XK4qj1bnLS95lXjT12_58WI"
-          }
-        },
-        {
-          "name": "Falcon Eye 3",
-          "streams": {
-            "HD": "HZ2:PE3Isu8BKU58WK2jGj6qihCacNXeKpPZdzaNOqPuCAT19ktbo6h1Pa0hUFjuIPeVaUxXF1iIxA2+htLjoHuikPni0O3NjpAwEcR/j+WBJv1uLEhT5A=="
-          }
         }
       ]
     }
