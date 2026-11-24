@@ -266,58 +266,59 @@
       "name": "TOD-البث-الخاص",
       "channels": [
         {
-          "name": "TOD 1",
-          "logo": "https://i.imgur.com/J9JKIxK.png",
+          "name": "TOD",
+          "logo": "https://lo1.in/bss/bsS1.png",
           "streams": {
-            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1744951&extension=m3u8"
-          },
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:160.0) Gecko/20100101 Firefox/160.0",
-            "Referer": "https://milanotv.cfd/"
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1744951&extension=m3u8&play_token=hxsDgbLQFj"
           }
         },
         {
-          "name": "TOD 2",
-          "logo": "https://i.imgur.com/J9JKIxK.png",
+          "name": "TOD",
+          "logo": "https://lo1.in/bss/bsS1.png",
           "streams": {
-            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1744952&extension=m3u8"
-          },
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:160.0) Gecko/20100101 Firefox/160.0",
-            "Referer": "https://milanotv.cfd/"
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1744952&extension=m3u8&play_token=4jshxrpwhD"
           }
         },
         {
-          "name": "TOD 3",
-          "logo": "https://i.imgur.com/J9JKIxK.png",
+          "name": "TOD",
+          "logo": "https://lo1.in/bss/bsS1.png",
           "streams": {
-            "HD": ""
-          },
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:160.0) Gecko/20100101 Firefox/160.0",
-            "Referer": "https://milanotv.cfd/"
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1744953&extension=m3u8&play_token=coq0abyUI1"
           }
         },
         {
-          "name": "TOD 4",
-          "logo": "https://i.imgur.com/J9JKIxK.png",
+          "name": "TOD",
+          "logo": "https://lo1.in/bss/bsS1.png",
           "streams": {
-            "HD": ""
-          },
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:160.0) Gecko/20100101 Firefox/160.0",
-            "Referer": "https://milanotv.cfd/"
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1744954&extension=m3u8&play_token=6l8lLRn5wR"
           }
         },
         {
-          "name": "TOD 5",
-          "logo": "https://i.imgur.com/J9JKIxK.png",
+          "name": "TOD",
+          "logo": "https://lo1.in/bss/bsS1.png",
           "streams": {
-            "HD": ""
-          },
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:160.0) Gecko/20100101 Firefox/160.0",
-            "Referer": "https://milanotv.cfd/"
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1744955&extension=m3u8&play_token=UdPGbPtUYZ"
+          }
+        },
+        {
+          "name": "TOD",
+          "logo": "https://lo1.in/bss/bsS1.png",
+          "streams": {
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1744956&extension=m3u8&play_token=Gxv7KOHxDv"
+          }
+        },
+        {
+          "name": "TOD",
+          "logo": "https://lo1.in/bss/bsS1.png",
+          "streams": {
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1744958&extension=m3u8&play_token=vKPzUp7gWd"
+          }
+        },
+        {
+          "name": "TOD",
+          "logo": "https://lo1.in/bss/bsS1.png",
+          "streams": {
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1744959&extension=m3u8&play_token=Q87llFk1dF"
           }
         }
       ]
