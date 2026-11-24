@@ -776,154 +776,82 @@
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png",
       "channels": [
         {
-          "name": "Alwan Sport 1 SD",
+          "name": "Alwan Sport 1",
           "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
           "streams": {
+            "4K": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232601.m3u8",
+            "HD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/272298.m3u8",
             "SD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232589.m3u8"
           }
         },
         {
-          "name": "Alwan Sport 2 SD",
+          "name": "Alwan Sport 2",
           "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
           "streams": {
+            "4K": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/272301.m3u8",
+            "HD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232596.m3u8",
             "SD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232590.m3u8"
           }
         },
         {
-          "name": "Alwan Sport 3 SD",
+          "name": "Alwan Sport 3",
           "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
           "streams": {
+            "4K": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232603.m3u8",
+            "HD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232597.m3u8",
             "SD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232591.m3u8"
           }
         },
         {
-          "name": "Alwan Sport 4 SD",
+          "name": "Alwan Sport 4",
           "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
           "streams": {
+            "4K": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232604.m3u8",
+            "HD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232598.m3u8",
             "SD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232592.m3u8"
           }
         },
         {
-          "name": "Alwan Sport 5 SD",
+          "name": "Alwan Sport 5",
           "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
           "streams": {
+            "4K": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232605.m3u8",
+            "HD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232599.m3u8",
             "SD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232593.m3u8"
           }
         },
         {
-          "name": "Alwan Sport 6 SD",
+          "name": "Alwan Sport 6",
           "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
           "streams": {
+            "4K": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232606.m3u8",
+            "HD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232600.m3u8",
             "SD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232594.m3u8"
           }
         },
         {
-          "name": "Alwan Sport 1 HD",
-          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
-          "streams": {
-            "HD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/272298.m3u8"
-          }
-        },
-        {
-          "name": "Alwan Sport 2 HD",
-          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
-          "streams": {
-            "HD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232596.m3u8"
-          }
-        },
-        {
-          "name": "Alwan Sport 3 HD",
-          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
-          "streams": {
-            "HD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232597.m3u8"
-          }
-        },
-        {
-          "name": "Alwan Sport 4 HD",
-          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
-          "streams": {
-            "HD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232598.m3u8"
-          }
-        },
-        {
-          "name": "Alwan Sport 5 HD",
-          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
-          "streams": {
-            "HD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232599.m3u8"
-          }
-        },
-        {
-          "name": "Alwan Sport 6 HD",
-          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
-          "streams": {
-            "HD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232600.m3u8"
-          }
-        },
-        {
-          "name": "Alwan Sport 1 4K",
-          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
-          "streams": {
-            "4K": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232601.m3u8"
-          }
-        },
-        {
-          "name": "Alwan Sport 2 4K",
-          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
-          "streams": {
-            "4K": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/272301.m3u8"
-          }
-        },
-        {
-          "name": "Alwan Sport 3 4K",
-          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
-          "streams": {
-            "4K": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232603.m3u8"
-          }
-        },
-        {
-          "name": "Alwan Sport 4 4K",
-          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
-          "streams": {
-            "4K": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232604.m3u8"
-          }
-        },
-        {
-          "name": "Alwan Sport 5 4K",
-          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
-          "streams": {
-            "4K": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232605.m3u8"
-          }
-        },
-        {
-          "name": "Alwan Sport 6 4K",
-          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
-          "streams": {
-            "4K": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232606.m3u8"
-          }
-        },
-        {
-          "name": "Alwan Sport 7 4K",
+          "name": "Alwan Sport 7",
           "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
           "streams": {
             "4K": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232607.m3u8"
           }
         },
         {
-          "name": "Alwan Sport 8 4K",
+          "name": "Alwan Sport 8",
           "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
           "streams": {
             "4K": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232608.m3u8"
           }
         },
         {
-          "name": "Alwan Sport 9 4K",
+          "name": "Alwan Sport 9",
           "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
           "streams": {
             "4K": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232609.m3u8"
           }
         },
         {
-          "name": "Alwan Sport 10 4K",
+          "name": "Alwan Sport 10",
           "logo": "http://pro.netmos.ovh:6051/img/tsawer/Sport.master/alwen.png",
           "streams": {
             "4K": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/232610.m3u8"
@@ -1760,122 +1688,6 @@
             "AR": "HZ2:JR0kebm2uAdrg2sZHvEFVxkpMwpFBOYnGXRY/X1sufOeiLHV8JPewP6ry+DBPq4ooVfV7iMlpifdOYAUCZnMKjHSuwXuScKo5N4qQoTid/g/hBfjJXvP07daAOic7Es="
           },
           "logo": "http://vodkom.com/Logo/ARABICHD/mbcfm.png"
-        }
-      ]
-    },
-    {
-      "name": "Ssss",
-      "channels": [
-        {
-          "name": "AR| ALWAN 1",
-          "streams": {
-            "Server 1": "https://abody.optikl.ink/osa/main.php?id=156588&cat=7193",
-            "Server 2": "https://blcco.linkip.org/live/3461_.m3u8",
-            "FHD": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181678.m3u8",
-            "HD": "http://coco3-cdn.cfd:8085/alwan-1/video.m3u8"
-          }
-        },
-        {
-          "name": "AR| ALWAN 2",
-          "streams": {
-            "Server 1": "https://abody.optikl.ink/osa/main.php?id=156589&cat=7193",
-            "Server 2": "https://blcco.linkip.org/live/3460_.m3u8",
-            "HD": "http://coco3-cdn.cfd:8085/alwan-2/video.m3u8"
-          }
-        },
-        {
-          "name": "AR| ALWAN 3",
-          "streams": {
-            "Server 1": "https://abody.optikl.ink/osa/main.php?id=156590&cat=7193",
-            "Server 2": "https://blcco.linkip.org/live/3459_.m3u8",
-            "HD": "http://coco3-cdn.cfd:8085/alwan-3/video.m3u8"
-          }
-        },
-        {
-          "name": "AR| ALWAN 4",
-          "streams": {
-            "Server 1": "https://abody.optikl.ink/osa/main.php?id=156591&cat=7193",
-            "Server 2": "https://blcco.linkip.org/live/3458_.m3u8",
-            "HD": "http://coco3-cdn.cfd:8085/alwan-4/video.m3u8"
-          }
-        },
-        {
-          "name": "AR| ALWAN 5",
-          "streams": {
-            "Server 1": "https://abody.optikl.ink/osa/main.php?id=156592&cat=7193",
-            "Server 2": "https://blcco.linkip.org/live/3457_.m3u8",
-            "HD": "http://coco3-cdn.cfd:8085/alwan-5/video.m3u8"
-          }
-        },
-        {
-          "name": "AR| ALWAN 6",
-          "streams": {
-            "Server 1": "https://abody.optikl.ink/osa/main.php?id=156593&cat=7193",
-            "Server 2": "https://blcco.linkip.org/live/3456_.m3u8",
-            "HD": "http://coco3-cdn.cfd:8085/alwan-6/video.m3u8"
-          }
-        },
-        {
-          "name": "AR| ZEE ALWAN",
-          "streams": {
-            "Server 1": "https://blcco.linkip.org/live/1633_.m3u8",
-            "Server 2": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/368852.ts"
-          }
-        },
-        {
-          "name": "AR| ┃EG┃ NETFLIX ALWAN",
-          "streams": {
-            "HD": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/1653156.ts",
-            "HD 2": "http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/672103.ts"
-          }
-        },
-        {
-          "name": "AR| ZEE ALWAN TV",
-          "streams": {
-            "Server 1": "http://stream.ghosttv.co/live/gaofxxvu42/wkadniywws/355100.ts"
-          }
-        },
-        {
-          "name": "AR| ALWAN KIDS",
-          "streams": {
-            "4K": "http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181681.ts"
-          }
-        },
-        {
-          "name": "AL FAJER 1",
-          "streams": {
-            "Server 1": "https://tv.alfajertv.com/old/live-international.php"
-          },
-          "headers": {
-            "Referer": "https://tv.alfajertv.com/",
-            "Origin": "https://tv.alfajertv.com"
-          }
-        },
-        {
-          "name": "AL FAJER 2",
-          "streams": {
-            "Server 1": "https://tv.alfajertv.com/api/get-stream.php?channel=fajer2-hd"
-          },
-          "headers": {
-            "Referer": "https://tv.alfajertv.com/",
-            "Origin": "https://tv.alfajertv.com"
-          }
-        },
-        {
-          "name": "AL FAJER 3",
-          "streams": {
-            "Server 1": "https://tv.alfajertv.com/api/get-stream.php?channel=fajer3-hd"
-          },
-          "headers": {
-            "Referer": "https://tv.alfajertv.com/",
-            "Origin": "https://tv.alfajertv.com"
-          }
-        },
-        {
-          "name": "ALFAJER FM",
-          "streams": {
-            "Server 1": "https://rstream.hadara.ps/proxy/fajerfm/stream?mp3"
-          }
         }
       ]
     }
