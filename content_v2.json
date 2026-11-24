@@ -7,14 +7,14 @@
     "apkUrl": "",
     "notes": "",
     "com.horizon.tv": {
-      "version": 29925559,
-      "minVersion": 29925559,
+      "version": 29923095,
+      "minVersion": 29923095,
       "apkUrl": "https://github.com/Mqj20/horizon-releases/releases/download/latest/HorizonTV.apk",
       "notes": "نسخة جديدة جاهزة، ثبّتها للمتابعة."
     },
     "com.horizon.gt": {
-      "version": 29925558,
-      "minVersion": 29925558,
+      "version": 29923094,
+      "minVersion": 29923094,
       "apkUrl": "https://github.com/Mqj20/horizon-releases/releases/download/latest/HorizonGT.apk",
       "notes": "نسخة جديدة جاهزة، ثبّتها للمتابعة."
     }
@@ -196,63 +196,63 @@
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4111&cat=332"
           },
-          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_1.png"
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png"
         },
         {
           "name": "بي ان سبورت 2",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4113&cat=332"
           },
-          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_2.png"
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_2.png"
         },
         {
           "name": "بي ان سبورت 3",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4115&cat=332"
           },
-          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_3.png"
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_3.png"
         },
         {
           "name": "بي ان سبورت 4",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4119&cat=332"
           },
-          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_4.png"
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_4.png"
         },
         {
           "name": "بي ان سبورت 5",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4123&cat=332"
           },
-          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_5.png"
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_5.png"
         },
         {
           "name": "بي ان سبورت 6",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4126&cat=332"
           },
-          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_6.png"
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png"
         },
         {
           "name": "بي ان سبورت 7",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4127&cat=332"
           },
-          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_7.png"
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_7.png"
         },
         {
           "name": "بي ان سبورت 8",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4965&cat=332"
           },
-          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_8.png"
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_8.png"
         },
         {
           "name": "بي ان سبورت 9",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=3961&cat=332"
           },
-          "logo": "http://vodkom.com/MYBEIN/BEIN_SPORTS_9.png"
+          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_9.png"
         },
         {
           "name": "بي ان سبورت اتش دي",
@@ -267,7 +267,7 @@
       "channels": [
         {
           "name": "TOD 1",
-          "logo": "https://lo1.in/bss/bsS1.png",
+          "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
             "HD": "https://mejarhosting.store/hdntl=exp=1795373502~acl=%2Fr2s%2Ff4aeac12ef40af905250ceb5972aff2f8f5cb600e0a7328716ce2fe28713e20e87f9e92ea14e4b5e00952f3a51579d4890e6190c671efc5b4201db4702b5ba48%2F*~id=ca863cff-15da-4802-bae8-c562d6ef1664~data=hdntl,aXA9MTU2LjIwMS4xNS4xNTYsY2M9RUcsYXVkPWdvbGQsdWlkPXUyNTMyLG1heD0xLGRldj1hMDNkOWZkN2ZlOTcsdWE9NDJkYzRhMzZmYTI2LHBrZz1wNA~hmac=42a8778e2c9b4607e013eac3967cb3f63edcd3ccf6e15bb25f3f3a12c147d11d/r2s/f4aeac12ef40af905250ceb5972aff2f8f5cb600e0a7328716ce2fe28713e20e87f9e92ea14e4b5e00952f3a51579d4890e6190c671efc5b4201db4702b5ba48/master.m3u8"
           },
@@ -955,7 +955,7 @@
           "name": "SOLO 1",
           "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png",
           "streams": {
-            "SD": "https://uruk.optikl.ink/ostora/main.php?id=4128&cat=333",
+            "SD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238265.m3u8",
             "HD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238273.m3u8",
             "FHD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238281.m3u8",
             "HEVC": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238289.m3u8"
