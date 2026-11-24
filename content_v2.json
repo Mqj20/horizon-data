@@ -269,7 +269,7 @@
           "name": "TOD 1",
           "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
-            "HD": "https://mejarhosting.store/hdntl=exp=1795373502~acl=%2Fr2s%2Ff4aeac12ef40af905250ceb5972aff2f8f5cb600e0a7328716ce2fe28713e20e87f9e92ea14e4b5e00952f3a51579d4890e6190c671efc5b4201db4702b5ba48%2F*~id=ca863cff-15da-4802-bae8-c562d6ef1664~data=hdntl,aXA9MTU2LjIwMS4xNS4xNTYsY2M9RUcsYXVkPWdvbGQsdWlkPXUyNTMyLG1heD0xLGRldj1hMDNkOWZkN2ZlOTcsdWE9NDJkYzRhMzZmYTI2LHBrZz1wNA~hmac=42a8778e2c9b4607e013eac3967cb3f63edcd3ccf6e15bb25f3f3a12c147d11d/r2s/f4aeac12ef40af905250ceb5972aff2f8f5cb600e0a7328716ce2fe28713e20e87f9e92ea14e4b5e00952f3a51579d4890e6190c671efc5b4201db4702b5ba48/master.m3u8"
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1744951&extension=m3u8"
           },
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:160.0) Gecko/20100101 Firefox/160.0",
@@ -280,7 +280,7 @@
           "name": "TOD 2",
           "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
-            "HD": ""
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1744952&extension=m3u8"
           },
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:160.0) Gecko/20100101 Firefox/160.0",
