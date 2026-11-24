@@ -275,6 +275,50 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:160.0) Gecko/20100101 Firefox/160.0",
             "Referer": "https://milanotv.cfd/"
           }
+        },
+        {
+          "name": "TOD 2",
+          "logo": "https://i.imgur.com/J9JKIxK.png",
+          "streams": {
+            "HD": ""
+          },
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:160.0) Gecko/20100101 Firefox/160.0",
+            "Referer": "https://milanotv.cfd/"
+          }
+        },
+        {
+          "name": "TOD 3",
+          "logo": "https://i.imgur.com/J9JKIxK.png",
+          "streams": {
+            "HD": ""
+          },
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:160.0) Gecko/20100101 Firefox/160.0",
+            "Referer": "https://milanotv.cfd/"
+          }
+        },
+        {
+          "name": "TOD 4",
+          "logo": "https://i.imgur.com/J9JKIxK.png",
+          "streams": {
+            "HD": ""
+          },
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:160.0) Gecko/20100101 Firefox/160.0",
+            "Referer": "https://milanotv.cfd/"
+          }
+        },
+        {
+          "name": "TOD 5",
+          "logo": "https://i.imgur.com/J9JKIxK.png",
+          "streams": {
+            "HD": ""
+          },
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:160.0) Gecko/20100101 Firefox/160.0",
+            "Referer": "https://milanotv.cfd/"
+          }
         }
       ]
     },
