@@ -953,45 +953,122 @@
       "channels": [
         {
           "name": "SOLO 1",
-          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png"
+          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png",
+          "streams": {
+            "SD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238265.m3u8",
+            "HD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238273.m3u8",
+            "FHD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238281.m3u8",
+            "HEVC": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238289.m3u8"
+          }
         },
         {
           "name": "SOLO 2",
-          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png"
+          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png",
+          "streams": {
+            "SD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238266.m3u8",
+            "HD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238274.m3u8",
+            "FHD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238282.m3u8",
+            "HEVC": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238290.m3u8"
+          }
         },
         {
           "name": "SOLO 3",
-          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png"
+          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png",
+          "streams": {
+            "SD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238267.m3u8",
+            "HD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238275.m3u8",
+            "FHD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238283.m3u8",
+            "HEVC": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238291.m3u8"
+          }
         },
         {
           "name": "SOLO 4",
-          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png"
+          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png",
+          "streams": {
+            "SD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238268.m3u8",
+            "HD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238276.m3u8",
+            "FHD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238284.m3u8",
+            "HEVC": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238292.m3u8"
+          }
         },
         {
           "name": "SOLO 5",
-          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png"
+          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png",
+          "streams": {
+            "SD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238269.m3u8",
+            "HD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238277.m3u8",
+            "FHD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238285.m3u8",
+            "HEVC": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238293.m3u8"
+          }
         },
         {
           "name": "SOLO F1",
-          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png"
+          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png",
+          "streams": {
+            "FHD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238286.m3u8",
+            "HEVC": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238294.m3u8"
+          }
         },
         {
           "name": "SOLO WWE",
-          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png"
+          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png",
+          "streams": {
+            "FHD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238288.m3u8",
+            "HEVC": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238296.m3u8"
+          }
         },
         {
           "name": "SOLO UFC",
-          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png"
+          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png",
+          "streams": {
+            "FHD": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238287.m3u8",
+            "HEVC": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/238295.m3u8"
+          }
         },
         {
           "name": "SOLO HDR (HLG)",
-          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png"
+          "logo": "http://pro.netmos.ovh:6051/img/tsawer/Beinsport/solo.sports.png",
+          "streams": {
+            "HDR (HLG)": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/239610.m3u8",
+            "HDR _ (HLG)": "http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/239611.m3u8"
+          }
         }
       ]
     },
     {
       "name": "Fajr Channels",
-      "channels": []
+      "channels": [
+        {
+          "name": "الفجر 1",
+          "streams": {
+            "HD": "http://legendking.net:8080/solaymanezakaria/RpWgR2xqEjZITdw/70414"
+          }
+        },
+        {
+          "name": "الفجر 2",
+          "streams": {
+            "HD": "http://legendking.net:8080/solaymanezakaria/RpWgR2xqEjZITdw/70416"
+          }
+        },
+        {
+          "name": "الفجر 3",
+          "streams": {
+            "HD": "http://legendking.net:8080/solaymanezakaria/RpWgR2xqEjZITdw/148174"
+          }
+        },
+        {
+          "name": "الفجر 4",
+          "streams": {
+            "HD": "http://legendking.net:8080/solaymanezakaria/RpWgR2xqEjZITdw/148178"
+          }
+        },
+        {
+          "name": "الفجر 5",
+          "streams": {
+            "HD": "http://legendking.net:8080/solaymanezakaria/RpWgR2xqEjZITdw/148175"
+          }
+        }
+      ]
     },
     {
       "name": "Thmanayh",
