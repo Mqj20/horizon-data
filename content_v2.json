@@ -1820,7 +1820,11 @@
           "name": "My Kora 1",
           "logo": "https://media.appmytv.com/image/channel/315/06e815ae628bea34e34b6dce1d677e06.png",
           "streams": {
-            "Auto": "http://104.160.15.52/lbengine/+ph/Lc65nSyPCZmeBEcFq6odJ6G__hi__TyKTHeozMND__hi__BDtDqYEszCDnnfGcxlCp4MRwaY__hi__N1qUnMiUAmfPqhC__ih____ih__M9w1DM0u1OGVpM64q__ih__GDfODNAv9EWqLcndeNk2HnD7WsC2R6nU9__hi__p1jcVMiO7QUnr__ih__CI83qhFbGz0A5eMMdispvPbS2zeofod__hi____hi__ly1WvqEu60gQ7d9bm47F7fjuwN__hi__kd8s__ih__e__hi__cokoPzA90ncX0Rr6e0P4sFCWQEGgrd76LoKissfYE45xMHZr483x8HxpuZ5G__ih__k2SHg==---/cache/Kora-PL-LB/master.m3u8"
+            "Auto": "http://104.160.15.52/lbengine/+ph/U1KhXBki5__ih__AQL9__ih__C84WDT4uj8__ih__hkGIA8QP4tOWp__ih__vAdNXIxZS3uYfMKSFDC4XTs3CIMEmO3T9SfXKjqz2NH1JmKupwkGYlBXvDBzZvdVOVxCTCT6eBJ5xb2MGG5Qcgb7eMKRW90MR1xv7AfT8Gy5B48anIWYqymEu91o7JVQLXgPsGnuDi__hi__y8QqHXBEka7fitdHV__ih__17RwwMZ76FOisgvQs1BHzO3T__ih__waPifIJgid6koEQDIEXGZClKnvGjaiEH9bfs7iNNEldpP4kVPOHgDnkSBUPur7ApSfbsnBaDwSYqVI=---/cache/Kora-PL-LB/master.m3u8"
+          },
+          "headers": {
+            "Referer": "https://kidntvs.com/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
           }
         },
         {
@@ -1828,6 +1832,10 @@
           "logo": "https://media.appmytv.com/image/channel/609/bc6d4923c36e044848f032934f95913f.png",
           "streams": {
             "Auto": "http://130.193.165.162/lbengine/+ph/pVhOCwFmyq0HdodIboGgfZdup2m2UafPRHVYNCwwLQV__hi__nGzDjpsDrmLXlrDxc4Zj3tAPLUkbdTFNLRAw__hi__074YwNCuSa6DXSj1bVWwtUz2hC44TxVz__hi__5WH8yYm66DHU__ih__SNoUXitwTHBA9fCEysmvZz38ctozX8dHNPQ9zGKj8S5XiJAUUm58ZKZi59kmUENh9ntOZq5ia4OF2HxBc4OqcPJicdC5qMAlCGqnv0vQQwUmdQ6Gsis__ih__LEZYmCoUWoIdnKuaObl5NB7__hi__hb6dI73JIjDKwEkboONL6tmSdEOagCRZE=---/cache/Kora-La-LB/master.m3u8"
+          },
+          "headers": {
+            "Referer": "https://kidntvs.com/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
           }
         },
         {
@@ -1835,6 +1843,10 @@
           "logo": "https://media.appmytv.com/image/channel/607/f1681b2435047cf2f58108453cecabcf.png",
           "streams": {
             "Auto": "https://streamermytvd.com/VFWFfr31PVm6IAFXrHoH7eiKzL11wzDn1HcPpNqfA93__hi__5DRzH6mc45UZULFbwcfQyLj3__ih__zNSzU98__hi__VmWMri07Wld64mus3s9DClQv69oLG__ih__LlcFiAYt51__hi__SbL5rIHa__hi__G6Ja6oFFGOkphOWt__hi__XHlKiIYtC4MAjZrvCgn5ljI8AVGGuACLwd8o9pKLJZl__hi__zrZuH6d__hi__Y1866kp1iJVfKawOYFGVYwvz9mdb4diEvYfWwPcqdsmxo28aChQ6KVJ5ReXdC---/cache/UFC/master.m3u8"
+          },
+          "headers": {
+            "Referer": "https://kidntvs.com/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
           }
         },
         {
@@ -1842,6 +1854,10 @@
           "logo": "https://media.appmytv.com/image/channel/886/465db1ce1e7c871ef23eea1a33e4f706.png",
           "streams": {
             "Auto": "http://104.160.15.52/lbengine/+ph/BMWtfW4YgPDF3jp8vnudKFOAtqr8w1p__ih__jbnc0K5fR5GSGUAeLO2C8JRxcXUQEqDUL7HIs8p9FMqV65rYilN8PZqHuOyH7pIt0eOY48DoMKrIERf073BpAbjDuBNWKc8eN6utmrw40OgbQ1B__hi__OqwPrI9NP4Jlx1RqNALryn0F0Yol9__ih__a3pfSNAWKM0__hi__uViKH7gDNAwsYy__ih__odemWx5ZtYPQXx5aNlqmC0Wceln__hi__nHXcwTdHbSo__hi__ZnwBZDBxhwMy7xNbtXUHnaCzzPAZCs6DJQd4eQ8aj__ih__mP8BIYj__ih__RJBBsl__ih__Ro=---/cache/AVA-Sport-HD-LB/master.m3u8"
+          },
+          "headers": {
+            "Referer": "https://kidntvs.com/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
           }
         },
         {
@@ -1849,6 +1865,10 @@
           "logo": "https://media.appmytv.com/image/channel/587/5e1e14911aa3f45f6c407a64ed44ce11.png",
           "streams": {
             "Auto": "http://104.160.15.54/lbengine/+ph/pVhOCwFmyq0HdodIboGgfZdup2m2UafPRHVYNCwwLQV__hi__nGzDjpsDrmLXlrDxc4Zj1QCKDM3iwh1ckP48EzlRP__hi__n5MbTXAFSK__hi__IuVzfIn1kZHoj9flCkO4P__ih__0FlNw__hi__zCYHv0SHWd6hroctSSEopNutD8in3R115hjX__ih__WM79EA8QrC5busw0F3__hi__gofdBMGPdfgVXtXHPh__ih__xPQ7VBqPtN__ih__eCWWpXvEo6uHeyW__hi__VpKGBwMKMtWTjgM2Hz4KHhyUXETa7Vljq__hi__N__ih__d__ih__IP7zJlh5KQyTdZ8UdUSW2Jbqqz60TTS8eAs=---/cache/Falcon-Eye-LB/master.m3u8"
+          },
+          "headers": {
+            "Referer": "https://kidntvs.com/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
           }
         }
       ]
