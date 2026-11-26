@@ -7,14 +7,14 @@
     "apkUrl": "",
     "notes": "",
     "com.horizon.tv": {
-      "version": 29928165,
-      "minVersion": 29928165,
+      "version": 29923095,
+      "minVersion": 29923095,
       "apkUrl": "https://github.com/Mqj20/horizon-releases/releases/download/latest/HorizonTV.apk",
       "notes": "نسخة جديدة جاهزة، ثبّتها للمتابعة."
     },
     "com.horizon.gt": {
-      "version": 29928166,
-      "minVersion": 29928166,
+      "version": 29923094,
+      "minVersion": 29923094,
       "apkUrl": "https://github.com/Mqj20/horizon-releases/releases/download/latest/HorizonGT.apk",
       "notes": "نسخة جديدة جاهزة، ثبّتها للمتابعة."
     }
@@ -22,6 +22,7 @@
   "channels": [
     {
       "name": "HorizonTV Sport",
+      "packageLogo": "ضع الرابط هنا",
       "logo": "asset:hs_logo_{n}.png",
       "overlay": {
         "url": "asset:hs_{n}.png",
@@ -33,7 +34,7 @@
       "channels": [
         {
           "name": "BEIN SPORTS 1",
-          "logo": "asset:hs_logo_{n}.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS1.png",
           "streams": {
             "4K": "http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/437338.m3u8",
             "RAW": "http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/437356.m3u8",
@@ -43,7 +44,7 @@
         },
         {
           "name": "BEIN SPORTS 2",
-          "logo": "asset:hs_logo_{n}.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS2.png",
           "streams": {
             "4K": "http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/437337.m3u8",
             "RAW": "http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/437355.m3u8",
@@ -52,7 +53,7 @@
         },
         {
           "name": "BEIN SPORTS 3",
-          "logo": "asset:hs_logo_{n}.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS3.png",
           "streams": {
             "4K": "http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/437336.m3u8",
             "RAW": "http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/437354.m3u8",
@@ -61,7 +62,7 @@
         },
         {
           "name": "BEIN SPORTS 4",
-          "logo": "asset:hs_logo_{n}.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS4.png",
           "streams": {
             "4K": "http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/437335.m3u8",
             "RAW": "http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/437353.m3u8",
@@ -70,7 +71,7 @@
         },
         {
           "name": "BEIN SPORTS 5",
-          "logo": "asset:hs_logo_{n}.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS5.png",
           "streams": {
             "4K": "http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/437334.m3u8",
             "RAW": "http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/437352.m3u8",
@@ -79,7 +80,7 @@
         },
         {
           "name": "BEIN SPORTS 6",
-          "logo": "asset:hs_logo_{n}.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS6.png",
           "streams": {
             "4K": "http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/437333.m3u8",
             "RAW": "http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/437351.m3u8",
@@ -88,7 +89,7 @@
         },
         {
           "name": "BEIN SPORTS 7",
-          "logo": "asset:hs_logo_{n}.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS7.png",
           "streams": {
             "4K": "http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/437332.m3u8",
             "RAW": "http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/437350.m3u8",
@@ -97,7 +98,7 @@
         },
         {
           "name": "BEIN SPORTS 8",
-          "logo": "asset:hs_logo_{n}.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS8.png",
           "streams": {
             "4K": "http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/437331.m3u8",
             "RAW": "http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/437349.m3u8",
@@ -106,7 +107,7 @@
         },
         {
           "name": "BEIN SPORTS 9",
-          "logo": "asset:hs_logo_{n}.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS9.png",
           "streams": {
             "4K": "http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/437330.m3u8",
             "RAW": "http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/437348.m3u8",
@@ -117,6 +118,7 @@
     },
     {
       "name": "Entertainment from HorizonTV",
+      "packageLogo": "ضع الرابط هنا",
       "logo": "asset:he_logo_{n}.png",
       "overlay": {
         "url": "asset:he_{n}.png",
@@ -189,70 +191,347 @@
       ]
     },
     {
+      "name": "BEIN ENTERTAINMENT",
+      "packageLogo": "ضع الرابط هنا",
+      "logo": "asset:he_logo_{n}.png",
+      "overlay": {
+        "url": "asset:he_{n}.png",
+        "pos": "tr",
+        "width": 16.5,
+        "mx": 3,
+        "my": 12
+      },
+      "channels": [
+        {
+          "name": "BEIN",
+          "logo": "https://go4.pw/ARABE/BEIN1.png",
+          "streams": {
+            "4K": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1388357.m3u8",
+            "UHD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1226644.m3u8",
+            "HD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1226645.m3u8"
+          }
+        },
+        {
+          "name": "BEIN MOVIES 1",
+          "logo": "https://go4.pw/ARABE/BEIN_MOVIES1.png",
+          "streams": {
+            "4K": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1348401.m3u8",
+            "HD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/27974.m3u8"
+          }
+        },
+        {
+          "name": "BEIN MOVIES 2",
+          "logo": "https://go4.pw/ARABE/BEIN_MOVIES2.png",
+          "streams": {
+            "4K": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1348402.m3u8",
+            "HD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/27973.m3u8"
+          }
+        },
+        {
+          "name": "BEIN MOVIES 3",
+          "logo": "https://go4.pw/ARABE/BEIN_MOVIES3.png",
+          "streams": {
+            "4K": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1348403.m3u8",
+            "HD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/27972.m3u8"
+          }
+        },
+        {
+          "name": "BEIN MOVIES 4",
+          "logo": "https://go4.pw/ARABE/BEIN_MOVIES4.png",
+          "streams": {
+            "4K": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1348404.m3u8",
+            "HD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/27971.m3u8"
+          }
+        },
+        {
+          "name": "BEIN SERIES 1",
+          "logo": "https://go4.pw/ARABE/BEIN_SERIES_1.png",
+          "streams": {
+            "4K": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1348405.m3u8",
+            "HD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/27969.m3u8"
+          }
+        },
+        {
+          "name": "BEIN SERIES 2",
+          "logo": "https://go4.pw/ARABE/BEIN_SERIES_1.png",
+          "streams": {
+            "4K": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1348406.m3u8",
+            "HD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/27968.m3u8"
+          }
+        },
+        {
+          "name": "BEIN DRAMA",
+          "logo": "https://go4.pw/ARABE/BEIN_DRAMA_1.png",
+          "streams": {
+            "4K": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1348407.m3u8",
+            "HD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/27967.m3u8"
+          }
+        },
+        {
+          "name": "BEIN STAR MOVIES",
+          "logo": "https://go4.pw/BEIN/starmovies.png",
+          "streams": {
+            "4K": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1348408.m3u8",
+            "HD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1348416.m3u8"
+          }
+        },
+        {
+          "name": "BEIN ACTION",
+          "logo": "https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png",
+          "streams": {
+            "4K": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1348409.m3u8"
+          }
+        },
+        {
+          "name": "BEIN BARAEAM",
+          "logo": "https://go4.pw/BEIN/BARAEAM.png",
+          "streams": {
+            "4K": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1348412.m3u8"
+          }
+        },
+        {
+          "name": "BEIN JEEM",
+          "logo": "https://go4.pw/ARABE/JEEM KIDS.png",
+          "streams": {
+            "4K": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1348413.m3u8"
+          }
+        },
+        {
+          "name": "BEIN CARTOONITO",
+          "logo": "https://go4.pw/EUROPE/FRANCE/CARTOONITO_FHD.png",
+          "streams": {
+            "HD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1348418.m3u8"
+          }
+        },
+        {
+          "name": "BEIN FOX ACTION MOVIES",
+          "logo": "https://go4.pw/ARABE/FOXACTIONMOVIES.png",
+          "streams": {
+            "HD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/27948.m3u8"
+          }
+        },
+        {
+          "name": "BEIN BOX OFFICE 1",
+          "logo": "https://go4.pw/ARABE/BEIN_BOX_OFFICE1.png",
+          "streams": {
+            "HD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/312491.m3u8"
+          }
+        },
+        {
+          "name": "BEIN BOX OFFICE 2",
+          "logo": "https://go4.pw/ARABE/BEIN_BOX_OFFICE2.png",
+          "streams": {
+            "HD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/312492.m3u8"
+          }
+        },
+        {
+          "name": "BEIN GOURMET",
+          "logo": "https://go4.pw/ARABE/BEIN_GOURMET.png",
+          "streams": {
+            "HD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/27965.m3u8"
+          }
+        },
+        {
+          "name": "BEIN BBC EARTH",
+          "logo": "https://go4.pw/ARABE/BEIN_BBC_EARTH.png",
+          "streams": {
+            "HD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1226343.m3u8"
+          }
+        },
+        {
+          "name": "BEIN DISCOVERY FAMILY",
+          "logo": "https://go4.pw/ARABE/BEIN_DISCOVERY_FAMILY.png",
+          "streams": {
+            "HD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1224819.m3u8"
+          }
+        },
+        {
+          "name": "BEIN DREAM WORK",
+          "logo": "https://go4.pw/ARABE/BEIN_DREAM_WORK.png",
+          "streams": {
+            "HD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1224817.m3u8"
+          }
+        },
+        {
+          "name": "BEIN FOOD NETWORK",
+          "logo": "https://go4.pw/ARABE/BEIN_FOOD_NETWORK.png",
+          "streams": {
+            "HD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1224814.m3u8"
+          }
+        },
+        {
+          "name": "BEIN HGTV",
+          "logo": "https://go4.pw/ARABE/BEIN_HGTV.png",
+          "streams": {
+            "HD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1224816.m3u8"
+          }
+        },
+        {
+          "name": "BEIN TRAVEL",
+          "logo": "https://go4.pw/ARABE/BEIN_TRAVEL.png",
+          "streams": {
+            "HD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1224815.m3u8"
+          }
+        },
+        {
+          "name": "BEIN OD 1 MOVIES",
+          "logo": "https://go4.pw/ARABE/odbein.png",
+          "streams": {
+            "UHD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1224820.m3u8"
+          }
+        },
+        {
+          "name": "BEIN OD 2 MOVIES",
+          "logo": "https://go4.pw/ARABE/odbein.png",
+          "streams": {
+            "UHD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1224821.m3u8"
+          }
+        },
+        {
+          "name": "BEIN OD 3 MOVIES",
+          "logo": "https://go4.pw/ARABE/odbein.png",
+          "streams": {
+            "UHD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1224822.m3u8"
+          }
+        },
+        {
+          "name": "BEIN OD 6 MOVIES",
+          "logo": "https://go4.pw/ARABE/odbein.png",
+          "streams": {
+            "UHD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1224825.m3u8"
+          }
+        },
+        {
+          "name": "BEIN OD 7 MOVIES",
+          "logo": "https://go4.pw/ARABE/odbein.png",
+          "streams": {
+            "UHD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1224826.m3u8"
+          }
+        },
+        {
+          "name": "BEIN OD 8 MOVIES",
+          "logo": "https://go4.pw/ARABE/odbein.png",
+          "streams": {
+            "UHD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1224827.m3u8"
+          }
+        },
+        {
+          "name": "BEIN OD 1 KIDS",
+          "logo": "https://go4.pw/ARABE/odbein.png",
+          "streams": {
+            "UHD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1224832.m3u8"
+          }
+        },
+        {
+          "name": "BEIN OD 2 KIDS",
+          "logo": "https://go4.pw/ARABE/odbein.png",
+          "streams": {
+            "UHD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1224833.m3u8"
+          }
+        },
+        {
+          "name": "BEIN OD 3 KIDS",
+          "logo": "https://go4.pw/ARABE/odbein.png",
+          "streams": {
+            "UHD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1224834.m3u8"
+          }
+        },
+        {
+          "name": "BEIN OD 2023 1",
+          "logo": "https://go4.pw/ARABE/odbein.png",
+          "streams": {
+            "UHD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1224828.m3u8"
+          }
+        },
+        {
+          "name": "BEIN OD 2023 2",
+          "logo": "https://go4.pw/ARABE/odbein.png",
+          "streams": {
+            "UHD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1224829.m3u8"
+          }
+        },
+        {
+          "name": "BEIN OD 2023 3",
+          "logo": "https://go4.pw/ARABE/odbein.png",
+          "streams": {
+            "UHD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1224830.m3u8"
+          }
+        },
+        {
+          "name": "BEIN OD 2023 4",
+          "logo": "https://go4.pw/ARABE/odbein.png",
+          "streams": {
+            "UHD": "http://astott21.xyz:80/live/7Z6NN83Z1S236ZJ/gVUQGYSPwY/1224831.m3u8"
+          }
+        }
+      ]
+    },
+    {
       "name": "Bein-Ostora",
+      "packageLogo": "ضع الرابط هنا",
       "channels": [
         {
           "name": "بي ان سبورت 1",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4111&cat=332"
           },
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS1.png"
         },
         {
           "name": "بي ان سبورت 2",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4113&cat=332"
           },
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_2.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS2.png"
         },
         {
           "name": "بي ان سبورت 3",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4115&cat=332"
           },
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_3.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS3.png"
         },
         {
           "name": "بي ان سبورت 4",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4119&cat=332"
           },
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_4.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS4.png"
         },
         {
           "name": "بي ان سبورت 5",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4123&cat=332"
           },
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_5.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS5.png"
         },
         {
           "name": "بي ان سبورت 6",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4126&cat=332"
           },
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS6.png"
         },
         {
           "name": "بي ان سبورت 7",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4127&cat=332"
           },
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_7.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS7.png"
         },
         {
           "name": "بي ان سبورت 8",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=4965&cat=332"
           },
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_8.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS8.png"
         },
         {
           "name": "بي ان سبورت 9",
           "streams": {
             "HD": "https://abody.optikl.ink/osa/main.php?id=3961&cat=332"
           },
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_9.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS9.png"
         },
         {
           "name": "بي ان سبورت اتش دي",
@@ -264,6 +543,7 @@
     },
     {
       "name": "TOD-البث-الخاص",
+      "packageLogo": "ضع الرابط هنا",
       "channels": [
         {
           "name": "TOD",
@@ -325,6 +605,7 @@
     },
     {
       "name": "bein sport - VIP",
+      "packageLogo": "ضع الرابط هنا",
       "channels": [
         {
           "name": "BEIN SPORT 1",
@@ -344,7 +625,7 @@
             "HD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash1hd.m3u8|User-Agent=flash Player&Referer=flash tv1",
             "FHD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash1fhd.m3u8|User-Agent=flash Player&Referer=flash tv1"
           },
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS1.png"
         },
         {
           "name": "BEIN SPORT 2",
@@ -365,7 +646,7 @@
             "HD-FLASH-3": "https://wideiptv.mandoosports.workers.dev/liveflash3hd.m3u8|User-Agent=flash Player&Referer=flash tv1",
             "FHD-FLASH-3": "https://wideiptv.mandoosports.workers.dev/liveflash3fhd.m3u8|User-Agent=flash Player&Referer=flash tv1"
           },
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_2.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS2.png"
         },
         {
           "name": "BEIN SPORT 3",
@@ -380,7 +661,7 @@
             "HD": "http://startseven.tn:2052/live/09746171/15445345/186.ts",
             "FHD": "http://startseven.tn:2052/live/09746171/15445345/267.ts"
           },
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_3.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS3.png"
         },
         {
           "name": "BEIN SPORT 4",
@@ -398,7 +679,7 @@
             "HD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash4hd.m3u8|User-Agent=flash Player&Referer=flash tv1",
             "FHD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash4fhd.m3u8|User-Agent=flash Player&Referer=flash tv1"
           },
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_4.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS4.png"
         },
         {
           "name": "BEIN SPORT 5",
@@ -416,7 +697,7 @@
             "HD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash5hd.m3u8|User-Agent=flash Player&Referer=flash tv1",
             "FHD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash5fhd.m3u8|User-Agent=flash Player&Referer=flash tv1"
           },
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_5.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS5.png"
         },
         {
           "name": "BEIN SPORT 6",
@@ -434,23 +715,24 @@
             "HD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash6hd.m3u8|User-Agent=flash Player&Referer=flash tv1",
             "FHD-FLASH": "https://wideiptv.mandoosports.workers.dev/liveflash56hd.m3u8|User-Agent=flash Player&Referer=flash tv1"
           },
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS6.png"
         }
       ]
     },
     {
       "name": "beIN SPORTS Family",
+      "packageLogo": "ضع الرابط هنا",
       "channels": [
         {
           "name": "BeIN Sports News",
-          "logo": "http://safiafamily.com/uploads/family/Bein_sports/bein_sports_.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_News.png",
           "streams": {
             "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/1017006.m3u8"
           }
         },
         {
           "name": "BeIN Sports 1",
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS1.png",
           "streams": {
             "LOW": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/1016994.m3u8",
             "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/1017103.m3u8",
@@ -461,7 +743,7 @@
         },
         {
           "name": "BeIN Sports 2",
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_2.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS2.png",
           "streams": {
             "LOW": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/1016995.m3u8",
             "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/1017102.m3u8",
@@ -472,7 +754,7 @@
         },
         {
           "name": "BeIN Sports 3",
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_3.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS3.png",
           "streams": {
             "LOW": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/1016996.m3u8",
             "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/1017101.m3u8",
@@ -483,7 +765,7 @@
         },
         {
           "name": "BeIN Sports 4",
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_4.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS4.png",
           "streams": {
             "LOW": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/1016997.m3u8",
             "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/1017100.m3u8",
@@ -494,7 +776,7 @@
         },
         {
           "name": "BeIN Sports 5",
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_5.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS5.png",
           "streams": {
             "LOW": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/1016998.m3u8",
             "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/1017099.m3u8",
@@ -505,7 +787,7 @@
         },
         {
           "name": "BeIN Sports 6",
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS6.png",
           "streams": {
             "LOW": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/1016999.m3u8",
             "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/1017098.m3u8",
@@ -516,7 +798,7 @@
         },
         {
           "name": "BeIN Sports 7",
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_7.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS7.png",
           "streams": {
             "LOW": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/1017001.m3u8",
             "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/1017097.m3u8",
@@ -527,7 +809,7 @@
         },
         {
           "name": "BeIN Sports 8",
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_8.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS8.png",
           "streams": {
             "LOW": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/1017002.m3u8",
             "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/1017096.m3u8",
@@ -538,7 +820,7 @@
         },
         {
           "name": "BeIN Sports 9",
-          "logo": "https://safiafamily.com/uploads/family/Bein_sports/Bein_9.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS9.png",
           "streams": {
             "LOW": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/1017003.m3u8",
             "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/1017095.m3u8",
@@ -551,10 +833,11 @@
     },
     {
       "name": "Bein sport أنترنت ألابراج 🗼",
+      "packageLogo": "ضع الرابط هنا",
       "channels": [
         {
           "name": "BEIN SPORTS 1",
-          "logo": "https://i.imgur.com/ylfkzIJ.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS1.png",
           "streams": {
             "4K": "http://cf-dana.com:8080/live/khaled81/487650495167/275028.m3u8",
             "FHD": "http://cf-dana.com:8080/live/khaled81/487650495167/275041.m3u8",
@@ -565,7 +848,7 @@
         },
         {
           "name": "BEIN SPORTS 2",
-          "logo": "https://i.imgur.com/eUbyiz1.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS2.png",
           "streams": {
             "4K": "http://cf-dana.com:8080/live/khaled81/487650495167/275026.m3u8",
             "FHD": "http://cf-dana.com:8080/live/khaled81/487650495167/275040.m3u8",
@@ -576,7 +859,7 @@
         },
         {
           "name": "BEIN SPORTS 3",
-          "logo": "https://i.imgur.com/TWRkwT2.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS3.png",
           "streams": {
             "4K": "http://cf-dana.com:8080/live/khaled81/487650495167/275027.m3u8",
             "FHD": "http://cf-dana.com:8080/live/khaled81/487650495167/275039.m3u8",
@@ -587,7 +870,7 @@
         },
         {
           "name": "BEIN SPORTS 4",
-          "logo": "https://i.imgur.com/LOAoZje.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS4.png",
           "streams": {
             "4K": "http://cf-dana.com:8080/live/khaled81/487650495167/275025.m3u8",
             "FHD": "http://cf-dana.com:8080/live/khaled81/487650495167/275038.m3u8",
@@ -598,7 +881,7 @@
         },
         {
           "name": "BEIN SPORTS 5",
-          "logo": "https://i.imgur.com/fFm0LUH.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS5.png",
           "streams": {
             "4K": "http://cf-dana.com:8080/live/khaled81/487650495167/275024.m3u8",
             "FHD": "http://cf-dana.com:8080/live/khaled81/487650495167/275037.m3u8",
@@ -609,7 +892,7 @@
         },
         {
           "name": "BEIN SPORTS 6",
-          "logo": "https://i.imgur.com/kVSr7Qe.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS6.png",
           "streams": {
             "4K": "http://cf-dana.com:8080/live/khaled81/487650495167/275023.m3u8",
             "FHD": "http://cf-dana.com:8080/live/khaled81/487650495167/275036.m3u8",
@@ -620,7 +903,7 @@
         },
         {
           "name": "BEIN SPORTS 7",
-          "logo": "https://i.imgur.com/om5SxpE.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS7.png",
           "streams": {
             "4K": "http://cf-dana.com:8080/live/khaled81/487650495167/275022.m3u8",
             "FHD": "http://cf-dana.com:8080/live/khaled81/487650495167/275035.m3u8",
@@ -631,7 +914,7 @@
         },
         {
           "name": "BEIN SPORTS 8",
-          "logo": "https://i.imgur.com/SJB4nsY.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS8.png",
           "streams": {
             "4K": "http://cf-dana.com:8080/live/khaled81/487650495167/275021.m3u8",
             "FHD": "http://cf-dana.com:8080/live/khaled81/487650495167/275034.m3u8",
@@ -642,7 +925,7 @@
         },
         {
           "name": "BEIN SPORTS 9",
-          "logo": "https://i.imgur.com/g2TvLGc.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS9.png",
           "streams": {
             "4K": "http://cf-dana.com:8080/live/khaled81/487650495167/275020.m3u8",
             "FHD": "http://cf-dana.com:8080/live/khaled81/487650495167/275033.m3u8",
@@ -655,9 +938,10 @@
     },
     {
       "name": "Bein Sport S-8K",
+      "packageLogo": "ضع الرابط هنا",
       "channels": [
         {
-          "logo": "https://i.imgur.com/XBv6GlT.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS1.png",
           "name": "┃AR┃ BEIN SPORTS 1",
           "streams": {
             "Server 1": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/242283.m3u8",
@@ -665,7 +949,7 @@
           }
         },
         {
-          "logo": "https://i.imgur.com/a2rDmyW.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS2.png",
           "name": "┃AR┃ BEIN SPORTS 2",
           "streams": {
             "Server 1": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/242282.m3u8",
@@ -673,7 +957,7 @@
           }
         },
         {
-          "logo": "https://i.imgur.com/SDphghs.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS3.png",
           "name": "┃AR┃ BEIN SPORTS 3",
           "streams": {
             "Server 1": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/242281.m3u8",
@@ -681,7 +965,7 @@
           }
         },
         {
-          "logo": "https://i.imgur.com/dPCbI8e.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS4.png",
           "name": "┃AR┃ BEIN SPORTS 4",
           "streams": {
             "Server 1": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/242280.m3u8",
@@ -689,7 +973,7 @@
           }
         },
         {
-          "logo": "https://i.imgur.com/TLdSJOZ.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS5.png",
           "name": "┃AR┃ BEIN SPORTS 5",
           "streams": {
             "Server 1": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/242279.m3u8",
@@ -697,7 +981,7 @@
           }
         },
         {
-          "logo": "https://i.imgur.com/8ExoDgb.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS6.png",
           "name": "┃AR┃ BEIN SPORTS 6",
           "streams": {
             "Server 1": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/242278.m3u8",
@@ -705,7 +989,7 @@
           }
         },
         {
-          "logo": "https://i.imgur.com/UCGDGO1.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS7.png",
           "name": "┃AR┃ BEIN SPORTS 7",
           "streams": {
             "Server 1": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/242277.m3u8",
@@ -713,7 +997,7 @@
           }
         },
         {
-          "logo": "https://i.imgur.com/bFVHSk2.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS8.png",
           "name": "┃AR┃ BEIN SPORTS 8",
           "streams": {
             "Server 1": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/242276.m3u8",
@@ -721,7 +1005,7 @@
           }
         },
         {
-          "logo": "https://i.imgur.com/dZpJskQ.png",
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS9.png",
           "name": "┃AR┃ BEIN SPORTS 9",
           "streams": {
             "Server 1": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/242275.m3u8",
@@ -732,6 +1016,7 @@
     },
     {
       "name": "Bein Sport S-AP",
+      "packageLogo": "ضع الرابط هنا",
       "channels": [
         {
           "name": "BEIN SPORTS 1",
@@ -740,7 +1025,7 @@
             "HD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/985161.m3u8",
             "SD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/985188.m3u8"
           },
-          "logo": "https://i.imgur.com/XBv6GlT.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS1.png"
         },
         {
           "name": "BEIN SPORTS 2",
@@ -749,7 +1034,7 @@
             "HD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/985162.m3u8",
             "SD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/985189.m3u8"
           },
-          "logo": "https://i.imgur.com/a2rDmyW.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS2.png"
         },
         {
           "name": "BEIN SPORTS 3",
@@ -758,7 +1043,7 @@
             "HD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/985163.m3u8",
             "SD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/985190.m3u8"
           },
-          "logo": "https://i.imgur.com/SDphghs.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS3.png"
         },
         {
           "name": "BEIN SPORTS 4",
@@ -767,7 +1052,7 @@
             "HD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/985164.m3u8",
             "SD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/985191.m3u8"
           },
-          "logo": "https://i.imgur.com/dPCbI8e.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS4.png"
         },
         {
           "name": "BEIN SPORTS 5",
@@ -776,7 +1061,7 @@
             "HD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/985165.m3u8",
             "SD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/985192.m3u8"
           },
-          "logo": "https://i.imgur.com/TLdSJOZ.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS5.png"
         },
         {
           "name": "BEIN SPORTS 6",
@@ -785,7 +1070,7 @@
             "HD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/985166.m3u8",
             "SD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/985193.m3u8"
           },
-          "logo": "https://i.imgur.com/8ExoDgb.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS6.png"
         },
         {
           "name": "BEIN SPORTS 7",
@@ -794,7 +1079,7 @@
             "HD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/985167.m3u8",
             "SD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/985194.m3u8"
           },
-          "logo": "https://i.imgur.com/UCGDGO1.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS7.png"
         },
         {
           "name": "BEIN SPORTS 8",
@@ -803,7 +1088,7 @@
             "HD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/985168.m3u8",
             "SD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/985195.m3u8"
           },
-          "logo": "https://i.imgur.com/bFVHSk2.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS8.png"
         },
         {
           "name": "BEIN SPORTS 9",
@@ -812,12 +1097,13 @@
             "HD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/985169.m3u8",
             "SD": "http://line.conex-tivi.cc:80/live/R6GJ59/W1FHJP/985196.m3u8"
           },
-          "logo": "https://i.imgur.com/dZpJskQ.png"
+          "logo": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Sports/beIN_SPORTS9.png"
         }
       ]
     },
     {
       "name": "Alwan",
+      "packageLogo": "ضع الرابط هنا",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgft-YbBVKfryJ7vDB1a_D4viDP2EIPYV6mLGhZoz6sJDtdAdtpMU4RWbMFCV0BSbplVgU-eY3IavwxxjIHlvwpi97WnaEFqZ0_WSXkPvp4x8GjRe_EE9km6qx1ru7qE0i9WL0uGcePJgxVrDfsFUpj1drc0nvaThw0jX6s-GBLpmd1fFpnuop82VoRtdQv/s400/alwan.png",
       "channels": [
         {
@@ -906,6 +1192,7 @@
     },
     {
       "name": "Kurd Sport",
+      "packageLogo": "ضع الرابط هنا",
       "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
       "channels": [
         {
@@ -995,6 +1282,7 @@
     },
     {
       "name": "Solo Sport",
+      "packageLogo": "ضع الرابط هنا",
       "channels": [
         {
           "name": "SOLO 1",
@@ -1082,6 +1370,7 @@
     },
     {
       "name": "Fajr Channels",
+      "packageLogo": "ضع الرابط هنا",
       "channels": [
         {
           "name": "الفجر 1",
@@ -1117,6 +1406,7 @@
     },
     {
       "name": "Thmanayh",
+      "packageLogo": "ضع الرابط هنا",
       "channels": [
         {
           "name": "Thmanayh 1",
@@ -1146,6 +1436,7 @@
     },
     {
       "name": "الدوري الإيطالي+الألماني",
+      "packageLogo": "ضع الرابط هنا",
       "channels": [
         {
           "name": "StarzPlay Sports 1",
@@ -1235,173 +1526,8 @@
       ]
     },
     {
-      "name": "BEIN ENTERTAINMENT",
-      "channels": [
-        {
-          "name": "BeIN Movies 1",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/Bein_Movie_1.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/66096.m3u8"
-          }
-        },
-        {
-          "name": "BeIN Movies 2",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/Bein_Movie_2.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/66097.m3u8"
-          }
-        },
-        {
-          "name": "BeIN Movies 3",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/Bein_Movie_3.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/66098.m3u8"
-          }
-        },
-        {
-          "name": "BeIN Movies 4",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/Bein_Movie_4.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/66099.m3u8"
-          }
-        },
-        {
-          "name": "BeIN Series 1",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/Bein_Series_1.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/66100.m3u8"
-          }
-        },
-        {
-          "name": "BeIN Series 2",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/Bein_Series_2.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/66101.m3u8"
-          }
-        },
-        {
-          "name": "BeIN Drama 1",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/Bein_Drama_1.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/66095.m3u8"
-          }
-        },
-        {
-          "name": "BeIN Star Movies",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/BeIN_Star_Movies_4K.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/840612.m3u8"
-          }
-        },
-        {
-          "name": "Bein Star World",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/Bein_Star_World_4K.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/840611.m3u8"
-          }
-        },
-        {
-          "name": "BeIN Star Action",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/Bein_Star_Action.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/66090.m3u8"
-          }
-        },
-        {
-          "name": "BeIN BBC Earth",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/Bein_BBC_Earth.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/66086.m3u8"
-          }
-        },
-        {
-          "name": "Bein Food Network",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/Bein_Food_Network_4K.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/840618.m3u8"
-          }
-        },
-        {
-          "name": "Bein Nat Geo",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/Bein_Nat_geo_4K.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/840613.m3u8"
-          }
-        },
-        {
-          "name": "Bein Nat Geo Wild",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/Bein_Nat_geo_Wild_4K.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/840614.m3u8"
-          }
-        },
-        {
-          "name": "Bein Travel",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/Bein_Travel_4K.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/840617.m3u8"
-          }
-        },
-        {
-          "name": "BeIN HGTV",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/Bein_HGTV.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/839708.m3u8"
-          }
-        },
-        {
-          "name": "BeIN Fatafeat",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/Bein_Fatafet.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/66087.m3u8"
-          }
-        },
-        {
-          "name": "BeIN Gourmet",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/Bein_Gourment.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/66093.m3u8"
-          }
-        },
-        {
-          "name": "Bein Cartoonito",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/Bein_Cartoonito_4K.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/840615.m3u8"
-          }
-        },
-        {
-          "name": "BeIN Baraem",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/BeIN_Baraem_4K.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/66124.m3u8"
-          }
-        },
-        {
-          "name": "BeIN Jeem",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/BeIN_Jeem_4K.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/66125.m3u8"
-          }
-        },
-        {
-          "name": "Bein Disney",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/Bein_Disney_4K.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/901299.m3u8"
-          }
-        },
-        {
-          "name": "Bein Disney Jr",
-          "logo": "https://safiafamily.com/uploads/family/Bein_Media/Bein_Disney_Jr_4K.png",
-          "streams": {
-            "SD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/901301.m3u8"
-          }
-        }
-      ]
-    },
-    {
       "name": "MBC GROUP",
+      "packageLogo": "ضع الرابط هنا",
       "channels": [
         {
           "name": "MBC GROUP",
@@ -1810,66 +1936,6 @@
             "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/195374.m3u8"
           },
           "logo": "http://vodkom.com/Logo/ARABICHD/mbcfm.png"
-        }
-      ]
-    },
-    {
-      "name": "٧٧٧",
-      "channels": [
-        {
-          "name": "My Kora 1",
-          "logo": "https://media.appmytv.com/image/channel/315/06e815ae628bea34e34b6dce1d677e06.png",
-          "streams": {
-            "Auto": "http://104.160.15.52/lbengine/+ph/U1KhXBki5__ih__AQL9__ih__C84WDT4uj8__ih__hkGIA8QP4tOWp__ih__vAdNXIxZS3uYfMKSFDC4XTs3CIMEmO3T9SfXKjqz2NH1JmKupwkGYlBXvDBzZvdVOVxCTCT6eBJ5xb2MGG5Qcgb7eMKRW90MR1xv7AfT8Gy5B48anIWYqymEu91o7JVQLXgPsGnuDi__hi__y8QqHXBEka7fitdHV__ih__17RwwMZ76FOisgvQs1BHzO3T__ih__waPifIJgid6koEQDIEXGZClKnvGjaiEH9bfs7iNNEldpP4kVPOHgDnkSBUPur7ApSfbsnBaDwSYqVI=---/cache/Kora-PL-LB/master.m3u8"
-          },
-          "headers": {
-            "Referer": "https://kidntvs.com/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "My Kora 2",
-          "logo": "https://media.appmytv.com/image/channel/609/bc6d4923c36e044848f032934f95913f.png",
-          "streams": {
-            "Auto": "http://130.193.165.162/lbengine/+ph/pVhOCwFmyq0HdodIboGgfZdup2m2UafPRHVYNCwwLQV__hi__nGzDjpsDrmLXlrDxc4Zj3tAPLUkbdTFNLRAw__hi__074YwNCuSa6DXSj1bVWwtUz2hC44TxVz__hi__5WH8yYm66DHU__ih__SNoUXitwTHBA9fCEysmvZz38ctozX8dHNPQ9zGKj8S5XiJAUUm58ZKZi59kmUENh9ntOZq5ia4OF2HxBc4OqcPJicdC5qMAlCGqnv0vQQwUmdQ6Gsis__ih__LEZYmCoUWoIdnKuaObl5NB7__hi__hb6dI73JIjDKwEkboONL6tmSdEOagCRZE=---/cache/Kora-La-LB/master.m3u8"
-          },
-          "headers": {
-            "Referer": "https://kidntvs.com/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "My UFC",
-          "logo": "https://media.appmytv.com/image/channel/607/f1681b2435047cf2f58108453cecabcf.png",
-          "streams": {
-            "Auto": "https://streamermytvd.com/VFWFfr31PVm6IAFXrHoH7eiKzL11wzDn1HcPpNqfA93__hi__5DRzH6mc45UZULFbwcfQyLj3__ih__zNSzU98__hi__VmWMri07Wld64mus3s9DClQv69oLG__ih__LlcFiAYt51__hi__SbL5rIHa__hi__G6Ja6oFFGOkphOWt__hi__XHlKiIYtC4MAjZrvCgn5ljI8AVGGuACLwd8o9pKLJZl__hi__zrZuH6d__hi__Y1866kp1iJVfKawOYFGVYwvz9mdb4diEvYfWwPcqdsmxo28aChQ6KVJ5ReXdC---/cache/UFC/master.m3u8"
-          },
-          "headers": {
-            "Referer": "https://kidntvs.com/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "AVA Sport HD",
-          "logo": "https://media.appmytv.com/image/channel/886/465db1ce1e7c871ef23eea1a33e4f706.png",
-          "streams": {
-            "Auto": "http://104.160.15.52/lbengine/+ph/BMWtfW4YgPDF3jp8vnudKFOAtqr8w1p__ih__jbnc0K5fR5GSGUAeLO2C8JRxcXUQEqDUL7HIs8p9FMqV65rYilN8PZqHuOyH7pIt0eOY48DoMKrIERf073BpAbjDuBNWKc8eN6utmrw40OgbQ1B__hi__OqwPrI9NP4Jlx1RqNALryn0F0Yol9__ih__a3pfSNAWKM0__hi__uViKH7gDNAwsYy__ih__odemWx5ZtYPQXx5aNlqmC0Wceln__hi__nHXcwTdHbSo__hi__ZnwBZDBxhwMy7xNbtXUHnaCzzPAZCs6DJQd4eQ8aj__ih__mP8BIYj__ih__RJBBsl__ih__Ro=---/cache/AVA-Sport-HD-LB/master.m3u8"
-          },
-          "headers": {
-            "Referer": "https://kidntvs.com/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "Falcon Eye HD",
-          "logo": "https://media.appmytv.com/image/channel/587/5e1e14911aa3f45f6c407a64ed44ce11.png",
-          "streams": {
-            "Auto": "http://104.160.15.54/lbengine/+ph/pVhOCwFmyq0HdodIboGgfZdup2m2UafPRHVYNCwwLQV__hi__nGzDjpsDrmLXlrDxc4Zj1QCKDM3iwh1ckP48EzlRP__hi__n5MbTXAFSK__hi__IuVzfIn1kZHoj9flCkO4P__ih__0FlNw__hi__zCYHv0SHWd6hroctSSEopNutD8in3R115hjX__ih__WM79EA8QrC5busw0F3__hi__gofdBMGPdfgVXtXHPh__ih__xPQ7VBqPtN__ih__eCWWpXvEo6uHeyW__hi__VpKGBwMKMtWTjgM2Hz4KHhyUXETa7Vljq__hi__N__ih__d__ih__IP7zJlh5KQyTdZ8UdUSW2Jbqqz60TTS8eAs=---/cache/Falcon-Eye-LB/master.m3u8"
-          },
-          "headers": {
-            "Referer": "https://kidntvs.com/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-          }
         }
       ]
     }
