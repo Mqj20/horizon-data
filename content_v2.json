@@ -1535,412 +1535,557 @@
       "packageLogo": "ضع الرابط هنا",
       "channels": [
         {
-          "name": "MBC GROUP",
+          "name": "MBC 1 HD",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164054.m3u8"
-          }
-        },
-        {
-          "name": "MBC 1",
-          "streams": {
-            "AR-4K": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164055.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215470.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABICHD/MBC1_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad75925075.jpg"
         },
         {
-          "name": "MBC 2",
+          "name": "MBC 2 HD",
           "streams": {
-            "AR-4K": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164056.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215471.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABICHD/MBC2_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad7caada74.jpg"
         },
         {
-          "name": "MBC 3",
+          "name": "MBC 3 HD",
           "streams": {
-            "AR-4K": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164057.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215472.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC3_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad7e28814b.jpg"
         },
         {
-          "name": "MBC 4",
+          "name": "MBC 4 HD",
           "streams": {
-            "AR-4K": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164058.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215473.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC4_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad7f3c7f4c.jpg"
         },
         {
-          "name": "MBC 5",
+          "name": "MBC 5 HD",
           "streams": {
-            "AR-4K": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164059.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215474.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_5.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad80d20f00.jpg"
         },
         {
-          "name": "MBC ACTION",
+          "name": "MBC Masr Drama",
           "streams": {
-            "AR-4K": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164060.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215498.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Action.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad838ceeab.jpg"
         },
         {
-          "name": "MBC DRAMA",
+          "name": "MBC DRAMA HD",
           "streams": {
-            "AR-4K": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164061.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215475.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Drama_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad838ceeab.jpg"
         },
         {
-          "name": "MBC MASR",
+          "name": "MBC ACTION HD",
           "streams": {
-            "AR-4K": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164062.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215476.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABEGYPT/MBC_MASR.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad826e3b4f.jpg"
         },
         {
-          "name": "MBC MASR 2",
+          "name": "MBC MASR 1 HD",
           "streams": {
-            "AR-4K": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164063.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215477.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABEGYPT/MBC_Masr_2.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad84caa46f.jpg"
         },
         {
-          "name": "MBC BOLLYWOOD",
+          "name": "MBC MASR 2 HD",
           "streams": {
-            "AR-4K": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164064.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215478.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Bollywood_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad85ea2ca4.jpg"
         },
         {
-          "name": "MBC MAX",
+          "name": "MBC IRAQ HD",
           "streams": {
-            "AR-4K": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164065.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215479.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Max_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad87613c03.jpg"
         },
         {
-          "name": "MBC IRAQ",
+          "name": "MBC DRAMA+ HD",
           "streams": {
-            "AR-4K": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164066.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215480.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABICHD/MBC_IRAQ_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad8894245f.jpg"
         },
         {
-          "name": "MBC DRAMA PLUS",
+          "name": "MBC Variety HD",
           "streams": {
-            "AR-4K": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164067.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215481.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC+_Drama_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad8d1acc73.jpg"
         },
         {
-          "name": "MBC 1 +6H",
+          "name": "MBC MAX HD",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/694385.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215482.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABICHD/MBC1_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad8a272a0a.jpg"
         },
         {
-          "name": "MBC 2 +6H",
+          "name": "MBC 1 FHD",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/694386.m3u8"
+            "FHD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215483.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABICHD/MBC2_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad75925075.jpg"
         },
         {
-          "name": "MBC 3 +6H",
+          "name": "MBC 2 FHD",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/694387.m3u8"
+            "FHD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215484.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC3_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad7caada74.jpg"
         },
         {
-          "name": "MBC 4 +6H",
+          "name": "MBC 3 FHD",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/694388.m3u8"
+            "FHD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215485.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC4_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad7e28814b.jpg"
         },
         {
-          "name": "MBC 5 +6H",
+          "name": "MBC 4 FHD",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/694389.m3u8"
+            "FHD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215486.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_5.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad7f3c7f4c.jpg"
         },
         {
-          "name": "MBC ACTION +6H",
+          "name": "MBC 5 FHD",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/694390.m3u8"
+            "FHD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215487.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Action.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad80d20f00.jpg"
         },
         {
-          "name": "MBC DRAMA +6H",
+          "name": "MBC DRAMA FHD",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/694391.m3u8"
+            "FHD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215488.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Drama_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad838ceeab.jpg"
         },
         {
-          "name": "MBC MASR +6H",
+          "name": "MBC ACTION FHD",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/694392.m3u8"
+            "FHD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215489.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABEGYPT/MBC_MASR.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad826e3b4f.jpg"
         },
         {
-          "name": "MBC MASR 2 +6H",
+          "name": "MBC MASR 1 FHD",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/694393.m3u8"
+            "FHD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215490.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABEGYPT/MBC_Masr_2.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad84caa46f.jpg"
         },
         {
-          "name": "MBC BOLLYWOOD +6H",
+          "name": "MBC MASR 2 FHD",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/694394.m3u8"
+            "FHD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215491.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Bollywood_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad85ea2ca4.jpg"
         },
         {
-          "name": "MBC MAX +6H",
+          "name": "MBC IRAQ FHD",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/694395.m3u8"
+            "FHD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215492.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Max_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad87613c03.jpg"
         },
         {
-          "name": "MBC IRAQ +6H",
+          "name": "MBC DRAMA+ FHD",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/694396.m3u8"
+            "FHD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215493.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABICHD/MBC_IRAQ_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad8894245f.jpg"
         },
         {
-          "name": "MBC DRAMA PLUS +6H",
+          "name": "MBC Variety FHD",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/694397.m3u8"
+            "FHD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215494.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC+_Drama_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/67dad8d1acc73.jpg"
         },
         {
-          "name": "MBC+ POWER",
+          "name": "MBC Bollywood FHD",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/694398.m3u8"
-          }
-        },
-        {
-          "name": "MBC+ POWER SPORT",
-          "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/694399.m3u8"
-          }
-        },
-        {
-          "name": "MBC ELIFE",
-          "streams": {
-            "AR-4K": "http://www.pandar.xyz:88/live/02055993605221/7650277062/167686.m3u8"
-          }
-        },
-        {
-          "name": "MBC 1",
-          "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164083.m3u8"
+            "FHD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215495.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABICHD/MBC1_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/68e1015438f13.jpg"
         },
         {
-          "name": "MBC 2",
+          "name": "MBC FM HD",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164084.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215496.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABICHD/MBC2_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b67500c53.jpg"
         },
         {
-          "name": "MBC 3",
+          "name": "MBC ELIFE HD",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164085.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215497.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC3_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b6a413bb3.jpg"
         },
         {
-          "name": "MBC 4",
+          "name": "Rotana Aflam +",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164086.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215500.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC4_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b6ebd12fc.jpg"
         },
         {
-          "name": "MBC 5",
+          "name": "Rotana M+",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164087.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215501.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_5.png"
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b700a320c.jpg"
         },
         {
-          "name": "MBC ACTION",
+          "name": "Rotana Kids",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164088.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215502.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Action.png"
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b715520eb.jpg"
         },
         {
-          "name": "MBC MAX",
+          "name": "Rotana +",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164089.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215503.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Max_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b73bc4764.jpg"
         },
         {
-          "name": "MBC DRAMA",
+          "name": "Rotana Cinema +US",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164090.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215504.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Drama_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b752a7960.jpg"
         },
         {
-          "name": "MBC BOLLYWOOD",
+          "name": "Rotana Cinema +FR",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164091.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215505.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Bollywood_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b752a7960.jpg"
         },
         {
-          "name": "MBC IRAQ",
+          "name": "Diseny",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164092.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215506.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABICHD/MBC_IRAQ_HD.png"
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b7713a001.jpg"
         },
         {
-          "name": "B4U PLUS",
+          "name": "Diseny Jr HD",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164095.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215507.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/"
+          "logo": "http://img.paliptv.com/logo/uploads/66f6bb0f45515.jpg"
         },
         {
-          "name": "ZEE ALWAN",
+          "name": "STC SPORT 1",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164096.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215508.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/ZEE_ALWAN.png"
+          "logo": "http://img.paliptv.com/logo/uploads/66f6baeba5c5d.jpg"
         },
         {
-          "name": "ZEE AFLAM",
+          "name": "STC SPORT 2",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164097.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215509.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABSAUDIA/ZEE_AFLAM.png"
+          "logo": "http://img.paliptv.com/logo/uploads/66f6baeba5c5d.jpg"
         },
         {
-          "name": "MBC MASR 2",
+          "name": "STC TV Cinema",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164098.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215510.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABEGYPT/MBC_Masr_2.png"
+          "logo": "http://img.paliptv.com/logo/uploads/66f6baeba5c5d.jpg"
         },
         {
-          "name": "MBC MASR",
+          "name": "Stc Kids",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/164099.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215511.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABEGYPT/MBC_MASR.png"
+          "logo": "http://img.paliptv.com/logo/uploads/66f6baeba5c5d.jpg"
         },
         {
-          "name": "MBC ONE",
+          "name": "STC Family",
           "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/195359.m3u8"
-          }
-        },
-        {
-          "name": "MBC TOW",
-          "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/195360.m3u8"
-          }
-        },
-        {
-          "name": "MBC SEVEN",
-          "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/195361.m3u8"
-          }
-        },
-        {
-          "name": "MBC EIGHT",
-          "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/195362.m3u8"
-          }
-        },
-        {
-          "name": "MBC NINE",
-          "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/195363.m3u8"
-          }
-        },
-        {
-          "name": "MBC TEN",
-          "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/195364.m3u8"
-          }
-        },
-        {
-          "name": "MBC PREMIUM",
-          "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/195365.m3u8"
-          }
-        },
-        {
-          "name": "MBC PREMIUM 2",
-          "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/195366.m3u8"
-          }
-        },
-        {
-          "name": "MBC MOVIES",
-          "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/195367.m3u8"
-          }
-        },
-        {
-          "name": "MBC POWER",
-          "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/195368.m3u8"
-          }
-        },
-        {
-          "name": "MBC PLUS",
-          "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/195369.m3u8"
-          }
-        },
-        {
-          "name": "MBC SYRIA",
-          "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/195370.m3u8"
-          }
-        },
-        {
-          "name": "MBC TURKI",
-          "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/195371.m3u8"
-          }
-        },
-        {
-          "name": "MBC ANIME",
-          "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/195372.m3u8"
-          }
-        },
-        {
-          "name": "MBC ZOOM",
-          "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/195373.m3u8"
-          }
-        },
-        {
-          "name": "MBC FM",
-          "streams": {
-            "AR": "http://www.pandar.xyz:88/live/02055993605221/7650277062/195374.m3u8"
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215512.m3u8"
           },
-          "logo": "http://vodkom.com/Logo/ARABICHD/mbcfm.png"
+          "logo": "http://img.paliptv.com/logo/uploads/66f6baeba5c5d.jpg"
+        },
+        {
+          "name": "STC Drama",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215513.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6baeba5c5d.jpg"
+        },
+        {
+          "name": "Reel PX Action",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215514.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6bace196c8.jpg"
+        },
+        {
+          "name": "Reel PX Family",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215515.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6bace196c8.jpg"
+        },
+        {
+          "name": "Reel PX UNLIMITED",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215516.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6bace196c8.jpg"
+        },
+        {
+          "name": "Nature Time",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215517.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6bab958fd9.jpg"
+        },
+        {
+          "name": "TIJI",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215518.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6baa80d256.jpg"
+        },
+        {
+          "name": "GULI BIL ARABIC",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215519.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6ba8fd4633.jpg"
+        },
+        {
+          "name": "FilmBox ART HOUSE",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215520.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6ba7a973fd.jpg"
+        },
+        {
+          "name": "Asili Wahasri",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215521.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6ba652694a.jpg"
+        },
+        {
+          "name": "FIGHT NETWORK",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215522.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6ba499d719.jpg"
+        },
+        {
+          "name": "FIGHT BOX",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215523.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6ba2e73ff3.jpg"
+        },
+        {
+          "name": "360 Tunebox",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215524.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b9fe32c57.jpg"
+        },
+        {
+          "name": "Top Gear",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215525.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b9df42a35.jpg"
+        },
+        {
+          "name": "TDC",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215526.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b9ce7bdb4.jpg"
+        },
+        {
+          "name": "ZooMoo",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215527.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b9883f75b.jpg"
+        },
+        {
+          "name": "Gametoon HD",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215528.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b972dedab.jpg"
+        },
+        {
+          "name": "Motorvision",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215529.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b95236a4f.jpg"
+        },
+        {
+          "name": "Thaqafeyyah",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215530.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b92628393.jpg"
+        },
+        {
+          "name": "TRACE URBAN HD",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215531.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b90c25e80.jpg"
+        },
+        {
+          "name": "TRACE Sport Stars",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215532.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b8f84f135.jpg"
+        },
+        {
+          "name": "Asharq Documentary",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215533.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b8dc90374.jpg"
+        },
+        {
+          "name": "AWE",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215534.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b8c4a3c1f.jpg"
+        },
+        {
+          "name": "Fashiontv",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215535.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b8b247795.jpg"
+        },
+        {
+          "name": "HORSE",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215536.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b89c3d95f.jpg"
+        },
+        {
+          "name": "Travel Xp",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215537.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b88b50d1f.jpg"
+        },
+        {
+          "name": "Insighttv",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215538.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b875ad092.jpg"
+        },
+        {
+          "name": "Duck",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215539.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b860058f5.jpg"
+        },
+        {
+          "name": "Thekhayal",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215540.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b84bae5a2.jpg"
+        },
+        {
+          "name": "DRAMA",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215541.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b8324b869.jpg"
+        },
+        {
+          "name": "StarzPlay Series",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215542.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b80ebb126.jpg"
+        },
+        {
+          "name": "StarzPlay Crime",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215543.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b80ebb126.jpg"
+        },
+        {
+          "name": "StarzPlay Comedy",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215544.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b80ebb126.jpg"
+        },
+        {
+          "name": "StarzPlay Action",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215545.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b80ebb126.jpg"
+        },
+        {
+          "name": "ADB",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215546.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b7f8e0a22.jpg"
+        },
+        {
+          "name": "24 SPORT KSA",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215547.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b7b9d9ee9.jpg"
+        },
+        {
+          "name": "Smart Zone",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215548.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b7aa950af.jpg"
+        },
+        {
+          "name": "Kidz Zone Max",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/215549.m3u8"
+          },
+          "logo": "http://img.paliptv.com/logo/uploads/66f6b797731e7.jpg"
         }
       ]
     }
