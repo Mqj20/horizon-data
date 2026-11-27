@@ -1543,6 +1543,48 @@
             "HD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/392244.m3u8"
           },
           "logo": "https://safiafamily.com/uploads/family/starzPlay/Starzplay_CRlife_2.png"
+        },
+        {
+          "name": "Bundesliga Shahid 1",
+          "logo": "http://img.paliptv.com/pic.israel/11/Bundesliga.png",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/217887.m3u8"
+          }
+        },
+        {
+          "name": "Bundesliga Shahid 2",
+          "logo": "http://img.paliptv.com/pic.israel/11/Bundesliga.png",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/217888.m3u8"
+          }
+        },
+        {
+          "name": "Bundesliga Shahid 3",
+          "logo": "http://img.paliptv.com/pic.israel/11/Bundesliga.png",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/217889.m3u8"
+          }
+        },
+        {
+          "name": "Bundesliga Shahid 4",
+          "logo": "http://img.paliptv.com/pic.israel/11/Bundesliga.png",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/217890.m3u8"
+          }
+        },
+        {
+          "name": "Bundesliga Shahid 5",
+          "logo": "http://img.paliptv.com/pic.israel/11/Bundesliga.png",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/217892.m3u8"
+          }
+        },
+        {
+          "name": "Bundesliga Shahid 6",
+          "logo": "http://img.paliptv.com/pic.israel/11/Bundesliga.png",
+          "streams": {
+            "HD": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/217893.m3u8"
+          }
         }
       ]
     },
