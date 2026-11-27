@@ -7,14 +7,14 @@
     "apkUrl": "",
     "notes": "",
     "com.horizon.tv": {
-      "version": 29929616,
-      "minVersion": 29929616,
+      "version": 29923095,
+      "minVersion": 29923095,
       "apkUrl": "https://github.com/Mqj20/horizon-releases/releases/download/latest/HorizonTV.apk",
       "notes": "نسخة جديدة جاهزة، ثبّتها للمتابعة."
     },
     "com.horizon.gt": {
-      "version": 29929717,
-      "minVersion": 29929717,
+      "version": 29928610,
+      "minVersion": 29928610,
       "apkUrl": "https://github.com/Mqj20/horizon-releases/releases/download/latest/HorizonGT.apk",
       "notes": "نسخة جديدة جاهزة، ثبّتها للمتابعة."
     }
@@ -2002,41 +2002,5 @@
     "username": "6470135317",
     "password": "2880249323"
   },
-  "xtreams": [
-    {
-      "name": "Xtream 2",
-      "enabled": true,
-      "url": "http://tvtop4k.pro:80",
-      "username": "3764794670624423",
-      "password": "9233587797762"
-    },
-    {
-      "name": "Xtream 3",
-      "enabled": true,
-      "url": "http://011011.net:80",
-      "username": "AY0026",
-      "password": "01289395555"
-    },
-    {
-      "name": "Xtream 4",
-      "enabled": true,
-      "url": "http://octopustv.xyz",
-      "username": "1886727672",
-      "password": "9698357522"
-    },
-    {
-      "name": "Xtream 5",
-      "enabled": true,
-      "url": "http://tvtop4k.pro:80",
-      "username": "7205112798",
-      "password": "1789005978"
-    },
-    {
-      "name": "Xtream 6",
-      "enabled": true,
-      "url": "http://mysql360.life:2095",
-      "username": "w2372",
-      "password": "507916199"
-    }
-  ]
+  "xtreams": []
 }
