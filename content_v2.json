@@ -1208,91 +1208,115 @@
     },
     {
       "name": "Kurd Sport",
-      "packageLogo": "ضع الرابط هنا",
-      "logo": "http://darlogo.xyz/Channels-Logo/Kurdistan/Kurdistan-Flag.png",
+      "packageLogo": "https://thumbs.dreamstime.com/b/flag-kurdistan-flag-kurdistan-illustration-grunge-style-154455977.jpg",
+      "logo": "https://thumbs.dreamstime.com/b/flag-kurdistan-flag-kurdistan-illustration-grunge-style-154455977.jpg",
       "channels": [
-        {
-          "name": "Kurdistan Sport",
-          "streams": {
-            "4K": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/74767.m3u8",
-            "HD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/398946.m3u8"
-          },
-          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/kurdistan_sport.png"
-        },
-        {
-          "name": "AVA Sport",
-          "streams": {
-            "4K": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/752032.m3u8",
-            "HD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/752031.m3u8"
-          },
-          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/AVA_Sport.png"
-        },
-        {
-          "name": "ASO Sport",
-          "streams": {
-            "4K": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/108471.m3u8",
-            "HD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/106144.m3u8"
-          },
-          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/Aso_Sport.png"
-        },
         {
           "name": "Reng Sport",
           "streams": {
-            "4K": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/108463.m3u8",
-            "HD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/106139.m3u8"
+            "FHD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667739&extension=m3u8&play_token=6kihUhqfhp",
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667728&extension=m3u8&play_token=N1tum4mvgb"
           },
-          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/Rang_Sport.png"
-        },
-        {
-          "name": "NRT Sport",
-          "streams": {
-            "4K": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/207166.m3u8",
-            "HD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/752090.m3u8"
-          },
-          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png"
-        },
-        {
-          "name": "Duhok Sport",
-          "streams": {
-            "4K": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/321358.m3u8",
-            "HD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/987104.m3u8"
-          },
-          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/Duhok_Sport.png"
-        },
-        {
-          "name": "Sima Sport",
-          "streams": {
-            "HD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/321395.m3u8"
-          },
-          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/Sima_Sport.png"
+          "logo": "https://thumbs.dreamstime.com/b/flag-kurdistan-flag-kurdistan-illustration-grunge-style-154455977.jpg"
         },
         {
           "name": "Dasinya Sport",
           "streams": {
-            "HD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/321354.m3u8"
+            "FHD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667735&extension=m3u8&play_token=iN8wvWwlQf",
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667803&extension=m3u8&play_token=o1vfdOC6oQ"
           },
-          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/Dasinya_Sport.png"
+          "logo": "https://thumbs.dreamstime.com/b/flag-kurdistan-flag-kurdistan-illustration-grunge-style-154455977.jpg"
         },
         {
-          "name": "MTV Sport",
+          "name": "ASO Sport",
           "streams": {
-            "HD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/717388.m3u8"
+            "FHD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667733&extension=m3u8&play_token=jBO1tWtMvf",
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667730&extension=m3u8&play_token=x1f8lEbrEB"
           },
-          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/M_Sport.png"
+          "logo": "https://thumbs.dreamstime.com/b/flag-kurdistan-flag-kurdistan-illustration-grunge-style-154455977.jpg"
+        },
+        {
+          "name": "AVA Sport",
+          "streams": {
+            "FHD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667734&extension=m3u8&play_token=BDad0F5RXQ",
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667726&extension=m3u8&play_token=miDJvutdME"
+          },
+          "logo": "https://thumbs.dreamstime.com/b/flag-kurdistan-flag-kurdistan-illustration-grunge-style-154455977.jpg"
+        },
+        {
+          "name": "Duhok Sport",
+          "streams": {
+            "FHD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667695&extension=m3u8&play_token=do0jvvbTg7",
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667696&extension=m3u8&play_token=565MXG0POK"
+          },
+          "logo": "https://thumbs.dreamstime.com/b/flag-kurdistan-flag-kurdistan-illustration-grunge-style-154455977.jpg"
+        },
+        {
+          "name": "Kurdistan Sport",
+          "streams": {
+            "FHD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667736&extension=m3u8&play_token=Lvu3KbQPj1",
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667729&extension=m3u8&play_token=Y5KPNnnsqH"
+          },
+          "logo": "https://thumbs.dreamstime.com/b/flag-kurdistan-flag-kurdistan-illustration-grunge-style-154455977.jpg"
         },
         {
           "name": "MMN Sport",
           "streams": {
-            "HD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/33300.m3u8"
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667732&extension=m3u8&play_token=t8pAtg61qk"
           },
-          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/MMN.png"
+          "logo": "https://thumbs.dreamstime.com/b/flag-kurdistan-flag-kurdistan-illustration-grunge-style-154455977.jpg"
+        },
+        {
+          "name": "MTV Sport",
+          "streams": {
+            "FHD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667737&extension=m3u8&play_token=uFLpMWOoKl",
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667824&extension=m3u8&play_token=PoxALtjJww"
+          },
+          "logo": "https://thumbs.dreamstime.com/b/flag-kurdistan-flag-kurdistan-illustration-grunge-style-154455977.jpg"
+        },
+        {
+          "name": "NRT Sport",
+          "streams": {
+            "FHD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667738&extension=m3u8&play_token=Mo5eK08FXN",
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667727&extension=m3u8&play_token=idPdOHy7vm"
+          },
+          "logo": "https://thumbs.dreamstime.com/b/flag-kurdistan-flag-kurdistan-illustration-grunge-style-154455977.jpg"
+        },
+        {
+          "name": "Sima Sport",
+          "streams": {
+            "FHD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667740&extension=m3u8&play_token=GsiYhiA63D",
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667837&extension=m3u8&play_token=OEHzPDNBjE"
+          },
+          "logo": "https://thumbs.dreamstime.com/b/flag-kurdistan-flag-kurdistan-illustration-grunge-style-154455977.jpg"
+        },
+        {
+          "name": "SPI Sports",
+          "streams": {
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667749&extension=m3u8&play_token=Y3MLfyVqw0"
+          },
+          "logo": "https://thumbs.dreamstime.com/b/flag-kurdistan-flag-kurdistan-illustration-grunge-style-154455977.jpg"
         },
         {
           "name": "Zaxo Sport",
           "streams": {
-            "HD": "http://familysmarttv.com:8080/live/36166307747410/35868825286763/427838.m3u8"
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667731&extension=m3u8&play_token=NrAKsiwAZB"
           },
-          "logo": "https://safiafamily.com/uploads/family/kurdish_sport/ZAXO_Sport.png"
+          "logo": "https://thumbs.dreamstime.com/b/flag-kurdistan-flag-kurdistan-illustration-grunge-style-154455977.jpg"
+        },
+        {
+          "name": "BASK+",
+          "streams": {
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667754&extension=m3u8&play_token=diW2zD3Ran"
+          },
+          "logo": "https://thumbs.dreamstime.com/b/flag-kurdistan-flag-kurdistan-illustration-grunge-style-154455977.jpg"
+        },
+        {
+          "name": "BASK",
+          "streams": {
+            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1667753&extension=m3u8&play_token=HEEw7AgqMw"
+          },
+          "logo": "https://thumbs.dreamstime.com/b/flag-kurdistan-flag-kurdistan-illustration-grunge-style-154455977.jpg"
         }
       ]
     },
@@ -1421,36 +1445,63 @@
       ]
     },
     {
-      "name": "Thmanayh",
-      "packageLogo": "ضع الرابط هنا",
+      "name": "Thmanyah",
+      "packageLogo": "https://assets-news.asharq.com/images/articles/416x312/4-3/0K7mkuD066_1705471397.jpg",
       "channels": [
         {
-          "name": "Thmanyah Sports 1",
-          "logo": "https://company.thmanyah.com/wp-content/uploads/2023/12/thmanyah-black.png",
+          "name": "Thmanyah 1",
+          "logo": "https://assets-news.asharq.com/images/articles/416x312/4-3/0K7mkuD066_1705471397.jpg",
           "streams": {
-            "FHD": "http://asmr4k.world:8080/live/15208513246/050606021009/1009821.m3u8",
-            "KSA A": "http://asmr4k.world:8080/live/15208513246/050606021009/1112501.m3u8",
-            "KSA B": "http://asmr4k.world:8080/live/15208513246/050606021009/1112502.m3u8",
-            "KSA C": "http://asmr4k.world:8080/live/15208513246/050606021009/1112503.m3u8"
+            "720": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/217882.m3u8",
+            "1080": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/217879.m3u8"
           }
         },
         {
-          "name": "Thmanyah Sports 2",
-          "logo": "https://company.thmanyah.com/wp-content/uploads/2023/12/thmanyah-black.png",
+          "name": "Thmanyah 2",
+          "logo": "https://assets-news.asharq.com/images/articles/416x312/4-3/0K7mkuD066_1705471397.jpg",
           "streams": {
-            "FHD": "http://asmr4k.world:8080/live/15208513246/050606021009/1009820.m3u8",
-            "KSA A": "http://asmr4k.world:8080/live/15208513246/050606021009/1112504.m3u8",
-            "KSA B": "http://asmr4k.world:8080/live/15208513246/050606021009/1112505.m3u8",
-            "KSA C": "http://asmr4k.world:8080/live/15208513246/050606021009/1112506.m3u8"
+            "720": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/217883.m3u8",
+            "1080": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/217880.m3u8"
           }
         },
         {
-          "name": "Thmanyah Sports 3",
-          "logo": "https://company.thmanyah.com/wp-content/uploads/2023/12/thmanyah-black.png",
+          "name": "Thmanyah 3",
+          "logo": "https://assets-news.asharq.com/images/articles/416x312/4-3/0K7mkuD066_1705471397.jpg",
           "streams": {
-            "KSA A": "http://asmr4k.world:8080/live/15208513246/050606021009/1112507.m3u8",
-            "KSA B": "http://asmr4k.world:8080/live/15208513246/050606021009/1112508.m3u8",
-            "KSA C": "http://asmr4k.world:8080/live/15208513246/050606021009/1112509.m3u8"
+            "720": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/217884.m3u8",
+            "1080": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/217881.m3u8"
+          }
+        },
+        {
+          "name": "Thmanyah 4",
+          "logo": "https://assets-news.asharq.com/images/articles/416x312/4-3/0K7mkuD066_1705471397.jpg",
+          "streams": {
+            "720": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/240708.m3u8",
+            "1080": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/240712.m3u8"
+          }
+        },
+        {
+          "name": "Thmanyah 5",
+          "logo": "https://assets-news.asharq.com/images/articles/416x312/4-3/0K7mkuD066_1705471397.jpg",
+          "streams": {
+            "720": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/240709.m3u8",
+            "1080": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/240713.m3u8"
+          }
+        },
+        {
+          "name": "Thmanyah 6",
+          "logo": "https://assets-news.asharq.com/images/articles/416x312/4-3/0K7mkuD066_1705471397.jpg",
+          "streams": {
+            "720": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/240710.m3u8",
+            "1080": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/240714.m3u8"
+          }
+        },
+        {
+          "name": "Thmanyah 7",
+          "logo": "https://assets-news.asharq.com/images/articles/416x312/4-3/0K7mkuD066_1705471397.jpg",
+          "streams": {
+            "720": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/240711.m3u8",
+            "1080": "http://paliptv.com/live/MnlzW7tnTE6X5YU/RP1dM9CIPi1/240715.m3u8"
           }
         }
       ]
