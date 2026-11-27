@@ -546,59 +546,75 @@
       "packageLogo": "ضع الرابط هنا",
       "channels": [
         {
-          "name": "TOD",
-          "logo": "https://lo1.in/bss/bsS1.png",
+          "name": "TOD 1",
+          "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
-            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1744951&extension=m3u8&play_token=hxsDgbLQFj"
+            "HD": "https://ak-group.site/stream/tod-sport-resolver.php?id=ms1&k=117463"
+          },
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://player.majedfiles.site/",
+            "Origin": "https://player.majedfiles.site"
           }
         },
         {
-          "name": "TOD",
-          "logo": "https://lo1.in/bss/bsS1.png",
+          "name": "TOD 2",
+          "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
-            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1744952&extension=m3u8&play_token=4jshxrpwhD"
+            "HD": "https://ak-group.site/stream/tod-sport-resolver.php?id=ms2&k=117463"
+          },
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://player.majedfiles.site/",
+            "Origin": "https://player.majedfiles.site"
           }
         },
         {
-          "name": "TOD",
-          "logo": "https://lo1.in/bss/bsS1.png",
+          "name": "TOD 3",
+          "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
-            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1744953&extension=m3u8&play_token=coq0abyUI1"
+            "HD": "https://ak-group.site/stream/tod-sport-resolver.php?id=ms3&k=117463"
+          },
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://player.majedfiles.site/",
+            "Origin": "https://player.majedfiles.site"
           }
         },
         {
-          "name": "TOD",
-          "logo": "https://lo1.in/bss/bsS1.png",
+          "name": "TOD 4",
+          "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
-            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1744954&extension=m3u8&play_token=6l8lLRn5wR"
+            "HD": "https://ak-group.site/stream/tod-sport-resolver.php?id=ms4&k=117463"
+          },
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://player.majedfiles.site/",
+            "Origin": "https://player.majedfiles.site"
           }
         },
         {
-          "name": "TOD",
-          "logo": "https://lo1.in/bss/bsS1.png",
+          "name": "TOD 5",
+          "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
-            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1744955&extension=m3u8&play_token=UdPGbPtUYZ"
+            "HD": "https://ak-group.site/stream/tod-sport-resolver.php?id=ms5&k=117463"
+          },
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://player.majedfiles.site/",
+            "Origin": "https://player.majedfiles.site"
           }
         },
         {
-          "name": "TOD",
-          "logo": "https://lo1.in/bss/bsS1.png",
+          "name": "TOD 6",
+          "logo": "https://i.imgur.com/J9JKIxK.png",
           "streams": {
-            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1744956&extension=m3u8&play_token=Gxv7KOHxDv"
-          }
-        },
-        {
-          "name": "TOD",
-          "logo": "https://lo1.in/bss/bsS1.png",
-          "streams": {
-            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1744958&extension=m3u8&play_token=vKPzUp7gWd"
-          }
-        },
-        {
-          "name": "TOD",
-          "logo": "https://lo1.in/bss/bsS1.png",
-          "streams": {
-            "HD": "http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=1744959&extension=m3u8&play_token=Q87llFk1dF"
+            "HD": "https://ak-group.site/stream/tod-sport-resolver.php?id=ms6&k=117463"
+          },
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://player.majedfiles.site/",
+            "Origin": "https://player.majedfiles.site"
           }
         }
       ]
