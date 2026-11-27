@@ -1409,27 +1409,32 @@
       "packageLogo": "ضع الرابط هنا",
       "channels": [
         {
-          "name": "Thmanayh 1",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjudV-cCDVatlYdd5Qjnucw7OQyNWPm3UIEZYisin4Ix3tGDQABpddGr7Sg1vtME3ubADCtI1JRnCx-3jiwgG1Ehp2Ewj66y5iU_fZDfKhL89JtG1IQiwdMYRrSsv2p7L0C7u7XqubRq1m_yZ81Bmec3KaAtG0XJG0A50pCGo8P5SIFL6wEw9P-63oFHf4x/s400/THMANYAMINE.png",
+          "name": "Thmanyah Sports 1",
+          "logo": "https://company.thmanyah.com/wp-content/uploads/2023/12/thmanyah-black.png",
           "streams": {
-            "4K": "http://megatv.shop:2052/live/36750623403240/14750722182138/646086.ts",
-            "HD": "http://megatv.shop:2052/live/36750623403240/14750722182138/646089.ts"
+            "FHD": "http://asmr4k.world:8080/live/15208513246/050606021009/1009821.m3u8",
+            "KSA A": "http://asmr4k.world:8080/live/15208513246/050606021009/1112501.m3u8",
+            "KSA B": "http://asmr4k.world:8080/live/15208513246/050606021009/1112502.m3u8",
+            "KSA C": "http://asmr4k.world:8080/live/15208513246/050606021009/1112503.m3u8"
           }
         },
         {
-          "name": "Thmanayh 2",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjudV-cCDVatlYdd5Qjnucw7OQyNWPm3UIEZYisin4Ix3tGDQABpddGr7Sg1vtME3ubADCtI1JRnCx-3jiwgG1Ehp2Ewj66y5iU_fZDfKhL89JtG1IQiwdMYRrSsv2p7L0C7u7XqubRq1m_yZ81Bmec3KaAtG0XJG0A50pCGo8P5SIFL6wEw9P-63oFHf4x/s400/THMANYAMINE.png",
+          "name": "Thmanyah Sports 2",
+          "logo": "https://company.thmanyah.com/wp-content/uploads/2023/12/thmanyah-black.png",
           "streams": {
-            "4K": "http://megatv.shop:2052/live/36750623403240/14750722182138/646087.ts",
-            "HD": "http://megatv.shop:2052/live/36750623403240/14750722182138/646090.ts"
+            "FHD": "http://asmr4k.world:8080/live/15208513246/050606021009/1009820.m3u8",
+            "KSA A": "http://asmr4k.world:8080/live/15208513246/050606021009/1112504.m3u8",
+            "KSA B": "http://asmr4k.world:8080/live/15208513246/050606021009/1112505.m3u8",
+            "KSA C": "http://asmr4k.world:8080/live/15208513246/050606021009/1112506.m3u8"
           }
         },
         {
-          "name": "Thmanayh 3",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjudV-cCDVatlYdd5Qjnucw7OQyNWPm3UIEZYisin4Ix3tGDQABpddGr7Sg1vtME3ubADCtI1JRnCx-3jiwgG1Ehp2Ewj66y5iU_fZDfKhL89JtG1IQiwdMYRrSsv2p7L0C7u7XqubRq1m_yZ81Bmec3KaAtG0XJG0A50pCGo8P5SIFL6wEw9P-63oFHf4x/s400/THMANYAMINE.png",
+          "name": "Thmanyah Sports 3",
+          "logo": "https://company.thmanyah.com/wp-content/uploads/2023/12/thmanyah-black.png",
           "streams": {
-            "4K": "http://megatv.shop:2052/live/36750623403240/14750722182138/646088.ts",
-            "HD": "http://megatv.shop:2052/live/36750623403240/14750722182138/646091.ts"
+            "KSA A": "http://asmr4k.world:8080/live/15208513246/050606021009/1112507.m3u8",
+            "KSA B": "http://asmr4k.world:8080/live/15208513246/050606021009/1112508.m3u8",
+            "KSA C": "http://asmr4k.world:8080/live/15208513246/050606021009/1112509.m3u8"
           }
         }
       ]
